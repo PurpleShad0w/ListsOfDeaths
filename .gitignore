@@ -1,2 +1,6 @@
 # cache
 __pycache__
+
+# outputs
+graphs
+kill_counts
