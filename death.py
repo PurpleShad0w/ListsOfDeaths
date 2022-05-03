@@ -13,22 +13,25 @@ os.chdir(os.path.dirname(sys.argv[0]))
 
 def murder_graph(df):
     # Classify the data
-    sources, targets, status = df['Killer'], df['Victim'], df['Status']
+    sources, targets, status, cause = df['Killer'], df['Victim'], df['Status'], df['Cause']
 
     # Create an empty network
     net = Network(height="100%", width="100%", bgcolor="#111111", font_color="pink", directed=True)
 
     # Compile edge data
-    edge_data = zip(sources, targets, status)
+    edge_data = zip(sources, targets, status, cause)
 
     # Create nodes and edges
-    for src, dst, status in edge_data:
+    for src, dst, status, cause in edge_data:
+
         # Change color of nodes based on status
         if status == 'Alive':
             color = 'green'
         if status == 'Deceased':
             color = 'crimson'
+
         new_dst = dst
+
         # Check for numbered characters
         if any(char.isdigit() for char in dst):
             number = [char for char in dst if char.isdigit()]
@@ -37,11 +40,18 @@ def murder_graph(df):
                 new_dst = str(number)+' person'
             else:
                 new_dst = str(number)+' people'
+        
         # Add nodes and edges
         net.add_node(src, src, title=src, color=color)
         net.add_node(dst, new_dst, title=dst, color='crimson')
-        net.add_edge(src, dst)
+        net.add_edge(src, dst, title=cause, color='purple')
     
+    # Prevent edge color overlap
+    net.inherit_edge_colors(False)
+
+    # Set smooth edges
+    net.set_edge_smooth('dynamic')
+
     # Output the graph
     return(net)
 
