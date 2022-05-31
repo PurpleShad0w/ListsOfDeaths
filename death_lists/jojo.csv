@@ -1,5 +1,6 @@
 Victim,Killer,Cause
 1 Executed Zombie killed by Jonathan Joestar,Jonathan Joestar,Head sliced open
+1 Tourist Killed by C-Moon,Enrico Pucci,Ripped apart
 1 Vagrant killed by Dio Brando,Dio Brando,Stabbed to death
 1 Vagrant killed by the Sun,Sun,Vaporized
 1 Zombie Knight killed by Jonathan Joestar,Jonathan Joestar,Beheaded
@@ -7,23 +8,32 @@ Victim,Killer,Cause
 2 Drug Dealers killed by Bruno Bucciarati,Bruno Bucciarati,Stabbed to death
 2 Executed Zombies killed by Dio Brando,Dio Brando,Various
 2 Friends of Chaka's Father killed by Chaka,Chaka,Stabbed to death
+2 Missing Prisoners killed by Foo Fighters,Foo Fighters,Consumed
 2 Natural Resources Workers,Natural Causes,Disease
 2 Speedwagon Foundation Pilots killed by N'Doul,N'Doul,Head torn off
 2 SPW Excavators killed by Straizo,Straizo,Unknown
 2 Straizo's Disciples killed by Straizo,Straizo,Unknown
 2 Toko's Bullies killed by Tarkus,Tarkus,Crushed to death
 24 Stroheim's Prisoners killed by Rudol von Stroheim,Rudol von Stroheim,Unknown
+34 Kenzou's Cultists killed by Kenzou,Kenzou,Burned to death
 4 Drunkards killed by Cioccolata,Cioccolata,Consumed by mold
+4 People Affected by Made In Heaven,Enrico Pucci,Various
 4 Santana's Nazi Victims,Santana,Shot to death
 4 Zombie Knights killed by Will Anthonio Zeppeli,Will Anthonio Zeppeli,Vaporized
+6 Hikers killed by Survivor,Mountain Lodger,Various
 7 members of Captain Tennille's Crew killed by Forever,Forever,Various
 9 Wamuu's Nazi Victims,Wamuu,Life force drained
 Abbacchio's Partner,Blackmailing Criminal,Shot to death
 Adams,Jonathan Joestar,Tongue ripped out and head crushed
+Anasui's Former Girlfriend,Narciso Anasui,Dismembered
+Anasui's Former Girlfriend's Lover,Narciso Anasui,Dismembered
 Arnold,Yoshikage Kira,Throat slit
+Atroe,Foo Fighters,Caught in an explosion
 Aya Tsuji,Yoshikage Kira,Exploded
 Aztec Tribe Mate,Aztec Chief,Blood drained
+Black-Haired Prisoner,Foo Fighters,Consumed
 Bornnam,Straizo,Vaporized
+Brainwashed Courtyard Guard,Weather Report,Poisoned
 Bruford,Executioner,Beheaded
 Bruford,Jonathan Joestar,Vaporized
 Bruno Bucciarati,Diavolo,Punched through the abdomen
@@ -33,17 +43,18 @@ Bulldog,Anjuro Katagiri,Nose bitten off
 Caesar Anthonio Zeppeli,Wamuu,Crushed under a rock
 Cairo Pedestrians,Wilson Phillips,Ran over by a car
 Captain Tennille,Impostor Captain Tennille,Unknown
-Caravan Serai,Unknown,Unknown
+Caravan Serai,Unknown Causes,Unknown
 Carne,Guido Mista,Shot to death
-Carriage Driver,Unknown,Impaled on a wooden debris
+Carriage Driver,Accidental Causes,Impaled on a wooden debris
 Chaka's Father,Chaka,Sliced to death
 Cheap Trick,Malicious spirits of Ghost Girl's Alley,Dragged into hell
 Chibi,Pet Shop,Beheaded
 Chimera Zombie,Dio Brando,Stomped to death
 Cioccolata,Giorno Giovanna,Every bone shattered
+D an G,Foo Fighters,Decapitated
 Danny,Dio Brando,Burned to death
 Dario Brando,Dio Brando,Poisoned
-Darnley,Unknown,Caught in an explosion
+Darnley,Unknown Causes,Caught in an explosion
 Devo the Cursed,Jean Pierre Polnareff,Stabbed multiple times until death
 Diavolo,Giorno Giovanna,Various
 Diavolo's Foster Father,Diavolo,Burned to death
@@ -52,26 +63,37 @@ Dio Brando's Mother,Dario Brando,Unknown
 Dire,Dio Brando,Frozen and shattered to pieces
 Dog Owner,Anjuro Katagiri,Internal bleeding
 Donatella Una,Natural Causes,Disease
+Donatello Versus,Narciso Anasui,Head impaled
 Doobie,Jonathan Joestar,Vaporized
 Elizabeth's Mother,Unnamed zombie,Struck with an axe
+Emporio's Mother,Enrico Pucci,Unknown
+Enrico Pucci,Emporio Alnino,Head obliterated
 Enya the Hag,Steely Dan,Internal wounds
 Erina Pendleton,Natural Causes,Died of old age
+Ermes Costello,Enrico Pucci,Arms cut off then bled out
 Esidisi,Caesar Anthonio Zeppeli,Vaporized
 Executioner,Bruford,Flesh torn away
 Father Styx,Dio Brando,Shot in the head
+Foo Fighters,Enrico Pucci,Head split open then bled out
 Formaggio,Narancia Ghirga,Shot to death
 Gelato,Gelato,Suffocated to death
 George Joestar I,Dio Brando,Stabbed to death
 George Joestar II,Superior Officer Zombie,Unknown
 Ghiaccio,Giorno Giovanna,Impaled through the neck
+Gloria Costello,Sports Maxx,Unknown
 Gray Fly,Noriaki Kakyoin,Fatally wounded via Stand destruction
+Guccio,Narciso Anasui,Ribs expelled from chest
+Hitchhiker,Johngalli A.,Drowned to death
 Iggy,Vanilla Ice,Fatal internal wounds
 Illuso,Pannacotta Fugo,Roted from the inside
 Jack the Ripper,Jonathan Joestar,Vaporized
 Jack the Ripper's Date,Jack the Ripper,Neck sliced
 Jean Pierre Polnareff,Diavolo,Punched through the abdomen
+Johngalli A.,Enrico Pucci,Shot in the head
+Jolyne Cujoh,Enrico Pucci,Fatally wounded via Stand destruction
 Jonathan Joestar,Dio Brando,Shot in the throat then bled out
 Jones,Straizo,Vaporized
+Jotaro Kujo,Enrico Pucci,Face sliced open
 J. Geil,Jean Pierre Polnareff,Stabbed to death
 Kars's Double,Lisa Lisa,Vaporized
 Kazuko Sugimoto,Yoshikage Kira,Unknown
@@ -81,11 +103,11 @@ Leone Abbacchio,Diavolo,Punched through the abdomen
 Loggins,Esidisi,Impaled
 Luca,Passione,Unknown
 Maiden,Aztec Chief,Stabbed in the heart
-Manga Artist,Unknown,Impaled through the neck
+Manga Artist,Accidental Causes,Impaled through the neck
 Marble Store Clerk,Dio Brando,Blood drained
 Mario Zeppeli,Pillar Men,Eaten alive
 Mark,Caesar Anthonio Zeppeli,Heart stopped
-Mary Joestar,Unknown,Carriage accident
+Mary Joestar,Accidental Causes,Carriage accident
 Mary Stuart,Executioner,Beheaded
 Masazo Kinoto,Cheap Trick,Back ripped open
 Mela Ghirga,Natural Causes,Eye infection
@@ -94,10 +116,12 @@ Minako Okura,Yoshikage Kira,Exploded
 Mother of Baby,Dio Brando,Blood drained
 Muhammad Avdol,Vanilla Ice,Disintegrated
 Mukade Shopkeeper,Yoshikage Kira,Caught in an explosion
-Mummy,Unknown,Unknown
+Mummy,Unknown Causes,Unknown
 Narancia Ghirga,Diavolo,Impaled on an iron gate
+Narciso Anasui,Enrico Pucci,Impaled in the chest
 Nazi Officer,Wamuu,Life force drained
 Nena,Joseph Joestar,Fatally wounded via Stand destruction
+Nice Tourist,Enrico Pucci,Impaled on a fence
 Nijimura's mother,Natural Causes,Disease
 Noriaki Kakyoin,Dio Brando,Punched through the abdomen
 Not Bug-Eaten,Josuke Higashikata,Shot to death
@@ -106,21 +130,25 @@ Old Janitor,Polpo,Stabbed in the head
 Page,Straizo,Vaporized
 Paolo Bucciarati,2 Drug Dealers killed by Bruno Bucciarati,Complications following bullet wounds
 Pericolo,Pericolo,Shot in the head
+Perla Pucci,Perla Pucci,Jumped off a cliff
 Pesci,Bruno Bucciarati,Ripped into pieces
 Pet Shop,Iggy,Head exploded
 Pillar Men Clan,Kars,Various
+Pi-chan,Gwess,Limbs torn off
 Plant,Straizo,Vaporized
 Pocky,Rubber Soul,Beheaded
 Police Zombie,Jonathan Joestar,Head poked with a spear
 Polpo,Giorno Giovanna,Shot in the head
 Prosciutto,Bruno Bucciarati,Ran over by a train then bled out
+Prostitute Prisoner,Sports Maxx,Eaten alive
+Racist Detective,Weather Report,Shot in the head
 Reimi Sugimoto,Yoshikage Kira,Stabbed in the back
 Rio's Neighbor,Yoshikage Kira,Exploded
 Ripple Clan,Pillar Men,Various
 Risotto Nero,Narancia Ghirga,Shot to death
 Robber's Girlfriend,Anjuro Katagiri,Unknown
 Robert E. O. Speedwagon,Natural Causes,Heart attack
-Rudol von Stroheim,Unknown,Unknown
+Rudol von Stroheim,Soviet Soldiers,Unknown
 Ryohei Higashikata,Anjuro Katagiri,Internal bleeding
 Santana's Body Host,Santana,Ripped apart from the inside
 Sardinian Fortune Teller,Diavolo,Punched through the abdomen
@@ -128,10 +156,13 @@ Satoru Nakae,Yoshikage Kira,Exploded
 Scolippi's Girlfriend,Scolippi's Girlfriend,Jumped off a roof
 Scotland Yard Inspector,Dio Brando,Head torn off
 Secco,Bruno Bucciarati,Crushed to death
+Shaved-Head Prisoner,Foo Fighters,Consumed
 Sherry Polnareff,J. Geil,Unknown
 Shigekiyo Yangu,Yoshikage Kira,Exploded
 Singapore Hotel Valet,Devo the Cursed,Face sliced off
 Sorbet,Cioccolata,Sliced into pieces
+Sports Maxx,Ermes Costello,Beaten to death
+Sports Maxx,Ermes Costello,Suffocated to death
 Squalo,Narancia Ghirga,Shot to death
 Straizo,Straizo,Vaporized
 Superior Officer Zombie,Lisa Lisa,Vaporized
@@ -139,7 +170,9 @@ Takashi Sugimoto,Yoshikage Kira,Unknown
 Tama,Shinobu Kawajiri,Impaled on broken glass
 Tarkus,Executioner,Beheaded
 Tarkus,Jonathan Joestar,Vaporized
+The Green Baby,Enrico Pucci,Consumed
 Tiziano,Narancia Ghirga,Shot to death
+Ultra Security House Unit Prisoners,Guccio,Various
 Vampire Prisoner,Santana,Absorbed
 Vanilla Ice,Jean Pierre Polnareff,Vaporized
 Varanasi Doctor,Nena,Face torn with a scalpel
@@ -147,6 +180,8 @@ Vinegar Doppio,Guido Mista,Shot to death
 Wamuu,Joseph Joestar,Vaporized
 Wang Chan,Jonathan Joestar,Head crushed and vaporized
 Wealthy Beggar,Pet Shop,Crushed to death
+Weather Report,Enrico Pucci,Punched through the abdomen
+Wes Bluemarine,Natural Causes,Unknown
 Will Anthonio Zeppeli,Tarkus,Sliced in half
 Will's Father,Sun,Vaporized
 Wilson Phillips,Dio Brando,Thrown at a moving truck

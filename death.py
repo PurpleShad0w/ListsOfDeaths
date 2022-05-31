@@ -14,7 +14,7 @@ def murder_graph(df):
     sources, targets, cause = df['Killer'], df['Victim'], df['Cause']
 
     # Create an empty network
-    net = Network(height="100%", width="100%", bgcolor="#111111", font_color="pink", directed=True)
+    net = Network(height="100%", width="100%", bgcolor="#111111", font_color="#e8ac87", directed=True)
 
     # Compile edge data
     edge_data = zip(sources, targets, cause)
@@ -52,7 +52,7 @@ def murder_graph(df):
         # Add nodes and edges
         net.add_node(src, label=new_src, title=src, color=color)
         net.add_node(dst, label=new_dst, title=dst, color='crimson')
-        net.add_edge(src, dst, title=cause, color='purple')
+        net.add_edge(src, dst, title=cause, color='#eb73b7')
     
     # Prevent edge color overlap
     net.inherit_edge_colors(False)
