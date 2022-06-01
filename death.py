@@ -86,3 +86,77 @@ def kill_count(df):
 
     # Output the data
     return(kills)
+
+
+def kill_count_total(arr):
+    # Initiate dataframe
+    kills = pd.DataFrame({'Killer':0,'Kills':0},index=(0,1))
+
+    # Attribute kills to each killer
+    for df in arr:
+        for i in range(len(df)):
+            victim = df.loc[i,'Victim']
+            if any(char.isdigit() for char in victim):
+                number = [char for char in victim if char.isdigit()]
+                number = int(''.join(map(str,number)))
+            else:
+                number = 1
+            s = {'Killer':df.loc[i,'Killer'],'Kills':number}
+            kills = kills.append(s,ignore_index=True)
+    
+    # Clean and sort dataframe
+    kills = kills[kills['Kills'] != 0]
+    kills = kills.groupby('Killer').sum()
+    kills = kills.sort_values(by='Kills',ascending=False)
+
+    # Output the data
+    return(kills)
+
+
+def cause_count(df):
+    # Initiate dataframe
+    causes = pd.DataFrame({'Cause':0,'Deaths':0},index=(0,1))
+
+    # Attribute deaths to each cause
+    for i in range(len(df)):
+        victim = df.loc[i,'Victim']
+        if any(char.isdigit() for char in victim):
+            number = [char for char in victim if char.isdigit()]
+            number = int(''.join(map(str,number)))
+        else:
+            number = 1
+        s = {'Cause':df.loc[i,'Cause'],'Deaths':number}
+        causes = causes.append(s,ignore_index=True)
+    
+    # Clean and sort dataframe
+    causes = causes[causes['Deaths'] != 0]
+    causes = causes.groupby('Cause').sum()
+    causes = causes.sort_values(by='Deaths',ascending=False)
+
+    # Output the data
+    return(causes)
+
+
+def cause_count_total(arr):
+    # Initiate dataframe
+    causes = pd.DataFrame({'Cause':0,'Deaths':0},index=(0,1))
+
+    # Attribute deaths to each cause
+    for df in arr:
+        for i in range(len(df)):
+            victim = df.loc[i,'Victim']
+            if any(char.isdigit() for char in victim):
+                number = [char for char in victim if char.isdigit()]
+                number = int(''.join(map(str,number)))
+            else:
+                number = 1
+            s = {'Cause':df.loc[i,'Cause'],'Deaths':number}
+            causes = causes.append(s,ignore_index=True)
+    
+    # Clean and sort dataframe
+    causes = causes[causes['Deaths'] != 0]
+    causes = causes.groupby('Cause').sum()
+    causes = causes.sort_values(by='Deaths',ascending=False)
+
+    # Output the data
+    return(causes)
