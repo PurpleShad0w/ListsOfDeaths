@@ -88,12 +88,17 @@ def kill_count(df):
     return(kills)
 
 
-def kill_count_total(arr):
+def kill_count_total(arr,names):
     # Initiate dataframe
-    kills = pd.DataFrame({'Killer':0,'Kills':0},index=(0,1))
+    kills = pd.DataFrame({'Universe':0,'Killer':0,'Kills':0},index=(0,1))
+    n = 0
 
     # Attribute kills to each killer
     for df in arr:
+        universe = names[n]
+        universe = universe.replace('_',' ')
+        universe = universe.title()
+        n+=1
         for i in range(len(df)):
             victim = df.loc[i,'Victim']
             if any(char.isdigit() for char in victim):
@@ -101,12 +106,12 @@ def kill_count_total(arr):
                 number = int(''.join(map(str,number)))
             else:
                 number = 1
-            s = {'Killer':df.loc[i,'Killer'],'Kills':number}
+            s = {'Universe':universe,'Killer':df.loc[i,'Killer'],'Kills':number}
             kills = kills.append(s,ignore_index=True)
     
     # Clean and sort dataframe
     kills = kills[kills['Kills'] != 0]
-    kills = kills.groupby('Killer').sum()
+    kills = kills.groupby([kills['Universe'],kills['Killer']]).sum()
     kills = kills.sort_values(by='Kills',ascending=False)
 
     # Output the data

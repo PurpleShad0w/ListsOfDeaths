@@ -32,7 +32,8 @@ kill_count(jojos_bizarre_adventure).to_csv('kill_counts/jojos_bizarre_adventure_
 kill_count(demon_slayer).to_csv('kill_counts/demon_slayer_top_killers.csv')
 
 # Create kill counts total
-kill_count_total([attack_on_titan,jojos_bizarre_adventure,demon_slayer]).to_csv('kill_counts/top_killers.csv')
+kill_count_total([attack_on_titan,jojos_bizarre_adventure,demon_slayer],
+    ['attack_on_titan','jojos_bizarre_adventure','demon_slayer']).to_csv('kill_counts/top_killers.csv')
 
 # Create cause counts
 cause_count(attack_on_titan).to_csv('cause_counts/attack_on_titan_top_causes.csv')
