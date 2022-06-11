@@ -7,6 +7,7 @@ from death import kill_count
 from death import kill_count_total
 from death import cause_count
 from death import cause_count_total
+from death import death_list_combiner
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
@@ -42,3 +43,7 @@ cause_count(demon_slayer).to_csv('cause_counts/demon_slayer_top_causes.csv')
 
 # Create cause counts total
 cause_count_total([attack_on_titan,jojos_bizarre_adventure,demon_slayer]).to_csv('cause_counts/top_causes.csv')
+
+# Combine death lists
+death_list_combiner([attack_on_titan,jojos_bizarre_adventure,demon_slayer],
+    ['attack_on_titan','jojos_bizarre_adventure','demon_slayer']).to_csv('death_lists/death_list.csv')
