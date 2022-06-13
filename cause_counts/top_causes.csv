@@ -1,4 +1,5 @@
 Cause,Deaths
+Dehydration,1526
 Various,309
 Unknown,69
 Burned to death,37
@@ -8,62 +9,64 @@ Decapitated,22
 Vaporized,21
 Crushed to death,17
 Shot in the head,13
+Stabbed to death,13
 Life force drained,10
-Stabbed to death,10
 Nape sliced,10
 Caught in an explosion,10
 Struck by a rock at high velocity,8
 Beheaded,7
-Consumed,6
+Disease,7
 Punched through the abdomen,6
-Disease,6
-Sliced to death,5
+Consumed,6
 Poisoned,5
 Exploded,5
-Fatally wounded then bled out,4
-Ripped to pieces,4
+Sliced to death,5
+Tortured to death,4
 Stomped to death,4
-Throat slit,4
+Fatally wounded then bled out,4
 Consumed by mold,4
-Blood drained,3
-Tortured to death,3
+Ripped to pieces,4
+Throat slit,4
 Fatally wounded via Stand destruction,3
+Head torn off,3
+Blood drained,3
 Disintegrated,3
 Head bitten off,3
 Bitten in half,3
-Head torn off,3
+Shot through the mouth,2
+Ripped apart,2
+Ripped apart from the inside,2
 Impaled through the neck,2
+Internal bleeding,2
 Head crushed,2
 Arms cut off then bled out,2
-Internal bleeding,2
-Ripped apart from the inside,2
-Ripped apart,2
-Fatally burned,2
-Kicked to death,2
-Heart attack,2
 Stabbed in the heart,2
+Fatally burned,2
+Suffocated to death,2
 Crushed by falling debris,2
+Old age,2
+Cut in half then bled out,2
+Decapitated with a sword,2
+Carriage accident,2
+Heart attack,2
 Dismembered,2
 Struck with an axe,2
-Decapitated with a sword,2
-Suffocated to death,2
-Cut in half then bled out,2
-Ran over by a train then bled out,1
-Neck snapped,1
-Repeatedly stabbed to death,1
+Kicked to death,2
 Pulverized,1
-Ran over by a car,1
-Nose bitten off,1
-Ribs expelled from chest,1
-Punched to death,1
-Punched through the abdomen then bled out,1
-Old age,1
 Pushed through a window,1
+Ran over by a car,1
+Punched through the abdomen then bled out,1
+Ran over by a train then bled out,1
+Nose bitten off,1
+Repeatedly stabbed to death,1
+Neck snapped,1
+Punched to death,1
 Thrown to the ground at high velocity,1
+Ribs expelled from chest,1
 Ripped into pieces,1
-Roted from the inside,1
-Throat pierced then bled out,1
+Thrown at a moving truck,1
 Tongue ripped out and head crushed,1
+Throat pierced then bled out,1
 Stabbed with multiple spears,1
 Stabbed multiple times until death,1
 Stabbed in the head,1
@@ -72,11 +75,10 @@ Neck sliced,1
 Sliced into pieces,1
 Sliced in half,1
 Slashed to death,1
-Thrown at a moving truck,1
-Shot through the mouth,1
 Shot in the throat then bled out,1
 Shot in the stomach then bled out,1
 Trampled to death,1
+Roted from the inside,1
 Skull crushed,1
 Absorbed,1
 Nape blown up,1
@@ -87,6 +89,7 @@ Face torn with a scalpel,1
 Face sliced open,1
 Face sliced off,1
 Eye infection,1
+Executed,1
 Every bone shattered,1
 Electrocuted to death,1
 Drowned to death,1
@@ -97,7 +100,6 @@ Crushed by a boulder,1
 Crushed against a tree,1
 Complications following bullet wounds,1
 Committed seppuku,1
-Carriage accident,1
 Cancer,1
 Bitten by a venomous snake,1
 Beaten to death,1
@@ -113,7 +115,7 @@ Internal wounds,1
 Impaled on broken glass,1
 Impaled on an iron gate,1
 Impaled on a wooden debris,1
-Impaled in the chest,1
+Impaled on a fence,1
 Impaled by a spear,1
 Heart stopped,1
 Head crushed and vaporized,1
@@ -126,4 +128,4 @@ Head impaled,1
 Head exploded,1
 Head crushed with a sledgehammer,1
 Head crushed by an ambulance,1
-Impaled on a fence,1
+Impaled in the chest,1

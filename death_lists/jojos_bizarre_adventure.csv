@@ -1,28 +1,30 @@
 Victim,Killer,Cause
-1 Executed Zombie killed by Jonathan Joestar,Jonathan Joestar,Head sliced open
-1 Tourist Killed by C-Moon,Enrico Pucci,Ripped apart
+1 Executed Zombie,Jonathan Joestar,Head sliced open
+1 Tourist,Enrico Pucci,Ripped apart
 1 Vagrant killed by Dio Brando,Dio Brando,Stabbed to death
 1 Vagrant killed by the Sun,Sun,Vaporized
 1 Zombie Knight killed by Jonathan Joestar,Jonathan Joestar,Beheaded
 1 Zombie Knight killed by Robert E. O. Speedwagon,Robert E. O. Speedwagon,Head crushed with a sledgehammer
-2 Drug Dealers killed by Bruno Bucciarati,Bruno Bucciarati,Stabbed to death
-2 Executed Zombies killed by Dio Brando,Dio Brando,Various
-2 Friends of Chaka's Father killed by Chaka,Chaka,Stabbed to death
-2 Missing Prisoners killed by Foo Fighters,Foo Fighters,Consumed
+15 Members of the Cavalry's 26th Squad,Natural Causes,Dehydration
+2 Bullies of Toko,Tarkus,Crushed to death
+2 Disciples of Straizo,Straizo,Unknown
+2 Drug Dealers,Bruno Bucciarati,Stabbed to death
+2 Executed Zombies,Dio Brando,Various
+2 Friends of Chaka's Father,Chaka,Stabbed to death
+2 Missing Prisoners,Foo Fighters,Consumed
 2 Natural Resources Workers,Natural Causes,Disease
-2 Speedwagon Foundation Pilots killed by N'Doul,N'Doul,Head torn off
-2 SPW Excavators killed by Straizo,Straizo,Unknown
-2 Straizo's Disciples killed by Straizo,Straizo,Unknown
-2 Toko's Bullies killed by Tarkus,Tarkus,Crushed to death
-24 Stroheim's Prisoners killed by Rudol von Stroheim,Rudol von Stroheim,Unknown
-34 Kenzou's Cultists killed by Kenzou,Kenzou,Burned to death
-4 Drunkards killed by Cioccolata,Cioccolata,Consumed by mold
+2 Sisters of Ringo,Potato-Eating Killer,Stabbed to death
+2 Speedwagon Foundation Excavators,Straizo,Unknown
+2 Speedwagon Foundation Pilots,N'Doul,Head torn off
+24 Prisoners of the Nazi,Rudol von Stroheim,Unknown
+34 Members of Kenzou's Cult,Kenzou,Burned to death
+4 Drunkards,Cioccolata,Consumed by mold
 4 People Affected by Made In Heaven,Enrico Pucci,Various
-4 Santana's Nazi Victims,Santana,Shot to death
-4 Zombie Knights killed by Will Anthonio Zeppeli,Will Anthonio Zeppeli,Vaporized
-6 Hikers killed by Survivor,Mountain Lodger,Various
-7 members of Captain Tennille's Crew killed by Forever,Forever,Various
-9 Wamuu's Nazi Victims,Wamuu,Life force drained
+4 Nazi Soldiers,Santana,Shot to death
+4 Zombie Knights,Will Anthonio Zeppeli,Vaporized
+6 Hikers,Mountain Lodger,Various
+7 Members of Captain Tennille's Crew,Forever,Various
+9 Nazi Soldiers,Wamuu,Life force drained
 Abbacchio's Partner,Blackmailing Criminal,Shot to death
 Adams,Jonathan Joestar,Tongue ripped out and head crushed
 Anasui's Former Girlfriend,Narciso Anasui,Dismembered
@@ -76,6 +78,7 @@ Executioner,Bruford,Flesh torn away
 Father Styx,Dio Brando,Shot in the head
 Foo Fighters,Enrico Pucci,Head split open then bled out
 Formaggio,Narancia Ghirga,Shot to death
+Funny's Father,Unnamed soldiers,Tortured to death
 Gelato,Gelato,Suffocated to death
 George Joestar I,Dio Brando,Stabbed to death
 George Joestar II,Superior Officer Zombie,Unknown
@@ -89,6 +92,7 @@ Illuso,Pannacotta Fugo,Roted from the inside
 Jack the Ripper,Jonathan Joestar,Vaporized
 Jack the Ripper's Date,Jack the Ripper,Neck sliced
 Jean Pierre Polnareff,Diavolo,Punched through the abdomen
+Jesus,Natural Causes,Old age
 Johngalli A.,Enrico Pucci,Shot in the head
 Jolyne Cujoh,Enrico Pucci,Fatally wounded via Stand destruction
 Jonathan Joestar,Dio Brando,Shot in the throat then bled out
@@ -139,11 +143,14 @@ Plant,Straizo,Vaporized
 Pocky,Rubber Soul,Beheaded
 Police Zombie,Jonathan Joestar,Head poked with a spear
 Polpo,Giorno Giovanna,Shot in the head
+Potato-Eating Killer,Ringo Roadagain,Shot through the mouth
 Prosciutto,Bruno Bucciarati,Ran over by a train then bled out
 Prostitute Prisoner,Sports Maxx,Eaten alive
 Racist Detective,Weather Report,Shot in the head
 Reimi Sugimoto,Yoshikage Kira,Stabbed in the back
 Rio's Neighbor,Yoshikage Kira,Exploded
+Ringo's Father,Natural Causes,Disease
+Ringo's Mother,Potato-Eating Killer,Stabbed to death
 Ripple Clan,Pillar Men,Various
 Risotto Nero,Narancia Ghirga,Shot to death
 Robber's Girlfriend,Anjuro Katagiri,Unknown
@@ -164,12 +171,14 @@ Sorbet,Cioccolata,Sliced into pieces
 Sports Maxx,Ermes Costello,Beaten to death
 Sports Maxx,Ermes Costello,Suffocated to death
 Squalo,Narancia Ghirga,Shot to death
+Steven's First Love,Accidental Causes,Carriage accident
 Straizo,Straizo,Vaporized
 Superior Officer Zombie,Lisa Lisa,Vaporized
 Takashi Sugimoto,Yoshikage Kira,Unknown
 Tama,Shinobu Kawajiri,Impaled on broken glass
 Tarkus,Executioner,Beheaded
 Tarkus,Jonathan Joestar,Vaporized
+The Beautiful Prisoner,Unknown Causes,Executed
 The Green Baby,Enrico Pucci,Consumed
 Tiziano,Narancia Ghirga,Shot to death
 Ultra Security House Unit Prisoners,Guccio,Various
