@@ -112,7 +112,7 @@ def kill_count_total(arr,names):
     # Clean and sort dataframe
     kills = kills[kills['Kills'] != 0]
     kills = kills.groupby([kills['Killer'],kills['Universe']]).sum()
-    kills = kills.sort_values(by='Kills',ascending=False)
+    # kills = kills.sort_values(by='Kills',ascending=False)
 
     # Output the data
     return(kills)
@@ -161,10 +161,44 @@ def cause_count_total(arr):
     # Clean and sort dataframe
     causes = causes[causes['Deaths'] != 0]
     causes = causes.groupby('Cause').sum()
-    causes = causes.sort_values(by='Deaths',ascending=False)
+    # causes = causes.sort_values(by='Deaths',ascending=False)
 
     # Output the data
     return(causes)
+
+def death_count(arr,names):
+    # Initiate dataframe
+    deaths = pd.DataFrame({'Universe':0,'Deaths':0},index=(0,1))
+    n = 0
+
+    # Attribute deaths to each cause
+    for df in arr:
+        universe = names[n]
+        universe = universe.replace('_',' ')
+        universe = universe.title()
+        n+=1
+        for i in range(len(df)):
+            victim = df.loc[i,'Victim']
+            if any(char.isdigit() for char in victim):
+                number = [char for char in victim if char.isdigit()]
+                number = int(''.join(map(str,number)))
+            else:
+                number = 1
+            s = {'Universe':universe,'Deaths':number}
+            deaths = deaths.append(s,ignore_index=True)
+    
+    # Create a total
+    total = deaths['Deaths'].sum()
+    s = {'Universe':'total','Deaths':total}
+    deaths = deaths.append(s,ignore_index=True)
+
+    # Clean and sort dataframe
+    deaths = deaths[deaths['Deaths'] != 0]
+    deaths = deaths.groupby('Universe').sum()
+    # deaths = deaths.sort_values(by='Deaths',ascending=False)
+
+    # Output the data
+    return(deaths)
 
 def death_list_combiner(arr,names):
     # Initiate dataframe
