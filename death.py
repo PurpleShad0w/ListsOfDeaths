@@ -49,10 +49,18 @@ def murder_graph(df):
             else:
                 new_src = str(number)+' people'
 
-        # Add nodes and edges
-        net.add_node(src, label=new_src, title=src, color=color)
-        net.add_node(dst, label=new_dst, title=dst, color='crimson')
-        net.add_edge(src, dst, title=cause, color='#eb73b7')
+        # Check for multiple killers
+        if '&' in src:
+            src = src.split(' & ')
+            for s in src:
+                net.add_node(s, label=s, color=color)
+                net.add_node(dst, label=new_dst, title=dst, color='crimson')
+                net.add_edge(s, dst, title=cause, color='#eb73b7')
+        else:
+            # Add nodes and edges
+            net.add_node(src, label=new_src, title=src, color=color)
+            net.add_node(dst, label=new_dst, title=dst, color='crimson')
+            net.add_edge(src, dst, title=cause, color='#eb73b7')
     
     # Prevent edge color overlap
     net.inherit_edge_colors(False)
@@ -70,14 +78,25 @@ def kill_count(df):
 
     # Attribute kills to each killer
     for i in range(len(df)):
+
+        # Check for number of victims
         victim = df.loc[i,'Victim']
         if any(char.isdigit() for char in victim):
             number = [char for char in victim if char.isdigit()]
             number = int(''.join(map(str,number)))
         else:
             number = 1
-        s = {'Killer':df.loc[i,'Killer'],'Kills':number}
-        kills = kills.append(s,ignore_index=True)
+        
+        # Check for multiple killers
+        killer = df.loc[i,'Killer']
+        if '&' in killer:
+            killer = killer.split(' & ')
+            for k in killer:
+                s = {'Killer':k,'Kills':number}
+                kills = kills.append(s,ignore_index=True)
+        else:
+            s = {'Killer':killer,'Kills':number}
+            kills = kills.append(s,ignore_index=True)
     
     # Clean and sort dataframe
     kills = kills[kills['Kills'] != 0]
@@ -95,19 +114,33 @@ def kill_count_total(arr,names):
 
     # Attribute kills to each killer
     for df in arr:
+
+        # Set universe
         universe = names[n]
         universe = universe.replace('_',' ')
         universe = universe.title()
         n+=1
+
         for i in range(len(df)):
+
+            # Check for number of victims
             victim = df.loc[i,'Victim']
             if any(char.isdigit() for char in victim):
                 number = [char for char in victim if char.isdigit()]
                 number = int(''.join(map(str,number)))
             else:
                 number = 1
-            s = {'Killer':df.loc[i,'Killer'],'Kills':number,'Universe':universe}
-            kills = kills.append(s,ignore_index=True)
+
+            # Check for multiple killers
+            killer = df.loc[i,'Killer']
+            if '&' in killer:
+                killer = killer.split(' & ')
+                for k in killer:
+                    s = {'Killer':k,'Kills':number,'Universe':universe}
+                    kills = kills.append(s,ignore_index=True)
+            else:
+                s = {'Killer':killer,'Kills':number,'Universe':universe}
+                kills = kills.append(s,ignore_index=True)
     
     # Clean and sort dataframe
     kills = kills[kills['Kills'] != 0]
@@ -124,12 +157,15 @@ def cause_count(df):
 
     # Attribute deaths to each cause
     for i in range(len(df)):
+
+        # Check for number of victims
         victim = df.loc[i,'Victim']
         if any(char.isdigit() for char in victim):
             number = [char for char in victim if char.isdigit()]
             number = int(''.join(map(str,number)))
         else:
             number = 1
+
         s = {'Cause':df.loc[i,'Cause'],'Deaths':number}
         causes = causes.append(s,ignore_index=True)
     
@@ -149,12 +185,15 @@ def cause_count_total(arr):
     # Attribute deaths to each cause
     for df in arr:
         for i in range(len(df)):
+
+            # Check for number of victims
             victim = df.loc[i,'Victim']
             if any(char.isdigit() for char in victim):
                 number = [char for char in victim if char.isdigit()]
                 number = int(''.join(map(str,number)))
             else:
                 number = 1
+
             s = {'Cause':df.loc[i,'Cause'],'Deaths':number}
             causes = causes.append(s,ignore_index=True)
     
@@ -171,19 +210,25 @@ def death_count(arr,names):
     deaths = pd.DataFrame({'Universe':0,'Deaths':0},index=(0,1))
     n = 0
 
-    # Attribute deaths to each cause
+    # Count deaths
     for df in arr:
+
+        # Set universe
         universe = names[n]
         universe = universe.replace('_',' ')
         universe = universe.title()
         n+=1
+
         for i in range(len(df)):
+
+            # Check for number of victims
             victim = df.loc[i,'Victim']
             if any(char.isdigit() for char in victim):
                 number = [char for char in victim if char.isdigit()]
                 number = int(''.join(map(str,number)))
             else:
                 number = 1
+
             s = {'Universe':universe,'Deaths':number}
             deaths = deaths.append(s,ignore_index=True)
     
@@ -205,12 +250,15 @@ def death_list_combiner(arr,names):
     deaths = pd.DataFrame({'Victim':0,'Killer':0,'Cause':0,'Universe':0},index=(0,1))
     n = 0
 
-    # Attribute deaths to each cause
+    # Gather deaths
     for df in arr:
+
+        # Set universe
         universe = names[n]
         universe = universe.replace('_',' ')
         universe = universe.title()
         n+=1
+
         for i in range(len(df)):
             s = {'Victim':df.loc[i,'Victim'],'Killer':df.loc[i,'Killer'],'Cause':df.loc[i,'Cause'],'Universe':universe}
             deaths = deaths.append(s,ignore_index=True)
