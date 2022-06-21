@@ -68,6 +68,14 @@ def murder_graph(df):
             net.add_node(src, label=new_src, title=src, color=color)
             net.add_node(dst, label=new_dst, title=dst, color='crimson')
             net.add_edge(src, dst, title=cause, color='#eb73b7')
+
+    # Obtain victims list
+    neighbor_map = net.get_adj_list()
+
+    # Add victims list to node titles
+    for node in net.nodes:
+        node['title'] += '<br><br>List of Victims :<br><br>' + '<br>'.join(neighbor_map[node['id']])
+        node['value'] = len(neighbor_map[node['id']])
     
     # Prevent edge color overlap
     net.inherit_edge_colors(False)

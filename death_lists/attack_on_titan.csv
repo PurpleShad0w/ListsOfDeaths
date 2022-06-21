@@ -1,17 +1,17 @@
 ﻿Victim,Killer,Cause
-1 Anti-Marleyan Volunteer killed by Floch Forster,Floch Forster,Shot to death
+1 Anti-Marleyan Volunteer killed by Floch,Floch Forster,Shot to death
 1 Anti-Marleyan Volunteer killed by Yelena,Yelena,Shot to death
 1 Marleyan Captain,Yelena,Shot to death
 1 Marleyan Soldier,Jean Kirstein,Shot to death
-1 Member of the Anti-Personnel Control Squad killed by Armin Arlert,Armin Arlert,Shot to death
-1 Member of the Anti-Personnel Control Squad killed by Connie Springer,Connie Springer,Shot to death
-1 Member of the Anti-Personnel Control Squad killed by Hange Zoë,Hange Zoë,Shot to death
-1 Member of the Anti-Personnel Control Squad killed by Jean Kirstein,Jean Kirstein,Shot to death
-1 Member of the Anti-Personnel Control Squad killed by Mikasa Ackerman,Mikasa Ackerman,Shot to death
-1 Member of the Anti-Personnel Control Squad killed by Sasha Blouse,Sasha Blouse,Shot to death
+1 Member of the Anti-Personnel Control Squad killed by Armin,Armin Arlert,Shot to death
+1 Member of the Anti-Personnel Control Squad killed by Connie,Connie Springer,Shot to death
+1 Member of the Anti-Personnel Control Squad killed by Hange,Hange Zoë,Shot to death
+1 Member of the Anti-Personnel Control Squad killed by Jean,Jean Kirstein,Shot to death
+1 Member of the Anti-Personnel Control Squad killed by Mikasa,Mikasa Ackerman,Shot to death
+1 Member of the Anti-Personnel Control Squad killed by Sasha,Sasha Blouse,Shot to death
 1 Member of the Survey Corps,Ymir,Sliced to death
-1 Member of the Yeagerists killed by Gabi Braun,Gabi Braun,Shot to death
-1 Member of the Yeagerists killed by Jean Kirstein,Jean Kirstein,Shot to death
+1 Member of the Yeagerists killed by Gabi,Gabi Braun,Shot to death
+1 Member of the Yeagerists killed by Jean,Jean Kirstein,Shot to death
 1 Previous Inheritor of the Armored Titan,Reiner Braun,Eaten alive
 1 Previous Inheritor of the Attack Titan,Eren Kruger,Eaten alive
 1 Previous Inheritor of the Beast Titan,Tom Ksaver,Eaten alive
@@ -21,46 +21,50 @@
 1 Previous Inheritor of the Founding Titan,Rod and Uri's father,Eaten alive
 1 Previous Inheritor of the Jaw Titan,Marcel Galliard,Eaten alive
 1 Previous Inheritor of the War Hammer Titan,Lara Tybur,Eaten alive
-1 Soldier of the Mid-East Allied Forces,Gabi Braun,Caught in an explosion
+1 Soldier of the Mid-East Allied Forces killed by Gabi,Gabi Braun,Caught in an explosion
+1 Soldier of the Mid-East Allied Forces killed by Porco,Porco Galliard,Sliced to death
 1 Survey Corps Member,Reiner Braun,Crushed to death
 1 Survey Corps Soldier,Porco Galliard,Sliced to death
 1 Unnamed Civilian,Djel Sannes,Tortured to death
 1 Unnamed Member of the Survey Corps,Pieck Finger,Unknown
+10 Eldian Unit Soldiers,Mid-East Allied Forces,Various
 100 Members of the Military Police Brigade,Kenny Ackerman,Various
+100+ Members of the Marleyan Military,Eren Yeager,Crushed to death
 15 Unnamed Survey Corps Members,Annie Leonhart,Various
 16 Members of the Yeagerists,Theo Magath,Various
 17 Unnamed Survey Corps Members,Bertolt Hoover,Various
-2 Marleyan Soldiers killed by Connie Springer,Connie Springer,Various
-2 Marleyan Soldiers killed by Mikasa Ackerman,Mikasa Ackerman,Various
+2 Marleyan Soldiers killed by Connie,Connie Springer,Various
+2 Marleyan Soldiers killed by Mikasa,Mikasa Ackerman,Various
 2 Members of the Yeagerists,Keith Shadis,Various
 2 Unnamed Members of the Yeagerists,Falco Grice,Various
+25+ Audience Members,Eren Yeager,Crushed by falling debris
+28 Survey Corps Members,Levi Ackerman & Zeke Yeager,Nape sliced
 3 Hizuru Guards,Floch Forster,Various
 3 Unnamed Members of the Yeagerists,Pieck Finger,Various
 4 Members of the Yeagerists,Connie Springer,Various
-4 Unnamed Members of the Yeagerists killed by Annie Leonhart,Annie Leonhart,Various
-4 Unnamed Members of the Yeagerists killed by Reiner Braun,Reiner Braun,Various
+4 Unnamed Members of the Yeagerists killed by Annie,Annie Leonhart,Various
+4 Unnamed Members of the Yeagerists killed by Reiner,Reiner Braun,Various
 4 Unnamed Survey Corps Members,Carlo,Various
 49 Unnamed Survey Corps Members,Zeke Yeager,Various
 5 Members of the Mid-East Allied Forces,Carlo,Various
 5 Unnamed Mid-East Allied Forces Soldiers,Porco Galliard,Various
+50+ Liberio Residents,Eren Yeager,Crushed to death
 7 Members of the Anti-Personnel Control Squad,Levi Ackerman,Various
 8 Members of the Mid-East Allied Forces,Reiner Braun,Various
-8 Members of the Yeagerists killed by Hange Zoë,Hange Zoë,Various
-8 Members of the Yeagerists killed by Mikasa Ackerman,Mikasa Ackerman,Various
+8 Members of the Yeagerists killed by Hange,Hange Zoë,Various
+8 Members of the Yeagerists killed by Mikasa,Mikasa Ackerman,Various
 9 Anti-Personnel Control Squad Members,Rod Reiss,Various
 9 Marleyan Soldiers,Eren Kruger,Various
-~50000000 Victims of the Rumbling,Eren Yeager & Wall Titans,Stomped to death
 Abel,Military Police Brigade,Shot in the head
 Abel Reiss,Grisha Yeager,Crushed to death
 Ackerman,The Robbers' Leader,Stabbed to death
 Alma,Kenny Ackerman,Throat slit
 Anka Rheinberger,Unknown Causes,Unknown
-Audience Members,Eren Yeager,Crushed to death
 Bean,Annie Leonhart,Unknown
 Beirer,Pure Titans,Eaten alive
 Bertolt Hoover,Armin Arlert,Eaten alive
 Calvi,Eren Yeager,Crushed to death
-Carla Yeager,Dina Fritz,Crushed to death
+Carla Yeager,Dina Fritz & Eren Yeager,Crushed to death
 Carlo,Sasha Blouse,Shot in the head
 Charlotte,Unknown Causes,Unknown
 Colt Grice,Falco Grice & Zeke Yeager,Burned to death
@@ -74,7 +78,7 @@ Dina Fritz,Eren Yeager & Pure Titans,Ripped to pieces
 Dirk,Zeke Yeager,Struck by a rock at high velocity
 Dirk Reiss,Grisha Yeager,Crushed to death
 Dita Ness,Annie Leonhart,Thrown to the ground at high velocity
-Dot Pixis,Armin Arlert,Nape blown up
+Dot Pixis,Armin Arlert & Zeke Yeager,Nape blown up
 Duran,Levi Ackerman,Sliced to death
 Eld Jinn,Annie Leonhart,Bitten in half
 Eleventh Commander,Pure Titans,Eaten alive
@@ -138,7 +142,7 @@ Nac Tias,Pure Titans,Eaten alive
 Nanaba,Pure Titans & Zeke Yeager,Ripped to pieces
 Nick,Djel Sannes,Tortured to death
 Nifa,Kenny Ackerman,Shot in the head
-Nile Dok,Gabi Braun,Shot through the mouth
+Nile Dok,Gabi Braun & Zeke Yeager,Shot through the mouth
 Oliver,Hange Zoë,Throat slit
 Oluo Bozado,Annie Leonhart,Kicked to death
 Peering Titan,Mikasa Ackerman,Nape sliced
@@ -149,7 +153,7 @@ Ramzi,Eren Yeager & Wall Titans,Stomped to death
 Rod and Uri's Father,Uri Reiss,Eaten alive
 Rod Reiss,Historia Reiss,Nape sliced
 Rod's Wife,Grisha Yeager,Stomped to death
-Roeg,Keith Shadis,Nape sliced
+Roeg,Keith Shadis & Zeke Yeager,Nape sliced
 Rose Fritz,Unknown Causes,Unknown
 Ruth D. Kline,Pure Titans,Eaten alive
 Samuel,Connie Springer,Shot in the head
@@ -170,7 +174,7 @@ Traute Caven,Rod Reiss,Crushed by falling debris
 Udo,Audience Members,Trampled to death
 Uri Reiss,Frieda Reiss,Eaten alive
 Urklyn Reiss,Grisha Yeager,Crushed to death
-Varis,Levi Ackerman,Nape sliced
+Varis,Levi Ackerman & Zeke Yeager,Nape sliced
 Willy Tybur,Eren Yeager,Crushed to death
 Ymir,Porco Galliard,Eaten alive
 Ymir Fritz,Marleyan Officer,Impaled by a spear

@@ -11,7 +11,7 @@ Bitten in half,3
 Bitten to death,1
 Blood drained,3
 Bronchitis,1
-Burned to death,42
+Burned to death,48
 Cancer,1
 Carriage accident,2
 Caught in an explosion,16
@@ -23,8 +23,8 @@ Crushed against a tree,1
 Crushed by a boulder,1
 Crushed by a car,1
 Crushed by a falling door,1
-Crushed by falling debris,3
-Crushed to death,18
+Crushed by falling debris,28
+Crushed to death,167
 Crushed under a rock,1
 Cut in half,1
 Cut in half then bled out,2
@@ -47,7 +47,7 @@ Every bone shattered,1
 Executed,1
 Exhaustion,5
 Exorcised,1
-Exploded,6
+Exploded,11
 Eye infection,1
 Face sliced off,1
 Face sliced open,1
@@ -59,7 +59,7 @@ Fatally wounded then bled out,4
 Fatally wounded via Stand destruction,3
 Fell into lava,1
 Fell off a cliff,1
-Fell to death,2
+Fell to death,13
 Flesh torn away,1
 Frozen and shattered to pieces,1
 Frozen to death,4
@@ -96,7 +96,7 @@ Life force drained,10
 Limbs torn off,1
 Mauled to death,1
 Nape blown up,1
-Nape sliced,10
+Nape sliced,38
 Neck sliced,1
 Neck snapped,2
 Nose bitten off,1
@@ -126,7 +126,7 @@ Skull crushed,1
 Slashed to death,1
 Sliced in half,1
 Sliced into pieces,1
-Sliced to death,27
+Sliced to death,28
 Stabbed in the back,1
 Stabbed in the brain,1
 Stabbed in the head,3
@@ -134,7 +134,7 @@ Stabbed in the heart,2
 Stabbed multiple times until death,1
 Stabbed to death,18
 Stabbed with multiple spears,1
-Stomped to death,50000004
+Stomped to death,4
 Struck by a rock at high velocity,8
 Struck with an axe,2
 Suffocated to death,2
@@ -149,7 +149,7 @@ Tongue ripped out and head crushed,1
 Torso exploded,1
 Tortured to death,4
 Trampled to death,1
-Turned to dust,16
-Unknown,113
+Turned to dust,88
+Unknown,116
 Vaporized,21
-Various,587
+Various,597
