@@ -2,6 +2,7 @@ Victim,Killer,Cause,Universe
 1 Anti-Marleyan Volunteer killed by Floch Forster,Floch Forster,Shot to death,Attack On Titan
 1 Anti-Marleyan Volunteer killed by Yelena,Yelena,Shot to death,Attack On Titan
 1 Brothel Manager,Gyutaro,Stabbed to death,Demon Slayer
+1 Commandante,1 Commandante & Sebastiano Di Ravello,Shot in the head,Just Cause
 1 Demon,Yoriichi Tsugikuni,Decapitated,Demon Slayer
 1 Demon Slayer,Kokushibo,Cut in half,Demon Slayer
 1 Demon who killed Shinobu's Parents,Gyomei Himejima,Decapitated,Demon Slayer
@@ -23,8 +24,8 @@ Victim,Killer,Cause,Universe
 1 Member of the Yeagerists killed by Gabi Braun,Gabi Braun,Shot to death,Attack On Titan
 1 Member of the Yeagerists killed by Jean Kirstein,Jean Kirstein,Shot to death,Attack On Titan
 1 Oyakata,Kokushibo,Unknown,Demon Slayer
-1 Person,Kyogai,Unknown,Demon Slayer
 1 Person,Himiko Toga,Stabbed to death,My Hero Academia
+1 Person,Kyogai,Unknown,Demon Slayer
 1 Previous Inheritor of the Armored Titan,Reiner Braun,Eaten alive,Attack On Titan
 1 Previous Inheritor of the Attack Titan,Eren Kruger,Eaten alive,Attack On Titan
 1 Previous Inheritor of the Beast Titan,Tom Ksaver,Eaten alive,Attack On Titan
@@ -37,6 +38,7 @@ Victim,Killer,Cause,Universe
 1 Samurai,Gyutaro,Stabbed to death,Demon Slayer
 1 Shie Hassaikai Human Shield,Tomura Shigaraki,Turned to dust,My Hero Academia
 1 Shie Hassaikai Member,Kai Chisaki,Disintegrated,My Hero Academia
+1 Soldier,Sebastiano Di Ravello,Beaten to death,Just Cause
 1 Soldier of the Mid-East Allied Forces,Gabi Braun,Caught in an explosion,Attack On Titan
 1 Survey Corps Member,Reiner Braun,Crushed to death,Attack On Titan
 1 Survey Corps Soldier,Porco Galliard,Sliced to death,Attack On Titan
@@ -50,14 +52,18 @@ Victim,Killer,Cause,Universe
 1 Water Hashira,Akaza,Unknown,Demon Slayer
 1 Zombie Knight killed by Jonathan Joestar,Jonathan Joestar,Beheaded,Jojos Bizarre Adventure
 1 Zombie Knight killed by Robert E. O. Speedwagon,Robert E. O. Speedwagon,Head crushed with a sledgehammer,Jojos Bizarre Adventure
+10 Captains,Rico Rodriguez,Dependent,Just Cause
+10 Commandante,Rico Rodriguez,Dependent,Just Cause
 100 Members of the Military Police Brigade,Kenny Ackerman,Various,Attack On Titan
 11 Students of Sakonji,Hand Demon,Various,Demon Slayer
+12+ Tank Pilots,Rico Rodriguez,Dependent,Just Cause
 15 Members of the Cavalry's XXVIth Squad,Natural Causes,Dehydration,Jojos Bizarre Adventure
 15 Unnamed Survey Corps Members,Annie Leonhart,Various,Attack On Titan
 15+ Hashira,Gyutaro,Various,Demon Slayer
 16 Members of the Yeagerists,Theo Magath,Various,Attack On Titan
 17 Pro Heroes,Chizome Akaguro,Sliced to death,My Hero Academia
 17 Unnamed Survey Corps Members,Bertolt Hoover,Various,Attack On Titan
+18+ Jet Pilots,Rico Rodriguez,Dependent,Just Cause
 2 Brothers of Tengen,Tengen Uzui,Unknown,Demon Slayer
 2 Bullies of Toko,Tarkus,Crushed to death,Jojos Bizarre Adventure
 2 Demons Hired by Enmu,Kyojuro Rengoku,Decapitated,Demon Slayer
@@ -71,13 +77,18 @@ Victim,Killer,Cause,Universe
 2 Members of the Yeagerists,Keith Shadis,Various,Attack On Titan
 2 Missing Prisoners,Foo Fighters,Consumed,Jojos Bizarre Adventure
 2 Natural Resources Workers,Natural Causes,Disease,Jojos Bizarre Adventure
+2 Prisoners,Black Hand,Shot to death,Just Cause
 2 Sisters of Ringo,Potato-Eating Killer,Stabbed to death,Jojos Bizarre Adventure
 2 Speedwagon Foundation Excavators,Straizo,Unknown,Jojos Bizarre Adventure
 2 Speedwagon Foundation Pilots,N'Doul,Head torn off,Jojos Bizarre Adventure
 2 Street Thugs,Tomura Shigaraki,Turned to dust,My Hero Academia
 2 Unnamed Members of the Yeagerists,Falco Grice,Various,Attack On Titan
+2+ Black Hand Titans,Rico Rodriguez,Dependent,Just Cause
 2+ Children of Tamayo,Tamayo,Unknown,Demon Slayer
+21+ Boat Pilots,Rico Rodriguez,Dependent,Just Cause
+23+ Car Pilots,Rico Rodriguez,Dependent,Just Cause
 24 Prisoners of the Nazi,Rudol von Stroheim,Unknown,Jojos Bizarre Adventure
+3 Black Hand Warden,Rico Rodriguez,Dependent,Just Cause
 3 Drunk Siblings,Muzan Kibutsuji,Unknown,Demon Slayer
 3 Hizuru Guards,Floch Forster,Various,Attack On Titan
 3 Unnamed Members of the Yeagerists,Pieck Finger,Various,Attack On Titan
@@ -91,6 +102,11 @@ Victim,Killer,Cause,Universe
 4 Unnamed Members of the Yeagerists killed by Reiner Braun,Reiner Braun,Various,Attack On Titan
 4 Unnamed Survey Corps Members,Carlo,Various,Attack On Titan
 4 Zombie Knights,Will Anthonio Zeppeli,Vaporized,Jojos Bizarre Adventure
+4+ Black Hand Ghosts,Rico Rodriguez,Dependent,Just Cause
+4+ Mech Pilots,Rico Rodriguez,Dependent,Just Cause
+41+ Helicopter Pilots,Rico Rodriguez,Dependent,Just Cause
+42+ Black Hand Soldiers,Rico Rodriguez,Dependent,Just Cause
+49 Rebels remembered via Shrines,Sebastiano Di Ravello,Various,Just Cause
 49 Unnamed Survey Corps Members,Zeke Yeager,Various,Attack On Titan
 5 Brothers of Tengen,Natural Causes,Exhaustion,Demon Slayer
 5 Members of the Mid-East Allied Forces,Carlo,Various,Attack On Titan
@@ -100,6 +116,7 @@ Victim,Killer,Cause,Universe
 50 Members of the Iguro Clan,Serpent Demon,Various,Demon Slayer
 50+ Final Selection Examinees,Hand Demon,Various,Demon Slayer
 6 Hikers,Mountain Lodger,Various,Jojos Bizarre Adventure
+6+ Snipers,Rico Rodriguez,Dependent,Just Cause
 67 Members of the Kenjutsu Dojo,Akaza,Beaten to death,Demon Slayer
 7 Hashira,Daki,Various,Demon Slayer
 7 Members of Captain Tennille's Crew,Forever,Various,Jojos Bizarre Adventure
@@ -109,6 +126,7 @@ Victim,Killer,Cause,Universe
 8 Members of the Yeagerists killed by Hange Zoë,Hange Zoë,Various,Attack On Titan
 8 Members of the Yeagerists killed by Mikasa Ackerman,Mikasa Ackerman,Various,Attack On Titan
 80+ Humans,Spider Demon (Sister),Various,Demon Slayer
+80+ Soldiers,Rico Rodriguez,Dependent,Just Cause
 9 Anti-Personnel Control Squad Members,Rod Reiss,Various,Attack On Titan
 9 Marleyan Soldiers,Eren Kruger,Various,Attack On Titan
 9 Nazi Soldiers,Wamuu,Life force drained,Jojos Bizarre Adventure
@@ -135,6 +153,7 @@ Bean,Annie Leonhart,Unknown,Attack On Titan
 Beirer,Pure Titans,Eaten alive,Attack On Titan
 Bertolt Hoover,Armin Arlert,Eaten alive,Attack On Titan
 Black-Haired Prisoner,Foo Fighters,Consumed,Jojos Bizarre Adventure
+Bonnet,Sebastiano Di Ravello,Shot in the neck,Just Cause
 Bornnam,Straizo,Vaporized,Jojos Bizarre Adventure
 Brainwashed Courtyard Guard,Weather Report,Poisoned,Jojos Bizarre Adventure
 Briareos,All for One,Unknown,My Hero Academia
@@ -173,15 +192,20 @@ Daki,Zenitsu Agatsuma & Inosuke Hashibira,Decapitated,Demon Slayer
 Daki and Gyutaro's Mother,Natural Causes,Syphilis,Demon Slayer
 Dan,Military Police Brigade,Shot to death,Attack On Titan
 Danny,Dio Brando,Burned to death,Jojos Bizarre Adventure
+Dante,Unknown Causes,Unknown,Just Cause
 Dario Brando,Dio Brando,Poisoned,Jojos Bizarre Adventure
 Darius Baer-Varbrun,Annie Leonhart,Kicked to death,Attack On Titan
 Darius Zackly,Yeagerists,Caught in an explosion,Attack On Titan
 Darnley,Unknown Causes,Caught in an explosion,Jojos Bizarre Adventure
+David Hoang,Eden,Frozen to death,Just Cause
 Daz,Connie Springer,Shot in the head,Attack On Titan
+De Luca,Sebastiano Di Ravello,Shot to death,Just Cause
 Devo the Cursed,Jean Pierre Polnareff,Stabbed multiple times until death,Jojos Bizarre Adventure
 Diavolo,Giorno Giovanna,Various,Jojos Bizarre Adventure
 Diavolo's Foster Father,Diavolo,Burned to death,Jojos Bizarre Adventure
+Diego Marquez Espinosa,Unknown Causes,Unknown,Just Cause
 Dieter,Unknown Causes,Unknown,Attack On Titan
+Dimah Ali Umar al-Masri,Dimah Ali Umar al-Masri,Caught in an explosion,Just Cause
 Dimo Reeves,Kenny Ackerman,Throat slit,Attack On Titan
 Dina Fritz,Eren Yeager & Pure Titans,Ripped to pieces,Attack On Titan
 Dio Brando,Jotaro Kujo,Punched to death,Jojos Bizarre Adventure
@@ -199,11 +223,15 @@ Donatello Versus,Narciso Anasui,Head impaled,Jojos Bizarre Adventure
 Doobie,Jonathan Joestar,Vaporized,Jojos Bizarre Adventure
 Dot Pixis,Armin Arlert,Nape blown up,Attack On Titan
 Duran,Levi Ackerman,Sliced to death,Attack On Titan
+Dushku,De Luca,Stabbed in the head,Just Cause
+Eden,Rico Rodriguez,Thrown into the sea,Just Cause
+Eden Callaghan,Eden,Frozen to death,Just Cause
 Eel Boy,Jin Bubaigawara,Stabbed in the head,My Hero Academia
 Eld Jinn,Annie Leonhart,Bitten in half,Attack On Titan
 Eleph,Tomura Shigaraki,Turned to dust,My Hero Academia
 Eleventh Commander,Pure Titans,Eaten alive,Attack On Titan
 Elizabeth's Mother,Unnamed zombie,Struck with an axe,Jojos Bizarre Adventure
+Emerson Miller,Rico Rodriguez,Dependent,Just Cause
 Emporio's Mother,Enrico Pucci,Unknown,Jojos Bizarre Adventure
 En,All for One,Unknown,My Hero Academia
 Enma Kannagi,Gigantomachia,Crushed to death,My Hero Academia
@@ -273,6 +301,7 @@ Hitchhiker,Johngalli A.,Drowned to death,Jojos Bizarre Adventure
 Hokuto Hario,Number Six,Exploded,My Hero Academia
 Hood,Enji Todoroki,Burned to death,My Hero Academia
 Horned Demon,Inosuke Hashibira,Decapitated,Demon Slayer
+Huchasunqu,Rico Rodriguez,Dependent,Just Cause
 Ian Dietrich,Pure Titans,Head bitten off,Attack On Titan
 Iggy,Vanilla Ice,Fatal internal wounds,Jojos Bizarre Adventure
 Illuso,Pannacotta Fugo,Roted from the inside,Jojos Bizarre Adventure
@@ -292,7 +321,7 @@ Jonathan Joestar,Dio Brando,Shot in the throat then bled out,Jojos Bizarre Adven
 Jones,Straizo,Vaporized,Jojos Bizarre Adventure
 Jotaro Kujo,Enrico Pucci,Face sliced open,Jojos Bizarre Adventure
 Kagaya Ubuyashiki,Kagaya Ubuyashiki,Caught in an explosion,Demon Slayer
-Kaichi Susuki,Wicked Twisters,Erased,The World Ends With You
+Kaichi Susuki,Rindo Kanade & Tosai Furesawa & Nagi Usui & Daisukenojo Bito & Shoka Sakurane & Neku Sakuraba,Erased,The World Ends With You
 Kaigaku,Zenitsu Agatsuma,Decapitated,Demon Slayer
 Kamanue,Muzan Kibutsuji,Eaten alive,Demon Slayer
 Kanae Kocho,Doma,Fatally wounded then bled out,Demon Slayer
@@ -327,6 +356,7 @@ Kyogo Shinazugawa,Kyogo Shinazugawa's Rival,Unknown,Demon Slayer
 Kyojuro Rengoku,Akaza,Punched through the abdomen then bled out,Demon Slayer
 Lara Tybur,Eren Yeager & Porco Galliard,Crushed to death,Attack On Titan
 Leone Abbacchio,Diavolo,Punched through the abdomen,Jojos Bizarre Adventure
+León Espinosa,Unknown Causes,Unknown,Just Cause
 Lobov,Gabi Braun,Shot in the head,Attack On Titan
 Loggins,Esidisi,Impaled,Jojos Bizarre Adventure
 Luca,Passione,Unknown,Jojos Bizarre Adventure
@@ -354,6 +384,7 @@ Masazo Kinoto,Cheap Trick,Back ripped open,Jojos Bizarre Adventure
 Megumi Kitaniji,Yoshiya Kiryu,Erased,The World Ends With You
 Mela Ghirga,Natural Causes,Eye infection,Jojos Bizarre Adventure
 Melone,Giorno Giovanna,Bitten by a venomous snake,Jojos Bizarre Adventure
+Miguel Rodriguez,Sebastiano Di Ravello & Oscar Espinosa,Burned to death,Just Cause
 Mikasa's Mother,The Robbers' Axe-man,Struck with an axe,Attack On Titan
 Mike Zacharias,Zeke Yeager & Pure Titans,Ripped to pieces,Attack On Titan
 Mina Carolina,Peering Titan,Head bitten off,Attack On Titan
@@ -366,6 +397,7 @@ Miyashita,Rikiya Yotsubashi,Neck snapped,My Hero Academia
 Moblit Berner,Bertolt Hoover,Caught in an explosion,Attack On Titan
 Mocha,Rumi Usagiyama,Kicked to death,My Hero Academia
 Mon,Tomura Shigaraki,Turned to dust,My Hero Academia
+Moreau,Thunderstorm,Electrocuted,Just Cause
 Moses Braun,Pure Titans,Eaten alive,Attack On Titan
 Mother of Baby,Dio Brando,Blood drained,Jojos Bizarre Adventure
 Motoi Anazawa,Shiba Miyakaze,Erased,The World Ends With You
@@ -380,6 +412,7 @@ Mukade Shopkeeper,Yoshikage Kira,Caught in an explosion,Jojos Bizarre Adventure
 Mukago,Muzan Kibutsuji,Crushed to death,Demon Slayer
 Mummy,Unknown Causes,Unknown,Jojos Bizarre Adventure
 Muzan Kibutsuji,Sun,Disintegrated,Demon Slayer
+Muñoz,Rico Rodriguez,Dependent,Just Cause
 Mylius Zeramuski,Pure Titans,Crushed to death,Attack On Titan
 N'Doul,N'Doul,Head pierced,Jojos Bizarre Adventure
 Nac Tias,Pure Titans,Eaten alive,Attack On Titan
@@ -410,6 +443,8 @@ Old Janitor,Polpo,Stabbed in the head,Jojos Bizarre Adventure
 Oliver,Hange Zoë,Throat slit,Attack On Titan
 Oluo Bozado,Annie Leonhart,Kicked to death,Attack On Titan
 Omitsu,Daki,Fell to death,Demon Slayer
+Oscar Espinosa,Rico Rodriguez,Plane crash,Just Cause
+Otorongo,Unknown Causes,Unknown,Just Cause
 Ozaki,Spider Demon (Mother),Neck snapped,Demon Slayer
 Page,Straizo,Vaporized,Jojos Bizarre Adventure
 Paolo Bucciarati,2 Drug Dealers,Complications following bullet wounds,Jojos Bizarre Adventure
@@ -448,6 +483,7 @@ Rod Reiss,Historia Reiss,Nape sliced,Attack On Titan
 Rod and Uri's Father,Uri Reiss,Eaten alive,Attack On Titan
 Rod's Wife,Grisha Yeager,Stomped to death,Attack On Titan
 Roeg,Keith Shadis,Nape sliced,Attack On Titan
+Rojas,Rico Rodriguez,Plane crash,Just Cause
 Rojiya Yonenaga,Chizome Akaguro,Sliced to death,My Hero Academia
 Rokuro,Muzan Kibutsuji,Unknown,Demon Slayer
 Rokuta Kamado,Muzan Kibutsuji,Unknown,Demon Slayer
@@ -470,6 +506,8 @@ Satoko,Swamp Demon,Eaten alive,Demon Slayer
 Satoru Nakae,Yoshikage Kira,Exploded,Jojos Bizarre Adventure
 Scolippi's Girlfriend,Scolippi's Girlfriend,Jumped off a roof,Jojos Bizarre Adventure
 Scotland Yard Inspector,Dio Brando,Head torn off,Jojos Bizarre Adventure
+Sebastiano Di Ravello,Sebastiano Di Ravello,Fell into lava,Just Cause
+Sebastiano Di Ravello,Rico Rodriguez,Shot to death,Just Cause
 Secco,Bruno Bucciarati,Crushed to death,Jojos Bizarre Adventure
 Serpent Demon,Shinjuro Rengoku,Decapitated,Demon Slayer
 Seven Seven Seven,Mitsuki Konishi,Erased,The World Ends With You
@@ -482,9 +520,12 @@ Shinobu Kocho,Doma,Consumed,Demon Slayer
 Shinobu and Kanae's Father,1 Demon who killed Shinobu's Parents,Unknown,Demon Slayer
 Shinobu and Kanae's Mother,1 Demon who killed Shinobu's Parents,Unknown,Demon Slayer
 Shizu Shinazugawa,Sanemi Shinazugawa,Decapitated,Demon Slayer
+Simone Corso,Thunderstorm,Electrocuted,Just Cause
+Simón Valencia,Rico Rodriguez,Dependent,Just Cause
 Singapore Hotel Valet,Devo the Cursed,Face sliced off,Jojos Bizarre Adventure
 Soji,Chizome Akaguro,Sliced to death,My Hero Academia
 Sonny,Annie Leonhart,Unknown,Attack On Titan
+Sophia Espinosa,Unknown Causes,Unknown,Just Cause
 Sorbet,Cioccolata,Sliced into pieces,Jojos Bizarre Adventure
 Sota Honjo,Taboo Noise,Erased,The World Ends With You
 Spider Demon (Daughter),Shinobu Kocho,Poisoned,Demon Slayer
@@ -522,6 +563,7 @@ The Robbers' Axe-man,Eren Yeager,Stabbed to death,Attack On Titan
 The Robbers' Latecomer,Mikasa Ackerman,Stabbed in the heart,Attack On Titan
 The Robbers' Leader,Eren Yeager,Repeatedly stabbed to death,Attack On Titan
 Theo Magath,Theo Magath,Caught in an explosion,Attack On Titan
+Theresa Vidal,Eden,Frozen to death,Just Cause
 Thomas Wagner,Pure Titans,Eaten alive,Attack On Titan
 Tiziano,Narancia Ghirga,Shot to death,Jojos Bizarre Adventure
 Tom,Pure Titans,Eaten alive,Attack On Titan
@@ -536,6 +578,7 @@ Ultra Security House Unit Prisoners,Guccio,Various,Jojos Bizarre Adventure
 Uri Reiss,Frieda Reiss,Eaten alive,Attack On Titan
 Urklyn Reiss,Grisha Yeager,Crushed to death,Attack On Titan
 Uta,1 Demon who killed Uta,Unknown,Demon Slayer
+Valdez,Unknown Causes,Unknown,Just Cause
 Vampire Prisoner,Santana,Absorbed,Jojos Bizarre Adventure
 Vanilla Ice,Jean Pierre Polnareff,Vaporized,Jojos Bizarre Adventure
 Varanasi Doctor,Nena,Face torn with a scalpel,Jojos Bizarre Adventure
@@ -562,10 +605,13 @@ Yodai Higashizawa,Neku Sakuraba & Shiki Misaki,Erased,The World Ends With You
 Yoichi Shigaraki,All for One,Unknown,My Hero Academia
 Yoriichi Tsugikuni,Natural Causes,Old age,Demon Slayer
 Yoriichi and Kokushibo's Mother,Natural Causes,Disease,Demon Slayer
-Yoshihiro Kira,Natural Causes,Cancer,Jojos Bizarre Adventure
 Yoshihiro Kira,Yoshikage Kira,Caught in an explosion,Jojos Bizarre Adventure
+Yoshihiro Kira,Natural Causes,Cancer,Jojos Bizarre Adventure
 Yoshikage Kira,Ambulance driver,Head crushed by an ambulance,Jojos Bizarre Adventure
 Yuichiro Tokito,1 Demon who killed Yuichiro,Fatally wounded then bled out,Demon Slayer
+Zach Schlappi,Eden,Frozen to death,Just Cause
 Zeke Yeager,Levi Ackerman,Decapitated with a sword,Attack On Titan
+Zeno Antithikara,Rico Rodriguez,Helicopter crash,Just Cause
 Zofia,Eren Yeager,Crushed by a boulder,Attack On Titan
 Zombie Mother's Baby,Mother of Baby,Eaten alive,Jojos Bizarre Adventure
+~50000000 Victims of the Rumbling,Eren Yeager & Wall Titans,Stomped to death,Attack On Titan

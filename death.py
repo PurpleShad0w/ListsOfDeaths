@@ -21,13 +21,7 @@ def murder_graph(df):
 
     # Create nodes and edges
     for src, dst, cause in edge_data:
-
-        # Change color of nodes based on status
-        if targets.eq(src).any():
-            color = 'crimson'
-        else:
-            color = 'green'
-
+        # Define new variables
         new_dst = dst
         new_src = src
 
@@ -53,10 +47,23 @@ def murder_graph(df):
         if '&' in src:
             src = src.split(' & ')
             for s in src:
-                net.add_node(s, label=s, color=color)
+                # Change color of nodes based on status
+                if targets.eq(s).any():
+                    color = 'crimson'
+                else:
+                    color = 'green'
+
+                # Add nodes and edges
+                net.add_node(s, label=s, title=s, color=color)
                 net.add_node(dst, label=new_dst, title=dst, color='crimson')
                 net.add_edge(s, dst, title=cause, color='#eb73b7')
         else:
+            # Change color of nodes based on status
+            if targets.eq(src).any():
+                color = 'crimson'
+            else:
+                color = 'green'
+
             # Add nodes and edges
             net.add_node(src, label=new_src, title=src, color=color)
             net.add_node(dst, label=new_dst, title=dst, color='crimson')
