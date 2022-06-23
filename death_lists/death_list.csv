@@ -3,6 +3,8 @@ Victim,Killer,Cause,Universe
 1 Anti-Marleyan Volunteer killed by Yelena,Yelena,Shot to death,Attack On Titan
 1 Brothel Manager,Gyutaro,Stabbed to death,Demon Slayer
 1 Commandante,1 Commandante & Sebastiano Di Ravello,Shot in the head,Just Cause
+1 Deadman killed by Genkaku,Azuma Genkaku,Shot to death,Deadman Wonderland
+1 Deadman killed by Mid?,Azami Mid?,Exploded,Deadman Wonderland
 1 Demon,Yoriichi Tsugikuni,Decapitated,Demon Slayer
 1 Demon Slayer,Kokushibo,Cut in half,Demon Slayer
 1 Demon who killed Shinobu's Parents,Gyomei Himejima,Decapitated,Demon Slayer
@@ -45,6 +47,7 @@ Victim,Killer,Cause,Universe
 1 Survey Corps Soldier,Porco Galliard,Sliced to death,Attack On Titan
 1 Tartarus Inmate,Chizome Akaguro,Throat sliced,My Hero Academia
 1 Tourist,Enrico Pucci,Ripped apart,Jojos Bizarre Adventure
+1 Undertaker who killed Kosugi,Kosugi,Stabbed to death,Deadman Wonderland
 1 Unnamed Civilian,Djel Sannes,Tortured to death,Attack On Titan
 1 Unnamed Member of the Survey Corps,Pieck Finger,Unknown,Attack On Titan
 1 Vagrant killed by Dio Brando,Dio Brando,Stabbed to death,Jojos Bizarre Adventure
@@ -68,6 +71,7 @@ Victim,Killer,Cause,Universe
 17 Pro Heroes,Chizome Akaguro,Sliced to death,My Hero Academia
 17 Unnamed Survey Corps Members,Bertolt Hoover,Various,Attack On Titan
 18+ Jet Pilots,Rico Rodriguez,Dependent,Just Cause
+19 Students,Shiro,Various,Deadman Wonderland
 2 Brothers of Tengen,Tengen Uzui,Unknown,Demon Slayer
 2 Bullies of Toko,Tarkus,Crushed to death,Jojos Bizarre Adventure
 2 Demons Hired by Enmu,Kyojuro Rengoku,Decapitated,Demon Slayer
@@ -82,6 +86,7 @@ Victim,Killer,Cause,Universe
 2 Meta Liberation Army Soldiers,Tomura Shigaraki,Turned to dust,My Hero Academia
 2 Missing Prisoners,Foo Fighters,Consumed,Jojos Bizarre Adventure
 2 Natural Resources Workers,Natural Causes,Disease,Jojos Bizarre Adventure
+2 People,Ichi Mikawa & Hajime Mikawa,Unknown,Deadman Wonderland
 2 Prisoners,Black Hand,Shot to death,Just Cause
 2 Sisters of Ringo,Potato-Eating Killer,Stabbed to death,Jojos Bizarre Adventure
 2 Speedwagon Foundation Excavators,Straizo,Unknown,Jojos Bizarre Adventure
@@ -91,7 +96,9 @@ Victim,Killer,Cause,Universe
 2+ Black Hand Titans,Rico Rodriguez,Dependent,Just Cause
 2+ Children of Tamayo,Tamayo,Unknown,Demon Slayer
 21+ Boat Pilots,Rico Rodriguez,Dependent,Just Cause
+22 Undertakers,Nagi Kengamine,Various,Deadman Wonderland
 23+ Car Pilots,Rico Rodriguez,Dependent,Just Cause
+24 Prisoners,1 Necro Macro,Various,Deadman Wonderland
 24 Prisoners of the Nazi,Rudol von Stroheim,Unknown,Jojos Bizarre Adventure
 25+ Audience Members,Eren Yeager,Crushed by falling debris,Attack On Titan
 28 Survey Corps Members,Levi Ackerman & Zeke Yeager,Nape sliced,Attack On Titan
@@ -99,6 +106,8 @@ Victim,Killer,Cause,Universe
 3 Drunk Siblings,Muzan Kibutsuji,Unknown,Demon Slayer
 3 Hizuru Guards,Floch Forster,Various,Attack On Titan
 3 People,Kenji Hikiishi,Unknown,My Hero Academia
+3 Thugs,Tsunenaga Tamaki,Crushed to death,Deadman Wonderland
+3 Thugs of K?zuji,K?zuji Kazumasa,Shot to death,Deadman Wonderland
 3 Unnamed Members of the Yeagerists,Pieck Finger,Various,Attack On Titan
 3+ Members of the Spider Family,Rui,Various,Demon Slayer
 34 Members of Kenzou's Cult,Kenzou,Burned to death,Jojos Bizarre Adventure
@@ -142,6 +151,7 @@ Victim,Killer,Cause,Universe
 9 Anti-Personnel Control Squad Members,Rod Reiss,Various,Attack On Titan
 9 Marleyan Soldiers,Eren Kruger,Various,Attack On Titan
 9 Nazi Soldiers,Wamuu,Life force drained,Jojos Bizarre Adventure
+?shima,Azuma Genkaku,Shot to death,Deadman Wonderland
 Abbacchio's Partner,Blackmailing Criminal,Shot to death,Jojos Bizarre Adventure
 Abel,Military Police Brigade,Shot in the head,Attack On Titan
 Abel Reiss,Grisha Yeager,Crushed to death,Attack On Titan
@@ -150,6 +160,8 @@ Acquaintance of Rui's Parents,Rui,Unknown,Demon Slayer
 Adams,Jonathan Joestar,Tongue ripped out and head crushed,Jojos Bizarre Adventure
 Akaza,Akaza,Pulverized,Demon Slayer
 Akira Iwako,Chizome Akaguro,Sliced to death,My Hero Academia
+Akira Shind?,Goreless Peace,Unknown,Deadman Wonderland
+Akiyama,1 Undertaker who killed Akiyama,Shot to death,Deadman Wonderland
 Alma,Kenny Ackerman,Throat slit,Attack On Titan
 Amane Ubuyashiki,Kagaya Ubuyashiki,Caught in an explosion,Demon Slayer
 Anasui's Former Girlfriend,Narciso Anasui,Dismembered,Jojos Bizarre Adventure
@@ -159,6 +171,7 @@ Arnold,Yoshikage Kira,Throat slit,Jojos Bizarre Adventure
 Atroe,Foo Fighters,Caught in an explosion,Jojos Bizarre Adventure
 Aya Tsuji,Yoshikage Kira,Exploded,Jojos Bizarre Adventure
 Ayano Kamachi,Plague Noise,Erased,The World Ends With You
+Azami Mid?,Hagire Rinichir? & Toto Sakigami,Decapitated,Deadman Wonderland
 Aztec Tribe Mate,Aztec Chief,Blood drained,Jojos Bizarre Adventure
 Bean,Annie Leonhart,Unknown,Attack On Titan
 Beirer,Pure Titans,Eaten alive,Attack On Titan
@@ -185,6 +198,7 @@ Carne,Guido Mista,Shot to death,Jojos Bizarre Adventure
 Carriage Driver,Accidental Causes,Impaled on a wooden debris,Jojos Bizarre Adventure
 Cathleen Bate,Tomura Shigaraki & All for One,Turned to dust,My Hero Academia
 Chaka's Father,Chaka,Sliced to death,Jojos Bizarre Adventure
+Chan,Kiyomasa Senji & Hagire Rinichir? & Toto Sakigami,Stabbed then sliced into bits,Deadman Wonderland
 Charlotte,Unknown Causes,Unknown,Attack On Titan
 Cheap Trick,Malicious spirits of Ghost Girl's Alley,Dragged into hell,Jojos Bizarre Adventure
 Chibi,Pet Shop,Beheaded,Jojos Bizarre Adventure
@@ -229,6 +243,7 @@ Dog Owner,Anjuro Katagiri,Internal bleeding,Jojos Bizarre Adventure
 Doma,Kanao Tsuyuri,Decapitated,Demon Slayer
 Doma's Father,Doma's Mother,Stabbed to death,Demon Slayer
 Doma's Mother,Doma's Mother,Poisoned,Demon Slayer
+Domon,Ikazuchi Akatsuki,Beaten to death,Deadman Wonderland
 Donatella Una,Natural Causes,Disease,Jojos Bizarre Adventure
 Donatello Versus,Narciso Anasui,Head impaled,Jojos Bizarre Adventure
 Doobie,Jonathan Joestar,Vaporized,Jojos Bizarre Adventure
@@ -245,6 +260,7 @@ Elizabeth's Mother,Unnamed zombie,Struck with an axe,Jojos Bizarre Adventure
 Emerson Miller,Rico Rodriguez,Dependent,Just Cause
 Emporio's Mother,Enrico Pucci,Unknown,Jojos Bizarre Adventure
 En,All for One,Unknown,My Hero Academia
+En,Kiyomasa Senji & Hagire Rinichir? & Toto Sakigami,Stabbed then sliced into bits,Deadman Wonderland
 Enma Kannagi,Gigantomachia,Crushed to death,My Hero Academia
 Enmu,Tanjiro Kamado,Decapitated,Demon Slayer
 Enrico Pucci,Emporio Alnino,Head obliterated,Jojos Bizarre Adventure
@@ -269,6 +285,7 @@ Formaggio,Narancia Ghirga,Shot to death,Jojos Bizarre Adventure
 Franz Kefka,Pure Titans,Bitten in half,Attack On Titan
 Frieda Reiss,Grisha Yeager,Eaten alive,Attack On Titan
 Fritz,Unknown Causes,Unknown,Attack On Titan
+Fujiyoshi,Azuma Genkaku,Shot to death,Deadman Wonderland
 Funkman,Unknown Causes,Unknown,My Hero Academia
 Funny's Father,Unnamed soldiers,Tortured to death,Jojos Bizarre Adventure
 Fuya Kawahara,Shiba Miyakaze,Erased,The World Ends With You
@@ -294,7 +311,9 @@ Gyokko's Father,Accidental Causes,Drowned,Demon Slayer
 Gyokko's Mother,Accidental Causes,Drowned,Demon Slayer
 Gyomei Himejima,Muzan Kibutsuji,Fatally wounded then bled out,Demon Slayer
 Gyutaro,Tanjiro Kamado,Decapitated,Demon Slayer
+Hagire Rinichir?,Ganta Igarashi,Shot to death,Deadman Wonderland
 Hairo,Kyojuro Rengoku,Decapitated,Demon Slayer
+Hajime Mikawa,Idaki Hitara,Burned to death,Deadman Wonderland
 Halil,Eren Yeager & Wall Titans,Crushed by falling debris,Attack On Titan
 Hana Shimura,Tomura Shigaraki,Turned to dust,My Hero Academia
 Hanako Kamado,Muzan Kibutsuji,Unknown,Demon Slayer
@@ -306,17 +325,23 @@ Hantengu,Tanjiro Kamado,Slashed to death,Demon Slayer
 Harold,Bertolt Hoover,Caught in an explosion,Attack On Titan
 Haruhisa,Chizome Akaguro,Sliced to death,My Hero Academia
 Henning,Zeke Yeager,Struck by a rock at high velocity,Attack On Titan
+Hibana Daida,Hagire Rinichir? & Toto Sakigami,Sliced to death,Deadman Wonderland
+Hibana Daida's Mother,Hibana Daida,Tortured to death,Deadman Wonderland
 Hikage Shinomori,Natural Causes,Old age,My Hero Academia
 Hinaki Ubuyashiki,Kagaya Ubuyashiki,Caught in an explosion,Demon Slayer
+Hinata Mukai,Goreless Peace,Burned to death,Deadman Wonderland
 Hitchhiker,Johngalli A.,Drowned to death,Jojos Bizarre Adventure
 Hokuto Hario,Number Six,Exploded,My Hero Academia
 Hood,Enji Todoroki,Burned to death,My Hero Academia
 Horned Demon,Inosuke Hashibira,Decapitated,Demon Slayer
 Huchasunqu,Rico Rodriguez,Dependent,Just Cause
 Ian Dietrich,Pure Titans,Head bitten off,Attack On Titan
+Ichi Mikawa,Idaki Hitara,Burned to death,Deadman Wonderland
 Iggy,Vanilla Ice,Fatal internal wounds,Jojos Bizarre Adventure
+Ikazuchi Akatsuki,Kiyomasa Senji,Sliced to death,Deadman Wonderland
 Illuso,Pannacotta Fugo,Roted from the inside,Jojos Bizarre Adventure
 Ilse Langnar,Talking Titan,Head bitten off,Attack On Titan
+Izuru Tsukiyoshi,Goreless Peace,Burned to death,Deadman Wonderland
 J. Geil,Jean Pierre Polnareff,Stabbed to death,Jojos Bizarre Adventure
 Jack the Ripper,Jonathan Joestar,Vaporized,Jojos Bizarre Adventure
 Jack the Ripper's Date,Jack the Ripper,Neck sliced,Jojos Bizarre Adventure
@@ -331,6 +356,8 @@ Jolyne Cujoh,Enrico Pucci,Fatally wounded via Stand destruction,Jojos Bizarre Ad
 Jonathan Joestar,Dio Brando,Shot in the throat then bled out,Jojos Bizarre Adventure
 Jones,Straizo,Vaporized,Jojos Bizarre Adventure
 Jotaro Kujo,Enrico Pucci,Face sliced open,Jojos Bizarre Adventure
+K?moto,1 Necro Macro,Crushed to death,Deadman Wonderland
+K?zuji Kazumasa,Dog Race Show,Impaled to death,Deadman Wonderland
 Kagaya Ubuyashiki,Kagaya Ubuyashiki,Caught in an explosion,Demon Slayer
 Kaichi Susuki,Rindo Kanade & Tosai Furesawa & Nagi Usui & Daisukenojo Bito & Shoka Sakurane & Neku Sakuraba,Erased,The World Ends With You
 Kaigaku,Zenitsu Agatsuma,Decapitated,Demon Slayer
@@ -340,6 +367,7 @@ Kanon Tachibana,Plague Noise,Erased,The World Ends With You
 Karl Fritz,Unknown Causes,Unknown,Attack On Titan
 Kars's Double,Lisa Lisa,Vaporized,Jojos Bizarre Adventure
 Katsuhiko Tanimaru,Shiba Miyakaze,Erased,The World Ends With You
+Kazu,1 Undertaker who killed Kazu,Burned to death,Deadman Wonderland
 Kazuko Sugimoto,Yoshikage Kira,Unknown,Jojos Bizarre Adventure
 Keicho Nijimura,Akira Otoishi,Electrocuted to death,Jojos Bizarre Adventure
 Keiji,Traute Caven,Shot in the head,Attack On Titan
@@ -350,11 +378,13 @@ Kenjutsu Dojo's Head,Akaza,Beaten to death,Demon Slayer
 Kenny Ackerman,Rod Reiss,Fatally burned,Attack On Titan
 Kenny's Grandfather,Natural Causes,Unknown,Attack On Titan
 Kie Kamado,Muzan Kibutsuji,Unknown,Demon Slayer
+King Fisher,1 Deadman who killed King Fisher,Unknown,Deadman Wonderland
 Klaus,Zeke Yeager,Struck by a rock at high velocity,Attack On Titan
 Kohei Toyohashi,Shiba Miyakaze,Erased,The World Ends With You
 Kokushibo,Gyomei Himejima,Head crushed,Demon Slayer
 Kosaku Kawajiri,Yoshikage Kira,Unknown,Jojos Bizarre Adventure
 Koslow,Mikasa Ackerman,Sliced to death,Attack On Titan
+Kosugi,1 Undertaker who killed Kosugi,Stabbed to death,Deadman Wonderland
 Kotaro Shimura,Tomura Shigaraki,Turned to dust,My Hero Academia
 Kotoha Hashibira,Doma,Eaten alive,Demon Slayer
 Kotoha's Husband,Doma,Unknown,Demon Slayer
@@ -373,6 +403,7 @@ Loggins,Esidisi,Impaled,Jojos Bizarre Adventure
 Luca,Passione,Unknown,Jojos Bizarre Adventure
 Luke Siss,Annie Leonhart,Crushed to death,Attack On Titan
 Lynne,Zeke Yeager,Struck by a rock at high velocity,Attack On Titan
+M?zuri Gazuchi,Kiyomasa Senji,Cut in half,Deadman Wonderland
 Maiden,Aztec Chief,Stabbed in the heart,Jojos Bizarre Adventure
 Maito Minami,Plague Noise,Erased,The World Ends With You
 Mako,Tomura Shigaraki,Turned to dust,My Hero Academia
@@ -398,15 +429,20 @@ Melone,Giorno Giovanna,Bitten by a venomous snake,Jojos Bizarre Adventure
 Miguel Rodriguez,Sebastiano Di Ravello & Oscar Espinosa,Burned to death,Just Cause
 Mikasa's Mother,The Robbers' Axe-man,Struck with an axe,Attack On Titan
 Mike Zacharias,Zeke Yeager & Pure Titans,Ripped to pieces,Attack On Titan
+Mimi,Shiro,Decapitated,Deadman Wonderland
 Mina Carolina,Peering Titan,Head bitten off,Attack On Titan
 Minako Okura,Yoshikage Kira,Exploded,Jojos Bizarre Adventure
+Minatsuki Takami's Father,Minatsuki Takami,Unknown,Deadman Wonderland
+Minatsuki Takami's Mother,Shiro,Crushed to death,Deadman Wonderland
 Mirai Sasaki,Kai Chisaki,Abdomen fatally pierced then bled out,My Hero Academia
 Mitabi Jarnach,Pure Titans,Crushed to death,Attack On Titan
 Mitsuki Konishi,Neku Sakuraba & Daisukenojo Bito,Erased,The World Ends With You
 Mitsuri Kanroji,Muzan Kibutsuji,Arms cut off then bled out,Demon Slayer
+Miya,1 Undertaker who killed Miya,Decapitated,Deadman Wonderland
 Miyashita,Rikiya Yotsubashi,Neck snapped,My Hero Academia
 Moblit Berner,Bertolt Hoover,Caught in an explosion,Attack On Titan
 Mocha,Rumi Usagiyama,Kicked to death,My Hero Academia
+Momoi,Goreless Peace,Unknown,Deadman Wonderland
 Mon,Tomura Shigaraki,Turned to dust,My Hero Academia
 Moreau,Thunderstorm,Electrocuted,Just Cause
 Moses Braun,Pure Titans,Eaten alive,Attack On Titan
@@ -427,6 +463,8 @@ Muñoz,Rico Rodriguez,Dependent,Just Cause
 Mylius Zeramuski,Pure Titans,Crushed to death,Attack On Titan
 N'Doul,N'Doul,Head pierced,Jojos Bizarre Adventure
 Nac Tias,Pure Titans,Eaten alive,Attack On Titan
+Nagi Kengamine,Azuma Genkaku,Shot in the abdomen then bled out,Deadman Wonderland
+Nagi Kengamine's Wife,Tsunenaga Tamaki & Azuma Genkaku,Unknown,Deadman Wonderland
 Nakime,Muzan Kibutsuji,Head crushed,Demon Slayer
 Nakime's Husband,Nakime,Beaten to death with a hammer,Demon Slayer
 Nana Shimura,All for One,Unknown,My Hero Academia
@@ -437,7 +475,7 @@ Narancia Ghirga,Diavolo,Impaled on an iron gate,Jojos Bizarre Adventure
 Narciso Anasui,Enrico Pucci,Impaled in the chest,Jojos Bizarre Adventure
 Native,Nomu,Bitten to death,My Hero Academia
 Nazi Officer,Wamuu,Life force drained,Jojos Bizarre Adventure
-Nemuri Kayama,Paranormal Liberation Front Soldier,Unknown,My Hero Academia
+Nemuri Kayama,1 Paranormal Liberation Front Soldier,Unknown,My Hero Academia
 Nena,Joseph Joestar,Fatally wounded via Stand destruction,Jojos Bizarre Adventure
 Nice Tourist,Enrico Pucci,Impaled on a fence,Jojos Bizarre Adventure
 Nichika Ubuyashiki,Kagaya Ubuyashiki,Caught in an explosion,Demon Slayer
@@ -479,6 +517,7 @@ Prostitute Prisoner,Sports Maxx,Eaten alive,Jojos Bizarre Adventure
 Pure Titans,Survey Corps,Nape sliced,Attack On Titan
 Racist Detective,Weather Report,Shot in the head,Jojos Bizarre Adventure
 Ramzi,Eren Yeager & Wall Titans,Stomped to death,Attack On Titan
+Rei Takashima,Shiro,Unknown,Deadman Wonderland
 Reimi Sugimoto,Yoshikage Kira,Stabbed in the back,Jojos Bizarre Adventure
 Ribby,Tomura Shigaraki,Turned to dust,My Hero Academia
 Riko Sekinohara,Shiba Miyakaze,Erased,The World Ends With You
@@ -527,9 +566,12 @@ Sheena Fritz,Unknown Causes,Unknown,Attack On Titan
 Sherry Polnareff,J. Geil,Unknown,Jojos Bizarre Adventure
 Shigekiyo Yangu,Yoshikage Kira,Exploded,Jojos Bizarre Adventure
 Shigeru Kamado,Muzan Kibutsuji,Unknown,Demon Slayer
+Shinagawa D?koku,Kiyomasa Senji,Sliced to death,Deadman Wonderland
 Shinobu Kocho,Doma,Consumed,Demon Slayer
 Shinobu and Kanae's Father,1 Demon who killed Shinobu's Parents,Unknown,Demon Slayer
 Shinobu and Kanae's Mother,1 Demon who killed Shinobu's Parents,Unknown,Demon Slayer
+Shishito Madoka,Ganta Igarashi,Shot to death,Deadman Wonderland
+Shishito Madoka's Father,Shiro,Crushed to death,Deadman Wonderland
 Shizu Shinazugawa,Sanemi Shinazugawa,Decapitated,Demon Slayer
 Simone Corso,Thunderstorm,Electrocuted,Just Cause
 Simón Valencia,Rico Rodriguez,Dependent,Just Cause
@@ -537,6 +579,7 @@ Singapore Hotel Valet,Devo the Cursed,Face sliced off,Jojos Bizarre Adventure
 Soji,Chizome Akaguro,Sliced to death,My Hero Academia
 Sonny,Annie Leonhart,Unknown,Attack On Titan
 Sophia Espinosa,Unknown Causes,Unknown,Just Cause
+Sorae Igarashi,Sorae Igarashi,Shot to death,Deadman Wonderland
 Sorbet,Cioccolata,Sliced into pieces,Jojos Bizarre Adventure
 Sota Honjo,Taboo Noise,Erased,The World Ends With You
 Spider Demon (Daughter),Shinobu Kocho,Poisoned,Demon Slayer
@@ -554,7 +597,9 @@ Sunny Springer,Survey Corps,Nape sliced,Attack On Titan
 Superior Officer Zombie,Lisa Lisa,Vaporized,Jojos Bizarre Adventure
 Susamaru,Muzan Kibutsuji,Ripped apart from the inside,Demon Slayer
 Swamp Demon,Tanjiro Kamado,Decapitated,Demon Slayer
+T?shir? Kan,Goreless Peace,Unknown,Deadman Wonderland
 Takashi Sugimoto,Yoshikage Kira,Unknown,Jojos Bizarre Adventure
+Take's Lover,Chaplin Sukegawa,Impaled to death,Deadman Wonderland
 Takeo Kamado,Muzan Kibutsuji,Unknown,Demon Slayer
 Talking Titan,Levi Ackerman,Nape sliced,Attack On Titan
 Tama,Shinobu Kawajiri,Impaled on broken glass,Jojos Bizarre Adventure
@@ -580,11 +625,16 @@ Tiziano,Narancia Ghirga,Shot to death,Jojos Bizarre Adventure
 Tom,Pure Titans,Eaten alive,Attack On Titan
 Tom Ksaver,Zeke Yeager,Eaten alive,Attack On Titan
 Tongue Demon,Zenitsu Agatsuma,Decapitated,Demon Slayer
+Toto Sakigami,Ganta Igarashi,Shot to death,Deadman Wonderland
+Toto Sakigami's Sister,Shiro,Crushed to death,Deadman Wonderland
 Traute Caven,Rod Reiss,Crushed by falling debris,Attack On Titan
 Tsugumi Matsunae's brother,Tsugumi Matsunae's brother,Erased,The World Ends With You
+Tsunenaga Tamaki,Tsunenaga Tamaki,Shot in the head,Deadman Wonderland
+Tsunenaga Tamaki's Mother,Shiro,Crushed to death,Deadman Wonderland
 Tsutako Tomioka,1 Demon who killed Tsutako,Unknown,Demon Slayer
 Ubume,Sanemi Shinazugawa,Decapitated,Demon Slayer
 Udo,Audience Members,Trampled to death,Attack On Titan
+Ueshima,Azuma Genkaku,Shot to death,Deadman Wonderland
 Ultra Security House Unit Prisoners,Guccio,Various,Jojos Bizarre Adventure
 Uri Reiss,Frieda Reiss,Eaten alive,Attack On Titan
 Urklyn Reiss,Grisha Yeager,Crushed to death,Attack On Titan
@@ -595,6 +645,7 @@ Vanilla Ice,Jean Pierre Polnareff,Vaporized,Jojos Bizarre Adventure
 Varanasi Doctor,Nena,Face torn with a scalpel,Jojos Bizarre Adventure
 Varis,Levi Ackerman & Zeke Yeager,Nape sliced,Attack On Titan
 Vinegar Doppio,Guido Mista,Shot to death,Jojos Bizarre Adventure
+Wakabayashi,Azuma Genkaku,Shot to death,Deadman Wonderland
 Wakuraba,Muzan Kibutsuji,Decapitated,Demon Slayer
 Wamuu,Joseph Joestar,Vaporized,Jojos Bizarre Adventure
 Wang Chan,Jonathan Joestar,Head crushed and vaporized,Jojos Bizarre Adventure
@@ -610,16 +661,21 @@ Wired Beck,Lisa Lisa,Vaporized,Jojos Bizarre Adventure
 Woman,Enji Todoroki,Burned to death,My Hero Academia
 X-Less,Tomura Shigaraki,Turned to dust,My Hero Academia
 Yahaba,Tanjiro Kamado,Decapitated,Demon Slayer
+Yamakatsu Katsuya,Shiro,Unknown,Deadman Wonderland
+Yamazaki,Azuma Genkaku,Shot to death,Deadman Wonderland
 Ymir,Porco Galliard,Eaten alive,Attack On Titan
 Ymir Fritz,Marleyan Officer,Impaled by a spear,Attack On Titan
 Yodai Higashizawa,Neku Sakuraba & Shiki Misaki,Erased,The World Ends With You
 Yoichi Shigaraki,All for One,Unknown,My Hero Academia
 Yoriichi Tsugikuni,Natural Causes,Old age,Demon Slayer
 Yoriichi and Kokushibo's Mother,Natural Causes,Disease,Demon Slayer
-Yoshihiro Kira,Natural Causes,Cancer,Jojos Bizarre Adventure
 Yoshihiro Kira,Yoshikage Kira,Caught in an explosion,Jojos Bizarre Adventure
+Yoshihiro Kira,Natural Causes,Cancer,Jojos Bizarre Adventure
 Yoshikage Kira,Ambulance driver,Head crushed by an ambulance,Jojos Bizarre Adventure
+Yosuga Mitsuzaki,Hagire Rinichir? & Toto Sakigami,Impaled in the head,Deadman Wonderland
 Yuichiro Tokito,1 Demon who killed Yuichiro,Fatally wounded then bled out,Demon Slayer
+Yuki Hitara,Yuki Hitara,Burned to death,Deadman Wonderland
+Yuki's Mother,Natural Causes,Maternal death,Deadman Wonderland
 Zach Schlappi,Eden,Frozen to death,Just Cause
 Zeke Yeager,Levi Ackerman,Decapitated with a sword,Attack On Titan
 Zeno Antithikara,Rico Rodriguez,Helicopter crash,Just Cause

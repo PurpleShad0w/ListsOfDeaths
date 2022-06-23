@@ -3,7 +3,7 @@ Abdomen fatally pierced then bled out,1
 Absorbed,1
 Arms cut off then bled out,2
 Back ripped open,1
-Beaten to death,72
+Beaten to death,73
 Beaten to death with a hammer,1
 Beheaded,7
 Bitten by a venomous snake,1
@@ -11,7 +11,7 @@ Bitten in half,3
 Bitten to death,1
 Blood drained,3
 Bronchitis,1
-Burned to death,48
+Burned to death,54
 Cancer,1
 Carriage accident,2
 Caught in an explosion,16
@@ -24,11 +24,11 @@ Crushed by a boulder,1
 Crushed by a car,1
 Crushed by a falling door,1
 Crushed by falling debris,28
-Crushed to death,167
+Crushed to death,175
 Crushed under a rock,1
-Cut in half,1
+Cut in half,2
 Cut in half then bled out,2
-Decapitated,27
+Decapitated,30
 Decapitated with a sword,2
 Dehydration,15
 Dependent,280
@@ -47,7 +47,7 @@ Every bone shattered,1
 Executed,1
 Exhaustion,5
 Exorcised,1
-Exploded,11
+Exploded,12
 Eye infection,1
 Face sliced off,1
 Face sliced open,1
@@ -82,11 +82,13 @@ Helicopter crash,1
 Impaled,1
 Impaled by a spear,1
 Impaled in the chest,1
+Impaled in the head,1
 Impaled on a fence,1
 Impaled on a wooden debris,1
 Impaled on an iron gate,1
 Impaled on broken glass,1
 Impaled through the neck,2
+Impaled to death,2
 Internal bleeding,2
 Internal wounds,1
 Jumped off a cliff,1
@@ -94,6 +96,7 @@ Jumped off a roof,1
 Kicked to death,3
 Life force drained,10
 Limbs torn off,1
+Maternal death,1
 Mauled to death,1
 Nape blown up,1
 Nape sliced,38
@@ -116,23 +119,25 @@ Ripped apart from the inside,2
 Ripped into pieces,1
 Ripped to pieces,4
 Roted from the inside,1
-Shot in the head,14
+Shot in the abdomen then bled out,1
+Shot in the head,15
 Shot in the neck,1
 Shot in the stomach then bled out,1
 Shot in the throat then bled out,1
 Shot through the mouth,2
-Shot to death,32
+Shot to death,46
 Skull crushed,1
 Slashed to death,1
 Sliced in half,1
 Sliced into pieces,1
-Sliced to death,28
+Sliced to death,31
 Stabbed in the back,1
 Stabbed in the brain,1
 Stabbed in the head,3
 Stabbed in the heart,2
 Stabbed multiple times until death,1
-Stabbed to death,18
+Stabbed then sliced into bits,2
+Stabbed to death,20
 Stabbed with multiple spears,1
 Stomped to death,4
 Struck by a rock at high velocity,8
@@ -147,9 +152,9 @@ Thrown into the sea,1
 Thrown to the ground at high velocity,1
 Tongue ripped out and head crushed,1
 Torso exploded,1
-Tortured to death,4
+Tortured to death,5
 Trampled to death,1
 Turned to dust,88
-Unknown,116
+Unknown,126
 Vaporized,21
-Various,597
+Various,662
