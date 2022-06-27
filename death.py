@@ -34,6 +34,10 @@ def murder_graph(df):
             else:
                 new_dst = str(number)+' people'
         
+        # Check for unknown number in victims
+        if '?' in dst:
+            new_dst = '? people'
+
         # Check for numbered characters in killers
         if any(char.isdigit() for char in src):
             number = [char for char in src if char.isdigit()]
@@ -42,6 +46,10 @@ def murder_graph(df):
                 new_src = str(number)+' person'
             else:
                 new_src = str(number)+' people'
+
+        # Check for unknown number in killers
+        if '?' in src:
+            new_src = '? people'
 
         # Check for multiple killers
         if '&' in src:
