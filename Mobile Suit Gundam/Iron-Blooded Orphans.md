@@ -1,7 +1,3 @@
-# Mobile Suit Gundam
-
-<details><summary>Mobile Suit Gundam : Iron-Blooded Orphans</summary>
-
 - **Akihiro Altland** - Slain by _Iok Kujan_'s subordinates
 - **Allium Gyojan** - Shot by _Mikazuki Augus_ on orders from _Orga Itsuka_
 - **Amida Arca** - Shot down by _Iok Kujan_'s men
@@ -39,5 +35,3 @@
 - **Savarin Canele** - Committed _suicide_ via hanging
 - **Togonosuke Makanai** - Passed away from natural causes
 - **Vito** - Slain by _Mikazuki Augus_
-
-</details>
