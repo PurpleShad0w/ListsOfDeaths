@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-deaths = pd.DataFrame(columns=['universe', 'victim', 'culprit'])
+deaths = pd.DataFrame(columns=['universe', 'victim', 'culprit', 'observer dependent', 'final'])
 
 
 for path, subdirs, files in os.walk('Lists'):
@@ -16,12 +16,21 @@ for path, subdirs, files in os.walk('Lists'):
             victim = line.split('**')[1::2][0]
             culprits = line.split('_')[1::2]
 
+            if '(observer dependent)' in line:
+                observer = True
+            else:
+                observer = False
+            
+            if '(later revived)' in line or '(later resurrected)' in line:
+                final = False
+            else:
+                final = True
+
             for culprit in culprits:
                 if culprit == 'suicide':
                     culprit = victim
                 
-                row = [universe, victim, culprit]
+                row = [universe, victim, culprit, observer, final]
                 deaths.loc[len(deaths)] = row
 
-print(deaths)
-print(deaths.groupby(by=['universe', 'culprit']).count())
+deaths.groupby(by=['universe', 'culprit']).count().sort_values(by='victim', ascending=False)
