@@ -1,7 +1,8 @@
 import os
 import pandas as pd
 
-deaths = pd.DataFrame(columns=['universe', 'victim', 'culprit', 'observer dependent', 'final'])
+kills = pd.DataFrame(columns=['universe', 'culprit', 'count', 'victims'])
+deaths = pd.DataFrame(columns=['universe', 'victim', 'culprits', 'observer dependent', 'final'])
 
 
 for path, subdirs, files in os.walk('Lists'):
@@ -26,11 +27,15 @@ for path, subdirs, files in os.walk('Lists'):
             else:
                 final = True
 
-            for culprit in culprits:
-                if culprit == 'suicide':
-                    culprit = victim
-                
-                row = [universe, victim, culprit, observer, final]
-                deaths.loc[len(deaths)] = row
+            for i in range(len(culprits)):
+                if culprits[i] == 'suicide':
+                    culprits[i] = victim
 
-deaths.groupby(by=['universe', 'culprit']).count().sort_values(by='victim', ascending=False)
+                row = [universe, culprits[i], 1, victim]
+                kills.loc[len(kills)] = row
+
+            row = [universe, victim, culprits, observer, final]
+            deaths.loc[len(deaths)] = row
+
+
+kills = kills.groupby(by=['universe', 'culprit']).aggregate({'count':sum, 'victims':', '.join}).reset_index().sort_values(by='count', ascending=False)
