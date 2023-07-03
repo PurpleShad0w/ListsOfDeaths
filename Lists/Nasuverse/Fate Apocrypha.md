@@ -1,0 +1,24 @@
+- **Achilles** - Fatally wounded by _Atalanta_
+- **Amakusa Shirou Tokisada** - Fatally wounded by _Sieg_
+- **Atalanta** - Impaled by _Achilles_ with his spears
+- **Avi Dikhail** - Burned and heart gouged out by _Jack the Ripper_ on orders from _Reika Rikudou_
+- **Avicebron** - Shot by _Chiron_
+- **Carl Lexarm** - Throat slit and heart gouged out by _Jack the Ripper_ on orders from _Reika Rikudou_
+- **Celenike Icecolle Yggdmillennia** - Decapitated by _Mordred_
+- **Chiron** - Fatally punched by _Achilles_
+- **Darnic Prestone Yggdmillennia** - Reduced to ashes by _Amakusa Shirou Tokisada_
+- **Frankenstein** - Committed _suicide_ by using her Noble Phantasm at the cost of her life
+- **Hyouma Sagara** - Slain by _Jack the Ripper_ on orders from _Reika Rikudou_
+- **Jack the Ripper** - Exorcised by _Jeanne d'Arc_
+- **Jeanne d'Arc** - Committed _suicide_ by using her Noble Phantasm at the cost of her life
+- **Kairi Sisigou** - Mortally poisoned by _Semiramis_
+- **Karna** - Fatally wounded by _Sieg_
+- **Mordred** - Mortally poisoned by _Semiramis_
+- **Pemetrekis** - Cut down by _Jack the Ripper_
+- **Reika Rikudou** - Shot by _Atalanta_
+- **Roche Frain Yggdmillennia** - Fed to Adam by _Avicebron_
+- **Semiramis** - Fatally wounded by _Mordred_
+- **Siegfried** - Committed _suicide_ by ripping his own heart out
+- **Spartacus** - Committed _suicide_ by using his Noble Phantasm at the cost of his life
+- **Vlad III** - Reduced to ashes by _Amakusa Shirou Tokisada_
+- **William Shakespeare** - Disappeared after his master Amakusa Shirou's death at the hands of _Sieg_
