@@ -7,6 +7,8 @@
 - **Iskandar** - Stabbed in the chest by _Gilgamesh_
 - **Kariya Matou** - Mana exhaustion caused by _Lancelot_
 - **Kayneth El-Melloi Archibald** - Beheaded by _Artoria Pendragon_
+- **Kirei Kotomine** - Shot in the heart by _Kiritsugu Emiya_ (later resurrected)
+- **Kiritsugu Emiya** - Passed away after being cursed by _Angra Mainyu_
 - **Kobayashi** - Absorbed by _Gilles de Rais_
 - **Lancelot** - Stabbed in the chest by _Artoria Pendragon_
 - **Maiya Hisau** - Fatally injured by _Lancelot_

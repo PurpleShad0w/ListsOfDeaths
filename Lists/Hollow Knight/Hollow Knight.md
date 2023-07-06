@@ -20,7 +20,6 @@
 - **Galien** - Slain by the creatures of Deepnest
 - **Galien (spirit)** - Essence extracted by _The Knight_
 - **Garro (spirit)** - Essence extracted by _The Knight_
-- **God Tamer's Beast** - Slain by _The Knight_
 - **Gorb (spirit)** - Essence extracted by _The Knight_
 - **Gorgeous Husk** - Slain by _The Knight_
 - **Gravedigger (spirit)** - Essence extracted by _The Knight_
