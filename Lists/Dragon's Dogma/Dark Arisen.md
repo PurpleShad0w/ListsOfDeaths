@@ -1,0 +1,43 @@
+- **Aelinore** - Strangled by _Edmun Dragonsbane_ (observer dependent)
+- **Alejo** - Fatally wounded by _Grigori_ (observer dependent)
+- **Ashe** - Slain by _The Arisen_
+- **Balsac** - Slain by _The Arisen_
+- **Condor** - Slain by _The Arisen_
+- **Cortese** - Immolated by _Grigori_
+- **Darkness** - Slain by _The Arisen_
+- **Elysion** - Slain by _Grigori_
+- **Ema** - Fatally wounded by _Grigori_ (observer dependent)
+- **Emme** - Died during the destruction of Gran Soren caused by _Grigori_
+- **Ghost** - Slain by _The Arisen_
+- **Grigori** - Slain by _The Arisen_
+- **Hawk** - Slain by _The Arisen_
+- **Janielle** - Fatally wounded by _Grigori_ (observer dependent)
+- **Jean** - Slain by a Cyclops
+- **Julien** - Slain by _The Arisen_ (observer dependent)
+- **Kent** - Slain by _The Arisen_
+- **Lazoro** - Fatally wounded by _Grigori_ (observer dependent)
+- **Lowane** - Slain by _The Arisen_
+- **Marcelo** - Slain by _Mason_ (observer dependent)
+- **Marcelo** - Slain by _The Arisen_ (observer dependent)
+- **Noir** - Slain by _The Arisen_
+- **Olra** - Slain by _Grette_
+- **Phantom** - Slain by _The Arisen_
+- **Ramon** - Fatally wounded by _Grigori_ (observer dependent)
+- **Raven** - Slain by _The Arisen_
+- **Reynard** - Slain by Goblins (observer dependent)
+- **Rouge** - Slain by _The Arisen_
+- **Salomet** - Pushed off the Bluemoon Tower by _The Arisen_
+- **Savan** - Stabbed with Godsbane by _The Arisen_
+- **Sentena** - Fatally wounded by _Grigori_ (observer dependent)
+- **Ser Palotti** - Devoured by a Chimera
+- **Ser Raffe** - Died during the destruction of Gran Soren caused by _Grigori_
+- **Ser Tolth** - Petrified by a Cockatrice
+- **Ser Westley** - Pecked by the Griffin (observer dependent)
+- **Soul** - Slain by _The Arisen_
+- **Spirits** - Slain by _The Arisen_
+- **The Dark Bishop** - Slain by _The Arisen_
+- **The Dragonforged** - Crumbled to dust after the defeat of Grigori at the hands of _The Arisen_
+- **The Gazer** - Slain by _The Arisen_
+- **The Ur-Dragon** - Slain by _The Arisen_
+- **Wilhem** - Succumbed to an illness
+- **Zero** - Slain by _The Arisen_
