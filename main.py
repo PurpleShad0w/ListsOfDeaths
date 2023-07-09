@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 kills = pd.DataFrame(columns=['universe', 'culprit', 'count', 'victims'])
-deaths = pd.DataFrame(columns=['universe', 'victim', 'culprits', 'observer dependent', 'final'])
+deaths = pd.DataFrame(columns=['universe', 'victim', 'culprits', 'observer dependent', 'definitive'])
 
 
 for path, subdirs, files in os.walk('Lists'):
@@ -22,10 +22,10 @@ for path, subdirs, files in os.walk('Lists'):
             else:
                 observer = False
             
-            if '(later revived)' in line or '(later resurrected)' in line:
-                final = False
+            if '(later revived)' in line or '(later resurrected)' in line or observer:
+                definitive = False
             else:
-                final = True
+                definitive = True
 
             for i in range(len(culprits)):
                 if culprits[i] == 'suicide':
@@ -34,7 +34,7 @@ for path, subdirs, files in os.walk('Lists'):
                 row = [universe, culprits[i], 1, victim]
                 kills.loc[len(kills)] = row
 
-            row = [universe, victim, culprits, observer, final]
+            row = [universe, victim, culprits, observer, definitive]
             deaths.loc[len(deaths)] = row
 
 
