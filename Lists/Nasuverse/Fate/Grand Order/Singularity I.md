@@ -1,0 +1,18 @@
+- **Atalanta** - Slain by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Carmilla** - Slain by _Ritsuka Fujimaru_ and _Elizabeth Báthory_
+- **Charles-Henri Sanson** - Slain by _Ritsuka Fujimaru_ and _Wolfgang Amadeus Mozart_
+- **Chevalier d'Eon** - Slain by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Elizabeth Báthory** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Fafnir** - Slain by _Siegfried_
+- **Georgios** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Gilles de Rais** - Slain by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Jeanne d'Arc** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Jeanne d'Arc Alter** - Slain by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Kiyohime** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Lancelot** - Slain by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Marie Antoinette** - Slain by _Jeanne d'Arc Alter_
+- **Martha** - Slain by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Phantom of the Opera** - Slain by _Wolfgang Amadeus Mozart_
+- **Siegfried** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Vlad III** - Slain by _Ritsuka Fujimaru_ and _Mash Kyrielight_
+- **Wolfgang Amadeus Mozart** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_ and _Mash Kyrielight_

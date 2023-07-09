@@ -1,0 +1,9 @@
+- **Artoria Pendragon Alter** - Slain by _Cú Chulainn_
+- **Cú Chulainn** - Committed _suicide_ by defeating Artoria Alter and ending the Holy Grail War
+- **Darius III** - Slain by _Artoria Pendragon Alter_ (later revived)
+- **Darius III** - Slain by _Cú Chulainn_
+- **EMIYA** - Slain by _Cú Chulainn_
+- **Hassan of the Cursed Arm** - Slain by _Ritsuka Fujimaru_, _Mash Kyrielight_ and _Cú Chulainn_
+- **Medusa** - Burned by _Cú Chulainn_
+- **Medusa** - Slain by _Artoria Pendragon Alter_ (later revived)
+- **Musashibou Benkei** - Slain by _Ritsuka Fujimaru_, _Mash Kyrielight_ and _Cú Chulainn_
