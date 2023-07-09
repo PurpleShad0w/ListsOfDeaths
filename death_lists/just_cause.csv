@@ -1,11 +1,13 @@
 Victim,Killer,Cause
 1 Commandante,1 Commandante & Sebastiano Di Ravello,Shot in the head
+1 Firebrand Scout Chopper Pilot,Rico Rodriguez,Caught in an explosion
 1 Soldier,Sebastiano Di Ravello,Beaten to death
 10 Captains,Rico Rodriguez,Dependent
 10 Commandante,Rico Rodriguez,Dependent
 12+ Tank Pilots,Rico Rodriguez,Dependent
 18+ Jet Pilots,Rico Rodriguez,Dependent
 2 Prisoners,Black Hand,Shot to death
+2 Rebels,1 Firebrand Scout Chopper Pilot,Shot to death
 2+ Black Hand Titans,Rico Rodriguez,Dependent
 21+ Boat Pilots,Rico Rodriguez,Dependent
 23+ Car Pilots,Rico Rodriguez,Dependent
@@ -15,6 +17,7 @@ Victim,Killer,Cause
 41+ Helicopter Pilots,Rico Rodriguez,Dependent
 42+ Black Hand Soldiers,Rico Rodriguez,Dependent
 49 Rebels remembered via Shrines,Sebastiano Di Ravello,Various
+6 Black Hand Soldiers,Rico Rodriguez,Shot to death
 6+ Snipers,Rico Rodriguez,Dependent
 80+ Soldiers,Rico Rodriguez,Dependent
 Bonnet,Sebastiano Di Ravello,Shot in the neck

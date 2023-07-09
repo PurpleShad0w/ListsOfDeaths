@@ -14,3 +14,7 @@ Just Cause 3 Kills Calculation :
 - mech pilots : 1+1+1+1 = 4
 - black hand soldiers : 10+2+6+2+2+2+2+10+2+4 = 42
 - snipers : 2+4 = 6
+
+Just Cause 4 Kills Calculation :
+- black hand grunts : 6+1+1
+- black hand soldiers : 1
