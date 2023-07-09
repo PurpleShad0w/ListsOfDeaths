@@ -1,0 +1,23 @@
+- **Artoria Pendragon** - Committed _suicide_ by destroying the Holy Grail on orders from _Kiritsugu Emiya_
+- **Bucephalus** - Slain by _Gilgamesh_
+- **Diarmuid Ua Duibhne** - Committed _suicide_ by driving his own lance in his chest, on orders from _Kayneth El-Melloi Archibald_, coerced by _Kiritsugu Emiya_
+- **Gilles de Rais** - Incinerated by _Artoria Pendragon_
+- **Hassan of the Hundred Faces** - Massacred by _Iskandar_
+- **Irisviel von Einzbern** - Neck broken by _Kirei Kotomine_
+- **Iskandar** - Stabbed in the chest by _Gilgamesh_
+- **Kariya Matou** - Mana exhaustion caused by _Lancelot_
+- **Kayneth El-Melloi Archibald** - Beheaded by _Artoria Pendragon_
+- **Kirei Kotomine** - Shot in the heart by _Kiritsugu Emiya_ (later resurrected)
+- **Kiritsugu Emiya** - Passed away after being cursed by _Angra Mainyu_
+- **Kobayashi** - Absorbed by _Gilles de Rais_
+- **Lancelot** - Stabbed in the chest by _Artoria Pendragon_
+- **Maiya Hisau** - Fatally injured by _Lancelot_
+- **Natalia Kaminski** - Plane shot down by _Kiritsugu Emiya_
+- **Norikata Emiya** - Shot by _Kiritsugu Emiya_
+- **Ougi** - Organs burst via intense g-forces during jet hijacking by _Lancelot_
+- **Risei Kotomine** - Shot by _Kayneth El-Melloi Archibald_
+- **Ryuunosuke Uryuu** - Shot in the head by _Kiritsugu Emiya_
+- **Shirley** - Slain by the Mage Association's Executors
+- **Simon** - Slain by _Natalia Kaminski_
+- **Sola-Ui Nuada-Re Sophia-Ri** - Shot by _Maiya Hisau_ on orders from _Kiritsugu Emiya_
+- **Tokiomi Tohsaka** - Stabbed in the back by _Kirei Kotomine_
