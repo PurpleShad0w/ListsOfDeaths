@@ -1,0 +1,22 @@
+- **Adams** - Tongue ripped out and head stomped on by _Jonathan Joestar_
+- **Bornnam** - Disintegrated by _Straizo_
+- **Bruford** - Beheaded on orders from _Elizabeth I_ (later revived)
+- **Bruford** - Disintegrated by _Jonathan Joestar_
+- **Danny** - Trapped in an incinerator by _Dio Brando_
+- **Dario Brando** - Poisoned by _Dio Brando_
+- **Darnley** - Died in an explosion
+- **Dire** - Frozen and shattered by _Dio Brando_
+- **Doobie** - Disintegrated by _Jonathan Joestar_
+- **Father Styx** - Shot in the head via a booby trap set by _Dio Brando_
+- **George Joestar I** - Stabbed by _Dio Brando_
+- **Jack the Ripper** - Disintegrated by _Jonathan Joestar_
+- **Jonathan Joestar** - Shot in the throat by _Dio Brando_
+- **Jones** - Disintegrated by _Straizo_
+- **Mary Joestar** - Died in a carriage accident
+- **Mary Stuart** - Beheaded on orders from _Elizabeth I_
+- **Page** - Disintegrated by _Straizo_
+- **Plant** - Disintegrated by _Straizo_
+- **Tarkus** - Beheaded on orders from _Elizabeth I_ (later revived)
+- **Tarkus** - Disintegrated by _Jonathan Joestar_
+- **Wang Chan** - Head crushed by _Jonathan Joestar_
+- **Will Anthonio Zeppeli** - Sliced in half by _Tarkus_
