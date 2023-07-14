@@ -1,0 +1,14 @@
+- **Anne Bonny** - Slain by _Ritsuka Fujimaru_'s party
+- **Artemis** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party
+- **Asterios** - Impaled by _Hector_
+- **Atalanta** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party
+- **David** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party
+- **Edward Teach** - Fatallt wounded by _Hector_
+- **Eric Bloodaxe** - Slain by _Ritsuka Fujimaru_'s party
+- **Euryale** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party
+- **Hector** - Shot with an arrow by _Euryale_
+- **Heracles** - Pushed onto the Ark and drained of his mana by _Ritsuka Fujimaru_'s party
+- **Jason** - Slain by _Ritsuka Fujimaru_'s party
+- **Mary Read** - Slain by _Ritsuka Fujimaru_'s party
+- **Medea Lily** - Slain by _Ritsuka Fujimaru_'s party
+- **Orion** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party

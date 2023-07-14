@@ -3,7 +3,7 @@
 - **Darius III** - Slain by _Artoria Pendragon Alter_ (later revived)
 - **Darius III** - Slain by _Cú Chulainn_
 - **EMIYA** - Slain by _Cú Chulainn_
-- **Hassan of the Cursed Arm** - Slain by _Ritsuka Fujimaru_, _Mash Kyrielight_ and _Cú Chulainn_
+- **Hassan of the Cursed Arm** - Slain by _Ritsuka Fujimaru_'s party
 - **Medusa** - Burned by _Cú Chulainn_
 - **Medusa** - Slain by _Artoria Pendragon Alter_ (later revived)
-- **Musashibou Benkei** - Slain by _Ritsuka Fujimaru_, _Mash Kyrielight_ and _Cú Chulainn_
+- **Musashibou Benkei** - Slain by _Ritsuka Fujimaru_'s party

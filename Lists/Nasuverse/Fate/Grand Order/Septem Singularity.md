@@ -1,0 +1,12 @@
+- **Alexander** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party
+- **Altera** - Slain by _Ritsuka Fujimaru_'s party
+- **Boudica** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party
+- **Caligula** - Slain by _Ritsuka Fujimaru_'s party
+- **Darius III** - Slain by _Ritsuka Fujimaru_'s party
+- **Gaius Julius Caesar** - Slain by _Ritsuka Fujimaru_'s party
+- **Jing Ke** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party
+- **Leonidas I** - Slain by _Ritsuka Fujimaru_'s party
+- **Lü Bu** - Annihilated by _Altera_
+- **Romulus** - Slain by _Ritsuka Fujimaru_'s party
+- **Spartacus** - Annihilated by _Altera_
+- **Zhuge Liang** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party

@@ -1,0 +1,13 @@
+- **Artoria Pendragon Alter** - Slain by _Ritsuka Fujimaru_'s party
+- **Charles Babbage** - Slain by _Ritsuka Fujimaru_'s party
+- **Hans Christian Andersen** - Slain by _Goetia_
+- **Jack the Ripper** - Slain by _Ritsuka Fujimaru_'s party
+- **Makiri Zolgen** - Slain by _Mordred_
+- **Mephistopheles** - Slain by _Ritsuka Fujimaru_'s party
+- **Mordred** - Disappeared due to the Singularity collapse caused by
+- **Nikola Tesla** - Slain by _Ritsuka Fujimaru_'s party
+- **Nursery Rhyme** - Slain by _Ritsuka Fujimaru_'s party
+- **Paracelsus von Hohenheim** - Slain by _Ritsuka Fujimaru_'s party
+- **Sakata Kintoki** - Slain by _Goetia_
+- **Tamamo-no-Mae** - Slain by _Goetia_
+- **William Shakespeare** - Slain by _Goetia_
