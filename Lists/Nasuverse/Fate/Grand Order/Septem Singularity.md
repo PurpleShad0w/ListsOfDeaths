@@ -1,12 +1,12 @@
-- **Alexander** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party
-- **Altera** - Slain by _Ritsuka Fujimaru_'s party
-- **Boudica** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party
-- **Caligula** - Slain by _Ritsuka Fujimaru_'s party
-- **Darius III** - Slain by _Ritsuka Fujimaru_'s party
-- **Gaius Julius Caesar** - Slain by _Ritsuka Fujimaru_'s party
-- **Jing Ke** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party
-- **Leonidas I** - Slain by _Ritsuka Fujimaru_'s party
-- **Lü Bu** - Annihilated by _Altera_
-- **Romulus** - Slain by _Ritsuka Fujimaru_'s party
-- **Spartacus** - Annihilated by _Altera_
-- **Zhuge Liang** - Disappeared due to the Singularity collapse caused by _Ritsuka Fujimaru_'s party
+- **Alexander (Rider)** - Disappeared due to the Singularity collapse
+- **Altera (Saber)** - Slain by _Ritsuka Fujimaru_'s party
+- **Boudica (Rider)** - Disappeared due to the Singularity collapse
+- **Caligula (Berserker)** - Slain by _Ritsuka Fujimaru_'s party
+- **Darius III (Berserker)** - Slain by _Ritsuka Fujimaru_'s party
+- **Gaius Julius Caesar (Saber)** - Slain by _Ritsuka Fujimaru_'s party
+- **Jing Ke (Assassin)** - Disappeared due to the Singularity collapse
+- **Leonidas I (Lancer)** - Slain by _Ritsuka Fujimaru_'s party
+- **Lü Bu (Berserker)** - Annihilated by _Altera (Saber)_
+- **Romulus (Lancer)** - Slain by _Ritsuka Fujimaru_'s party
+- **Spartacus (Berserker)** - Annihilated by _Altera (Saber)_
+- **Zhuge Liang (Caster)** - Disappeared due to the Singularity collapse

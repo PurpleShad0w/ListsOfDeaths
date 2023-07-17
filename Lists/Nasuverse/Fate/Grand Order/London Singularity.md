@@ -1,13 +1,13 @@
-- **Artoria Pendragon Alter** - Slain by _Ritsuka Fujimaru_'s party
-- **Charles Babbage** - Slain by _Ritsuka Fujimaru_'s party
-- **Hans Christian Andersen** - Slain by _Goetia_
-- **Jack the Ripper** - Slain by _Ritsuka Fujimaru_'s party
-- **Makiri Zolgen** - Slain by _Mordred_
-- **Mephistopheles** - Slain by _Ritsuka Fujimaru_'s party
-- **Mordred** - Disappeared due to the Singularity collapse caused by
-- **Nikola Tesla** - Slain by _Ritsuka Fujimaru_'s party
-- **Nursery Rhyme** - Slain by _Ritsuka Fujimaru_'s party
-- **Paracelsus von Hohenheim** - Slain by _Ritsuka Fujimaru_'s party
-- **Sakata Kintoki** - Slain by _Goetia_
-- **Tamamo-no-Mae** - Slain by _Goetia_
-- **William Shakespeare** - Slain by _Goetia_
+- **Artoria Pendragon Alter (Lancer)** - Slain by _Ritsuka Fujimaru_'s party
+- **Charles Babbage (Caster)** - Slain by _Ritsuka Fujimaru_'s party
+- **Hans Christian Andersen (Caster)** - Slain by _Goetia (Grand Caster)_
+- **Jack the Ripper (Assassin)** - Slain by _Ritsuka Fujimaru_'s party
+- **Makiri Zolgen** - Slain by _Mordred (Saber)_
+- **Mephistopheles (Caster)** - Slain by _Ritsuka Fujimaru_'s party
+- **Mordred (Saber)** - Disappeared due to the Singularity collapse
+- **Nikola Tesla (Archer)** - Slain by _Ritsuka Fujimaru_'s party
+- **Nursery Rhyme (Caster)** - Slain by _Ritsuka Fujimaru_'s party
+- **Paracelsus von Hohenheim (Caster)** - Slain by _Ritsuka Fujimaru_'s party
+- **Sakata Kintoki (Berserker)** - Slain by _Goetia (Grand Caster)_
+- **Tamamo-no-Mae (Caster)** - Slain by _Goetia (Grand Caster)_
+- **William Shakespeare (Caster)** - Slain by _Goetia (Grand Caster)_
