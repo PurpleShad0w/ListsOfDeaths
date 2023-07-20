@@ -1,6 +1,6 @@
 - **Artoria Pendragon Alter (Lancer)** - Slain by _Ritsuka Fujimaru_'s party
 - **Charles Babbage (Caster)** - Slain by _Ritsuka Fujimaru_'s party
-- **Hans Christian Andersen (Caster)** - Slain by _Goetia (Grand Caster)_
+- **Hans Christian Andersen (Caster)** - Slain by _Goetia (Beast I)_
 - **Jack the Ripper (Assassin)** - Slain by _Ritsuka Fujimaru_'s party
 - **Makiri Zolgen** - Slain by _Mordred (Saber)_
 - **Mephistopheles (Caster)** - Slain by _Ritsuka Fujimaru_'s party
@@ -8,6 +8,6 @@
 - **Nikola Tesla (Archer)** - Slain by _Ritsuka Fujimaru_'s party
 - **Nursery Rhyme (Caster)** - Slain by _Ritsuka Fujimaru_'s party
 - **Paracelsus von Hohenheim (Caster)** - Slain by _Ritsuka Fujimaru_'s party
-- **Sakata Kintoki (Berserker)** - Slain by _Goetia (Grand Caster)_
-- **Tamamo-no-Mae (Caster)** - Slain by _Goetia (Grand Caster)_
-- **William Shakespeare (Caster)** - Slain by _Goetia (Grand Caster)_
+- **Sakata Kintoki (Berserker)** - Slain by _Goetia (Beast I)_
+- **Tamamo-no-Mae (Caster)** - Slain by _Goetia (Beast I)_
+- **William Shakespeare (Caster)** - Slain by _Goetia (Beast I)_

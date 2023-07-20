@@ -1,3 +1,4 @@
+- **Aoi Tohsaka** - Passed away due to complications after being strangled by _Kariya Matou_
 - **Artoria Pendragon (Saber)** - Committed _suicide_ by destroying the Holy Grail on orders from _Kiritsugu Emiya_
 - **Black Iri (Avenger)** - Strangled by _Kiritsugu Emiya_
 - **Bucephalus (Servant)** - Slain by _Gilgamesh (Archer)_
@@ -15,6 +16,7 @@
 - **Maiya Hisau** - Fatally injured by _Lancelot (Berserker)_
 - **Natalia Kaminski** - Plane shot down by _Kiritsugu Emiya_
 - **Norikata Emiya** - Shot by _Kiritsugu Emiya_
+- **Odd Borzak** - Slain by _Natalia Kaminski_
 - **Ougi** - Organs burst via intense g-forces during jet hijacking by _Lancelot (Berserker)_
 - **Risei Kotomine** - Shot by _Kayneth El-Melloi Archibald_
 - **Ryuunosuke Uryuu** - Shot in the head by _Kiritsugu Emiya_

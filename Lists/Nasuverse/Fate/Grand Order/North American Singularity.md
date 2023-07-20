@@ -1,0 +1,19 @@
+- **Arjuna (Archer)** - Committed _suicide_ by using his Noble Phantasm at the cost of his life
+- **Beowulf (Berserker)** - Disappeared due to the Singularity collapse
+- **Billy the Kid (Archer)** - Slain by _Arjuna (Archer)_
+- **Cú Chulainn Alter (Berserker)** - Slain by _Ritsuka Fujimaru_'s party
+- **Diarmuid Ua Duibhne (Lancer)** - Slain by _Ritsuka Fujimaru_'s party
+- **Elizabeth Báthory (Lancer)** - Disappeared due to the Singularity collapse
+- **Fergus mac Róich (Saber)** - Slain by _Ritsuka Fujimaru_'s party
+- **Fionn mac Cumhaill (Lancer)** - Slain by _Ritsuka Fujimaru_'s party
+- **Florence Nightingale (Berserker)** - Disappeared due to the Singularity collapse
+- **Geronimo (Caster)** - Slain by _Medb (Rider)_
+- **Helena Blavatsky (Caster)** - Disappeared due to the Singularity collapse
+- **Karna (Lancer)** - Impaled by _Cú Chulainn Alter (Berserker)_
+- **Medb (Rider)** - Fatally wounded by _Rama (Saber)_
+- **Nero Claudius (Saber)** - Slain by _Cú Chulainn Alter (Berserker)_
+- **Nikola Tesla (Archer)** - Disappeared due to the Singularity collapse
+- **Rama (Saber)** - Disappeared due to the Singularity collapse
+- **Robin Hood (Archer)** - Disappeared due to the Singularity collapse
+- **Sita (Archer)** - Committed _suicide_ by having _Florence Nightingale (Berserker)_ transfer a curse to her
+- **Thomas Edison (Caster)** - Disappeared due to the Singularity collapse
