@@ -16,7 +16,9 @@
 - **Mary Stuart** - Beheaded on orders from _Elizabeth I_
 - **Page** - Disintegrated by _Straizo_
 - **Plant** - Disintegrated by _Straizo_
+- **Scotland Yard Inspector** - Head bisected by _Dio Brando_
 - **Tarkus** - Beheaded on orders from _Elizabeth I_ (later revived)
 - **Tarkus** - Disintegrated by _Jonathan Joestar_
 - **Wang Chan** - Head crushed by _Jonathan Joestar_
+- **Will A. Zeppeli's Father** - Vaporized by sunlight
 - **Will Anthonio Zeppeli** - Sliced in half by _Tarkus_

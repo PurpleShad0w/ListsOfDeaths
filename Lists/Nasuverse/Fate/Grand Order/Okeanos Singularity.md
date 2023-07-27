@@ -1,14 +1,14 @@
-- **Anne Bonny (Rider)** - Slain by _Ritsuka Fujimaru_'s party
-- **Artemis (Archer)** - Disappeared due to the Singularity collapse
-- **Asterios (Berserker)** - Impaled by _Hector (Lancer)_
-- **Atalanta (Archer)** - Disappeared due to the Singularity collapse
-- **David (Archer)** - Disappeared due to the Singularity collapse
-- **Edward Teach (Rider)** - Fatally wounded by _Hector (Lancer)_
-- **Eric Bloodaxe (Berserker)** - Slain by _Ritsuka Fujimaru_'s party
-- **Euryale (Archer)** - Disappeared due to the Singularity collapse
-- **Hector (Lancer)** - Shot with an arrow by _Euryale (Archer)_
-- **Heracles (Berserker)** - Pushed onto the Ark and drained of his mana by _Ritsuka Fujimaru_'s party
-- **Jason (Saber)** - Slain by _Ritsuka Fujimaru_'s party
-- **Mary Read (Rider)** - Slain by _Ritsuka Fujimaru_'s party
-- **Medea Lily (Caster)** - Slain by _Ritsuka Fujimaru_'s party
-- **Orion (Archer)** - Disappeared due to the Singularity collapse
+- **Anne Bonny** (Rider) - Slain by _Ritsuka Fujimaru_'s party
+- **Artemis** (Archer) - Disappeared due to the Singularity collapse
+- **Asterios** (Berserker) - Impaled by _Hector_ (Lancer)
+- **Atalanta** (Archer) - Disappeared due to the Singularity collapse
+- **David** (Archer) - Disappeared due to the Singularity collapse
+- **Edward Teach** (Rider) - Fatally wounded by _Hector_ (Lancer)
+- **Eric Bloodaxe** (Berserker) - Slain by _Ritsuka Fujimaru_'s party
+- **Euryale** (Archer) - Disappeared due to the Singularity collapse
+- **Hector** (Lancer) - Shot with an arrow by _Euryale_ (Archer)
+- **Heracles** (Berserker) - Pushed onto the Ark and drained of his mana by _Ritsuka Fujimaru_'s party
+- **Jason** (Saber) - Slain by _Ritsuka Fujimaru_'s party
+- **Mary Read** (Rider) - Slain by _Ritsuka Fujimaru_'s party
+- **Medea Lily** (Caster) - Slain by _Ritsuka Fujimaru_'s party
+- **Orion** (Archer) - Disappeared due to the Singularity collapse

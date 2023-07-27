@@ -1,18 +1,18 @@
-- **Atalanta (Archer)** - Slain by _Ritsuka Fujimaru_'s party
-- **Carmilla (Assassin)** - Slain by _Ritsuka Fujimaru_'s party
-- **Charles-Henri Sanson (Assassin)** - Slain by _Ritsuka Fujimaru_'s party
-- **Chevalier d'Eon (Saber)** - Slain by _Ritsuka Fujimaru_'s party
-- **Elizabeth Báthory (Lancer)** - Disappeared due to the Singularity collapse
-- **Fafnir** - Slain by _Siegfried (Saber)_
-- **Georgios (Rider)** - Disappeared due to the Singularity collapse
-- **Gilles de Rais (Caster)** - Slain by _Ritsuka Fujimaru_'s party
-- **Jeanne d'Arc (Ruler)** - Disappeared due to the Singularity collapse
-- **Jeanne d'Arc Alter (Ruler)** - Slain by _Ritsuka Fujimaru_'s party
-- **Kiyohime (Berserker)** - Disappeared due to the Singularity collapse
-- **Lancelot (Berserker)** - Slain by _Ritsuka Fujimaru_'s party
-- **Marie Antoinette (Rider)** - Slain by _Jeanne d'Arc Alter (Ruler)_
-- **Martha (Rider)** - Slain by _Ritsuka Fujimaru_'s party
-- **Phantom of the Opera (Assassin)** - Slain by _Wolfgang Amadeus Mozart (Caster)_
-- **Siegfried (Saber)** - Disappeared due to the Singularity collapse
-- **Vlad III (Berserker)** - Slain by _Ritsuka Fujimaru_'s party
-- **Wolfgang Amadeus Mozart (Caster)** - Disappeared due to the Singularity collapse
+- **Atalanta** (Archer) - Slain by _Ritsuka Fujimaru_'s party
+- **Carmilla** (Assassin) - Slain by _Ritsuka Fujimaru_'s party
+- **Charles-Henri Sanson** (Assassin) - Slain by _Ritsuka Fujimaru_'s party
+- **Chevalier d'Eon** (Saber) - Slain by _Ritsuka Fujimaru_'s party
+- **Elizabeth Báthory** (Lancer) - Disappeared due to the Singularity collapse
+- **Fafnir** - Slain by _Siegfried_ (Saber)
+- **Georgios** (Rider) - Disappeared due to the Singularity collapse
+- **Gilles de Rais** (Caster) - Slain by _Ritsuka Fujimaru_'s party
+- **Jeanne d'Arc** (Ruler) - Disappeared due to the Singularity collapse
+- **Jeanne d'Arc** (Ruler Alter) - Slain by _Ritsuka Fujimaru_'s party
+- **Kiyohime** (Berserker) - Disappeared due to the Singularity collapse
+- **Lancelot** (Berserker) - Slain by _Ritsuka Fujimaru_'s party
+- **Marie Antoinette** (Rider) - Slain by _Jeanne d'Arc_ (Ruler Alter)
+- **Martha** (Rider) - Slain by _Ritsuka Fujimaru_'s party
+- **Phantom of the Opera** (Assassin) - Slain by _Wolfgang Amadeus Mozart_ (Caster)
+- **Siegfried** (Saber) - Disappeared due to the Singularity collapse
+- **Vlad III** (Berserker) - Slain by _Ritsuka Fujimaru_'s party
+- **Wolfgang Amadeus Mozart** (Caster) - Disappeared due to the Singularity collapse

@@ -1,9 +1,9 @@
-- **Artoria Pendragon Alter (Saber)** - Slain by _Cú Chulainn (Caster)_
-- **Cú Chulainn (Caster)** - Committed _suicide_ by defeating Artoria Alter and ending the Holy Grail War
-- **Darius III (Rider)** - Slain by _Artoria Pendragon Alter (Saber)_ (later revived)
-- **Darius III (Rider)** - Slain by _Cú Chulainn (Caster)_
-- **EMIYA (Archer)** - Slain by _Cú Chulainn (Caster)_
-- **Hassan of the Cursed Arm (Assassin)** - Slain by _Ritsuka Fujimaru_'s party
-- **Medusa (Lancer)** - Slain by _Artoria Pendragon Alter (Saber)_ (later revived)
-- **Medusa Alter (Lancer)** - Burned by _Cú Chulainn (Caster)_
-- **Musashibou Benkei (Lancer)** - Slain by _Ritsuka Fujimaru_'s party
+- **Artoria Pendragon** (Saber Alter) - Slain by _Cú Chulainn_ (Caster)
+- **Cú Chulainn** (Caster) - Committed _suicide_ by defeating Artoria Alter and ending the Holy Grail War
+- **Darius III** (Rider) - Slain by _Artoria Pendragon_ (Saber Alter) (later revived)
+- **Darius III** (Rider) - Slain by _Cú Chulainn_ (Caster)
+- **EMIYA** (Archer) - Slain by _Cú Chulainn_ (Caster)
+- **Hassan of the Cursed Arm** (Assassin) - Slain by _Ritsuka Fujimaru_'s party
+- **Medusa** (Lancer) - Slain by _Artoria Pendragon_ (Saber Alter) (later revived)
+- **Medusa Alter** (Lancer) - Burned by _Cú Chulainn_ (Caster)
+- **Musashibou Benkei** (Lancer) - Slain by _Ritsuka Fujimaru_'s party

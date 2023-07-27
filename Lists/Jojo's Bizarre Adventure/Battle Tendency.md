@@ -1,0 +1,13 @@
+- **Caesar Anthonio Zeppeli** - Fatally wounded by _Wamuu_ and crushed by falling debris
+- **Erina Pendleton** - Died of old age
+- **Esidisi** - Vaporized after being forced into the sunlight by _Joseph Joestar_ and _Caesar Anthonio Zeppeli_
+- **George Joestar II** - Devoured by the _Zombie Commander_
+- **Loggins** - Impaled with a kick by _Esidisi_
+- **Mario Zeppeli** - Absorbed in a wall trap set by _Kars_
+- **Mark** - Split in half by _Wamuu_, euthanized via cardiac arrest by _Caesar Anthonio Zeppeli_
+- **Robert E. O. Speedwagon** - Died of a heart attack
+- **Rudol von Stroheim** - Died during the Battle of Stalingrad
+- **Straizo** - Committed _suicide_ by vaporizing himself
+- **Wamuu** - Disintegrated via _Joseph Joestar_'s ripple
+- **Wired Beck** - Vaporized by _Lisa Lisa_
+- **Zombie Commander** - Split in half by _Lisa Lisa_
