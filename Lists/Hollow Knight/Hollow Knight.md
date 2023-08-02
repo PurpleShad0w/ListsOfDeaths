@@ -1,7 +1,6 @@
-- **Absolute Radiance** - Slain by _The Knight_'s shade fused with the _Void given Focus_ (observer dependent)
+- **Absolute Radiance** - Slain by _The Knight_'s shade fused with the Void (observer dependent)
 - **Broken Vessel** - Slain by _The Knight_
 - **Brooding Mawlek** - Slain by _The Knight_
-- **Cloth** (spirit) - Essence extracted by _The Knight_ (observer dependent)
 - **Cloth** - Impaled by the _Traitor Lord_ (observer dependent)
 - **Crystal Guardian** - Slain by _The Knight_
 - **Dryaa** - Slain by the Mantis Traitors led by the _Traitor Lord_
@@ -18,29 +17,29 @@
 - **Gruz Mother** - Slain by _The Knight_
 - **Herrah** - Slain in her dreams by _The Knight_
 - **Hive Knight** - Slain by _The Knight_
-- **Joni** (spirit) - Essence extracted by _The Knight_
+- **Leg Eater** - Devoured by _Divine_
 - **Lost Kin** (spirit) - Essence extracted by _The Knight_
 - **Lurien** - Slain in his dreams by _The Knight_
-- **Marissa** (spirit) - Essence extracted by _The Knight_
 - **Markoth** (spirit) - Essence extracted by _The Knight_
 - **Markoth** - Slain by the creatures of Kingdom's Edge
 - **Marmu** (spirit) - Essence extracted by _The Knight_
 - **Menderbug** - Slain by _The Knight_
 - **Monomon** - Slain in her dreams by _The Knight_
 - **Moss Prophet** - Overtaken by the Infection caused by _The Radiance_
-- **Myla** - Slain by _The Knight_
+- **Myla** - Slain by _The Knight_ (observer dependent)
 - **Nailsmith** - Slain by _The Knight_ (observer dependent)
 - **No Eyes** (spirit) - Essence extracted by _The Knight_
 - **No Eyes** - Committed _suicide_ via ripping her own eyes out
 - **Nosk** - Slain by _The Knight_
 - **Oblobbles** - Slain by _The Knight_
 - **Pale Lurker** - Slain by _The Knight_
-- **Revek** (spirit) - Essence extracted by _The Knight_
+- **Quirrel** - Committed _suicide_ by removing his mask, allowing himself to die of old age
 - **Soul Master** - Slain by _The Knight_
 - **Soul Tyrant** (spirit) - Essence extracted by _The Knight_
 - **Soul Warrior** - Slain by _The Knight_
 - **The Collector** - Slain by _The Knight_
 - **The Hollow Knight** - Slain by _The Knight_ (observer dependent)
+- **The Knight** - Committed _suicide_ in order to defeat the Radiance
 - **The Radiance** - Slain by _The Knight_'s shade while held by _The Hollow Knight_'s shade (observer dependent)
 - **The Watcher Knights** - Slain by _The Knight_
 - **Tiso** - Crushed by a _Brooding Mawlek_
@@ -49,7 +48,6 @@
 - **Tuk** - Overtaken by the Infection caused by _The Radiance_
 - **Uumuu** - Slain by _The Knight_ with the help of _Quirrel_
 - **Vengefly King** - Slain by _The Knight_
-- **Vespa** (spirit) - Essence extracted by _The Knight_
 - **Xero** (spirit) - Essence extracted by _The Knight_
 - **Xero** - Executed by _The Pale King_
 - **Zote** - Eaten by the _Vengefly King_ (observer dependent)
