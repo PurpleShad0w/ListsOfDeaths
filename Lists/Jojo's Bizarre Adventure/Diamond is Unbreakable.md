@@ -1,0 +1,23 @@
+- **Arnold** - Throat slashed by _Yoshikage Kira_
+- **Aya Tsuji** - Exploded by _Yoshikage Kira_
+- **Bug-Eaten** - Shot by _Josuke Higashikata_
+- **Cheap Trick** - Tricked into being spirited away by _Rohan Kishibe_
+- **Hirata** - Fatally wounded by _Anjuro Katagiri_'s Stand (live-action only)
+- **Kazuko Sugimoto** - Murdered by _Yoshikage Kira_
+- **Keicho Nijimura** - Caught in Sheer Heart Attack's explosion caused by _Yoshikage Kira_ (live-action only)
+- **Keicho Nijimura** - Electrocuted by _Akira Otoishi_
+- **Kosaku Kawajiri** - Murdered by _Yoshikage Kira_
+- **Masazo Kinoto** - Back torn open by _Cheap Trick_
+- **Minako Okura** - Exploded by _Yoshikage Kira_
+- **Mukade Shopkeeper** - Caught in Sheer Heart Attack's explosion caused by _Yoshikage Kira_
+- **Not Bug-Eaten** - Shot by _Josuke Higashikata_
+- **Reimi Sugimoto** - Stabbed in the back by _Yoshikage Kira_
+- **Ryohei Higashikata** - Fatally wounded after drinking _Anjuro Katagiri_'s Stand
+- **Satoru Nakae** - Exploded by _Yoshikage Kira_
+- **Shigekiyo Yangu** - Exploded via _Yoshikage Kira_'s Stand
+- **Takashi Sugimoto** - Murdered by _Yoshikage Kira_
+- **Tama** - Accidently impaled on broken glass by _Shinobu Kawajiri_ (later revived)
+- **Yamashita** - Stabbed in the neck with a fork by _Anjuro Katagiri_ (live-action only)
+- **Yoshihiro Kira** - Died of cancer
+- **Yoshihiro Kira** - Incinerated by _Yoshikage Kira_'s bomb while being manipulated by _Josuke Higashikata_
+- **Yoshikage Kira** - Head crushed by an ambulance

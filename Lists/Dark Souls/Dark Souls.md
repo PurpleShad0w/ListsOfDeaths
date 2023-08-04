@@ -43,5 +43,6 @@
 - **Solaire** - Slain by _The Chosen Undead_
 - **Stray Demon** - Slain by _The Chosen Undead_
 - **Taurus Demon** - Slain by _The Chosen Undead_
+- **The Chosen Undead** - Slain by _Seath_ (later revived)
 - **Vince** (hollow) - Slain by _The Chosen Undead_
 - **Witch of Izalith** - Committed _suicide_ by creating the Flame of Chaos that consumed her and became the Bed of Chaos
