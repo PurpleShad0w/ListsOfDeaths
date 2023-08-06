@@ -1,7 +1,7 @@
-- **Absolute Radiance** - Slain by _The Knight_'s shade fused with the Void (observer dependent)
+- **Absolute Radiance** - Slain by _The Knight_'s shade fused with the Void (dependent)
 - **Broken Vessel** - Slain by _The Knight_
 - **Brooding Mawlek** - Slain by _The Knight_
-- **Cloth** - Impaled by the _Traitor Lord_ (observer dependent)
+- **Cloth** - Impaled by the _Traitor Lord_ (dependent)
 - **Crystal Guardian** - Slain by _The Knight_
 - **Dryaa** - Slain by the Mantis Traitors led by the _Traitor Lord_
 - **Elder Hu** (spirit) - Essence extracted by _The Knight_
@@ -13,7 +13,7 @@
 - **Galien** - Slain by the creatures of Deepnest
 - **Gorb** (spirit) - Essence extracted by _The Knight_
 - **Gorgeous Husk** - Slain by _The Knight_
-- **Grimm** - Slain in his dreams by _The Knight_ (observer dependent)
+- **Grimm** - Slain in his dreams by _The Knight_ (dependent)
 - **Gruz Mother** - Slain by _The Knight_
 - **Herrah** - Slain in her dreams by _The Knight_
 - **Hive Knight** - Slain by _The Knight_
@@ -26,8 +26,8 @@
 - **Menderbug** - Slain by _The Knight_
 - **Monomon** - Slain in her dreams by _The Knight_
 - **Moss Prophet** - Overtaken by the Infection caused by _The Radiance_
-- **Myla** - Slain by _The Knight_ (observer dependent)
-- **Nailsmith** - Slain by _The Knight_ (observer dependent)
+- **Myla** - Slain by _The Knight_ (dependent)
+- **Nailsmith** - Slain by _The Knight_ (dependent)
 - **No Eyes** (spirit) - Essence extracted by _The Knight_
 - **No Eyes** - Committed _suicide_ via ripping her own eyes out
 - **Nosk** - Slain by _The Knight_
@@ -38,16 +38,16 @@
 - **Soul Tyrant** (spirit) - Essence extracted by _The Knight_
 - **Soul Warrior** - Slain by _The Knight_
 - **The Collector** - Slain by _The Knight_
-- **The Hollow Knight** - Slain by _The Knight_ (observer dependent)
+- **The Hollow Knight** - Slain by _The Knight_ (dependent)
 - **The Knight** - Committed _suicide_ in order to defeat the Radiance
-- **The Radiance** - Slain by _The Knight_'s shade while held by _The Hollow Knight_'s shade (observer dependent)
+- **The Radiance** - Slain by _The Knight_'s shade while held by _The Hollow Knight_'s shade (dependent)
 - **The Watcher Knights** - Slain by _The Knight_
 - **Tiso** - Crushed by a _Brooding Mawlek_
-- **Traitor Lord** - Bashed on the head by _Cloth_ (observer dependent)
-- **Traitor Lord** - Slain by _The Knight_ (observer dependent)
+- **Traitor Lord** - Bashed on the head by _Cloth_ (dependent)
+- **Traitor Lord** - Slain by _The Knight_ (dependent)
 - **Tuk** - Overtaken by the Infection caused by _The Radiance_
 - **Uumuu** - Slain by _The Knight_ with the help of _Quirrel_
 - **Vengefly King** - Slain by _The Knight_
 - **Xero** (spirit) - Essence extracted by _The Knight_
 - **Xero** - Executed by _The Pale King_
-- **Zote** - Eaten by the _Vengefly King_ (observer dependent)
+- **Zote** - Eaten by the _Vengefly King_ (dependent)

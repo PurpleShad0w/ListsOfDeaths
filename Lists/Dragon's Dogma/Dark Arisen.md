@@ -1,40 +1,41 @@
-- **Aelinore** - Strangled by _Edmun Dragonsbane_ (observer dependent)
-- **Alejo** - Fatally wounded by _Grigori_ (observer dependent)
+- **Aelinore** - Strangled by _Edmun Dragonsbane_ (dependent)
+- **Alejo** - Fatally wounded by _Grigori_ (dependent)
 - **Ashe** - Slain by _The Arisen_
 - **Balsac** - Slain by _The Arisen_
 - **Condor** - Slain by _The Arisen_
 - **Cortese** - Immolated by _Grigori_
 - **Darkness** - Slain by _The Arisen_
 - **Elysion** - Slain by _Grigori_
-- **Ema** - Fatally wounded by _Grigori_ (observer dependent)
+- **Ema** - Fatally wounded by _Grigori_ (dependent)
 - **Emme** - Died during the destruction of Gran Soren caused by _Grigori_
 - **Ghost** - Slain by _The Arisen_
 - **Grigori** - Slain by _The Arisen_
 - **Hawk** - Slain by _The Arisen_
-- **Janielle** - Fatally wounded by _Grigori_ (observer dependent)
+- **Janielle** - Fatally wounded by _Grigori_ (dependent)
 - **Jean** - Slain by a Cyclops
-- **Julien** - Slain by _The Arisen_ (observer dependent)
+- **Julien** - Slain by _The Arisen_ (dependent)
 - **Kent** - Slain by _The Arisen_
-- **Lazoro** - Fatally wounded by _Grigori_ (observer dependent)
+- **Lazoro** - Fatally wounded by _Grigori_ (dependent)
 - **Lowane** - Slain by _The Arisen_
-- **Marcelo** - Slain by _Mason_ (observer dependent)
-- **Marcelo** - Slain by _The Arisen_ (observer dependent)
+- **Marcelo** - Slain by _Mason_ (dependent)
+- **Marcelo** - Slain by _The Arisen_ (dependent)
 - **Noir** - Slain by _The Arisen_
 - **Olra** - Slain by _Grette_
 - **Phantom** - Slain by _The Arisen_
-- **Ramon** - Fatally wounded by _Grigori_ (observer dependent)
+- **Ramon** - Fatally wounded by _Grigori_ (dependent)
 - **Raven** - Slain by _The Arisen_
-- **Reynard** - Slain by Goblins (observer dependent)
+- **Reynard** - Slain by Goblins (dependent)
 - **Rouge** - Slain by _The Arisen_
 - **Salomet** - Pushed off the Bluemoon Tower by _The Arisen_
 - **Savan** - Stabbed with Godsbane by _The Arisen_
-- **Sentena** - Fatally wounded by _Grigori_ (observer dependent)
+- **Sentena** - Fatally wounded by _Grigori_ (dependent)
 - **Ser Palotti** - Devoured by a Chimera
 - **Ser Raffe** - Died during the destruction of Gran Soren caused by _Grigori_
 - **Ser Tolth** - Petrified by a Cockatrice
-- **Ser Westley** - Pecked by the Griffin (observer dependent)
+- **Ser Westley** - Pecked by the Griffin (dependent)
 - **Soul** - Slain by _The Arisen_
 - **Spirits** - Slain by _The Arisen_
+- **The Arisen** - Committed _suicide_ by stabbing himself in the heart with Godsbane
 - **The Dark Bishop** - Slain by _The Arisen_
 - **The Dragonforged** - Crumbled to dust after the defeat of Grigori at the hands of _The Arisen_
 - **The Gazer** - Slain by _The Arisen_
