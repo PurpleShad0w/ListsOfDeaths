@@ -16,7 +16,7 @@
 - **Satoru Nakae** - Exploded by _Yoshikage Kira_
 - **Shigekiyo Yangu** - Exploded via _Yoshikage Kira_'s Stand
 - **Takashi Sugimoto** - Murdered by _Yoshikage Kira_
-- **Tama** - Accidently impaled on broken glass by _Shinobu Kawajiri_ (later revived)
+- **Tama** - Accidently impaled on broken glass by _Shinobu Kawajiri_ (revived)
 - **Yamashita** - Stabbed in the neck with a fork by _Anjuro Katagiri_ (live-action only)
 - **Yoshihiro Kira** - Died of cancer
 - **Yoshihiro Kira** - Incinerated by _Yoshikage Kira_'s bomb while being manipulated by _Josuke Higashikata_

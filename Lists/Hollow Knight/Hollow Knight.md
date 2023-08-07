@@ -1,53 +1,53 @@
-- **Absolute Radiance** - Slain by _The Knight_'s shade fused with the Void (dependent)
-- **Broken Vessel** - Slain by _The Knight_
-- **Brooding Mawlek** - Slain by _The Knight_
+- **Absolute Radiance** - Slain by the _Knight_'s shade fused with the Void (dependent)
+- **Broken Vessel** - Slain by the _Knight_
+- **Brooding Mawlek** - Slain by the _Knight_
 - **Cloth** - Impaled by the _Traitor Lord_ (dependent)
-- **Crystal Guardian** - Slain by _The Knight_
+- **Collector** - Slain by the _Knight_
+- **Crystal Guardian** - Slain by the _Knight_
 - **Dryaa** - Slain by the Mantis Traitors led by the _Traitor Lord_
-- **Elder Hu** (spirit) - Essence extracted by _The Knight_
+- **Elder Hu** (spirit) - Essence extracted by the _Knight_
 - **Elder Hu** - Slain by the Mantis tribe
-- **Failed Champion** (spirit) - Essence extracted by _The Knight_
-- **False Knight** - Slain by _The Knight_
-- **Flukemarm** - Slain by _The Knight_
-- **Galien** (spirit) - Essence extracted by _The Knight_
+- **Failed Champion** (spirit) - Essence extracted by the _Knight_
+- **False Knight** - Slain by the _Knight_
+- **Flukemarm** - Slain by the _Knight_
+- **Galien** (spirit) - Essence extracted by the _Knight_
 - **Galien** - Slain by the creatures of Deepnest
-- **Gorb** (spirit) - Essence extracted by _The Knight_
-- **Gorgeous Husk** - Slain by _The Knight_
-- **Grimm** - Slain in his dreams by _The Knight_ (dependent)
-- **Gruz Mother** - Slain by _The Knight_
-- **Herrah** - Slain in her dreams by _The Knight_
-- **Hive Knight** - Slain by _The Knight_
+- **Gorb** (spirit) - Essence extracted by the _Knight_
+- **Gorgeous Husk** - Slain by the _Knight_
+- **Grimm** - Slain in his dreams by the _Knight_ (dependent)
+- **Gruz Mother** - Slain by the _Knight_
+- **Herrah** - Slain in her dreams by the _Knight_
+- **Hive Knight** - Slain by the _Knight_
+- **Hollow Knight** - Slain by the _Knight_ (dependent)
+- **Knight** - Committed _suicide_ in order to defeat the Radiance (dependent)
 - **Leg Eater** - Devoured by _Divine_
-- **Lost Kin** (spirit) - Essence extracted by _The Knight_
-- **Lurien** - Slain in his dreams by _The Knight_
-- **Markoth** (spirit) - Essence extracted by _The Knight_
+- **Lost Kin** (spirit) - Essence extracted by the _Knight_
+- **Lurien** - Slain in his dreams by the _Knight_
+- **Markoth** (spirit) - Essence extracted by the _Knight_
 - **Markoth** - Slain by the creatures of Kingdom's Edge
-- **Marmu** (spirit) - Essence extracted by _The Knight_
-- **Menderbug** - Slain by _The Knight_
-- **Monomon** - Slain in her dreams by _The Knight_
-- **Moss Prophet** - Overtaken by the Infection caused by _The Radiance_
-- **Myla** - Slain by _The Knight_ (dependent)
-- **Nailsmith** - Slain by _The Knight_ (dependent)
-- **No Eyes** (spirit) - Essence extracted by _The Knight_
+- **Marmu** (spirit) - Essence extracted by the _Knight_
+- **Menderbug** - Slain by the _Knight_
+- **Monomon** - Slain in her dreams by the _Knight_
+- **Moss Prophet** - Overtaken by the Infection caused by the _Radiance_
+- **Myla** - Slain by the _Knight_ (dependent)
+- **Nailsmith** - Slain by the _Knight_ (dependent)
+- **No Eyes** (spirit) - Essence extracted by the _Knight_
 - **No Eyes** - Committed _suicide_ via ripping her own eyes out
-- **Nosk** - Slain by _The Knight_
-- **Oblobbles** - Slain by _The Knight_
-- **Pale Lurker** - Slain by _The Knight_
+- **Nosk** - Slain by the _Knight_
+- **Oblobbles** - Slain by the _Knight_
+- **Pale Lurker** - Slain by the _Knight_
 - **Quirrel** - Committed _suicide_ by removing his mask, allowing himself to die of old age
-- **Soul Master** - Slain by _The Knight_
-- **Soul Tyrant** (spirit) - Essence extracted by _The Knight_
-- **Soul Warrior** - Slain by _The Knight_
-- **The Collector** - Slain by _The Knight_
-- **The Hollow Knight** - Slain by _The Knight_ (dependent)
-- **The Knight** - Committed _suicide_ in order to defeat the Radiance
-- **The Radiance** - Slain by _The Knight_'s shade while held by _The Hollow Knight_'s shade (dependent)
-- **The Watcher Knights** - Slain by _The Knight_
+- **Radiance** - Slain by the _Knight_'s shade while held by the _Hollow Knight_'s shade (dependent)
+- **Soul Master** - Slain by the _Knight_
+- **Soul Tyrant** (spirit) - Essence extracted by the _Knight_
+- **Soul Warrior** - Slain by the _Knight_
 - **Tiso** - Crushed by a _Brooding Mawlek_
 - **Traitor Lord** - Bashed on the head by _Cloth_ (dependent)
-- **Traitor Lord** - Slain by _The Knight_ (dependent)
-- **Tuk** - Overtaken by the Infection caused by _The Radiance_
-- **Uumuu** - Slain by _The Knight_ with the help of _Quirrel_
-- **Vengefly King** - Slain by _The Knight_
-- **Xero** (spirit) - Essence extracted by _The Knight_
-- **Xero** - Executed by _The Pale King_
+- **Traitor Lord** - Slain by the _Knight_ (dependent)
+- **Tuk** - Overtaken by the Infection caused by the _Radiance_
+- **Uumuu** - Slain by the _Knight_ with the help of _Quirrel_
+- **Vengefly King** - Slain by the _Knight_
+- **Watcher Knights** - Slain by the _Knight_
+- **Xero** (spirit) - Essence extracted by the _Knight_
+- **Xero** - Executed by the _Pale King_
 - **Zote** - Eaten by the _Vengefly King_ (dependent)

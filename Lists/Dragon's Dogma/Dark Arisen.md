@@ -1,44 +1,44 @@
 - **Aelinore** - Strangled by _Edmun Dragonsbane_ (dependent)
 - **Alejo** - Fatally wounded by _Grigori_ (dependent)
-- **Ashe** - Slain by _The Arisen_
-- **Balsac** - Slain by _The Arisen_
-- **Condor** - Slain by _The Arisen_
+- **Arisen** - Committed _suicide_ by stabbing themself in the heart with Godsbane
+- **Ashe** - Slain by the _Arisen_
+- **Balsac** - Slain by the _Arisen_
+- **Condor** - Slain by the _Arisen_
 - **Cortese** - Immolated by _Grigori_
-- **Darkness** - Slain by _The Arisen_
+- **Dark Bishop** - Slain by the _Arisen_
+- **Darkness** - Slain by the _Arisen_
 - **Elysion** - Slain by _Grigori_
 - **Ema** - Fatally wounded by _Grigori_ (dependent)
 - **Emme** - Died during the destruction of Gran Soren caused by _Grigori_
-- **Ghost** - Slain by _The Arisen_
-- **Grigori** - Slain by _The Arisen_
-- **Hawk** - Slain by _The Arisen_
+- **Gazer** - Slain by the _Arisen_
+- **Ghost** - Slain by the _Arisen_
+- **Grigori** - Slain by the _Arisen_
+- **Hawk** - Slain by the _Arisen_
 - **Janielle** - Fatally wounded by _Grigori_ (dependent)
 - **Jean** - Slain by a Cyclops
-- **Julien** - Slain by _The Arisen_ (dependent)
-- **Kent** - Slain by _The Arisen_
+- **Julien** - Slain by the _Arisen_ (dependent)
+- **Kent** - Slain by the _Arisen_
 - **Lazoro** - Fatally wounded by _Grigori_ (dependent)
-- **Lowane** - Slain by _The Arisen_
+- **Lowane** - Slain by the _Arisen_
 - **Marcelo** - Slain by _Mason_ (dependent)
-- **Marcelo** - Slain by _The Arisen_ (dependent)
-- **Noir** - Slain by _The Arisen_
+- **Marcelo** - Slain by the _Arisen_ (dependent)
+- **Noir** - Slain by the _Arisen_
 - **Olra** - Slain by _Grette_
-- **Phantom** - Slain by _The Arisen_
+- **Palotti** - Devoured by a Chimera
+- **Phantom** - Slain by the _Arisen_
+- **Raffe** - Died during the destruction of Gran Soren caused by _Grigori_
 - **Ramon** - Fatally wounded by _Grigori_ (dependent)
-- **Raven** - Slain by _The Arisen_
+- **Raven** - Slain by the _Arisen_
 - **Reynard** - Slain by Goblins (dependent)
-- **Rouge** - Slain by _The Arisen_
-- **Salomet** - Pushed off the Bluemoon Tower by _The Arisen_
-- **Savan** - Stabbed with Godsbane by _The Arisen_
+- **Rouge** - Slain by the _Arisen_
+- **Salomet** - Pushed off the Bluemoon Tower by the _Arisen_
+- **Savan** - Stabbed with Godsbane by the _Arisen_
 - **Sentena** - Fatally wounded by _Grigori_ (dependent)
-- **Ser Palotti** - Devoured by a Chimera
-- **Ser Raffe** - Died during the destruction of Gran Soren caused by _Grigori_
-- **Ser Tolth** - Petrified by a Cockatrice
-- **Ser Westley** - Pecked by the Griffin (dependent)
-- **Soul** - Slain by _The Arisen_
-- **Spirits** - Slain by _The Arisen_
-- **The Arisen** - Committed _suicide_ by stabbing himself in the heart with Godsbane
-- **The Dark Bishop** - Slain by _The Arisen_
-- **The Dragonforged** - Crumbled to dust after the defeat of Grigori at the hands of _The Arisen_
-- **The Gazer** - Slain by _The Arisen_
-- **The Ur-Dragon** - Slain by _The Arisen_
+- **Soul** - Slain by the _Arisen_
+- **Spirits** - Slain by the _Arisen_
+- **The Dragonforged** - Crumbled to dust after the defeat of Grigori at the hands of the _Arisen_
+- **Tolth** - Petrified by a Cockatrice
+- **Ur-Dragon** - Slain by the _Arisen_
+- **Westley** - Pecked by the Griffin (dependent)
 - **Wilhem** - Succumbed to an illness
-- **Zero** - Slain by _The Arisen_
+- **Zero** - Slain by the _Arisen_

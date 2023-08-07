@@ -1,6 +1,6 @@
 - **Adams** - Tongue ripped out and head stomped on by _Jonathan Joestar_
 - **Bornnam** - Disintegrated by _Straizo_
-- **Bruford** - Beheaded on orders from _Elizabeth I_ (later revived)
+- **Bruford** - Beheaded on orders from _Elizabeth I_ (revived)
 - **Bruford** - Disintegrated by _Jonathan Joestar_
 - **Danny** - Trapped in an incinerator by _Dio Brando_
 - **Dario Brando** - Poisoned by _Dio Brando_
@@ -17,7 +17,7 @@
 - **Page** - Disintegrated by _Straizo_
 - **Plant** - Disintegrated by _Straizo_
 - **Scotland Yard Inspector** - Head bisected by _Dio Brando_
-- **Tarkus** - Beheaded on orders from _Elizabeth I_ (later revived)
+- **Tarkus** - Beheaded on orders from _Elizabeth I_ (revived)
 - **Tarkus** - Disintegrated by _Jonathan Joestar_
 - **Wang Chan** - Head crushed by _Jonathan Joestar_
 - **Will A. Zeppeli's Father** - Vaporized by sunlight

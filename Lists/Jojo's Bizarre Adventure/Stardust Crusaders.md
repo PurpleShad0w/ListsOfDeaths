@@ -16,6 +16,6 @@
 - **Pet Shop** - Exploded after being prevented to release an attack by _Iggy_
 - **Pocky** - Decapitated by _Rubber Soul_
 - **Sherry Polnareff** - Raped and murdered by _J. Geil_
-- **Vanilla Ice** - Committed _suicide_ by beheading himself (later revived)
+- **Vanilla Ice** - Committed _suicide_ by beheading himself (revived)
 - **Vanilla Ice** - Disintegrated when pushed into the sunlight by _Jean Pierre Polnareff_
 - **Wilson Phillips** - Thrown at a truck by _Dio Brando_

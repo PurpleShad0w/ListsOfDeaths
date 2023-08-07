@@ -9,7 +9,7 @@
 - **Iskandar** (Rider) - Stabbed in the chest by _Gilgamesh_ (Archer)
 - **Kariya Matou** - Mana exhaustion caused by _Lancelot_ (Berserker)
 - **Kayneth El-Melloi Archibald** - Beheaded by _Artoria Pendragon_ (Saber)
-- **Kirei Kotomine** - Shot in the heart by _Kiritsugu Emiya_ (later resurrected)
+- **Kirei Kotomine** - Shot in the heart by _Kiritsugu Emiya_ (revived)
 - **Kiritsugu Emiya** - Passed away after being cursed by _Black Iri_ (Avenger)
 - **Kobayashi** - Absorbed by _Gilles de Rais_ (Caster)
 - **Lancelot** (Berserker) - Stabbed in the chest by _Artoria Pendragon_ (Saber)

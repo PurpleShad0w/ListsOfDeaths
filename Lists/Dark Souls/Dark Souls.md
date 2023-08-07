@@ -1,48 +1,49 @@
-- **Anastascia** - Slain by _Lautrec_ (later revived)
-- **Artorias** - Slain by _The Chosen Undead_
-- **Asylum Demon** - Slain by _The Chosen Undead_
-- **Bed of Chaos** - Slain by _The Chosen Undead_
-- **Bell Gargoyles** - Slain by _The Chosen Undead_
-- **Capra Demon** - Slain by _The Chosen Undead_
-- **Ceaseless Discharge** - Slain by _The Chosen Undead_
-- **Centipede Demon** - Slain by _The Chosen Undead_
-- **Crestfallen Warrior** (hollow) - Slain by _The Chosen Undead_
-- **Demon Firesage** - Slain by _The Chosen Undead_
-- **Four Kings** - Slain by _The Chosen Undead_
-- **Gaping Dragon** - Slain by _The Chosen Undead_
-- **Giant Undead Rat** - Slain by _The Chosen Undead_
-- **Griggs** (hollow) - Slain by _The Chosen Undead_
-- **Gwyn** - Slain by _The Chosen Undead_
-- **Gwyndolin** - Slain by _The Chosen Undead_
-- **Hellkite Drake** - Slain by _The Chosen Undead_
-- **Iron Golem** - Slain by _The Chosen Undead_
-- **Jeremiah** - Slain by _The Chosen Undead_
-- **Kalameet** - Slain by _The Chosen Undead_
-- **Laurentius** (hollow) - Slain by _The Chosen Undead_
-- **Lautrec** - Slain by _The Chosen Undead_
-- **Leeroy** - Slain by _The Chosen Undead_
-- **Logan** (hollow) - Slain by _The Chosen Undead_
-- **Manus** - Slain by _The Chosen Undead_
-- **Moonlight Butterfly** - Slain by _The Chosen Undead_
-- **Nico** (hollow) - Slain by _The Chosen Undead_
-- **Nito** - Slain by _The Chosen Undead_
-- **Ornstein** - Slain by _The Chosen Undead_
-- **Oscar** (hollow) - Slain by _The Chosen Undead_
-- **Parasitic Wall Hugger** - Slain by _The Chosen Undead_
-- **Pinwheel** - Slain by _The Chosen Undead_
-- **Priscilla** - Slain by _The Chosen Undead_
-- **Quelaag** - Slain by _The Chosen Undead_
+- **Anastascia** - Slain by _Lautrec_ (revived)
+- **Artorias** - Slain by the _Chosen Undead_
+- **Asylum Demon** - Slain by the _Chosen Undead_
+- **Bed of Chaos** - Slain by the _Chosen Undead_
+- **Bell Gargoyles** - Slain by the _Chosen Undead_
+- **Capra Demon** - Slain by the _Chosen Undead_
+- **Ceaseless Discharge** - Slain by the _Chosen Undead_
+- **Centipede Demon** - Slain by the _Chosen Undead_
+- **Chosen Undead** - Committed _suicide_ by burning themself in the First Flame
+- **Crestfallen Warrior** (hollow) - Slain by the _Chosen Undead_
+- **Demon Firesage** - Slain by the _Chosen Undead_
+- **Four Kings** - Slain by the _Chosen Undead_
+- **Gaping Dragon** - Slain by the _Chosen Undead_
+- **Giant Undead Rat** - Slain by the _Chosen Undead_
+- **Griggs** (hollow) - Slain by the _Chosen Undead_
+- **Gwyn** - Committed _suicide_ by burning himself in the First Flame (revived)
+- **Gwyn** - Slain by the _Chosen Undead_
+- **Gwyndolin** - Slain by the _Chosen Undead_
+- **Hellkite Drake** - Slain by the _Chosen Undead_
+- **Iron Golem** - Slain by the _Chosen Undead_
+- **Jeremiah** - Slain by the _Chosen Undead_
+- **Kalameet** - Slain by the _Chosen Undead_
+- **Laurentius** (hollow) - Slain by the _Chosen Undead_
+- **Lautrec** - Slain by the _Chosen Undead_
+- **Leeroy** - Slain by the _Chosen Undead_
+- **Logan** (hollow) - Slain by the _Chosen Undead_
+- **Manus** - Slain by the _Chosen Undead_
+- **Moonlight Butterfly** - Slain by the _Chosen Undead_
+- **Nico** (hollow) - Slain by the _Chosen Undead_
+- **Nito** - Slain by the _Chosen Undead_
+- **Ornstein** - Slain by the _Chosen Undead_
+- **Oscar** (hollow) - Slain by the _Chosen Undead_
+- **Parasitic Wall Hugger** - Slain by the _Chosen Undead_
+- **Pinwheel** - Slain by the _Chosen Undead_
+- **Priscilla** - Slain by the _Chosen Undead_
+- **Quelaag** - Slain by the _Chosen Undead_
 - **Reah** - Slain by _Petrus_
-- **Ricard** - Slain by _The Chosen Undead_
-- **Sanctuary Guardian** - Slain by _The Chosen Undead_
-- **Seath** - Slain by _The Chosen Undead_
+- **Ricard** - Slain by the _Chosen Undead_
+- **Sanctuary Guardian** - Slain by the _Chosen Undead_
+- **Seath** - Slain by the _Chosen Undead_
 - **Siegmeyer** (hollow) - Slain by _Sieglinde_
 - **Siegmeyer** - Fatally wounded by Chaos Eaters
-- **Sif** - Slain by _The Chosen Undead_
-- **Smough** - Slain by _The Chosen Undead_
-- **Solaire** - Slain by _The Chosen Undead_
-- **Stray Demon** - Slain by _The Chosen Undead_
-- **Taurus Demon** - Slain by _The Chosen Undead_
-- **The Chosen Undead** - Slain by _Seath_ (later revived)
-- **Vince** (hollow) - Slain by _The Chosen Undead_
+- **Sif** - Slain by the _Chosen Undead_
+- **Smough** - Slain by the _Chosen Undead_
+- **Solaire** - Slain by the _Chosen Undead_
+- **Stray Demon** - Slain by the _Chosen Undead_
+- **Taurus Demon** - Slain by the _Chosen Undead_
+- **Vince** (hollow) - Slain by the _Chosen Undead_
 - **Witch of Izalith** - Committed _suicide_ by creating the Flame of Chaos that consumed her and became the Bed of Chaos
