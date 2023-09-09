@@ -1,0 +1,20 @@
+- **Akane Kurashiki** - Bled out after being stabbed by _Gentarou Hongou_ (dependent) (Submarine)
+- **Akane Kurashiki** - Struck with an axe by _Clover Field_ (dependent) (Axe)
+- **Aoi Kurashiki** - Stabbed by _Gentarou Hongou_ (dependent) (Submarine)
+- **Aoi Kurashiki** - Struck with an axe by _Clover Field_ (dependent) (Axe)
+- **Clover Field** - Stabbed by _Gentarou Hongou_ (dependent) (Safe)
+- **Clover Field** - Stabbed by _Gentarou Hongou_ (dependent) (Submarine)
+- **Gentarou Hongou** - Incinerated after being trapped by _Light Field_ (dependent) (Safe)
+- **Hazuki Kashiwabara** - Stabbed by _Gentarou Hongou_ (dependent) (Axe)
+- **Hazuki Kashiwabara** - Stabbed by _Gentarou Hongou_ (dependent) (Knife)
+- **Hazuki Kashiwabara** - Stabbed by _Gentarou Hongou_ (dependent) (Submarine)
+- **Junpei Tenmyouji** - Drowned after being stabbed by _Gentarou Hongou_ (dependent) (Submarine)
+- **Junpei Tenmyouji** - Stabbed by _Gentarou Hongou_ (dependent) (Knife)
+- **Junpei Tenmyouji** - Struck with an axe by _Clover Field_ (dependent) (Axe)
+- **Kagechika Musashidou** - Murdered by _Clover Field_, via manipulation by _Akane Kurashiki_ and _Aoi Kurashiki_ (dependent) (Safe)
+- **Kagechika Musashidou** - Struck with an axe by _Gentarou Hongou_, via manipulation by _Akane Kurashiki_ and _Aoi Kurashiki_
+- **Light Field** - Incinerated after being fatally shot by _Gentarou Hongou_ (dependent) (Safe)
+- **Nagisa Nijisaki** - Exploded after being thrown behind a door alone by _Gentarou Hongou_, via manipulation by _Akane Kurashiki_ and _Aoi Kurashiki_
+- **Seven** - Stabbed by _Gentarou Hongou_ (dependent) (Submarine)
+- **Seven** - Struck with an axe by _Clover Field_ (dependent) (Axe)
+- **Teruaki Kubota** - Exploded after being tricked into going through a door alone by _Gentarou Hongou_, via manipulation by _Akane Kurashiki_ and _Aoi Kurashiki_
