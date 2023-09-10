@@ -1,0 +1,33 @@
+- **Amanecida of the Bejeweled Arrow** - Slain by the _Penitent One_
+- **Amanecida of the Bejeweled Arrow** - Succumbed from an unknown curse caused by the _High Wills_ (revived)
+- **Amanecida of the Chiselled Steel** - Slain by the _Penitent One_
+- **Amanecida of the Chiselled Steel** - Succumbed from an unknown curse caused by the _High Wills_ (revived)
+- **Amanecida of the Golden Blades** - Slain by the _Penitent One_
+- **Amanecida of the Golden Blades** - Succumbed from an unknown curse caused by the _High Wills_ (revived)
+- **Amanecida of the Molten Thorn** - Slain by the _Penitent One_
+- **Amanecida of the Molten Thorn** - Succumbed from an unknown curse caused by the _High Wills_ (revived)
+- **Cleofás** - Committed _suicide_ by jumping from a roof (dependent)
+- **Escribar** - Burned to ashes by the _High Wills_ (revived)
+- **Escribar** - Slain by the _Penitent One_
+- **Esdras** - Slain by the _Penitent One_ (dependent)
+- **Expósito** - Slain by the _Penitent One_
+- **Gémino** - Entombed within a tree (dependent)
+- **High Wills** - Head bisected by the _Penitent One_ and _Crisanta_
+- **Isidora** - Slain by the _Penitent One_
+- **Laudes** - Slain by the _Penitent One_
+- **Laudes** - Succumbed from an unknown curse caused by the _High Wills_ (revived)
+- **Melquíades** - Slain by the _Penitent One_
+- **Nacimiento** - Chest burst open by the _Ancient One_
+- **Our Lady of the Charred Visage** - Slain by the _Penitent One_
+- **Penitent One** - Committed _suicide_ by ending the Miracle with the help of _Crisanta_ (revived)
+- **Penitent One** - Committed _suicide_ by stabbing himself in the heart with Mea Culpa (dependent)
+- **Penitent One** - Swallowed by the mountain of ash (dependent)
+- **Quirce** - Slain by the _Penitent One_
+- **Redento** - Passed on after completing his pilgrimage
+- **Sierpes** - Slain by the _Penitent One_
+- **Socorro** - Slain by the _Penitent One_ (dependent)
+- **Ten Piedad** - Slain by the _Penitent One_
+- **Tres Angustias** - Slain by the _Penitent One_
+- **Twisted One** - Succumbed from an affliction caused by the _High Wills_
+- **Viridiana** - Died of old age (dependent)
+- **Warden of the Silent Sorrow** - Slain by the _Penitent One_
