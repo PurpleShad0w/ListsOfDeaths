@@ -1,24 +1,24 @@
 - **Aelinore** - Strangled by _Edmun Dragonsbane_ (dependent)
-- **Alejo** - Fatally wounded by _Grigori_ (dependent)
+- **Alejo** - Fatally wounded by _Grigori / Dragon_ (dependent)
 - **Arisen** - Committed _suicide_ by stabbing themself in the heart with Godsbane
-- **Ashe** - Slain by the _Arisen_
+- **Ashe / Daimon** - Slain by the _Arisen_
 - **Balsac** - Slain by the _Arisen_
 - **Condor** - Slain by the _Arisen_
-- **Cortese** - Immolated by _Grigori_
+- **Cortese** - Immolated by _Grigori / Dragon_
 - **Dark Bishop** - Slain by the _Arisen_
 - **Darkness** - Slain by the _Arisen_
-- **Elysion** - Slain by _Grigori_
-- **Ema** - Fatally wounded by _Grigori_ (dependent)
-- **Emme** - Died during the destruction of Gran Soren caused by _Grigori_
+- **Elysion** - Slain by _Grigori / Dragon_
+- **Ema** - Fatally wounded by _Grigori / Dragon_ (dependent)
+- **Emme** - Died during the destruction of Gran Soren caused by _Grigori / Dragon_
 - **Gazer** - Slain by the _Arisen_
 - **Ghost** - Slain by the _Arisen_
-- **Grigori** - Slain by the _Arisen_
+- **Grigori / Dragon** - Slain by the _Arisen_
 - **Hawk** - Slain by the _Arisen_
-- **Janielle** - Fatally wounded by _Grigori_ (dependent)
+- **Janielle** - Fatally wounded by _Grigori / Dragon_ (dependent)
 - **Jean** - Slain by a Cyclops
 - **Julien** - Slain by the _Arisen_ (dependent)
 - **Kent** - Slain by the _Arisen_
-- **Lazoro** - Fatally wounded by _Grigori_ (dependent)
+- **Lazoro** - Fatally wounded by _Grigori / Dragon_ (dependent)
 - **Lowane** - Slain by the _Arisen_
 - **Marcelo** - Slain by _Mason_ (dependent)
 - **Marcelo** - Slain by the _Arisen_ (dependent)
@@ -26,17 +26,17 @@
 - **Olra** - Slain by _Grette_
 - **Palotti** - Devoured by a Chimera
 - **Phantom** - Slain by the _Arisen_
-- **Raffe** - Died during the destruction of Gran Soren caused by _Grigori_
-- **Ramon** - Fatally wounded by _Grigori_ (dependent)
+- **Raffe** - Died during the destruction of Gran Soren caused by _Grigori / Dragon_
+- **Ramon** - Fatally wounded by _Grigori / Dragon_ (dependent)
 - **Raven** - Slain by the _Arisen_
 - **Reynard** - Slain by Goblins (dependent)
 - **Rouge** - Slain by the _Arisen_
 - **Salomet** - Pushed off the Bluemoon Tower by the _Arisen_
-- **Savan** - Stabbed with Godsbane by the _Arisen_
-- **Sentena** - Fatally wounded by _Grigori_ (dependent)
+- **Savan / Seneschal** - Stabbed with Godsbane by the _Arisen_
+- **Sentena** - Fatally wounded by _Grigori / Dragon_ (dependent)
 - **Soul** - Slain by the _Arisen_
 - **Spirits** - Slain by the _Arisen_
-- **The Dragonforged** - Crumbled to dust after the defeat of Grigori at the hands of the _Arisen_
+- **Dragonforged** - Crumbled to dust after the defeat of Grigori / Dragon at the hands of the _Arisen_
 - **Tolth** - Petrified by a Cockatrice
 - **Ur-Dragon** - Slain by the _Arisen_
 - **Westley** - Pecked by the Griffin (dependent)

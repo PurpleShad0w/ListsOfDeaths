@@ -9,5 +9,5 @@
 - **Rudol von Stroheim** - Died during the Battle of Stalingrad
 - **Straizo** - Committed _suicide_ by vaporizing himself
 - **Wamuu** - Disintegrated via _Joseph Joestar_'s ripple
-- **Wired Beck** - Vaporized by _Lisa Lisa_
-- **Zombie Commander** - Split in half by _Lisa Lisa_
+- **Wired Beck** - Vaporized by _Elizabeth Joestar / Lisa Lisa_
+- **Zombie Commander** - Split in half by _Elizabeth Joestar / Lisa Lisa_

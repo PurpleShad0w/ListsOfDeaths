@@ -1,5 +1,6 @@
 - **Buchi** - Decapitated by _Pet Shop_
-- **Captain Tennille** - Murdered by the _Impostor Captain Tennille_
+- **Captain Tennille / Impostor** - Drowned after being fatally wounded by _Jotaro Kujo_
+- **Captain Tennille** - Murdered by the _Captain Tennille / Impostor_
 - **Chibi** - Decapitated by _Pet Shop_
 - **Devo the Cursed** - Stabbed multiple times via his Stand by _Jean Pierre Polnareff_
 - **Dio Brando** - Exploded via his Stand's destruction caused by _Jotaro Kujo_
@@ -7,7 +8,6 @@
 - **Forever** - Cut in half by _Jean Pierre Polnareff_ (OVA only)
 - **Gray Fly** - Died via Stand destruction by _Noriaki Kakyoin_
 - **Iggy** - Fatally kicked by _Vanilla Ice_
-- **Impostor Captain Tennille** - Drowned after being fatally wounded by _Jotaro Kujo_
 - **J. Geil** - Stabbed by _Jean Pierre Polnareff_
 - **Muhammad Avdol** - Erased by _Vanilla Ice_
 - **N'Doul** - Committed _suicide_ by piercing his own head with his stand
