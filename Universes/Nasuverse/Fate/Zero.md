@@ -1,8 +1,8 @@
-- **Aoi Tohsaka** - Passed away due to complications after being strangled by _Kariya Matou_
-- **Artoria Pendragon** (Saber) - Committed _suicide_ by destroying the Holy Grail on orders from _Kiritsugu Emiya_
+- **Aoi Tohsaka** - Passed away due to complications after being strangled by *Kariya Matou*
+- **Artoria Pendragon** (Saber) - Committed _suicide_ by destroying the Holy Grail on orders from *Kiritsugu Emiya*
 - **Black Iri** (Avenger) - Strangled by _Kiritsugu Emiya_
 - **Bucephalus** (Servant) - Slain by _Gilgamesh_ (Archer)
-- **Diarmuid Ua Duibhne** (Lancer) - Committed _suicide_ by driving his own lance in his chest, on orders from _Kayneth El-Melloi Archibald_, coerced by _Kiritsugu Emiya_
+- **Diarmuid Ua Duibhne** (Lancer) - Committed _suicide_ by driving his own lance in his chest, on orders from *Kayneth El-Melloi Archibald*, coerced by *Kiritsugu Emiya*
 - **Gilles de Rais** (Caster) - Incinerated by _Artoria Pendragon_ (Saber)
 - **Hassan of the Hundred Faces** (Assassin) - Massacred by _Iskandar_ (Rider)
 - **Irisviel von Einzbern** - Neck broken by _Kirei Kotomine_
@@ -10,7 +10,7 @@
 - **Kariya Matou** - Mana exhaustion caused by _Lancelot_ (Berserker)
 - **Kayneth El-Melloi Archibald** - Beheaded by _Artoria Pendragon_ (Saber)
 - **Kirei Kotomine** - Shot in the heart by _Kiritsugu Emiya_ (revived)
-- **Kiritsugu Emiya** - Passed away after being cursed by _Black Iri_ (Avenger)
+- **Kiritsugu Emiya** - Passed away after being cursed by *Black Iri* (Avenger)
 - **Kobayashi** - Absorbed by _Gilles de Rais_ (Caster)
 - **Lancelot** (Berserker) - Stabbed in the chest by _Artoria Pendragon_ (Saber)
 - **Maiya Hisau** - Fatally injured by _Lancelot_ (Berserker)
@@ -22,5 +22,5 @@
 - **Ryuunosuke Uryuu** - Shot in the head by _Kiritsugu Emiya_
 - **Shirley** - Slain by the Mage Association's Executors
 - **Simon** - Slain by _Natalia Kaminski_
-- **Sola-Ui Nuada-Re Sophia-Ri** - Shot by _Maiya Hisau_ on orders from _Kiritsugu Emiya_
+- **Sola-Ui Nuada-Re Sophia-Ri** - Shot by _Maiya Hisau_ on orders from *Kiritsugu Emiya*
 - **Tokiomi Tohsaka** - Stabbed in the back by _Kirei Kotomine_

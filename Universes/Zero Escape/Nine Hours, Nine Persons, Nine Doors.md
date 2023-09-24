@@ -12,10 +12,10 @@
 - **Junpei Tenmyouji** - Drowned after being stabbed by _Gentarou Hongou / Ace_ (dependent) (Submarine)
 - **Junpei Tenmyouji** - Stabbed by _Gentarou Hongou / Ace_ (dependent) (Knife)
 - **Junpei Tenmyouji** - Struck with an axe by _Clover Field_ (dependent) (Axe)
-- **Kagechika Musashidou** - Murdered by _Clover Field_, via manipulation by _Akane Kurashiki / June / Zero_ and _Aoi Kurashiki / Santa_ (dependent) (Safe)
-- **Kagechika Musashidou** - Struck with an axe by _Gentarou Hongou / Ace_, via manipulation by _Akane Kurashiki / June / Zero_ and _Aoi Kurashiki / Santa_
+- **Kagechika Musashidou** - Murdered by _Clover Field_, via manipulation by *Akane Kurashiki / June / Zero* and *Aoi Kurashiki / Santa* (dependent) (Safe)
+- **Kagechika Musashidou** - Struck with an axe by _Gentarou Hongou / Ace_, via manipulation by *Akane Kurashiki / June / Zero* and *Aoi Kurashiki / Santa*
 - **Light Field / Snake** - Incinerated after being fatally shot by _Gentarou Hongou / Ace_ (dependent) (Safe)
-- **Nagisa Nijisaki** - Exploded after being thrown behind a door alone by _Gentarou Hongou / Ace_, via manipulation by _Akane Kurashiki / June / Zero_ and _Aoi Kurashiki / Santa_
+- **Nagisa Nijisaki** - Exploded after being thrown behind a door alone by _Gentarou Hongou / Ace_, via manipulation by *Akane Kurashiki / June / Zero* and *Aoi Kurashiki / Santa*
 - **Seven** - Stabbed by _Gentarou Hongou / Ace_ (dependent) (Submarine)
 - **Seven** - Struck with an axe by _Clover Field_ (dependent) (Axe)
-- **Teruaki Kubota** - Exploded after being tricked into going through a door alone by _Gentarou Hongou / Ace_, via manipulation by _Akane Kurashiki / June / Zero_ and _Aoi Kurashiki / Santa_
+- **Teruaki Kubota** - Exploded after being tricked into going through a door alone by _Gentarou Hongou / Ace_, via manipulation by *Akane Kurashiki / June / Zero* and *Aoi Kurashiki / Santa*

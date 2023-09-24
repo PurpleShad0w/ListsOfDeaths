@@ -1,14 +1,14 @@
 - **Achilles** (Rider) - Fatally wounded by _Atalanta_ (Archer)
 - **Amakusa Shirou Tokisada** (Ruler) - Fatally wounded by _Sieg_
 - **Atalanta** (Archer) - Impaled by _Achilles_ (Rider) with his spears
-- **Avi Dikhail** - Burned and heart gouged out by _Jack the Ripper_ (Assassin) on orders from _Reika Rikudou_
+- **Avi Dikhail** - Burned and heart gouged out by _Jack the Ripper_ (Assassin) on orders from *Reika Rikudou*
 - **Avicebron** (Caster) - Shot by _Chiron_ (Archer)
-- **Carl Lexarm** - Throat slit and heart gouged out by _Jack the Ripper_ (Assassin) on orders from _Reika Rikudou_
+- **Carl Lexarm** - Throat slit and heart gouged out by _Jack the Ripper_ (Assassin) on orders from *Reika Rikudou*
 - **Celenike Icecolle Yggdmillennia** - Decapitated by _Mordred_ (Saber)
 - **Chiron** (Archer) - Fatally punched by _Achilles_ (Rider)
 - **Darnic Prestone Yggdmillennia** - Reduced to ashes by _Amakusa Shirou Tokisada_ (Ruler)
 - **Frankenstein** (Berserker) - Committed _suicide_ by using her Noble Phantasm at the cost of her life
-- **Hyouma Sagara** - Slain by _Jack the Ripper_ (Assassin) on orders from _Reika Rikudou_
+- **Hyouma Sagara** - Slain by _Jack the Ripper_ (Assassin) on orders from *Reika Rikudou*
 - **Jack the Ripper** (Assassin) - Exorcised by _Jeanne d'Arc_ (Ruler)
 - **Jeanne d'Arc** (Ruler) - Committed _suicide_ by using her Noble Phantasm at the cost of her life
 - **Kairi Sisigou** - Mortally poisoned by _Semiramis_ (Assassin)

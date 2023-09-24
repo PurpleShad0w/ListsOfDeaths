@@ -1,39 +1,39 @@
-- **Amos** - Suffocated by _Nelson_ on orders from _Helen Pierce_
+- **Amos** - Suffocated by _Nelson_ on orders from *Helen Pierce*
 - **Anita Knarlson** - Hit her head after being pushed by _Carl Knarlson_
-- **Arturo Cabrera** - Shot by _Nelson_ on orders from _Marty Byrde_
+- **Arturo Cabrera** - Shot by _Nelson_ on orders from *Marty Byrde*
 - **Ash** - Stabbed with a fire poker by _Jacob Snell_
-- **Ben Davis** - Shot by _Nelson_ on orders from _Helen Pierce_ and _Wendy Byrde_
+- **Ben Davis** - Shot by _Nelson_ on orders from *Helen Pierce* and *Wendy Byrde*
 - **Bobby Dean** - Poisoned by _Darlene Snell_
 - **Boyd Langmore** - Electrocuted via a rigged dock by _Ruth Langmore_
 - **Brinkley Simmons** - Shot in the chest by _Darlene Snell_
 - **Bruce Liddell** - Shot by _Camino Del Rio_
 - **Buddy Dieker** - Died of natural causes
-- **Cade Langmore** - Shot multiple times by _Nelson_ on orders from _Wendy Byrde_
+- **Cade Langmore** - Shot multiple times by _Nelson_ on orders from *Wendy Byrde*
 - **Camino Del Rio** - Shot in the head by _Darlene Snell_
 - **Darlene Snell** - Shot in the chest by _Javier Elizonndro_
 - **Eugenia Dermody** - Hit by a truck
 - **Frank Cosgrove** - Shot in the chest by _Darlene Snell_
 - **Garcia** - Shot in the chest by _Buddy Dieker_
-- **Gary Silverberg** - Pushed off a balcony on orders from _Camino Del Rio_
-- **Grace Young** - Murdered by _Darlene Snell_ on orders from _Jacob Snell_
+- **Gary Silverberg** - Pushed off a balcony on orders from *Camino Del Rio*
+- **Grace Young** - Murdered by _Darlene Snell_ on orders from *Jacob Snell*
 - **Hanson Jr.** - Shot by _Camino Del Rio_
-- **Hanson Sr.** - Shot on orders from _Camino Del Rio_
-- **Helen Pierce** - Shot by _Nelson_ on orders from _Omar Navarro_
+- **Hanson Sr.** - Shot on orders from *Camino Del Rio*
+- **Helen Pierce** - Shot by _Nelson_ on orders from *Omar Navarro*
 - **Jacob Snell** - Poisoned by _Darlene Snell_
 - **Javier Elizonndro** - Shot three times in the chest by _Ruth Langmore_
 - **John Nix** - Shot in the chest and head by _Javier Elizonndro_
 - **Juan** - Throat slit by Lagunas Cartel hitmen
 - **Liz** - Shot by _Camino Del Rio_
-- **Louis Zehner** - Suffocated by _Garcia_ on orders from _Camino Del Rio_
+- **Louis Zehner** - Suffocated by _Garcia_ on orders from *Camino Del Rio*
 - **Mason Young** - Shot in the neck by _Marty Byrde_
 - **Mel Sattem** - Shot by _Jonah Byrde_
 - **Nelson** - Shot by _Rachel Garrison_
-- **Omar Navarro** - Shot by _Silva_ on orders from _Camila Elizonndro_
+- **Omar Navarro** - Shot by _Silva_ on orders from *Camila Elizonndro*
 - **Roy Petty** - Fatally beaten by _Cade Langmore_
 - **Russ Langmore** - Electrocuted via a rigged dock by _Ruth Langmore_
 - **Ruth Langmore** - Shot in the chest by _Camila Elizonndro_
-- **Sue Shelby** - Murdered by _Nelson_ on orders from _Helen Pierce_
+- **Sue Shelby** - Murdered by _Nelson_ on orders from *Helen Pierce*
 - **Tim Blake** - Committed _suicide_ by shooting himself in the head
 - **Tommy Walsh** - Shot by Lagunas Cartel hitmen
-- **Tony** - Shot in the stomach and head by _Nelson_ on orders from _Helen Pierce_
+- **Tony** - Shot in the stomach and head by _Nelson_ on orders from *Helen Pierce*
 - **Wyatt Langmore** - Shot in the head by _Javier Elizonndro_

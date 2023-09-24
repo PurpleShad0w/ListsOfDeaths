@@ -37,7 +37,7 @@
 - **Oblobbles** - Slain by the _Knight_
 - **Pale Lurker** - Slain by the _Knight_
 - **Quirrel** - Committed _suicide_ by removing his mask, allowing himself to die of old age
-- **Radiance** - Slain by the _Knight_'s shade while held by the _Hollow Knight_'s shade (dependent)
+- **Radiance** - Slain by the _Knight_'s shade while held by the *Hollow Knight*'s shade (dependent)
 - **Soul Master** - Slain by the _Knight_
 - **Soul Tyrant** (Spirit) - Essence extracted by the _Knight_
 - **Soul Warrior** - Slain by the _Knight_
