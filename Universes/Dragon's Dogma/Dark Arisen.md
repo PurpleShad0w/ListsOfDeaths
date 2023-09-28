@@ -36,7 +36,7 @@
 - **Sentena** - Fatally wounded by _Grigori / Dragon_ (dependent)
 - **Soul** - Slain by the _Arisen_
 - **Spirits** - Slain by the _Arisen_
-- **Dragonforged** - Crumbled to dust after the defeat of Grigori / Dragon at the hands of the _Arisen_
+- **Dragonforged** - Crumbled to dust after the defeat of Grigori / Dragon at the hands of the *Arisen*
 - **Tolth** - Petrified by a Cockatrice
 - **Ur-Dragon** - Slain by the _Arisen_
 - **Westley** - Pecked by the Griffin (dependent)

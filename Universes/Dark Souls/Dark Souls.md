@@ -51,4 +51,4 @@
 - **Stray Demon** - Slain by the _Chosen Undead_
 - **Taurus Demon** - Slain by the _Chosen Undead_
 - **Vince** (Hollow) - Slain by the _Chosen Undead_
-- **Witch of Izalith** - Committed _suicide_ by creating the Flame of Chaos that consumed her and became the Bed of Chaos
+- **Witch of Izalith** - Committed *suicide* by creating the Flame of Chaos that consumed her and became the Bed of Chaos

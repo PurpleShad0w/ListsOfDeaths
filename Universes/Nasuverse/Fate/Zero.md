@@ -1,23 +1,23 @@
 - **Aoi Tohsaka** - Passed away due to complications after being strangled by *Kariya Matou*
-- **Artoria Pendragon** (Saber) - Committed _suicide_ by destroying the Holy Grail on orders from *Kiritsugu Emiya*
-- **Black Iri** (Avenger) - Strangled by _Kiritsugu Emiya_
-- **Bucephalus** (Servant) - Slain by _Gilgamesh_ (Archer)
-- **Diarmuid Ua Duibhne** (Lancer) - Committed _suicide_ by driving his own lance in his chest, on orders from *Kayneth El-Melloi Archibald*, coerced by *Kiritsugu Emiya*
-- **Gilles de Rais** (Caster) - Incinerated by _Artoria Pendragon_ (Saber)
-- **Hassan of the Hundred Faces** (Assassin) - Massacred by _Iskandar_ (Rider)
+- **Artoria Pendragon / Saber** - Committed _suicide_ by destroying the Holy Grail on orders from *Kiritsugu Emiya*
+- **Black Iri / Avenger** - Strangled by _Kiritsugu Emiya_
+- **Bucephalus** - Slain by _Gilgamesh / Archer_
+- **Diarmuid Ua Duibhne / Lancer** - Committed _suicide_ by driving his own lance in his chest, on orders from *Kayneth El-Melloi Archibald*, coerced by *Kiritsugu Emiya*
+- **Gilles de Rais / Caster** - Incinerated by _Artoria Pendragon / Saber_
+- **Hassan of the Hundred Faces / Assassin** - Massacred by _Iskandar / Rider_
 - **Irisviel von Einzbern** - Neck broken by _Kirei Kotomine_
-- **Iskandar** (Rider) - Stabbed in the chest by _Gilgamesh_ (Archer)
-- **Kariya Matou** - Mana exhaustion caused by _Lancelot_ (Berserker)
-- **Kayneth El-Melloi Archibald** - Beheaded by _Artoria Pendragon_ (Saber)
+- **Iskandar / Rider** - Stabbed in the chest by _Gilgamesh / Archer_
+- **Kariya Matou** - Mana exhaustion caused by _Lancelot / Berserker_
+- **Kayneth El-Melloi Archibald** - Beheaded by _Artoria Pendragon / Saber_
 - **Kirei Kotomine** - Shot in the heart by _Kiritsugu Emiya_ (revived)
-- **Kiritsugu Emiya** - Passed away after being cursed by *Black Iri* (Avenger)
-- **Kobayashi** - Absorbed by _Gilles de Rais_ (Caster)
-- **Lancelot** (Berserker) - Stabbed in the chest by _Artoria Pendragon_ (Saber)
-- **Maiya Hisau** - Fatally injured by _Lancelot_ (Berserker)
+- **Kiritsugu Emiya** - Passed away after being cursed by *Black Iri / Avenger*
+- **Kobayashi** - Absorbed by _Gilles de Rais / Caster_
+- **Lancelot / Berserker** - Stabbed in the chest by _Artoria Pendragon / Saber_
+- **Maiya Hisau** - Fatally injured by _Lancelot / Berserker_
 - **Natalia Kaminski** - Plane shot down by _Kiritsugu Emiya_
 - **Norikata Emiya** - Shot by _Kiritsugu Emiya_
 - **Odd Borzak** - Slain by _Natalia Kaminski_
-- **Ougi** - Organs burst via intense g-forces during jet hijacking by _Lancelot_ (Berserker)
+- **Ougi** - Organs burst via intense g-forces during jet hijacking by _Lancelot / Berserker_
 - **Risei Kotomine** - Shot by _Kayneth El-Melloi Archibald_
 - **Ryuunosuke Uryuu** - Shot in the head by _Kiritsugu Emiya_
 - **Shirley** - Slain by the Mage Association's Executors
