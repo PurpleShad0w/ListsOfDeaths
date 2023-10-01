@@ -1,1 +1,1 @@
-- **Penitent One** - Slain by _Crisanta_ on orders from the *High Wills* (revived)
+- **Penitent One** - Slain by _Crisanta of the Wrapped Agony_ on orders from the *High Wills* (revived)

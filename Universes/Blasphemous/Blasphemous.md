@@ -7,22 +7,22 @@
 - **Amanecida of the Molten Thorn** - Slain by the _Penitent One_
 - **Amanecida of the Molten Thorn** - Succumbed from an unknown curse caused by the *High Wills* (revived)
 - **Cleofás** - Committed _suicide_ by jumping from a roof (dependent)
-- **Escribar** - Burned to ashes by the _High Wills_ (revived)
-- **Escribar** - Slain by the _Penitent One_
-- **Esdras** - Slain by the _Penitent One_ (dependent)
-- **Expósito** - Slain by the _Penitent One_
+- **Esdras, of the Anointed Legion** - Slain by the _Penitent One_ (dependent)
+- **Expósito, Scion of Abjuration** - Slain by the _Penitent One_
 - **Gémino** - Entombed within a tree (dependent)
-- **High Wills** - Head bisected by the _Penitent One_ and _Crisanta_
-- **Isidora** - Slain by the _Penitent One_
-- **Laudes** - Slain by the _Penitent One_
-- **Laudes** - Succumbed from an unknown curse caused by the *High Wills* (revived)
-- **Melquíades** - Slain by the _Penitent One_
+- **High Wills** - Head bisected by the _Penitent One_ and _Crisanta of the Wrapped Agony_
+- **His Holiness Escribar / Last Son of the Miracle / Sentinel of the Eternal Procession** - Burned to ashes by the _High Wills_ (revived)
+- **His Holiness Escribar / Last Son of the Miracle / Sentinel of the Eternal Procession** - Slain by the _Penitent One_
+- **Isidora, Voice of the Dead** - Slain by the _Penitent One_
+- **Laudes, the First of the Amanecidas** - Slain by the _Penitent One_
+- **Laudes, the First of the Amanecidas** - Succumbed from an unknown curse caused by the *High Wills* (revived)
+- **Melquíades, the Exhumed Archbishop** - Slain by the _Penitent One_
 - **Nacimiento** - Chest burst open by the _Ancient One_
 - **Our Lady of the Charred Visage** - Slain by the _Penitent One_
-- **Penitent One** - Committed _suicide_ by ending the Miracle with the help of _Crisanta_ (revived)
+- **Penitent One** - Committed _suicide_ by ending the Miracle with the help of _Crisanta of the Wrapped Agony_ (revived)
 - **Penitent One** - Committed _suicide_ by stabbing himself in the heart with Mea Culpa (dependent)
 - **Penitent One** - Swallowed by the mountain of ash (dependent)
-- **Quirce** - Slain by the _Penitent One_
+- **Quirce, Returned by the Flames** - Slain by the _Penitent One_
 - **Redento** - Passed on after completing his pilgrimage
 - **Sierpes** - Slain by the _Penitent One_
 - **Socorro** - Slain by the _Penitent One_ (dependent)

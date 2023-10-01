@@ -7,6 +7,7 @@
 - **Cortese** - Immolated by _Grigori / Dragon_
 - **Dark Bishop** - Slain by the _Arisen_
 - **Darkness** - Slain by the _Arisen_
+- **Dragonforged** - Crumbled to dust after the defeat of Grigori / Dragon at the hands of the *Arisen*
 - **Elysion** - Slain by _Grigori / Dragon_
 - **Ema** - Fatally wounded by _Grigori / Dragon_ (dependent)
 - **Emme** - Died during the destruction of Gran Soren caused by _Grigori / Dragon_
@@ -24,9 +25,7 @@
 - **Marcelo** - Slain by the _Arisen_ (dependent)
 - **Noir** - Slain by the _Arisen_
 - **Olra** - Slain by _Grette_
-- **Palotti** - Devoured by a Chimera
 - **Phantom** - Slain by the _Arisen_
-- **Raffe** - Died during the destruction of Gran Soren caused by _Grigori / Dragon_
 - **Ramon** - Fatally wounded by _Grigori / Dragon_ (dependent)
 - **Raven** - Slain by the _Arisen_
 - **Reynard** - Slain by Goblins (dependent)
@@ -34,11 +33,12 @@
 - **Salomet** - Pushed off the Bluemoon Tower by the _Arisen_
 - **Savan / Seneschal** - Stabbed with Godsbane by the _Arisen_
 - **Sentena** - Fatally wounded by _Grigori / Dragon_ (dependent)
+- **Ser Palotti** - Devoured by a Chimera
+- **Ser Raffe** - Died during the destruction of Gran Soren caused by _Grigori / Dragon_
+- **Ser Tolth** - Petrified by a Cockatrice
+- **Ser Westley** - Pecked by the Griffin (dependent)
 - **Soul** - Slain by the _Arisen_
 - **Spirits** - Slain by the _Arisen_
-- **Dragonforged** - Crumbled to dust after the defeat of Grigori / Dragon at the hands of the *Arisen*
-- **Tolth** - Petrified by a Cockatrice
 - **Ur-Dragon** - Slain by the _Arisen_
-- **Westley** - Pecked by the Griffin (dependent)
 - **Wilhem** - Succumbed to an illness
 - **Zero** - Slain by the _Arisen_

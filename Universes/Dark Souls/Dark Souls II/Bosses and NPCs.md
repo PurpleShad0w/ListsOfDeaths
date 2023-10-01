@@ -1,53 +1,53 @@
-- **Aava** - Slain by the _Bearer of the Curse_, assisted by _Ellie_ or _Glencour_
-- **Afflicted Graverobber** - Slain by the _Bearer of the Curse_, assisted by _Andrei_ or _Aflis_
-- **Aged Smelter Demon** - Slain by the _Bearer of the Curse_, assisted by _Lorrie_ or _Aidel_
-- **Alonne** - Slain by the _Bearer of the Curse_, assisted by _Lorrie_ or _Aidel_
-- **Ancient Dragon** - Slain by the _Bearer of the Curse_, assisted by _Vengarl_, _Melinda_ or _Ray_
-- **Belfry Gargoyles** - Slain by the _Bearer of the Curse_, assisted by _Glencour_
-- **Cerah** - Slain by the _Bearer of the Curse_, assisted by _Andrei_ or _Aflis_
+- **Aava, the King's Pet** - Slain by the _Bearer of the Curse_, assisted by _Steelheart Ellie_ or _Masterless Glencour_
+- **Afflicted Graverobber** - Slain by the _Bearer of the Curse_, assisted by _Rapacious Andrei_ or _Ruined Aflis_
+- **Aged Smelter Demon** - Slain by the _Bearer of the Curse_, assisted by _Steel-willed Lorrie_ or _Drifter Swordsman Aidel_
+- **Ancient Dragon** - Slain by the _Bearer of the Curse_, assisted by _Vengarl of Forossa_, _Melinda the Butcher_ or _Bashful Ray_
+- **Ancient Soldier Varg** - Slain by the _Bearer of the Curse_, assisted by _Rapacious Andrei_ or _Ruined Aflis_
+- **Belfry Gargoyles** - Slain by the _Bearer of the Curse_, assisted by _Masterless Glencour_
+- **Burnt Ivory King** - Slain by the _Bearer of the Curse_, assisted by _Lucatiel of Mirrah_ or _Twiggy Shei_
+- **Cerah the Old Explorer** - Slain by the _Bearer of the Curse_, assisted by _Rapacious Andrei_ or _Ruined Aflis_
 - **Covetous Demon** - Slain by the _Bearer of the Curse_
-- **Creighton** - Slain by the _Bearer of the Curse_ and _Pate_ (dependent)
+- **Creighton the Wanderer / Creighton of Mirrah** - Slain by the _Bearer of the Curse_ and _Mild-Mannered Pate_ (dependent)
 - **Darklurker** - Slain by the _Bearer of the Curse_
-- **Demon of Song** - Slain by the _Bearer of the Curse_, assisted by _Felicia_ or _Schmidt_
-- **Dragonrider** - Slain by the _Bearer of the Curse_, assisted by _Glencour_ or _Scarlett_
-- **Dragonriders** - Slain by the _Bearer of the Curse_, assisted by _Bellclaire_
-- **Elana** - Slain by the _Bearer of the Curse_, assisted by _Ellie_ or _Benhart_
-- **Executioner's Chariot** - Slain by the _Bearer of the Curse_, assisted by _Creighton_ or _Ray_
-- **Fabian** - Consumed by the Flame of Chaos
-- **Flexile Sentry** - Slain by the _Bearer of the Curse_, assisted by _Lucatiel_ or _Bradley_
-- **Freja** - Slain by the _Bearer of the Curse_, assisted by _Boyd_, _O'Harrah_ or _Ray_
-- **Giant Lord** - Slain by the _Bearer of the Curse_, assisted by _Drummond_ or _Benhart_
-- **Guardian Dragon** - Slain by the _Bearer of the Curse_, assisted by _Luet_
-- **Ivory King** - Slain by the _Bearer of the Curse_, assisted by _Lucatiel_ or _Shei_
-- **Last Giant** - Slain by the _Bearer of the Curse_, assisted by _Pate_ or _Luet_
-- **Licia** - Slain by the _Bearer of the Curse_
-- **Looking Glass Knight** - Slain by the _Bearer of the Curse_, assisted by _Benhart_ or _Boyd_
-- **Lost Sinner** - Slain by the _Bearer of the Curse_, assisted by _Lucatiel_ or _Luet_
-- **Lud** - Slain by the _Bearer of the Curse_, assisted by _Feeva_, _Vengarl_ or _O'Harrah_
-- **Mytha** - Slain by the _Bearer of the Curse_, assisted by _Thomas_, _Scarlett_ or _Ray_
-- **Nadalia** - Soul hosts destroyed by the _Bearer of the Curse_
-- **Najka** - Slain by the _Bearer of the Curse_, assisted by _Tark_ or _Bradley_
-- **Nashandra** - Slain by the _Bearer of the Curse_, assisted by _Vengarl_, _Benhart_ or _Bradley_
-- **Old Dragonslayer** - Slain by the _Bearer of the Curse_, assisted by _Glencour_ or _Scarlett_
-- **Old Iron King** - Slain by the _Bearer of the Curse_, assisted by _O'Harrah_
+- **Demon of Song** - Slain by the _Bearer of the Curse_, assisted by _Felicia the Brave_ or _Lone Hunter Schmidt_
+- **Dragonrider** - Slain by the _Bearer of the Curse_, assisted by _Masterless Glencour_ or _Devotee Scarlett_
+- **Dragonriders** - Slain by the _Bearer of the Curse_, assisted by _Pilgrim Bellclaire_
+- **Duke Tseldora** (Hollow) - Slain by the _Bearer of the Curse_
+- **Duke's Dear Freja** - Slain by the _Bearer of the Curse_, assisted by _Ashen Knight Boyd_, _Manhunter O'Harrah_ or _Bashful Ray_
+- **Elana, the Squalid Queen** - Slain by the _Bearer of the Curse_, assisted by _Steelheart Ellie_ or _Benhart of Jugo_
+- **Executioner's Chariot** - Slain by the _Bearer of the Curse_, assisted by _Creighton the Wanderer / Creighton of Mirrah_ or _Bashful Ray_
+- **Flexile Sentry** - Slain by the _Bearer of the Curse_, assisted by _Lucatiel of Mirrah_ or _Bradley of the Old Guard_
+- **Fume Knight / Raime the Traitor / Rebel Raime** - Slain by the _Bearer of the Curse_, assisted by _Steelheart Ellie_ or _Carhillion of the Fold_
+- **Giant Lord** - Slain by the _Bearer of the Curse_, assisted by _Captain Drummond_ or _Benhart of Jugo_
+- **Guardian Dragon** - Slain by the _Bearer of the Curse_, assisted by _Sellsword Luet_
+- **Last Giant** - Slain by the _Bearer of the Curse_, assisted by _Mild-Mannered Pate_ or _Sellsword Luet_
+- **Licia of Lindeldt** - Slain by the _Bearer of the Curse_
+- **Looking Glass Knight** - Slain by the _Bearer of the Curse_, assisted by _Benhart of Jugo_ or _Ashen Knight Boyd_
+- **Lost Sinner** - Slain by the _Bearer of the Curse_, assisted by _Lucatiel of Mirrah_ or _Sellsword Luet_
+- **Lud, the King's Pet** - Slain by the _Bearer of the Curse_, assisted by _Abbess Feeva_, _Vengarl of Forossa_ or _Manhunter O'Harrah_
+- **Mild-Mannered Pate** - Slain by the _Bearer of the Curse_ and _Creighton the Wanderer / Creighton of Mirrah_ (dependent)
+- **Mytha, the Baneful Queen** - Slain by the _Bearer of the Curse_, assisted by _Jester Thomas_, _Devotee Scarlett_ or _Bashful Ray_
+- **Nadalia, Bride of Ash** - Soul hosts destroyed by the _Bearer of the Curse_
+- **Nashandra** - Slain by the _Bearer of the Curse_, assisted by _Vengarl of Forossa_, _Benhart of Jugo_ or _Bradley of the Old Guard_
+- **Old Dragonslayer** - Slain by the _Bearer of the Curse_, assisted by _Masterless Glencour_ or _Devotee Scarlett_
+- **Old Iron King** - Slain by the _Bearer of the Curse_, assisted by _Manhunter O'Harrah_
 - **Old Iron King** - Slain by the _Smelter Demon_ (revived)
-- **Pate** - Slain by the _Bearer of the Curse_ and _Creighton_ (dependent)
-- **Prowling Magus** - Slain by the _Bearer of the Curse_, assisted by _Benhart_
+- **Prowling Magus** - Slain by the _Bearer of the Curse_, assisted by _Benhart of Jugo_
 - **Pursuer** - Slain by the _Bearer of the Curse_
-- **Raime** - Slain by the _Bearer of the Curse_, assisted by _Ellie_ or _Carhillion_
-- **Rotten** - Slain by the _Bearer of the Curse_, assisted by _Schmidt_, _Lucatiel_ or _Ray_
+- **Rotten** - Slain by the _Bearer of the Curse_, assisted by _Lone Hunter Schmidt_, _Lucatiel of Mirrah_ or _Bashful Ray_
 - **Royal Rat Authority** - Slain by the _Bearer of the Curse_
 - **Royal Rat Vanguard** - Slain by the _Bearer of the Curse_
-- **Ruin Sentinels** - Slain by the _Bearer of the Curse_, assisted by _Bellclaire_ or _Felicia_
-- **Sinh** - Slain by the _Bearer of the Curse_, assisted by _Edde_ or _Feeva_
-- **Skeleton Lords** - Slain by the _Bearer of the Curse_, assisted by _Ray_ or _Creighton_
-- **Smelter Demon** - Slain by the _Bearer of the Curse_, assisted by _Lucatiel_
-- **Sunken King** - Slain by _Yorgh_
-- **Throne Defender** - Slain by the _Bearer of the Curse_, assisted by _Vengarl_, _Benhart_ or _Bradley_
-- **Throne Watcher** - Slain by the _Bearer of the Curse_, assisted by _Vengarl_, _Benhart_ or _Bradley_
-- **Tseldora** (Hollow) - Slain by the _Bearer of the Curse_
-- **Varg** - Slain by the _Bearer of the Curse_, assisted by _Andrei_ or _Aflis_
-- **Velstadt** - Slain by the _Bearer of the Curse_, assisted by _Agdayne_ or _Scarlett_
+- **Ruin Sentinels** - Slain by the _Bearer of the Curse_, assisted by _Pilgrim Bellclaire_ or _Felicia the Brave_
+- **Scorpioness Najka** - Slain by the _Bearer of the Curse_, assisted by _Manscorpion Tark_ or _Bradley of the Old Guard_
+- **Sinh, the Slumbering Dragon** - Slain by the _Bearer of the Curse_, assisted by _Transcendent Edde_ or _Abbess Feeva_
+- **Sir Alonne** - Slain by the _Bearer of the Curse_, assisted by _Steel-willed Lorrie_ or _Drifter Swordsman Aidel_
+- **Sir Fabian / Fabian, Knight of Eleum Loyce** - Consumed by the Flame of Chaos
+- **Sir Yorgh** - Poisoned by _Sinh_
+- **Skeleton Lords** - Slain by the _Bearer of the Curse_, assisted by _Bashful Ray_ or _Creighton the Wanderer / Creighton of Mirrah_
+- **Smelter Demon** - Slain by the _Bearer of the Curse_, assisted by _Lucatiel of Mirrah_
+- **Sunken King** - Slain by _Sir Yorgh_
+- **Throne Defender** - Slain by the _Bearer of the Curse_, assisted by _Vengarl of Forossa_, _Benhart of Jugo_ or _Bradley of the Old Guard_
+- **Throne Watcher** - Slain by the _Bearer of the Curse_, assisted by _Vengarl of Forossa_, _Benhart of Jugo_ or _Bradley of the Old Guard_
+- **Velstadt, the Royal Aegis** - Slain by the _Bearer of the Curse_, assisted by _Grave Warden Agdayne_ or _Devotee Scarlett_
 - **Vendrick** - Slain by the _Bearer of the Curse_
-- **Yorgh** - Poisoned by _Sinh_
-- **Zallen** - Slain by the _Bearer of the Curse_, assisted by _Feeva_, _Vengarl_ or _O'Harrah_
+- **Zallen, the King's Pet** - Slain by the _Bearer of the Curse_, assisted by _Abbess Feeva_, _Vengarl of Forossa_ or _Manhunter O'Harrah_

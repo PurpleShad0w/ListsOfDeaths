@@ -1,54 +1,54 @@
-- **Anastascia** - Slain by _Lautrec_ (revived) (dependent)
-- **Artorias** - Slain by the _Chosen Undead_
+- **Anastacia of Astora / Ash Maiden** - Slain by _Knight Lautrec of Carim / Lautrec the Embraced / Lautrec the Guilty_ (revived) (dependent)
 - **Asylum Demon** - Slain by the _Chosen Undead_
 - **Bed of Chaos** - Slain by the _Chosen Undead_
-- **Bell Gargoyles** - Slain by the _Chosen Undead_, assisted by _Lautrec_ or _Solaire_
+- **Bell Gargoyles** - Slain by the _Chosen Undead_, assisted by _Knight Lautrec of Carim / Lautrec the Embraced / Lautrec the Guilty_ or _Solaire of Astora_
+- **Big Hat Logan** (Hollow) - Slain by the _Chosen Undead_
+- **Black Dragon Kalameet** - Slain by the _Chosen Undead_
 - **Capra Demon** - Slain by the _Chosen Undead_
 - **Ceaseless Discharge** - Slain by the _Chosen Undead_
-- **Centipede Demon** - Slain by the _Chosen Undead_, assisted by _Solaire_
-- **Chester** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
+- **Centipede Demon** - Slain by the _Chosen Undead_, assisted by _Solaire of Astora_
+- **Chaos Witch Quelaag** - Slain by the _Chosen Undead_, assisted by _Maneater Mildred_
 - **Chosen Undead** - Committed _suicide_ by burning themself in the First Flame (dependent)
 - **Crestfallen Warrior** (Hollow) - Slain by the _Chosen Undead_
+- **Crossbreed Priscilla** - Slain by the _Chosen Undead_
+- **Dark Sun Gwyndolin** - Slain by the _Chosen Undead_
 - **Demon Firesage** - Slain by the _Chosen Undead_
-- **Four Kings** - Slain by the _Chosen Undead_, assisted by _Beatrice_
-- **Gaping Dragon** - Slain by the _Chosen Undead_, assisted by _Lautrec_ or _Solaire_
+- **Dragon Slayer Ornstein** - Slain by the _Chosen Undead_, assisted by _Solaire of Astora_
+- **Executioner Smough** - Slain by the _Chosen Undead_, assisted by _Solaire of Astora_
+- **Four Kings** - Slain by the _Chosen Undead_, assisted by _Witch Beatrice_
+- **Gaping Dragon** - Slain by the _Chosen Undead_, assisted by _Knight Lautrec of Carim / Lautrec the Embraced / Lautrec the Guilty_ or _Solaire of Astora_
 - **Giant Undead Rat** - Slain by the _Chosen Undead_
-- **Griggs** (Hollow) - Slain by the _Chosen Undead_
-- **Gwyn** - Committed _suicide_ by burning himself in the First Flame (revived)
-- **Gwyn** - Slain by the _Chosen Undead_, assisted by _Solaire_
-- **Gwyndolin** - Slain by the _Chosen Undead_
+- **Gravelord Nito / Nito, the First of the Dead** - Slain by the _Chosen Undead_
+- **Great Grey Wolf Sif** - Slain by the _Chosen Undead_
+- **Griggs of Vinheim** (Hollow) - Slain by the _Chosen Undead_
+- **Gwyn, Lord of Cinder / Lord of Sunlight** - Committed _suicide_ by burning himself in the First Flame (revived)
+- **Gwyn, Lord of Cinder / Lord of Sunlight** - Slain by the _Chosen Undead_, assisted by _Solaire of Astora_
 - **Hellkite Drake** - Slain by the _Chosen Undead_
-- **Iron Golem** - Slain by the _Chosen Undead_, assisted by _Tarkus_
-- **Jeremiah** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
-- **Kalameet** - Slain by the _Chosen Undead_
-- **Kirk** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
-- **Kirk** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
-- **Kirk** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
-- **Laurentius** (Hollow) - Slain by the _Chosen Undead_ (dependent)
-- **Lautrec** - Slain by the _Chosen Undead_
-- **Leeroy** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
-- **Logan** (Hollow) - Slain by the _Chosen Undead_
-- **Manus** - Slain by the _Chosen Undead_, assisted by _Sif_
-- **Mildred** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
-- **Moonlight Butterfly** - Slain by the _Chosen Undead_, assisted by _Beatrice_
-- **Nico** (Hollow) - Slain by the _Chosen Undead_
-- **Nito** - Slain by the _Chosen Undead_
-- **Ornstein** - Slain by the _Chosen Undead_, assisted by _Solaire_
-- **Oscar** (Hollow) - Slain by the _Chosen Undead_
+- **Iron Golem** - Slain by the _Chosen Undead_, assisted by _Black Iron Tarkus_
+- **Kirk, Knight of Thorns** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
+- **Kirk, Knight of Thorns** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
+- **Kirk, Knight of Thorns** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
+- **Knight Artorias / Artorias the Abysswalker** - Slain by the _Chosen Undead_
+- **Knight Lautrec of Carim / Lautrec the Embraced / Lautrec the Guilty** - Slain by the _Chosen Undead_
+- **Laurentius of the Great Swamp** (Hollow) - Slain by the _Chosen Undead_ (dependent)
+- **Maneater Mildred** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
+- **Manus, Father of the Abyss** - Slain by the _Chosen Undead_, assisted by _Great Grey Wolf Sif_
+- **Marvelous Chester** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
+- **Moonlight Butterfly** - Slain by the _Chosen Undead_, assisted by _Witch Beatrice_
+- **Nico of Thorolund** (Hollow) - Slain by the _Chosen Undead_
+- **Oscar, Knight of Astora** (Hollow) - Slain by the _Chosen Undead_
+- **Paladin Leeroy** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
 - **Parasitic Wall Hugger** - Slain by the _Chosen Undead_
-- **Pinwheel** - Slain by the _Chosen Undead_, assisted by _Leeroy_
-- **Priscilla** - Slain by the _Chosen Undead_
-- **Quelaag** - Slain by the _Chosen Undead_, assisted by _Mildred_
-- **Reah** - Slain by _Petrus_ (dependent)
-- **Ricard** - Slain by the _Chosen Undead_
+- **Pinwheel** - Slain by the _Chosen Undead_, assisted by _Paladin Leeroy_
+- **Reah of Thorolund** - Slain by _Petrus of Thorolund_ (dependent)
 - **Sanctuary Guardian** - Slain by the _Chosen Undead_
-- **Seath** - Slain by the _Chosen Undead_
-- **Siegmeyer** (Hollow) - Slain by _Sieglinde_ (dependent)
-- **Siegmeyer** - Fatally wounded by Chaos Eaters (dependent)
-- **Sif** - Slain by the _Chosen Undead_
-- **Smough** - Slain by the _Chosen Undead_, assisted by _Solaire_
-- **Solaire** - Slain by the _Chosen Undead_ (dependent)
+- **Seath the Scaleless** - Slain by the _Chosen Undead_
+- **Siegmeyer of Catarina** (Hollow) - Slain by _Sieglinde of Catarina_ (dependent)
+- **Siegmeyer of Catarina** - Fatally wounded by Chaos Eaters (dependent)
+- **Solaire of Astora** - Slain by the _Chosen Undead_ (dependent)
 - **Stray Demon** - Slain by the _Chosen Undead_
 - **Taurus Demon** - Slain by the _Chosen Undead_
-- **Vince** (Hollow) - Slain by the _Chosen Undead_
+- **Undead Prince Ricard** - Slain by the _Chosen Undead_
+- **Vince of Thorolund** (Hollow) - Slain by the _Chosen Undead_
 - **Witch of Izalith** - Committed *suicide* by creating the Flame of Chaos that consumed her and became the Bed of Chaos
+- **Xanthous King, Jeremiah** (Red Phantom) - Slain by the _Chosen Undead_ (revived)
