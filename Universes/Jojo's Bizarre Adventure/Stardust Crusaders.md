@@ -1,6 +1,6 @@
 - **Buchi** - Decapitated by _Pet Shop_
-- **Captain Tennille / Impostor** - Drowned after being fatally wounded by _Jotaro Kujo_
-- **Captain Tennille** - Murdered by the _Captain Tennille / Impostor_
+- **Captain Tennille Impostor** - Drowned after being fatally wounded by _Jotaro Kujo_
+- **Captain Tennille** - Murdered by the _Captain Tennille Impostor_
 - **Chibi** - Decapitated by _Pet Shop_
 - **Devo the Cursed** - Stabbed multiple times via his Stand by _Jean Pierre Polnareff_
 - **Dio Brando** - Exploded via his Stand's destruction caused by _Jotaro Kujo_
