@@ -1,5 +1,5 @@
-- **Artoria Pendragon / Saber** - Committed _suicide_ by destroying the Holy Grail (dependent) (Fate)
-- **Artoria Pendragon / Saber** - Committed _suicide_ by destroying the Holy Grail (dependent) (UBW)
+- **Artoria Pendragon / Saber** - Committed *suicide* by destroying the Holy Grail (dependent) (Fate)
+- **Artoria Pendragon / Saber** - Committed *suicide* by destroying the Holy Grail (dependent) (UBW)
 - **Artoria Pendragon / Saber** - Stabbed by _Shirou Emiya_ (dependent) (HF)
 - **Atrum Galliasta** - Immolated by _Medea / Caster_ (UBW Anime)
 - **Atrum Galliasta** - Stabbed by _Medea / Caster_
@@ -40,7 +40,7 @@
 - **Sella** - Decapitated by _Gilgamesh / Archer_ (UBW Anime)
 - **Shinji Matou** - Slain by _Heracles / Berserker_ on orders from *Illyasviel von Einzbern* (dependent) (Fate)
 - **Shinji Matou** - Slain by _Sakura Matou_ (dependent) (HF)
-- **Shirou Emiya** - Committed _suicide_ by destroying the Greater Grail (dependent) (HF Normal)
+- **Shirou Emiya** - Committed *suicide* by destroying the Greater Grail (dependent) (HF Normal)
 - **Souichirou Kuzuki** - Slain by _Gilgamesh / Archer_ (dependent) (Fate)
 - **Souichirou Kuzuki** - Slain by _Gilgamesh / Archer_ (dependent) (UBW)
 - **Souichirou Kuzuki** - Stabbed by _Medea / Caster_ (dependent) (HF)

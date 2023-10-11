@@ -50,5 +50,5 @@
 - **Taurus Demon** - Slain by the _Chosen Undead_
 - **Undead Prince Ricard** - Slain by the _Chosen Undead_
 - **Vince of Thorolund** (Hollow) - Slain by the _Chosen Undead_
-- **Witch of Izalith** - Committed *suicide* by creating the Flame of Chaos that consumed her and became the Bed of Chaos
+- **Witch of Izalith** - Committed *suicide* by creating the _Flame of Chaos_ that consumed her and became the Bed of Chaos
 - **Xanthous King, Jeremiah** (Red Phantom) - Slain by the _Chosen Undead_ (revived)

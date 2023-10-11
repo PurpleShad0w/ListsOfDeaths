@@ -1,5 +1,5 @@
 - **Aoi Tohsaka** - Passed away due to complications after being strangled by *Kariya Matou*
-- **Artoria Pendragon / Saber** - Committed _suicide_ by destroying the Holy Grail on orders from *Kiritsugu Emiya*
+- **Artoria Pendragon / Saber** - Committed *suicide* by destroying the Holy Grail on orders from *Kiritsugu Emiya*
 - **Black Iri / Avenger** - Strangled by _Kiritsugu Emiya_
 - **Bucephalus** - Slain by _Gilgamesh / Archer_
 - **Diarmuid Ua Duibhne / Lancer** - Committed _suicide_ by driving his own lance in his chest, on orders from *Kayneth El-Melloi Archibald*, coerced by *Kiritsugu Emiya*

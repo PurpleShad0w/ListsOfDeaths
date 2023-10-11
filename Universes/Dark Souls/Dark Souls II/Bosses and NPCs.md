@@ -41,8 +41,8 @@
 - **Scorpioness Najka** - Slain by the _Bearer of the Curse_, assisted by _Manscorpion Tark_ or _Bradley of the Old Guard_
 - **Sinh, the Slumbering Dragon** - Slain by the _Bearer of the Curse_, assisted by _Transcendent Edde_ or _Abbess Feeva_
 - **Sir Alonne** - Slain by the _Bearer of the Curse_, assisted by _Steel-willed Lorrie_ or _Drifter Swordsman Aidel_
-- **Sir Fabian / Fabian, Knight of Eleum Loyce** - Consumed by the Flame of Chaos
-- **Sir Yorgh** - Poisoned by _Sinh_
+- **Sir Fabian / Fabian, Knight of Eleum Loyce** - Consumed by the _Flame of Chaos_
+- **Sir Yorgh** - Poisoned by _Sinh, the Slumbering Dragon_
 - **Skeleton Lords** - Slain by the _Bearer of the Curse_, assisted by _Bashful Ray_ or _Creighton the Wanderer / Creighton of Mirrah_
 - **Smelter Demon** - Slain by the _Bearer of the Curse_, assisted by _Lucatiel of Mirrah_
 - **Sunken King** - Slain by _Sir Yorgh_
