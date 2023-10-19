@@ -17,11 +17,11 @@
 - **Champion's Gravetender** - Slain by the _Ashen One_
 - **Court Sorcerer** - Slain by the _Ashen One_
 - **Creighton the Wanderer / Creighton of Mirrah** (Dark Spirit) - Slain by _Sirris of the Sunless Realms_, assisted by the _Ashen One_ (revived)
-- **Creighton the Wanderer / Creighton of Mirrah** (Dark Spirit) - Slain by the _Ashen One_ (revived)
+- **Creighton the Wanderer / Creighton of Mirrah** (Dark Spirit) - Slain by the _Ashen One_
 - **Crystal Sage** - Slain by the _Ashen One_, assisted by _Eygon of Carim_
 - **Curse-rotted Greatwood** - Slain by the _Ashen One_
 - **Dancer of the Boreal Valley** - Slain by the _Ashen One_, assisted by _Sword Master_
-- **Dark Sun Gwyndolin** - Allowed to die when the *Ashen One* slew Aldrich
+- **Dark Sun Gwyndolin** - Half devoured by _Aldrich, Devourer of Gods / Aldrich, Saint of the Deep_, allowed to die when the *Ashen One* slew Aldrich
 - **Darkeater Midir** - Slain by the _Ashen One_, assisted by _Shira, Knight of Filianore_
 - **Daughter of Crystal Kriemhild** (Dark Spirit) - Slain by the _Ashen One_ (revived)
 - **Daughter of Crystal Kriemhild** - Slain by the _Ashen One_
@@ -29,6 +29,7 @@
 - **Demon Prince** - Slain by _Lorian, Elder Prince_
 - **Demon from Below / Demon Prince** - Slain by the _Ashen One_, assisted by _Slave Knight Gael_ or _Unbreakable Patches / Amnesiac Lapp_
 - **Demon in Pain / Demon Prince** - Slain by the _Ashen One_, assisted by _Slave Knight Gael_ or _Unbreakable Patches / Amnesiac Lapp_
+- **Dorhys** - Slain by the _Ashen One_
 - **Dragonslayer Armour / Iron Dragonslayer** - Slain by the _Ashen One_
 - **Dragonslayer Armour / Iron Dragonslayer** - Slain by the _Ashen One_, assisted by _Eygon of Carim_ or _Sirris of the Sunless Realms_ (revived)
 - **Drang Knights** - Slain by the _Ashen One_
@@ -53,7 +54,7 @@
 - **Horace the Hushed** (Hollow) - Slain by the _Ashen One_
 - **Iudex Gundyr / Champion Gundyr / Belated Champion** - Slain by the _Ashen One_
 - **King of the Storm** - Fatally wounded by the _Ashen One_, executed by the _Nameless King_
-- **Kirk, Knight of Thorns / Longfinger Kirk** (Dark Spirit) - Slain by the _Ashen One_ (revived)
+- **Kirk, Knight of Thorns / Longfinger Kirk** (Dark Spirit) - Slain by the _Ashen One_
 - **Knight Slayer Tsorig** (Dark Spirit) - Slain by the _Ashen One_ (revived)
 - **Knight Slayer Tsorig** - Slain by the _Ashen One_
 - **Lion Knight Albert** - Slain by the _Ashen One_

@@ -21,4 +21,4 @@
 - **Siegfried / Saber** - Committed _suicide_ by ripping his own heart out
 - **Spartacus / Berserker** - Committed _suicide_ by using his Noble Phantasm at the cost of his life
 - **Vlad III / Lancer** - Reduced to ashes by _Amakusa Shirou Tokisada / Ruler_
-- **William Shakespeare / Caster** - Disappeared after his master Amakusa Shirou's death at the hands of _Sieg_
+- **William Shakespeare / Caster** - Disappeared after his master Amakusa Shirou's death at the hands of *Sieg*

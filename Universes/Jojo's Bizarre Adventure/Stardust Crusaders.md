@@ -4,7 +4,7 @@
 - **Chibi** - Decapitated by _Pet Shop_
 - **Devo the Cursed** - Stabbed multiple times via his Stand by _Jean Pierre Polnareff_
 - **Dio Brando** - Exploded via his Stand's destruction caused by _Jotaro Kujo_
-- **Enya the Hag** - Bled internally via a spore lodged inside of her by _Dio Brando_, triggered by _Steely Dan_
+- **Enya the Hag** - Bled internally via a spore lodged inside of her by _Dio Brando_, triggered by *Steely Dan*
 - **Forever** - Cut in half by _Jean Pierre Polnareff_ (OVA only)
 - **Gray Fly** - Died via Stand destruction by _Noriaki Kakyoin_
 - **Iggy** - Fatally kicked by _Vanilla Ice_

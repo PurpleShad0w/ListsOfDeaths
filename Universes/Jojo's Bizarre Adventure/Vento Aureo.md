@@ -1,0 +1,28 @@
+- **Abbacchio's Partner** - Shot by the blackmailing criminal
+- **Bruno Bucciarati** - Committed *suicide* by destroying Chariot Requiem, thus ejecting his soul from his body
+- **Bruno Bucciarati** - Impaled through the chest by _Diavolo / Boss / Solido Naso_ (revived)
+- **Carne** - Shot by _Guido Mista_
+- **Cioccolata** - Bones shattered while beaten by _Giorno Giovanna / Haruno Shiobana_'s Stand
+- **Diavolo / Boss / Solido Naso** - Permanently dying due to _Giorno Giovanna / Haruno Shiobana_'s Gold Experience Requiem
+- **Donatella Una** - Died of an illness
+- **Formaggio** - Burned and repeatedly shot by _Narancia Ghirga_'s Stand
+- **Gelato** - Committed _suicide_ by swallowing his gag and suffocating
+- **Ghiaccio** - Throat impaled on a lamp post by _Giorno Giovanna / Haruno Shiobana_
+- **Illuso** - Dissolved into pulp via _Pannacotta Fugo_'s Stand
+- **Jean Pierre Polnareff** - Impaled through the chest by _Diavolo / Boss / Solido Naso_
+- **Leone Abbacchio** - Punched through the stomach by _Diavolo / Boss / Solido Naso_
+- **Luca / Leaky Eye Luca** - Head caved in with a shovel by _Giorno Giovanna / Haruno Shiobana_ using his Stand
+- **Mela Ghirga** - Died of an eye infection
+- **Melone** - Bitten on the tongue by a venomous snake controlled by *Giorno Giovanna / Haruno Shiobana*
+- **Narancia Ghirga** - Fatally impaled on an iron gate by _Diavolo / Boss / Solido Naso_
+- **Paolo Bucciarati** - Died from complications related to gunshot wounds inflicted by gangsters
+- **Pericolo** - Committed _suicide_ by shooting himself in the head
+- **Pesci** - Ripped into pieces by _Bruno Bucciarati_
+- **Polpo** - Committed _suicide_ by shooting himself in the head via manipulation by *Giorno Giovanna / Haruno Shiobana*
+- **Prosciutto** - Fatally wounded after being thrown under a train by _Bruno Bucciarati_
+- **Risotto Nero** - Shot by _Narancia Ghirga_'s Stand
+- **Secco** - Crushed inside a trash truck while under attack by _Bruno Bucciarati_
+- **Sorbet** - Cut into pieces by _Cioccolata_ and _Secco_ on orders from *Diavolo / Boss / Solido Naso*
+- **Squalo** - Shot by a barrage from _Narancia Ghirga_'s Stand
+- **Tizzano** - Shot by _Narancia Ghirga_'s Stand
+- **Vinegar Doppio** - Shot by _Guido Mista_
