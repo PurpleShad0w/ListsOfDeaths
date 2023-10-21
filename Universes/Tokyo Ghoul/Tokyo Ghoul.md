@@ -1,0 +1,120 @@
+- **Akihiro Kanou / Professor Kanou** - Committed _suicide_ by shooting himself in the head
+- **Akihiro Kanou's mother** - Succumbed to an illness
+- **Aliza** - Decapitated by _Shiki Kijima_
+- **Ami** - Roasted alive by _Taro_
+- **Arata Kirishima / Corpse Collector** - Slain by _Kureo Mado_ and _Yukinori Shinohara_
+- **Arine** - Decapitated by _Ayato Kirishima / Black Rabbit_
+- **Arunolt von Rosewald** - Murdered by _Matsuri Washuu_
+- **Asaki Fueguchi / Number 696** - Died from unknown causes
+- **Asaki Fueguchi / Number 696** - Murdered by _Kureo Mado_ (anime only)
+- **Big Madam** - Slain by _Juuzou Suzuya / Rei Suzuya_
+- **Bin brothers / Tail Brothers** - Slain by _Koutarou Amon_
+- **Chuu Hachikawa** - Impaled through the back by _Shikorae / Rio_
+- **Daisuke Atou** - Decapitated by _Seidou Takizawa / Owl_
+- **Demon Yamada** - Slain by _Yukinori Shinohara_
+- **Dogu** - Slain by ghoul investigators
+- **Donato Porpora / Priest / Crown** - Bisected by _Koutarou Amon_
+- **Emma von Rosewald** - Died from unknown causes
+- **Enji Koma / Devil Ape** - Murdered on orders from *Kichimura Washuu / Souta Washuu-Furuta / Nimura Furuta / Souta / PG / Washuu King* (revived)
+- **Enji Koma / Devil Ape** - Slain by _Take Hirako_, _Koori Ui_ and _Mougan Tanakamaru_
+- **Erina Tagata** - Devoured by _Mayu / Nutcracker_
+- **Eto Yoshimura / One-Eyed Owl / Sen Takatsuki / Taxidermied Owl** - Fatally wounded by _Kichimura Washuu / Souta Washuu-Furuta / Nimura Furuta / Souta / PG / Washuu King_ (revived)
+- **Eto Yoshimura / One-Eyed Owl / Sen Takatsuki / Taxidermied Owl** - Finally perished after *Koutarou Amon* defeated Donato (anime only)
+- **Fei** - Slain by _Kousuke Houji_
+- **Gagi** - Shot by ghoul investigators
+- **Ganbo** - Neck broken by _Takeomi Kuroiwa_
+- **Ginshi Shirazu** - Impaled by _Noro / Noroi_
+- **Goumasa Tokage** - Stabbed by a student
+- **Guge** - Shot by ghoul investigators
+- **Hairu Ihei** - Decapitated by _Mairo_
+- **Hajime Hazuki / Kou** - Head impaled by _Ken Kaneki / Eyepatch / Centipede / Haise Sasaki / Black Reaper / One-Eyed King / Dragon_
+- **Haru** - Strangled by _Yakumo Oomori / Yamori / 13th Ward's Jason_
+- **Hikari Kirishima / Hikari Yomo** - Slain by _Kishou Arima / CCG's Reaper / White Reaper / One-Eyed King_
+- **Hina Tougi** - Decapitated by _Seidou Takizawa / Owl_
+- **Ippei Kusaba** - Murdered by _Touka Kirishima / Rabbit / Manager / Touka Kaneki_
+- **Iwao Kuroiwa** - Neck sliced by _Kichimura Washuu / Souta Washuu-Furuta / Nimura Furuta / Souta / PG / Washuu King_ (anime only)
+- **Jun Numa** - Murdered by _Miza Kusakari / Three Blades_
+- **Kaiko** - Head cut to shreds by _Take Hirako_
+- **Kamishiro** - Died of old age
+- **Karao Saeki / Torso** - Decapitated by _Tooru Mutsuki / Eyepatch_
+- **Karao Saeki's father** - Murdered by _Karao Saeki / Torso_
+- **Karren von Rosewald / Kanae / Rose** - Committed _suicide_ by jumping from a roof to save Shuu Tsukiyama
+- **Karren von Rosewald's father** - Murdered by _Matsuri Washuu_
+- **Kasuka Mado** - Devoured by _Eto Yoshimura / One-Eyed Owl / Sen Takatsuki / Taxidermied Owl_
+- **Kaya Irimi / Black Dog** - Murdered on orders from *Kichimura Washuu / Souta Washuu-Furuta / Nimura Furuta / Souta / PG / Washuu King* (revived)
+- **Kaya Irimi / Black Dog** - Slain by _Take Hirako_, _Koori Ui_ and _Mougan Tanakamaru_
+- **Kazuo Yoshida** - Kicked in the head by _Nishiki Nishio / Serpent_
+- **Kei** - Murdered by _Yakumo Oomori / Yamori / 13th Ward's Jason_
+- **Ken Kaneki's father** - Died from unknown causes
+- **Ken Kaneki's mother** - Died from overworking
+- **Kichimura Washuu / Souta Washuu-Furuta / Nimura Furuta / Souta / PG / Washuu King** - Fatally wounded by _Ken Kaneki / Eyepatch / Centipede / Haise Sasaki / Black Reaper / One-Eyed King / Dragon_
+- **Kie Muramatsu / Applehead** - Slain by _Kureo Mado_
+- **Kishou Arima / CCG's Reaper / White Reaper / One-Eyed King** - Committed _suicide_ by slashing his own throat
+- **Kobachi** - Cut up by _Taro_
+- **Kotarou** - Murdered by _Shuu Tsukiyama / Gourmet / MM_
+- **Kousuke Houji** - Beheaded by _Seidou Takizawa / Owl_
+- **Kouto** - Murdered by _Yakumo Oomori / Yamori / 13th Ward's Jason_
+- **Kurei** - Chainsawed in half by _Shiki Kijima_
+- **Kureo Mado** - Throat slashed by _Touka Kirishima / Rabbit / Manager / Touka Kaneki_
+- **Kyouji Misaka** - Impaled by _Tatara_
+- **Mairo** - Sliced in half by _Hairu Ihei_
+- **Masami Umeno** - Sliced by _Noro / Noroi_
+- **Matasaka Kamishiro / Orca / Shachi** - Throat pierced by _Kishou Arima / CCG's Reaper / White Reaper / One-Eyed King_
+- **Matsumae** - Slain by _Kichimura Washuu / Souta Washuu-Furuta / Nimura Furuta / Souta / PG / Washuu King_
+- **Mayu / Nutcracker** - Slain by _Ginshi Shirazu_
+- **Michie Takizawa** - Murdered on orders from *Akihiro Kanou / Professor Kanou*
+- **Miho Toga** - Murdered by _Karren von Rosewald / Kanae / Rose_
+- **Mikito Urie** - Murdered by _Eto Yoshimura / One-Eyed Owl / Sen Takatsuki / Taxidermied Owl_
+- **Minomi** - Murdered by _Karao Saeki's father_
+- **Mitsushita** - Impaled by _Hanbee Abara_
+- **Moku** - Murdered by _Yakumo Oomori / Yamori / 13th Ward's Jason_
+- **Nanao Yasuhisa** - Murdered by a ghoul via manipulation of the CCG
+- **Nashiro Yasuhisa / Shiro** - Fatally wounded by _Juuzou Suzuya / Rei Suzuya_, devoured by _Kurona Yasuhisa / Kuro / Floppy_
+- **Nathanael von Rosewald** - Murdered by _Matsuri Washuu_
+- **Niharu** - Torn to shreds by _Ayato Kirishima / Black Rabbit_
+- **Nishiki Nishio's elder sister** - Murdered by the CCG
+- **Nobu Shimoguchi** - Decapitated by _Karren von Rosewald / Kanae / Rose_
+- **Noro / Noroi** - Slain by _Kuki Urie_
+- **Nutcracker's partner** - Slain on orders from *Matsuri Washuu*
+- **Oumi** - Slain by _Kureo Mado_
+- **Rikai Souzu** - Beheaded by _Hajime Hazuki / Kou_
+- **Rize Kamishiro / Binge Eater / Dragon** - Slain by _Ken Kaneki / Eyepatch / Centipede / Haise Sasaki / Black Reaper / One-Eyed King / Dragon_
+- **Roma Hoito / Gypsy / Dodgy Mother** - Beheaded and impaled by _Kuki Urie_
+- **Ryouko Fueguchi / Number 73** - Decapitated by _Kureo Mado_
+- **Ryouta Ooshiba** - Testicles crushed by _Mayu / Nutcracker_
+- **Ryuuta Sawaike** - Head ripped off by _Seidou Takizawa / Owl_
+- **Sakino Mura** - Decapitated by _Ayato Kirishima / Black Rabbit_
+- **Seidou Takizawa's father** - Murdered on orders from *Akihiro Kanou / Professor Kanou*
+- **Shiki Kijima** - Skull sliced by _Matsumae_
+- **Shinji Michibata** - Ripped in half by _Noro / Noroi_
+- **Shinme Haisaki** - Head ripped off by _Donato Porpora / Priest / Crown_
+- **Shio Ihei** - Beheaded by _Hajime Hazuki / Kou_
+- **Shion Satomi** - Murdered by _Karren von Rosewald / Kanae / Rose_
+- **Shizuku Kawakami** - Died of an illness
+- **Shunichi Shibashi** - Impaled by _Roma Hoito / Gypsy / Dodgy Mother_
+- **Shunji Shiono** - Murdered by _Kichimura Washuu / Souta Washuu-Furuta / Nimura Furuta / Souta / PG / Washuu King_
+- **Shuu Tsukiyama's mother** - Died from unknown causes
+- **Shuu** - Murdered by _Yakumo Oomori / Yamori / 13th Ward's Jason_
+- **Tago** - Slain by _Hajime Hazuki / Kou_
+- **Taguchi** - Murdered by _Tatara_
+- **Taro** - Slain by _Shuu Tsukiyama / Gourmet / MM_
+- **Tatara** - Pierced by _Seidou Takizawa / Owl_
+- **Tetsu** - Murdered by _Yakumo Oomori / Yamori / 13th Ward's Jason_
+- **Tomonori Akai** - Murdered by _Seidou Takizawa / Owl_
+- **Tooru Mutsuki's father** - Murdered by ghouls
+- **Touko Harima** - Murdered by ghouls
+- **Touma Higemaru's uncle** - Murdered by _Donato Porpora / Priest / Crown_
+- **Tsukuru Tsukiyama** - Died from unknown causes
+- **Tsuneyoshi Washuu / Demon Tsune** - Head impaled by _Kichimura Washuu / Souta Washuu-Furuta / Nimura Furuta / Souta / PG / Washuu King_
+- **Ukina** - Slain by _Yoshimura / One-Eyed Owl / Kuzen / Non-Killing Owl_
+- **Waka Asachi** - Decapitated by _Ayato Kirishima / Black Rabbit_
+- **Wobbegong** - Slain by _Iwao Kuroiwa_
+- **Yakumo Oomori / Yamori / 13th Ward's Jason** - Slain by _Juuzou Suzuya / Rei Suzuya_
+- **Yan** - Slain by _Kousuke Houji_
+- **Yasuhito Nezu** - Sliced by _Noro / Noroi_
+- **Yoshimura / One-Eyed Owl / Kuzen / Non-Killing Owl** - Eventually died after being used as a tissue donor by _Akihiro Kanou / Professor Kanou_
+- **Yoshitoki Washuu / Chika Washuu** - Slain by _Itsuki Marude_
+- **Yoshiu Washuu** - Died from unknown causes
+- **Yukio Kurodawara** - Murdered by _Seidou Takizawa / Owl_
+- **Yuuma** - Murdered by _Shiki Kijima_
+- **Yuuta Okamochi** - Impaled by _Roma Hoito / Gypsy / Dodgy Mother_
