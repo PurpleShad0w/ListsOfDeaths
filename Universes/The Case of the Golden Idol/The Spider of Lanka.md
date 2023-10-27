@@ -1,8 +1,0 @@
-- **Anula Gamini** - Sliced by a swinging blade caused by _Tissa Gamini_ via manipulation by *Oberon Geller / Spider*
-- **Arri Sukerra** - Bitten by a venomous cricket set up by _Tissa Gamini_ on orders from *Oberon Geller / Spider*
-- **Bill Price** - Stabbed with a rapier by _Gabriel Hubert_ via manipulation by *Oberon Geller / Spider*
-- **Carlos Luna** - Shot with a pistol by _Oberon Geller / Spider_
-- **Gabriel Hubert** - Hit with a chakram throwing blade by _Sri Thagson_ via manipulation by *Oberon Geller / Spider*
-- **Kirthi Bandara** - Pierced with an axe by _Oberon Geller / Spider_
-- **Pandula Senevi** - Impaled with a harpoon thrown by _Carlos Luna_ via manipulation by *Oberon Geller / Spider*
-- **Sri Thagson** - Hit with a mace by _Pandula Senevi_ via manipulation by *Oberon Geller / Spider*

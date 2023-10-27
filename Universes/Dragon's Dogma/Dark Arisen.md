@@ -7,6 +7,7 @@
 - **Cortese** - Immolated by _Grigori / Dragon_
 - **Dark Bishop** - Slain by the _Arisen_
 - **Darkness** - Slain by the _Arisen_
+- **Death** - Slain by the _Arisen_
 - **Dragonforged** - Crumbled to dust after the defeat of Grigori / Dragon at the hands of the *Arisen*
 - **Elysion** - Slain by _Grigori / Dragon_
 - **Ema** - Fatally wounded by _Grigori / Dragon_ (dependent)

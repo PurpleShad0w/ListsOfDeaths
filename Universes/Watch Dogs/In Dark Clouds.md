@@ -1,0 +1,4 @@
+- **Clyde Merwiss** - Shot in the heart by _Aiden Pearce / Vigilante / Fox_
+- **Pussler** - Stabbed by _Clyde Merwiss_
+- **Rafe Callahan** - Murdered by _Roger Verrick_
+- **Ruth Medina** - Pushed overboard while on a ship

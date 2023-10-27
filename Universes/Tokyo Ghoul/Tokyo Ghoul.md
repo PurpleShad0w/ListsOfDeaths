@@ -26,9 +26,11 @@
 - **Ginshi Shirazu** - Impaled by _Noro / Noroi_
 - **Goumasa Tokage** - Stabbed by a student
 - **Guge** - Shot by ghoul investigators
+- **Hagi** - Slain by _Rize Kamishiro / Binge Eater / Dragon_
 - **Hairu Ihei** - Decapitated by _Mairo_
 - **Hajime Hazuki / Kou** - Head impaled by _Ken Kaneki / Eyepatch / Centipede / Haise Sasaki / Black Reaper / One-Eyed King / Dragon_
 - **Haru** - Strangled by _Yakumo Oomori / Yamori / 13th Ward's Jason_
+- **Hayashi** - Beheaded by _Rize Kamishiro / Binge Eater / Dragon_
 - **Hikari Kirishima / Hikari Yomo** - Slain by _Kishou Arima / CCG's Reaper / White Reaper / One-Eyed King_
 - **Hina Tougi** - Decapitated by _Seidou Takizawa / Owl_
 - **Ippei Kusaba** - Murdered by _Touka Kirishima / Rabbit / Manager / Touka Kaneki_
@@ -76,6 +78,7 @@
 - **Nobu Shimoguchi** - Decapitated by _Karren von Rosewald / Kanae / Rose_
 - **Noro / Noroi** - Slain by _Kuki Urie_
 - **Nutcracker's partner** - Slain on orders from *Matsuri Washuu*
+- **Ooshima** - Beheaded by _Rize Kamishiro / Binge Eater / Dragon_
 - **Oumi** - Slain by _Kureo Mado_
 - **Rikai Souzu** - Beheaded by _Hajime Hazuki / Kou_
 - **Rize Kamishiro / Binge Eater / Dragon** - Slain by _Ken Kaneki / Eyepatch / Centipede / Haise Sasaki / Black Reaper / One-Eyed King / Dragon_
@@ -95,6 +98,7 @@
 - **Shunji Shiono** - Murdered by _Kichimura Washuu / Souta Washuu-Furuta / Nimura Furuta / Souta / PG / Washuu King_
 - **Shuu Tsukiyama's mother** - Died from unknown causes
 - **Shuu** - Murdered by _Yakumo Oomori / Yamori / 13th Ward's Jason_
+- **Skull Masks Leader** - Impaled through the back by _Hanbee Abara_
 - **Tago** - Slain by _Hajime Hazuki / Kou_
 - **Taguchi** - Murdered by _Tatara_
 - **Taro** - Slain by _Shuu Tsukiyama / Gourmet / MM_

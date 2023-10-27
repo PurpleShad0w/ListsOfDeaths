@@ -1,21 +1,29 @@
 - **Albert Cloudsley** - Died from unknown causes
 - **Angus MacBain** - Fell from the top of a lighthouse, manipulated by *Walter Keene*
+- **Anula Gamini** - Sliced by a swinging blade caused by _Tissa Gamini_ via manipulation by *Oberon Geller / Spider*
+- **Arri Sukerra** - Bitten by a venomous cricket set up by _Tissa Gamini_ on orders from *Oberon Geller / Spider*
 - **Augustus Vallantine** - Blunt trauma from a boomerang by _Alistair Koch_, planned with *James Turner*, on orders from *Edmund Cloudsley / Lazarus Herst*
 - **Beatrix Battley** - Died from unknown causes
+- **Bill Price** - Stabbed with a rapier by _Gabriel Hubert_ via manipulation by *Oberon Geller / Spider*
+- **Carlos Luna** - Shot with a pistol by _Oberon Geller / Spider_
 - **David Gorran / Ash Blair** - Shot by _Walter Keene_
 - **Edmund Cloudsley / Lazarus Herst** - Blasted with a cannon by _Peter Battley_
+- **Gabriel Hubert** - Hit with a chakram throwing blade by _Sri Thagson_ via manipulation by *Oberon Geller / Spider*
 - **Gideon Bell** - Rapidly aged via the Golden Idol by _Edmund Cloudsley / Lazarus Herst_
 - **Hardy Abe** - Caught in an explosion set up by _Edmund Cloudsley / Lazarus Herst_
 - **Jack Nails** - Caught in an explosion set up by _Edmund Cloudsley / Lazarus Herst_
 - **James Pear** - Incinerated by the Golden Idol used by _Willard Wright_
 - **James Turner** - Stabbed with a longsword by _Alistair Koch_
 - **Jeffrey Sinclair** - Drank from a poisoned wine glass, orchestrated by *Walter Keene* and *David Gorran / Ash Blair*
+- **Kirthi Bandara** - Pierced with an axe by _Oberon Geller / Spider_
 - **Lord Harrington** - Fell to his death
 - **Lord Jones** - Executed by the Brotherhood of Masks after his miracle was proven untrue by *Angus MacBain*
 - **Lord Pledsley** - Executed by the Brotherhood of Masks after his miracle was proven untrue by *Angus MacBain*
 - **Lord White** - Executed by the Brotherhood of Masks after his miracle was proven untrue by *Angus MacBain*
 - **Mary Cloudsley** - Died from unknown causes
 - **Oberon Geller / Spider** - Pushed off a cliff by _Albert Cloudsley_
+- **Pandula Senevi** - Impaled with a harpoon thrown by _Carlos Luna_ via manipulation by *Oberon Geller / Spider*
 - **Rose Cubert** - Poisoned by _Ada Baker_ on orders from *Walter Keene*
 - **Sebastian Cloudsley** - Fatal head wound after falling from his horse
+- **Sri Thagson** - Hit with a mace by _Pandula Senevi_ via manipulation by *Oberon Geller / Spider*
 - **Willard Wright** - Stabbed by _David Gorran / Ash Blair_ on orders from *Edmund Cloudsley / Lazarus Herst*

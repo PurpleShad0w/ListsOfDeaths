@@ -1,0 +1,27 @@
+- **2XTheTap** - Murdered by _Aiden Pearce / Vigilante / Fox_
+- **Angelo Bryan** - Murdered by _Aiden Pearce / Vigilante / Fox_
+- **Angelo Tucci** - Murdered by _Aiden Pearce / Vigilante / Fox_
+- **Annie Nelson** - Murdered by _Edgar Noone / Fingerpaint Killer_
+- **Candy Amos** - Died from unknown causes
+- **Chelsea Armstrong** - Murdered by _Edgar Noone / Fingerpaint Killer_
+- **Clara Lille / BadBoy17** - Assassinated by _Angelo Bryan_ on orders from *Dermot Quinn / Lucky Quinn*
+- **Claudette Rousseau** - Murdered by _Edgar Noone / Fingerpaint Killer_
+- **Damien Brenks** - Shot in the head by _Aiden Pearce / Vigilante / Fox_
+- **DeAndre Coleman** - Murdered by _Aiden Pearce / Vigilante / Fox_
+- **Debora Ingram** - Murdered by _Edgar Noone / Fingerpaint Killer_
+- **Defalt's brother** - Committed _suicide_ due to the blackout caused by *Raymond Eugene Kenney / T-Bone Grady*
+- **Defalt's impostor** - Murdered by _Aiden Pearce / Vigilante / Fox_
+- **Delford Wade / Iraq** - Gunned down by _Aiden Pearce / Vigilante / Fox_
+- **Dermot Quinn / Lucky Quinn** - Heart attack caused by _Aiden Pearce / Vigilante / Fox_ hacking his pacemaker
+- **Donovan Rushmore** - Died from unknown causes
+- **Edgar Noone / Fingerpaint Killer** - Murdered by _Aiden Pearce / Vigilante / Fox_ (dependent)
+- **JB Markowicz / Defalt** - Gassed by _Raymond Eugene Kenney / T-Bone Grady_
+- **Joseph DeMarco** - Murdered by _Aiden Pearce / Vigilante / Fox_
+- **Kate Quigley** - Murdered by _Edgar Noone / Fingerpaint Killer_
+- **Lena Violet Pearce** - Died in a car crash caused by _Maurice Vega_ on orders from *Dermot Quinn / Lucky Quinn*
+- **Maurice Vega** - Shot in the head by _Aiden Pearce / Vigilante / Fox_ (dependent)
+- **Michelle Strauss** - Murdered by _Edgar Noone / Fingerpaint Killer_
+- **Nicholas Crispin** - Murdered by _Aiden Pearce / Vigilante / Fox_
+- **Robert Racine** - Murdered by _Aiden Pearce / Vigilante / Fox_
+- **Rose Washington** - Shoved into the edge of a table by _Donovan Rushmore_
+- **Sandford Amos** - Murdered by _Candy Amos_

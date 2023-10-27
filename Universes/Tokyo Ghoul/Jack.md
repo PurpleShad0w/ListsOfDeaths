@@ -1,0 +1,4 @@
+- **Ryou** - Impaled by _Uruka Minami / Lantern_
+- **Sumiharu Katou** - Impaled by _Kishou Arima / CCG's Reaper / White Reaper / One-Eyed King_
+- **Tanaka** - Slain by _Kishou Arima / CCG's Reaper / White Reaper / One-Eyed King_
+- **Uruka Minami / Lantern** - Slain by _Taishi Fura_
