@@ -1,7 +1,0 @@
-- **Anton Bagdonov** - Murdered by _Jordi Chin_
-- **Horatio Carlin** - Stabbed by _Tina Huerta_
-- **Ivan** - Murdered by _Jordi Chin_
-- **Jorge Guttiérez** - Murdered by _Marcus Holloway / Retr0_
-- **Luis Travino** - Murdered by _Marcus Holloway / Retr0_
-- **Pablo Cortés / Skinner** - Murdered by _Marcus Holloway / Retr0_
-- **Tina Huerta** - Murdered by _Marcus Holloway / Retr0_

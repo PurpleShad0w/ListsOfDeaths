@@ -1,3 +1,0 @@
-- **Mari Hirano** - Murdered by _Rize Kamishiro / Binge Eater / Dragon_
-- **Tsubasa** - Died from unknown causes
-- **Yuuri Akanuma** - Murdered by _Rize Kamishiro / Binge Eater / Dragon_

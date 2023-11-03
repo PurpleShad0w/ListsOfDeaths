@@ -1,5 +1,0 @@
-- **Kiyone Mitsuba** - Murdered by _Koharu Utsumi_
-- **Koharu Utsumi** - Slain by _Koutarou Amon_
-- **Mai Hirano** - Murdered by _Koharu Utsumi_
-- **Noyama** - Devoured by _Ken Kaneki / Eyepatch / Centipede / Haise Sasaki / Black Reaper / One-Eyed King / Dragon_
-- **Tsumugi Yamagata** - Murdered by _Noyama_

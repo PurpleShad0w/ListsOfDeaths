@@ -1,4 +1,0 @@
-- **Beautiful nurse** - Murdered by _Shuu Tsukiyama / Gourmet / MM_
-- **Cain** - Slain by _Yanagi_ and _Toujou_, via manipulation by *Hideyoshi Nagachika / Scarecrow*
-- **Elderly patient** - Murdered by the _Beautiful nurse_
-- **Ikuma Momochi's mother** - Committed _suicide_ by throwing herself off a cliff
