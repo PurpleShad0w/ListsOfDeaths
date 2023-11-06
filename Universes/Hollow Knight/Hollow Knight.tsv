@@ -1,15 +1,15 @@
 victim	direct culprits	indirect culprits	description
-Broken Vessel / Lost Kin	Knight		Essence extracted by the Knight
-Broken Vessel / Lost Kin	Knight		Slain by the Knight
+Broken Vessel	Knight		Essence extracted by the Knight
+Broken Vessel	Knight		Slain by the Knight
 Brooding Mawlek	Knight		Slain by the Knight
 Cloth	Traitor Lord		Impaled by the Traitor Lord (dependent)
 Collector	Knight		Slain by the Knight
-Crystal Guardian / Enraged Guardian	Knight		Slain by the Knight
+Crystal Guardian	Knight		Slain by the Knight
 Dryaa	Traitor Lord		Slain by the Mantis Traitors led by the Traitor Lord
 Elder Hu	Knight		Essence extracted by the Knight
 Elder Hu			Slain by the Mantis tribe
-False Knight / Failed Champion	Knight		Essence extracted by the Knight
-False Knight / Failed Champion	Knight		Slain by the Knight
+False Knight	Knight		Essence extracted by the Knight
+False Knight	Knight		Slain by the Knight
 Flukemarm	Knight		Slain by the Knight
 Galien	Knight		Essence extracted by the Knight
 Galien			Slain by the creatures of Deepnest
@@ -18,7 +18,7 @@ Gorgeous Husk	Knight		Slain by the Knight
 Gruz Mother	Knight		Slain by the Knight
 Herrah	Knight		Slain in her dreams by the Knight
 Hive Knight	Knight		Slain by the Knight
-Hollow Knight / Pure Vessel	Knight		Slain by the Knight (dependent)
+Hollow Knight	Knight		Slain by the Knight (dependent)
 Knight	Knight		Broke their own shell in order to defeat the Radiance (dependent)
 Leg Eater	Divine		Devoured by Divine
 Lurien	Knight		Slain in his dreams by the Knight
@@ -36,15 +36,15 @@ Nosk	Knight		Slain by the Knight
 Oblobbles	Knight		Slain by the Knight
 Pale Lurker	Knight		Slain by the Knight
 Quirrel	Quirrel		Died after removing his mask, allowing himself to die of old age
-Radiance / Absolute Radiance	Knight		Slain by the Knight's shade fused with the Void (dependent)
-Radiance / Absolute Radiance	Knight	Hollow Knight / Pure Vessel	Slain by the Knight's shade while held by the Hollow Knight's shade (dependent)
-Soul Master / Soul Tyrant	Knight		Essence extracted by the Knight
-Soul Master / Soul Tyrant	Knight		Slain by the Knight
+Radiance	Knight		Slain by the Knight's shade fused with the Void (dependent)
+Radiance	Knight	Hollow Knight	Slain by the Knight's shade while held by the Hollow Knight's shade (dependent)
+Soul Master	Knight		Essence extracted by the Knight
+Soul Master	Knight		Slain by the Knight
 Soul Warrior	Knight		Slain by the Knight
 Tiso	Brooding Mawlek		Crushed by a Brooding Mawlek
 Traitor Lord	Cloth		Bashed on the head by Cloth (dependent)
 Traitor Lord	Knight		Slain by the Knight
-Troupe Master Grimm / Nightmare King Grimm	Knight		Slain in his dreams by the Knight (dependent)
+Troupe Master Grimm	Knight		Slain in his dreams by the Knight (dependent)
 Tuk	Radiance		Overtaken by the Infection caused by the Radiance
 Uumuu	Knight & Quirrel		Slain by the Knight with the help of Quirrel
 Vengefly King	Knight		Slain by the Knight
