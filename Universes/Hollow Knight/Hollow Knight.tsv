@@ -1,19 +1,14 @@
 victim	direct culprits	indirect culprits	description
-Broken Vessel	Knight		Essence extracted by the Knight
 Broken Vessel	Knight		Slain by the Knight
 Brooding Mawlek	Knight		Slain by the Knight
 Cloth	Traitor Lord		Impaled by the Traitor Lord (dependent)
 Collector	Knight		Slain by the Knight
 Crystal Guardian	Knight		Slain by the Knight
 Dryaa	Traitor Lord		Slain by the Mantis Traitors led by the Traitor Lord
-Elder Hu	Knight		Essence extracted by the Knight
 Elder Hu			Slain by the Mantis tribe
-False Knight	Knight		Essence extracted by the Knight
 False Knight	Knight		Slain by the Knight
 Flukemarm	Knight		Slain by the Knight
-Galien	Knight		Essence extracted by the Knight
 Galien			Slain by the creatures of Deepnest
-Gorb	Knight		Essence extracted by the Knight
 Gorgeous Husk	Knight		Slain by the Knight
 Gruz Mother	Knight		Slain by the Knight
 Herrah	Knight		Slain in her dreams by the Knight
@@ -22,15 +17,12 @@ Hollow Knight	Knight		Slain by the Knight (dependent)
 Knight	Knight		Broke their own shell in order to defeat the Radiance (dependent)
 Leg Eater	Divine		Devoured by Divine
 Lurien	Knight		Slain in his dreams by the Knight
-Markoth	Knight		Essence extracted by the Knight
 Markoth			Slain by the creatures of Kingdom's Edge
-Marmu	Knight		Essence extracted by the Knight
 Menderbug	Knight		Slain by the Knight
 Monomon	Knight		Slain in her dreams by the Knight
 Moss Prophet	Radiance		Overtaken by the Infection caused by the Radiance
 Myla	Knight		Slain by the Knight (dependent)
 Nailsmith	Knight		Slain by the Knight (dependent)
-No Eyes	Knight		Essence extracted by the Knight
 No Eyes	No Eyes		Ripped her own eyes out
 Nosk	Knight		Slain by the Knight
 Oblobbles	Knight		Slain by the Knight
@@ -38,7 +30,6 @@ Pale Lurker	Knight		Slain by the Knight
 Quirrel	Quirrel		Died after removing his mask, allowing himself to die of old age
 Radiance	Knight		Slain by the Knight's shade fused with the Void (dependent)
 Radiance	Knight	Hollow Knight	Slain by the Knight's shade while held by the Hollow Knight's shade (dependent)
-Soul Master	Knight		Essence extracted by the Knight
 Soul Master	Knight		Slain by the Knight
 Soul Warrior	Knight		Slain by the Knight
 Tiso	Brooding Mawlek		Crushed by a Brooding Mawlek
@@ -50,6 +41,5 @@ Uumuu	Knight & Quirrel		Slain by the Knight with the help of Quirrel
 Vengefly King	Knight		Slain by the Knight
 Watcher Knights	Knight		Slain by the Knight
 Winged Nosk	Knight		Slain by the Knight
-Xero	Knight		Essence extracted by the Knight
 Xero		Pale King	Executed on orders from the Pale King
 Zote the Mighty	Vengefly King		Eaten by the Vengefly King (dependent)
