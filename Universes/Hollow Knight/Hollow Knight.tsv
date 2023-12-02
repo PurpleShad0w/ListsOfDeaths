@@ -1,14 +1,18 @@
 victim	direct culprits	indirect culprits	description
 Broken Vessel	The Knight		Slain by the Knight
-Cloth	The Traitor Lord		Impaled by the Traitor Lord (dependent)
-Dryaa		The Traitor Lord	Slain by the Mantis Traitors led by the Traitor Lord
+Brooding Mawlek	The Knight		Slain by the Knight
+Cloth	Traitor Lord		Impaled by the Traitor Lord (dependent)
+Crystal Guardian	The Knight		Slain by the Knight
+Dryaa		Traitor Lord	Slain by the Mantis Traitors led by the Traitor Lord
 Elder Hu			Slain by the Mantis tribe
 False Knight	The Knight		Slain by the Knight
 Flukemarm	The Knight		Slain by the Knight
 Galien			Slain by the creatures of Deepnest
+Gorgeous Husk	The Knight		Slain by the Knight
 Gruz Mother	The Knight		Slain by the Knight
 Herrah	The Knight		Slain in her dreams by the Knight
 Hive Knight	The Knight		Slain by the Knight
+Hollow Knight	The Knight		Slain by the Knight (dependent)
 Leg Eater	Divine		Devoured by Divine
 Lurien	The Knight		Slain in his dreams by the Knight
 Markoth			Slain by the creatures of Kingdom's Edge
@@ -21,27 +25,23 @@ Nailsmith	The Knight		Slain by the Knight (dependent)
 No Eyes	No Eyes		Ripped her own eyes out
 Nosk	The Knight		Slain by the Knight
 Oblobbles	The Knight		Slain by the Knight
+Pale King			Died from unknown causes
 Pale Lurker	The Knight		Slain by the Knight
 Quirrel	Quirrel		Died after removing his mask, allowing himself to die of old age
 Soul Master	The Knight		Slain by the Knight
-The Brooding Mawlek	The Knight		Slain by the Knight
+Soul Warrior	The Knight		Slain by the Knight
 The Collector	The Knight		Slain by the Knight
-The Crystal Guardian	The Knight		Slain by the Knight
-The Gorgeous Husk	The Knight		Slain by the Knight
-The Hollow Knight	The Knight		Slain by the Knight (dependent)
 The Knight	The Knight		Broke their own shell in order to defeat the Radiance (dependent)
-The Pale King			Died from unknown causes
 The Radiance	The Knight		Slain by the Knight's shade fused with the Void (dependent)
-The Radiance	The Knight	The Hollow Knight	Slain by the Knight's shade while held by the Hollow Knight's shade (dependent)
-The Soul Warrior	The Knight		Slain by the Knight
-The Traitor Lord	Cloth		Bashed on the head by Cloth (dependent)
-The Traitor Lord	The Knight		Slain by the Knight
-The Vengefly King	The Knight		Slain by the Knight
-The Watcher Knights	The Knight		Slain by the Knight
-Tiso	Brooding Mawlek		Crushed by a Brooding Mawlek
+The Radiance	The Knight	Hollow Knight	Slain by the Knight's shade while held by the Hollow Knight's shade (dependent)
+Tiso	Brooding Mawlek		Crushed by the Brooding Mawlek
+Traitor Lord	Cloth		Bashed on the head by Cloth (dependent)
+Traitor Lord	The Knight		Slain by the Knight
 Troupe Master Grimm	The Knight		Slain in his dreams by the Knight (dependent)
 Tuk	The Radiance		Overtaken by the Infection caused by the Radiance
 Uumuu	Knight & Quirrel		Slain by the Knight with the help of Quirrel
+Vengefly King	The Knight		Slain by the Knight
+Watcher Knights	The Knight		Slain by the Knight
 Winged Nosk	The Knight		Slain by the Knight
-Xero		The Pale King	Executed on orders from the Pale King
+Xero		Pale King	Executed on orders from the Pale King
 Zote the Mighty	Vengefly King		Eaten by the Vengefly King (dependent)
