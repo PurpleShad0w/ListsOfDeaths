@@ -1,24 +1,24 @@
-victim	direct culprits	indirect culprits	description
-Akane Kurashiki	Clover Field		Struck with an axe by Clover Field (dependent) (Axe)
-Akane Kurashiki	Gentarou Hongou		Bled out after being stabbed by Gentarou Hongou (dependent) (Submarine)
-Akane Kurashiki	Gentarou Hongou		Incinerated by Gentarou Hongou (undone)
-Aoi Kurashiki	Clover Field		Struck with an axe by Clover Field (dependent) (Axe)
-Aoi Kurashiki	Gentarou Hongou		Stabbed by Gentarou Hongou (dependent) (Submarine)
-Clover Field	Gentarou Hongou		Stabbed by Gentarou Hongou (dependent) (Safe)
-Clover Field	Gentarou Hongou		Stabbed by Gentarou Hongou (dependent) (Submarine)
-Dashiell Gordain			Died from unknown causes
-Gentarou Hongou	Light Field		Incinerated after being trapped by Light Field (dependent) (Safe)
-Hazuki Kashiwabara	Gentarou Hongou		Stabbed by Gentarou Hongou (dependent) (Axe)
-Hazuki Kashiwabara	Gentarou Hongou		Stabbed by Gentarou Hongou (dependent) (Knife)
-Hazuki Kashiwabara	Gentarou Hongou		Stabbed by Gentarou Hongou (dependent) (Submarine)
-Junpei Tenmyouji	Clover Field		Injected with a deadly dose of anesthesia by Clover Field (dependent) (Syringe)
-Junpei Tenmyouji	Clover Field		Struck with an axe by Clover Field (dependent) (Axe)
-Junpei Tenmyouji	Gentarou Hongou		Drowned after being stabbed by Gentarou Hongou (dependent) (Submarine)
-Junpei Tenmyouji	Gentarou Hongou		Stabbed by Gentarou Hongou (dependent) (Knife)
-Kagechika Musashidou	Clover Field	Akane Kurashiki & Aoi Kurashiki	Murdered by Clover Field, via manipulation by Akane Kurashiki and Aoi Kurashiki (dependent) (Safe)
-Kagechika Musashidou	Gentarou Hongou	Akane Kurashiki & Aoi Kurashiki	Struck with an axe by Gentarou Hongou, via manipulation by Akane Kurashiki and Aoi Kurashiki
-Light Field	Gentarou Hongou		Incinerated after being fatally shot by Gentarou Hongou (dependent) (Safe)
-Nagisa Nijisaki	Gentarou Hongou	Akane Kurashiki & Aoi Kurashiki	Exploded after being thrown behind a door alone by Gentarou Hongou, via manipulation by Akane Kurashiki and Aoi Kurashiki
-Seven	Clover Field		Struck with an axe by Clover Field (dependent) (Axe)
-Seven	Gentarou Hongou		Stabbed by Gentarou Hongou (dependent) (Submarine)
-Teruaki Kubota	Gentarou Hongou	Akane Kurashiki & Aoi Kurashiki	Exploded after being tricked into going through a door alone by Gentarou Hongou, via manipulation by Akane Kurashiki and Aoi Kurashiki
+victim	culprit(s)	description
+Akane Kurashiki	Clover Field	Struck with an axe by Clover Field (dependent) (Axe)
+Akane Kurashiki	Gentarou Hongou	Bled out after being stabbed by Gentarou Hongou (dependent) (Submarine)
+Akane Kurashiki	Gentarou Hongou	Incinerated by Gentarou Hongou (undone)
+Aoi Kurashiki	Clover Field	Struck with an axe by Clover Field (dependent) (Axe)
+Aoi Kurashiki	Gentarou Hongou	Stabbed by Gentarou Hongou (dependent) (Submarine)
+Clover Field	Gentarou Hongou	Stabbed by Gentarou Hongou (dependent) (Safe)
+Clover Field	Gentarou Hongou	Stabbed by Gentarou Hongou (dependent) (Submarine)
+Dashiell Gordain		Died from unknown causes
+Gentarou Hongou	Light Field	Incinerated after being trapped by Light Field (dependent) (Safe)
+Hazuki Kashiwabara	Gentarou Hongou	Stabbed by Gentarou Hongou (dependent) (Axe)
+Hazuki Kashiwabara	Gentarou Hongou	Stabbed by Gentarou Hongou (dependent) (Knife)
+Hazuki Kashiwabara	Gentarou Hongou	Stabbed by Gentarou Hongou (dependent) (Submarine)
+Junpei Tenmyouji	Clover Field	Injected with a deadly dose of anesthesia by Clover Field (dependent) (Syringe)
+Junpei Tenmyouji	Clover Field	Struck with an axe by Clover Field (dependent) (Axe)
+Junpei Tenmyouji	Gentarou Hongou	Drowned after being stabbed by Gentarou Hongou (dependent) (Submarine)
+Junpei Tenmyouji	Gentarou Hongou	Stabbed by Gentarou Hongou (dependent) (Knife)
+Kagechika Musashidou	Clover Field	Murdered by Clover Field (dependent) (Safe)
+Kagechika Musashidou	Gentarou Hongou	Struck with an axe by Gentarou Hongou
+Light Field	Gentarou Hongou	Incinerated after being fatally shot by Gentarou Hongou (dependent) (Safe)
+Nagisa Nijisaki	Gentarou Hongou	Exploded after being thrown behind a door alone by Gentarou Hongou
+Seven	Clover Field	Struck with an axe by Clover Field (dependent) (Axe)
+Seven	Gentarou Hongou	Stabbed by Gentarou Hongou (dependent) (Submarine)
+Teruaki Kubota	Gentarou Hongou	Exploded after being tricked into going through a door alone by Gentarou Hongou

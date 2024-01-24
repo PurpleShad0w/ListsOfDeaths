@@ -1,38 +1,38 @@
-victim	direct culprits	indirect culprits	description
-Akihiro Altland		Iok Kujan	Slain by Iok Kujan's subordinates
-Allium Gyojan	Mikazuki Augus	Orga Itsuka	Shot by Mikazuki Augus on orders from Orga Itsuka
-Amida Arca		Iok Kujan	Shot down by Iok Kujan's men
-Aston Altland	McGillis Fareed		Fatally wounded by McGillis Fareed
-Biscuit Griffon	Carta Issue		Fatally injured when his vehicle is cut in half by Carta Issue
-Builth	Builth		Hanged himself with his bandages
-Carta Issue	Mikazuki Augus		Fatally wounded by Mikazuki Augus
-Coral Conrad	Mikazuki Augus		Impaled by Mikazuki Augus using his mace's needle
-Crank Zent	Mikazuki Augus		Shot by Mikazuki Augus
-Danji Enrei	Orlis Stenja		Crushed inside his vehicle by Orlis Stenja
-Ein Dalton	Mikazuki Augus		Impaled by Mikazuki Augus using his katana
-Elgar		Rustal Elion	Slain by Rustal Elion's men
-Fumitan Admoss		Nobliss Gordon	Shot by a sniper on orders from Nobliss Gordon
-Galan Mossa	Galan Mossa		Activated his Mobile Suit's self destruct
-Haeda Gunnel	Mikazuki Augus	Orga Itsuka	Shot by Mikazuki Augus on orders from Orga Itsuka
-Hush Middy		Rustal Elion	Cut in half by one of Rustal Elion's men
-Iok Kujan	Akihiro Altland		Crushed by Akihiro Altland
-Isurugi Camice	Gaelio Bauduin		Impaled by Gaelio Bauduin using his drill knee
-Jasley Donomikols	Mikazuki Augus		Crushed by Mikazuki Augus
-Kudal Cadel	Mikazuki Augus		Cleaved in half by Mikazuki Augus' katana
-Lafter Frankland		Jasley Donomikols	Shot by one of Jasley Donomikols' subordinates
-Liza Enza		Rustal Elion	Shot down by Rustal Elion's fleet
-Masahiro Altland	Kudal Cadel		Crushed against space debris by Kudal Cadel
-McGillis Fareed	Gaelio Bauduin		Shot in the chest by Gaelio Bauduin
-Mikazuki Augus		Rustal Elion	Fatally wounded by an orbital strike on orders from Rustal Elion
-Navona Mingo			Shot by Gjallarhorn's forces
-Naze Turbine		Iok Kujan	Fatal ship collision while fighting Iok Kujan's fleet
-Nobliss Gordon	Ride Mass		Shot multiple times by Ride Mass
-Norba Shino		Rustal Elion	Mobile Suit shot down by Rustal Elion's fleet
-Orga Itsuka		Nobliss Gordon	Shot multiple times by hitmen on orders from Nobliss Gordon
-Orlis Stenja	Mikazuki Augus		Crushed by Mikazuki Augus using his mace
-Pedro	Mikazuki Augus		Slain by Mikazuki Augus
-Radiche Riloto	Takaki Uno		Shot by Takaki Uno
-Sasai Yankus	Mikazuki Augus	Orga Itsuka	Shot by Mikazuki Augus on orders from Orga Itsuka
-Savarin Canele	Savarin Canele		Hanged himself
-Togonosuke Makanai			Passed away from natural causes
-Vito	Mikazuki Augus		Slain by Mikazuki Augus
+victim	culprit(s)	description
+Akihiro Altland		Slain by Iok Kujan's subordinates
+Allium Gyojan	Mikazuki Augus	Shot by Mikazuki Augus
+Amida Arca		Shot down on orders from Iok Kujan
+Aston Altland	McGillis Fareed	Fatally wounded by McGillis Fareed
+Biscuit Griffon	Carta Issue	Fatally injured when his vehicle is cut in half by Carta Issue
+Builth	Builth	Hanged himself with his bandages
+Carta Issue	Mikazuki Augus	Fatally wounded by Mikazuki Augus
+Coral Conrad	Mikazuki Augus	Impaled by Mikazuki Augus using his mace's needle
+Crank Zent	Mikazuki Augus	Shot by Mikazuki Augus
+Danji Enrei	Orlis Stenja	Crushed inside his vehicle by Orlis Stenja
+Ein Dalton	Mikazuki Augus	Impaled by Mikazuki Augus using his katana
+Elgar		Slain by the Arianrhod Fleet
+Fumitan Admoss		Shot by a sniper on orders from Nobliss Gordon
+Galan Mossa	Galan Mossa	Activated his Mobile Suit's self destruct
+Haeda Gunnel	Mikazuki Augus	Shot by Mikazuki Augus
+Hush Middy		Cut in half by a soldier of the Arianrhod Fleet
+Iok Kujan	Akihiro Altland	Crushed by Akihiro Altland
+Isurugi Camice	Gaelio Bauduin	Impaled by Gaelio Bauduin using his drill knee
+Jasley Donomikols	Mikazuki Augus	Crushed by Mikazuki Augus
+Kudal Cadel	Mikazuki Augus	Cleaved in half by Mikazuki Augus' katana
+Lafter Frankland		Shot on orders from Jasley Donomikols
+Liza Enza		Shot down by the Arianrhod Fleet
+Masahiro Altland	Kudal Cadel	Crushed against space debris by Kudal Cadel
+McGillis Fareed	Gaelio Bauduin	Shot in the chest by Gaelio Bauduin
+Mikazuki Augus		Fatally wounded by an orbital strike on orders from the Arianrhod Fleet
+Navona Mingo		Shot by Gjallarhorn forces
+Naze Turbine		Fatal ship collision after being shot down by Iok Kujan's fleet
+Nobliss Gordon	Ride Mass	Shot multiple times by Ride Mass
+Norba Shino		Mobile Suit shot down by the Arianrhod Fleet
+Orga Itsuka		Shot multiple times by hitmen on orders from Nobliss Gordon
+Orlis Stenja	Mikazuki Augus	Crushed by Mikazuki Augus using his mace
+Pedro	Mikazuki Augus	Slain by Mikazuki Augus
+Radiche Riloto	Takaki Uno	Shot by Takaki Uno
+Sasai Yankus	Mikazuki Augus	Shot by Mikazuki Augus
+Savarin Canele	Savarin Canele	Hanged himself
+Togonosuke Makanai		Passed away from natural causes
+Vito	Mikazuki Augus	Slain by Mikazuki Augus
