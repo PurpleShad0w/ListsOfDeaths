@@ -1,50 +1,50 @@
-victim	culprit(s)	description
-Artoria Pendragon	Artoria Pendragon	Died after destroying the Holy Grail (dependent) (Fate)
-Artoria Pendragon	Artoria Pendragon	Died after destroying the Holy Grail (dependent) (UBW)
-Artoria Pendragon	Shirou Emiya	Stabbed by Shirou Emiya (dependent) (HF)
-Atrum Galliasta	Medea	Immolated by Medea (UBW Anime)
+victim	culprit(s)	description	notes
+Artoria Pendragon	Artoria Pendragon	Died after destroying the Holy Grail	dependent, Fate
+Artoria Pendragon	Artoria Pendragon	Died after destroying the Holy Grail	dependent, UBW
+Artoria Pendragon	Shirou Emiya	Stabbed by Shirou Emiya	dependent, HF
+Atrum Galliasta	Medea	Immolated by Medea	UBW Anime
 Atrum Galliasta	Medea	Stabbed by Medea
-Cú Chulainn	Cú Chulainn & Kirei Kotomine	Impaled himself under the control of Kirei Kotomine (dependent) (UBW)
-Cú Chulainn	Gilgamesh	Slain by Gilgamesh (dependent) (Fate)
-Cú Chulainn	Gilgamesh	Stabbed by Gilgamesh (dependent) (Deen)
-Cú Chulainn	Hassan of the Cursed Arm	Heart consumed by Hassan of the Cursed Arm (dependent) (HF)
-EMIYA	Sakura Matou	Fatally wounded by the Shadow of Sakura Matou (dependent) (HF)
-EMIYA	Gilgamesh	Fatally wounded by Gilgamesh (dependent) (UBW)
-EMIYA	Heracles	Slain by Heracles (dependent) (Fate)
-Gilgamesh	Artoria Pendragon	Slain by Artoria Pendragon (dependent) (Fate)
-Gilgamesh	EMIYA	Shot with an arrow by EMIYA (dependent) (UBW)
-Gilgamesh	Sakura Matou	Devoured by Sakura Matou (dependent) (HF)
-Hassan of the Cursed Arm	Sakura Matou	Consumed by Sakura Matou (dependent) (HF)
-Heracles	Artoria Pendragon	Slain by Artoria Pendragon (dependent) (Fate)
-Heracles	Gilgamesh	Stabbed in the heart by Gilgamesh (dependent) (UBW)
-Heracles	Shirou Emiya	Slain by Shirou Emiya (dependent) (HF)
-Illyasviel von Einzbern	Gilgamesh	Heart ripped out by Gilgamesh (dependent) (UBW)
-Illyasviel von Einzbern	Illyasviel von Einzbern	Died after entering the Grail (HF)
-Kirei Kotomine	Cú Chulainn	Impaled by Cú Chulainn (dependent) (UBW)
-Kirei Kotomine	Sakura Matou	Heart destroyed by Sakura Matou (dependent) (HF)
-Kirei Kotomine	Shirou Emiya	Stabbed by Shirou Emiya (dependent) (Fate)
-Leysritt	Gilgamesh	Impaled with multiple swords by Gilgamesh (UBW Anime)
-Leysritt		Died after becoming the Dress of Heaven (dependent) (HF)
-Medea	Artoria Pendragon	Slain by Artoria Pendragon (dependent) (HF)
-Medea	EMIYA	Struck down by EMIYA (dependent) (UBW)
-Medea	Gilgamesh	Struck down by Gilgamesh (Deen)
-Medea	Gilgamesh	Torn apart by Gilgamesh (Manga)
-Medea	Gilgamesh	Torn apart by Gilgamesh (dependent) (Fate)
-Medea	Hassan of the Cursed Arm	Throat slit by Hassan of the Cursed Arm (HF Movies)
-Medusa	Artoria Pendragon	Slain by Artoria Pendragon (dependent) (Fate)
-Medusa	Souichirou Kuzuki	Slain by Souichirou Kuzuki (dependent) (UBW)
-Sakura Matou		Died of old age (dependent) (HF Normal)
-Sasaki Kojirou	Sakura Matou	Absorbed by the Shadow of Sakura Matou (HF Movies)
-Sasaki Kojirou	Sakura Matou	Slain by the Shadow of Sakura Matou (dependent) (HF)
-Sasaki Kojirou	Artoria Pendragon	Slain by Artoria Pendragon (dependent) (UBW)
-Sasaki Kojirou	Gilgamesh	Slain by Gilgamesh (dependent) (Fate)
-Sella	Gilgamesh	Decapitated by Gilgamesh (UBW Anime)
-Shinji Matou	Heracles	Slain by Heracles (dependent) (Fate)
-Shinji Matou	Sakura Matou	Slain by Sakura Matou (dependent) (HF)
-Shirou Emiya	Shirou Emiya	Died after destroying the Greater Grail (dependent) (HF Normal)
-Souichirou Kuzuki	Gilgamesh	Slain by Gilgamesh (dependent) (Fate)
-Souichirou Kuzuki	Gilgamesh	Slain by Gilgamesh (dependent) (UBW)
-Souichirou Kuzuki	Gilgamesh	Struck down by Gilgamesh (Deen)
-Souichirou Kuzuki	Hassan of the Cursed Arm	Stabbed in the head by Hassan of the Cursed Arm (HF Movies)
-Souichirou Kuzuki	Medea	Stabbed by Medea (dependent) (HF)
-Zouken Matou	Kirei Kotomine & Sakura Matou	Body exorcised by Kirei Kotomine and heart remnant destroyed by Sakura Matou (dependent) (HF)
+Cú Chulainn	Cú Chulainn & Kirei Kotomine	Impaled himself under the control of Kirei Kotomine	dependent, UBW
+Cú Chulainn	Gilgamesh	Slain by Gilgamesh	dependent, Fate
+Cú Chulainn	Gilgamesh	Stabbed by Gilgamesh	dependent, Deen
+Cú Chulainn	Hassan of the Cursed Arm	Heart consumed by Hassan of the Cursed Arm	dependent, HF
+EMIYA	Sakura Matou	Fatally wounded by the Shadow of Sakura Matou	dependent, HF
+EMIYA	Gilgamesh	Fatally wounded by Gilgamesh	dependent, UBW
+EMIYA	Heracles	Slain by Heracles	dependent, Fate
+Gilgamesh	Artoria Pendragon	Slain by Artoria Pendragon	dependent, Fate
+Gilgamesh	EMIYA	Shot with an arrow by EMIYA	dependent, UBW
+Gilgamesh	Sakura Matou	Devoured by Sakura Matou	dependent, HF
+Hassan of the Cursed Arm	Sakura Matou	Consumed by Sakura Matou	dependent, HF
+Heracles	Artoria Pendragon	Slain by Artoria Pendragon	dependent, Fate
+Heracles	Gilgamesh	Stabbed in the heart by Gilgamesh	dependent, UBW
+Heracles	Shirou Emiya	Slain by Shirou Emiya	dependent, HF
+Illyasviel von Einzbern	Gilgamesh	Heart ripped out by Gilgamesh	dependent, UBW
+Illyasviel von Einzbern	Illyasviel von Einzbern	Died after entering the Grail	HF
+Kirei Kotomine	Cú Chulainn	Impaled by Cú Chulainn	dependent, UBW
+Kirei Kotomine	Sakura Matou	Heart destroyed by Sakura Matou	dependent, HF
+Kirei Kotomine	Shirou Emiya	Stabbed by Shirou Emiya	dependent, Fate
+Leysritt	Gilgamesh	Impaled with multiple swords by Gilgamesh	UBW Anime
+Leysritt		Died after becoming the Dress of Heaven	dependent, HF
+Medea	Artoria Pendragon	Slain by Artoria Pendragon	dependent, HF
+Medea	EMIYA	Struck down by EMIYA	dependent, UBW
+Medea	Gilgamesh	Struck down by Gilgamesh	Deen
+Medea	Gilgamesh	Torn apart by Gilgamesh	Manga
+Medea	Gilgamesh	Torn apart by Gilgamesh	dependent, Fate
+Medea	Hassan of the Cursed Arm	Throat slit by Hassan of the Cursed Arm	HF Movies
+Medusa	Artoria Pendragon	Slain by Artoria Pendragon	dependent, Fate
+Medusa	Souichirou Kuzuki	Slain by Souichirou Kuzuki	dependent, UBW
+Sakura Matou		Died of old age	dependent, HF Normal
+Sasaki Kojirou	Sakura Matou	Absorbed by the Shadow of Sakura Matou	HF Movies
+Sasaki Kojirou	Sakura Matou	Slain by the Shadow of Sakura Matou	dependent, HF
+Sasaki Kojirou	Artoria Pendragon	Slain by Artoria Pendragon	dependent, UBW
+Sasaki Kojirou	Gilgamesh	Slain by Gilgamesh	dependent, Fate
+Sella	Gilgamesh	Decapitated by Gilgamesh	UBW Anime
+Shinji Matou	Heracles	Slain by Heracles	dependent, Fate
+Shinji Matou	Sakura Matou	Slain by Sakura Matou	dependent, HF
+Shirou Emiya	Shirou Emiya	Died after destroying the Greater Grail	dependent, HF Normal
+Souichirou Kuzuki	Gilgamesh	Slain by Gilgamesh	dependent, Fate
+Souichirou Kuzuki	Gilgamesh	Slain by Gilgamesh	dependent, UBW
+Souichirou Kuzuki	Gilgamesh	Struck down by Gilgamesh	Deen
+Souichirou Kuzuki	Hassan of the Cursed Arm	Stabbed in the head by Hassan of the Cursed Arm	HF Movies
+Souichirou Kuzuki	Medea	Stabbed by Medea	dependent, HF
+Zouken Matou	Kirei Kotomine & Sakura Matou	Body exorcised by Kirei Kotomine and heart remnant destroyed by Sakura Matou	dependent, HF

@@ -1,4 +1,4 @@
-victim	culprit(s)	description
+victim	culprit(s)	description	notes
 Bonnet	Sebastiano Di Ravello	Shot in the neck by Sebastiano Di Ravello
 Dante		Murdered by Dushku and De Luca's rebels via manipulation by Sebastiano Di Ravello
 David Hoang	Eden	Frozen by Eden
@@ -9,7 +9,7 @@ Eden	Rico Rodriguez	Hard drive ripped off and thrown into the sea by Rico Rodrig
 Eden Callaghan	Eden	Frozen by Eden
 Moreau		Perished during an electrical incident
 Sebastiano Di Ravello	Rico Rodriguez	Shot by Rico Rodriguez
-Sebastiano Di Ravello	Sebastiano Di Ravello	Threw himself into lava (dependent)
+Sebastiano Di Ravello	Sebastiano Di Ravello	Threw himself into lava	dependent
 Simone Corso	Eden	Frozen by Eden
 Theresa Vidal	Eden	Frozen by Eden
 Zach Schlappi	Eden	Frozen by Eden
