@@ -10,6 +10,7 @@
 | Danganronpa | Danganronpa 1 and 2, The End of Hope's Peak High School | Killing Harmony, Ultra Despair Girls, Mangas and Novels |
 | Dark Souls | Dark Souls I, II and III |  |
 | Dragon's Dogma | Dark Arisen | Dragon's Dogma 2 |
+| Dr. Stone | Dr. Stone |  |
 | Golden Kamuy | Golden Kamuy |  |
 | Hollow Knight | Hollow Knight |  |
 | Hunter x Hunter | Hunter x Hunter (up to beginning of the Succession Contest), Hisoka's Past, Kurapika's Memories, Both Movies | Rest of the manga once it releases |
