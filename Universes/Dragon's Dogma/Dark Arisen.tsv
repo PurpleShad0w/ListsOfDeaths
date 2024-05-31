@@ -1,46 +1,46 @@
-victim	culprit(s)	description	notes
-Aelinore	Edmun Dragonsbane	Strangled by Edmun Dragonsbane	dependent
-Alejo	Grigori	Fatally wounded by Grigori	dependent
-Ashe	The Arisen	Slain by the Arisen	
-Balsac	The Arisen	Slain by the Arisen	
-Condor	The Arisen	Slain by the Arisen	
-Cortese	Grigori	Immolated by Grigori	
-Darkness	The Arisen	Slain by the Arisen	
-Death	The Arisen	Slain by the Arisen	
-Elysion	Grigori	Slain by Grigori	
-Ema	Grigori	Fatally wounded by Grigori	dependent
-Emme	Grigori	Died during the destruction of Gran Soren caused by Grigori	
-Ghost	The Arisen	Slain by the Arisen	
-Grigori	The Arisen	Slain by the Arisen	
-Hawk	The Arisen	Slain by the Arisen	
-Janielle	Grigori	Fatally wounded by Grigori	dependent
-Jean		Slain by a Cyclops	
-Julien	The Arisen	Slain by the Arisen	dependent
-Kent	The Arisen	Slain by the Arisen	
-Lazoro	Grigori	Fatally wounded by Grigori	dependent
-Lowane	The Arisen	Slain by the Arisen	
-Marcelo	Mason	Slain by Mason	dependent
-Marcelo	The Arisen	Slain by the Arisen	dependent
-Noir	The Arisen	Slain by the Arisen	
-Olra	Grette	Slain by Grette	
-Palotti		Devoured by a Chimera	
-Phantom	The Arisen	Slain by the Arisen	
-Raffe	Grigori	Died during the destruction of Gran Soren caused by Grigori	
-Ramon	Grigori	Fatally wounded by Grigori	dependent
-Raven	The Arisen	Slain by the Arisen	
-Reynard		Slain by Goblins	dependent
-Rouge	The Arisen	Slain by the Arisen	
-Salomet	The Arisen	Pushed off the Bluemoon Tower by the Arisen	
-Savan	The Arisen	Stabbed with Godsbane by the Arisen	
-Sentena	Grigori	Fatally wounded by Grigori	dependent
-Soul	The Arisen	Slain by the Arisen	
-Spirits	The Arisen	Slain by the Arisen	
-The Arisen	The Arisen	Stabbed themself in the heart with Godsbane	
-The Dark Bishop	The Arisen	Slain by the Arisen	
-The Dragonforged		Crumbled to dust after the defeat of Grigori	
-The Gazer	The Arisen	Slain by the Arisen	
-The Ur-Dragon	The Arisen	Slain by the Arisen	
-Tolth		Petrified by a Cockatrice	
-Westley		Pecked by the Griffin	dependent
-Wilhem		Succumbed to an illness	
-Zero	The Arisen	Slain by the Arisen	
+victim	direct culprit(s)	indirect culprit(s)	description	notes
+Aelinore	Edmun Dragonsbane		Strangled by Edmun Dragonsbane	dependent
+Alejo	Grigori		Fatally wounded by Grigori	dependent
+Ashe	The Arisen		Slain by the Arisen	
+Balsac	The Arisen		Slain by the Arisen	
+Condor	The Arisen		Slain by the Arisen	
+Cortese	Grigori		Immolated by Grigori	
+Darkness	The Arisen		Slain by the Arisen	
+Death	The Arisen		Slain by the Arisen	
+Elysion	Grigori		Slain by Grigori	
+Ema	Grigori		Fatally wounded by Grigori	dependent
+Emme	Grigori		Died during the destruction of Gran Soren caused by Grigori	
+Ghost	The Arisen		Slain by the Arisen	
+Grigori	The Arisen		Slain by the Arisen	
+Hawk	The Arisen		Slain by the Arisen	
+Janielle	Grigori		Fatally wounded by Grigori	dependent
+Jean			Slain by a Cyclops	
+Julien	The Arisen		Slain by the Arisen	dependent
+Kent	The Arisen		Slain by the Arisen	
+Lazoro	Grigori		Fatally wounded by Grigori	dependent
+Lowane	The Arisen		Slain by the Arisen	
+Marcelo	Mason		Slain by Mason	dependent
+Marcelo	The Arisen		Slain by the Arisen	dependent
+Noir	The Arisen		Slain by the Arisen	
+Olra	Grette		Slain by Grette	
+Palotti			Devoured by a Chimera	
+Phantom	The Arisen		Slain by the Arisen	
+Raffe	Grigori		Died during the destruction of Gran Soren caused by Grigori	
+Ramon	Grigori		Fatally wounded by Grigori	dependent
+Raven	The Arisen		Slain by the Arisen	
+Reynard			Slain by Goblins	dependent
+Rouge	The Arisen		Slain by the Arisen	
+Salomet	The Arisen		Pushed off the Bluemoon Tower by the Arisen	
+Savan	The Arisen		Stabbed with Godsbane by the Arisen	
+Sentena	Grigori		Fatally wounded by Grigori	dependent
+Soul	The Arisen		Slain by the Arisen	
+Spirits	The Arisen		Slain by the Arisen	
+The Arisen	The Arisen		Stabbed themself in the heart with Godsbane	
+The Dark Bishop	The Arisen		Slain by the Arisen	
+The Dragonforged		The Arisen	Crumbled to dust after the defeat of Grigori at the hands of the Arisen	
+The Gazer	The Arisen		Slain by the Arisen	
+The Ur-Dragon	The Arisen		Slain by the Arisen	
+Tolth			Petrified by a Cockatrice	
+Westley			Pecked by the Griffin	dependent
+Wilhem			Succumbed to an illness	
+Zero	The Arisen		Slain by the Arisen	

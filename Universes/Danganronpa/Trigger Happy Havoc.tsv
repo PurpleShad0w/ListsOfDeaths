@@ -1,21 +1,21 @@
-victim	culprit(s)	description	notes
-Celestia Ludenberg	Junko Enoshima	Crushed by a fire truck during her execution set up by Junko Enoshima	
-Chihiro Fujisaki	Mondo Owada	Hit in the head with a dumbbell by Mondo Owada	
-Chuck		Died from unknown causes	
-Daiya Owada		Ran over by a truck to save his brother Mondo	
-Gaku Shouji	Toko Fukawa	Murdered by Toko Fukawa	
-Hifumi Yamada	Celestia Ludenberg	Bludgeoned in the head with a hammer by Celestia Ludenberg	
-Issei Kanno	Toko Fukawa	Murdered by Toko Fukawa	
-Jin Kirigiri	Junko Enoshima	Incinerated by Junko Enoshima	
-Junko Enoshima	Junko Enoshima	Crushed during the execution she set up for herself	
-Ken Harada	Toko Fukawa	Murdered by Toko Fukawa	
-Kiyotaka Ishimaru	Hifumi Yamada	Bludgeoned in the back of the head with a hammer by Hifumi Yamada	
-Kyoko Kirigiri	Junko Enoshima	Crushed during her execution set up by Junko Enoshima	Bad End, non-canon
-Kyoko Kirigiri's Mother		Died of an illness	
-Leon Kuwata	Junko Enoshima	Pummeled by baseballs shot out of a pitching machine during his execution set up by Junko Enoshima	
-Mondo Owada	Junko Enoshima	Electrocuted during his execution set up by Junko Enoshima	
-Mukuro Ikusaba	Junko Enoshima	Impaled with multiple spears by Junko Enoshima	
-Sakura Ogami	Sakura Ogami	Drank poison	
-Sayaka Maizono	Leon Kuwata	Stabbed in the stomach by Leon Kuwata	
-Tetsuhiro Honda	Toko Fukawa	Murdered by Toko Fukawa	
-Toranosuke Ishimaru		Died from unknown causes	
+victim	direct culprit(s)	indirect culprit(s)	description	notes
+Celestia Ludenberg	Junko Enoshima		Crushed by a fire truck during her execution set up by Junko Enoshima	
+Chihiro Fujisaki	Mondo Owada	Junko Enoshima	Hit in the head with a dumbbell by Mondo Owada, during the Killing School Life orchestrated by Junko Enoshima	
+Chuck			Died from unknown causes	
+Daiya Owada	Daiya Owada		Ran over by a truck to save his brother Mondo	
+Gaku Shouji	Toko Fukawa		Murdered by Toko Fukawa	
+Hifumi Yamada	Celestia Ludenberg	Junko Enoshima	Bludgeoned in the head with a hammer by Celestia Ludenberg, during the Killing School Life orchestrated by Junko Enoshima	
+Issei Kanno	Toko Fukawa		Murdered by Toko Fukawa	
+Jin Kirigiri	Junko Enoshima		Incinerated by Junko Enoshima	
+Junko Enoshima	Junko Enoshima		Crushed during the execution she set up for herself	
+Ken Harada	Toko Fukawa		Murdered by Toko Fukawa	
+Kiyotaka Ishimaru	Hifumi Yamada	Celestia Ludenberg & Junko Enoshima	Bludgeoned in the back of the head with a hammer by Hifumi Yamada via manipulation by Celestia Ludenberg, during the Killing School Life orchestrated by Junko Enoshima	
+Kyoko Kirigiri	Junko Enoshima		Crushed during her execution set up by Junko Enoshima	Bad End, non-canon
+Kyoko Kirigiri's Mother			Died of an illness	
+Leon Kuwata	Junko Enoshima		Pummeled by baseballs shot out of a pitching machine during his execution set up by Junko Enoshima	
+Mondo Owada	Junko Enoshima		Electrocuted during his execution set up by Junko Enoshima	
+Mukuro Ikusaba	Junko Enoshima		Impaled with multiple spears by Junko Enoshima	
+Sakura Ogami	Sakura Ogami	Junko Enoshima	Drank poison, during the Killing School Life orchestrated by Junko Enoshima	
+Sayaka Maizono	Leon Kuwata	Junko Enoshima	Stabbed in the stomach by Leon Kuwata, during the Killing School Life orchestrated by Junko Enoshima	
+Tetsuhiro Honda	Toko Fukawa		Murdered by Toko Fukawa	
+Toranosuke Ishimaru			Died from unknown causes	

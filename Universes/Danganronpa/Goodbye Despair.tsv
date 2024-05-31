@@ -1,16 +1,16 @@
-victim	culprit(s)	description	notes
-Chiaki Nanami (AI)	Junko Enoshima (AI)	Crushed during her execution set up by Junko Enoshima (AI)	
-Daisuke		Died of an illness	
-Gundham Tanaka	Junko Enoshima (AI)	Trampled during his execution set up by Junko Enoshima (AI)	revived
-Hiyoko Saionji	Mikan Tsumiki	Throat slit by Mikan Tsumiki	revived
-Ibuki Mioda	Mikan Tsumiki	Strangled with a rope by Mikan Tsumiki	revived
-Izuru Kamukura		Died from unknown causes	
-Junko Enoshima (AI)	Monomi	Erased from existence by Monomi	
-Mahiru Koizumi	Peko Pekoyama	Bludgeoned on the head with a bat by Peko Pekoyama	revived
-Mikan Tsumiki	Junko Enoshima (AI)	Died via lethal injection during her execution set up by Junko Enoshima (AI)	revived
-Nagito Komaeda	Chiaki Nanami (AI)	Poisoned by Chiaki Nanami (AI)	revived
-Nagito Komaeda's Dog		Ran over by a truck	
-Nekomaru Nidai	Gundham Tanaka	Dropped from a high place by Gundham Tanaka	revived
-Peko Pekoyama	Junko Enoshima (AI)	Stabbed in the back during her execution set up by Junko Enoshima (AI)	revived
-Teruteru Hanamura	Junko Enoshima (AI)	Fried during his execution set up by Junko Enoshima (AI)	revived
-Ultimate Imposter	Teruteru Hanamura	Stabbed with a skewer by Teruteru Hanamura	revived
+victim	direct culprit(s)	indirect culprit(s)	description	notes
+Chiaki Nanami AI	Alter Ego Junko	Hajime Hinata	Crushed during her execution set up by Alter Ego Junko, during the Killing School Trip orchestrated by Hajime Hinata	
+Daisuke			Died of an illness	
+Gundham Tanaka	Alter Ego Junko	Hajime Hinata	Trampled during his execution set up by Alter Ego Junko, during the Killing School Trip orchestrated by Hajime Hinata	revived
+Hiyoko Saionji	Mikan Tsumiki	Hajime Hinata & Alter Ego Junko	Throat slit by Mikan Tsumiki, during the Killing School Trip orchestrated by Hajime Hinata and the Alter Ego Junko	revived
+Ibuki Mioda	Mikan Tsumiki	Hajime Hinata & Alter Ego Junko	Strangled with a rope by Mikan Tsumiki, during the Killing School Trip orchestrated by Hajime Hinata and the Alter Ego Junko	revived
+Izuru Kamukura			Died from unknown causes	
+Alter Ego Junko	Monomi		Erased from existence by Monomi	
+Mahiru Koizumi	Peko Pekoyama	Hajime Hinata & Alter Ego Junko	Bludgeoned on the head with a bat by Peko Pekoyama, during the Killing School Trip orchestrated by Hajime Hinata and the Alter Ego Junko	revived
+Mikan Tsumiki	Alter Ego Junko	Hajime Hinata	Died via lethal injection during her execution set up by Alter Ego Junko, during the Killing School Trip orchestrated by Hajime Hinata	revived
+Nagito Komaeda	Chiaki Nanami AI	Nagito Komaeda & Hajime Hinata & Alter Ego Junko	Poisoned by Chiaki Nanami AI via manipulation by himself, during the Killing School Trip orchestrated by Hajime Hinata and the Alter Ego Junko	revived
+Nagito Komaeda's Dog			Ran over by a truck	
+Nekomaru Nidai	Gundham Tanaka	Hajime Hinata & Alter Ego Junko	Dropped from a high place by Gundham Tanaka, during the Killing School Trip orchestrated by Hajime Hinata and the Alter Ego Junko	revived
+Peko Pekoyama	Alter Ego Junko	Hajime Hinata	Stabbed in the back during her execution set up by Alter Ego Junko, during the Killing School Trip orchestrated by Hajime Hinata	revived
+Teruteru Hanamura	Alter Ego Junko	Hajime Hinata	Fried during his execution set up by Alter Ego Junko, during the Killing School Trip orchestrated by Hajime Hinata	revived
+Ultimate Imposter	Teruteru Hanamura	Hajime Hinata & Alter Ego Junko	Stabbed with a skewer by Teruteru Hanamura, during the Killing School Trip orchestrated by Hajime Hinata and the Alter Ego Junko	revived

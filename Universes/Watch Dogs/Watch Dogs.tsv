@@ -1,28 +1,28 @@
-victim	culprit(s)	description	notes
-2XTheTap	Aiden Pearce	Murdered by Aiden Pearce	
-Angelo Bryan	Aiden Pearce	Murdered by Aiden Pearce	
-Angelo Tucci	Aiden Pearce	Murdered by Aiden Pearce	
-Annie Nelson	Edgar Noone	Murdered by Edgar Noone	
-Candy Amos		Died from unknown causes	
-Chelsea Armstrong	Edgar Noone	Murdered by Edgar Noone	
-Clara Lille	Angelo Bryan	Assassinated by Angelo Bryan	
-Claudette Rousseau	Edgar Noone	Murdered by Edgar Noone	
-Damien Brenks	Aiden Pearce	Shot in the head by Aiden Pearce	
-DeAndre Coleman	Aiden Pearce	Murdered by Aiden Pearce	
-Debora Ingram	Edgar Noone	Murdered by Edgar Noone	
-Defalt's brother	Defalt's brother	Took his own life during a blackout	
-Defalt's impostor	Aiden Pearce	Murdered by Aiden Pearce	
-Delford Wade	Aiden Pearce	Gunned down by Aiden Pearce	
-Dermot Quinn	Aiden Pearce	Heart attack caused by Aiden Pearce hacking his pacemaker	
-Donovan Rushmore		Died from unknown causes	
-Edgar Noone	Aiden Pearce	Murdered by Aiden Pearce	dependent
-JB Markowicz	Raymond Eugene Kenney	Gassed by Raymond Eugene Kenney	
-Joseph DeMarco	Aiden Pearce	Murdered by Aiden Pearce	
-Kate Quigley	Edgar Noone	Murdered by Edgar Noone	
-Lena Violet Pearce	Maurice Vega	Died in a car crash caused by Maurice Vega	
-Maurice Vega	Aiden Pearce	Shot in the head by Aiden Pearce	dependent
-Michelle Strauss	Edgar Noone	Murdered by Edgar Noone	
-Nicholas Crispin	Aiden Pearce	Murdered by Aiden Pearce	
-Robert Racine	Aiden Pearce	Murdered by Aiden Pearce	
-Rose Washington	Donovan Rushmore	Shoved into the edge of a table by Donovan Rushmore	
-Sandford Amos	Candy Amos	Murdered by Candy Amos	
+victim	direct culprit(s)	indirect culprit(s)	description	notes
+2XTheTap	Aiden Pearce		Murdered by Aiden Pearce	
+Angelo Bryan	Aiden Pearce		Murdered by Aiden Pearce	
+Angelo Tucci	Aiden Pearce		Murdered by Aiden Pearce	
+Annie Nelson	Edgar Noone		Murdered by Edgar Noone	
+Candy Amos			Died from unknown causes	
+Chelsea Armstrong	Edgar Noone		Murdered by Edgar Noone	
+Clara Lille	Angelo Bryan	Dermot Quinn	Assassinated by Angelo Bryan on orders from Dermot Quinn	
+Claudette Rousseau	Edgar Noone		Murdered by Edgar Noone	
+Damien Brenks	Aiden Pearce		Shot in the head by Aiden Pearce	
+DeAndre Coleman	Aiden Pearce		Murdered by Aiden Pearce	
+Debora Ingram	Edgar Noone		Murdered by Edgar Noone	
+Defalt's brother	Defalt's brother	Raymond Kenney	Took his own life during a blackout caused by Raymond Kenney	
+Defalt's impostor	Aiden Pearce		Murdered by Aiden Pearce	
+Delford Wade	Aiden Pearce		Gunned down by Aiden Pearce	
+Dermot Quinn	Aiden Pearce		Heart attack caused by Aiden Pearce hacking his pacemaker	
+Donovan Rushmore			Died from unknown causes	
+Edgar Noone	Aiden Pearce		Murdered by Aiden Pearce	dependent
+JB Markowicz	Raymond Kenney		Gassed by Raymond Kenney	
+Joseph DeMarco	Aiden Pearce		Murdered by Aiden Pearce	
+Kate Quigley	Edgar Noone		Murdered by Edgar Noone	
+Lena Pearce	Maurice Vega	Dermot Quinn	Died in a car crash caused by Maurice Vega on orders from Dermot Quinn	
+Maurice Vega	Aiden Pearce		Shot in the head by Aiden Pearce	dependent
+Michelle Strauss	Edgar Noone		Murdered by Edgar Noone	
+Nicholas Crispin	Aiden Pearce		Murdered by Aiden Pearce	
+Robert Racine	Aiden Pearce		Murdered by Aiden Pearce	
+Rose Washington	Donovan Rushmore		Shoved into the edge of a table by Donovan Rushmore	
+Sandford Amos	Candy Amos		Murdered by Candy Amos	
