@@ -4,6 +4,7 @@
 
 | Universe | Included | Planned To Be Included |
 |---|---|---|
+| Attack on Titan | Anime |  |
 | Blasphemous | Blasphemous, The Kneeling | Blasphemous II |
 | Bloodstained | Ritual of the Night | Curse of the Moon 1 and 2 |
 | Code Geass | Lelouch of the Rebellion | Akito the Exiled, Lelouch of the Re;surrection, Mangas and OVAs |
