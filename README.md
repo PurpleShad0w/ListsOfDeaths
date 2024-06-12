@@ -15,7 +15,7 @@
 | Golden Kamuy | Golden Kamuy |  |
 | Hollow Knight | Hollow Knight |  |
 | Hunter x Hunter | Hunter x Hunter (up to beginning of the Succession Contest), Hisoka's Past, Kurapika's Memories, Both Movies | Rest of the manga once it releases |
-| Jojo's Bizarre Adventure | Parts 1-5 | Parts 6-8 |
+| Jojo's Bizarre Adventure | Parts 1-6 | Parts 7-8 |
 | Just Cause | Just Cause 3 and 4 | Just Cause 1 and 2 |
 | Mobile Suit Gundam | Iron-Blooded Orphans |  |
 | Nasuverse | Apocrypha, Stay Night, Zero |  |
