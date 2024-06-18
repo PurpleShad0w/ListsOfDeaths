@@ -1,5 +1,5 @@
 victim	direct culprit(s)	indirect culprit(s)	description	notes
-Anastacia	Lautrec		Slain by Lautrec	revived, dependent
+Anastacia	Lautrec		Slain by Lautrec	DNC, VAR, revived, dependent on player choice
 Artorias	Chosen Undead		Slain by the Chosen Undead	
 Asylum Demon	Chosen Undead		Slain by the Chosen Undead	
 Beatrice			Perished during her journey to the Abyss	
@@ -8,9 +8,9 @@ Bell Gargoyles	Chosen Undead		Slain by the Chosen Undead
 Capra Demon	Chosen Undead		Slain by the Chosen Undead	
 Ceaseless Discharge	Chosen Undead		Slain by the Chosen Undead	
 Centipede Demon	Chosen Undead		Slain by the Chosen Undead	
-Chester	Chosen Undead		Slain by the Chosen Undead	revived
-Chosen Undead	Chosen Undead		Burned themself in the First Flame	dependent
-Chosen Undead	Seath		Cursed by Seath	revived
+Chester	Chosen Undead		Slain by the Chosen Undead	DNC, revived
+Chosen Undead	Chosen Undead		Burned themself in the First Flame	VAR, dependent on player choice
+Chosen Undead	Seath		Cursed by Seath	DNC, revived
 Crestfallen Warrior	Chosen Undead		Slain by the Chosen Undead	
 Demon Firesage	Chosen Undead		Slain by the Chosen Undead	
 Four Kings	Chosen Undead		Slain by the Chosen Undead	
@@ -18,7 +18,7 @@ Gaping Dragon	Chosen Undead		Slain by the Chosen Undead
 Giant Undead Rat	Chosen Undead		Slain by the Chosen Undead	
 Griggs	Chosen Undead		Slain by the Chosen Undead	
 Gwyn	Chosen Undead		Slain by the Chosen Undead	
-Gwyn	Gwyn		Burned himself in the First Flame	revived
+Gwyn	Gwyn		Burned himself in the First Flame	DNC, revived
 Gwyndolin	Chosen Undead		Slain by the Chosen Undead	
 Havel	Chosen Undead		Slain by the Chosen Undead	
 Hellkite Drake	Chosen Undead		Slain by the Chosen Undead	
@@ -26,14 +26,14 @@ Iron Golem	Chosen Undead		Slain by the Chosen Undead
 Jeremiah	Chosen Undead		Slain by the Chosen Undead	
 Kalameet	Chosen Undead		Slain by the Chosen Undead	
 Kirk	Chosen Undead		Slain by the Chosen Undead	
-Kirk	Chosen Undead		Slain by the Chosen Undead	revived
-Kirk	Chosen Undead		Slain by the Chosen Undead	revived
-Laurentius	Chosen Undead		Slain by the Chosen Undead	dependent
+Kirk	Chosen Undead		Slain by the Chosen Undead	DNC, revived
+Kirk	Chosen Undead		Slain by the Chosen Undead	DNC, revived
+Laurentius	Chosen Undead		Slain by the Chosen Undead	VAR, dependent on player choice
 Lautrec	Chosen Undead		Slain by the Chosen Undead	
 Leeroy	Chosen Undead		Slain by the Chosen Undead	
 Logan	Chosen Undead		Slain by the Chosen Undead	
 Manus	Chosen Undead		Slain by the Chosen Undead	
-Mildred	Chosen Undead		Slain by the Chosen Undead	revived
+Mildred	Chosen Undead		Slain by the Chosen Undead	DNC, revived
 Moonlight Butterfly	Chosen Undead		Slain by the Chosen Undead	
 Nico	Chosen Undead		Slain by the Chosen Undead	
 Nito	Chosen Undead		Slain by the Chosen Undead	
@@ -43,15 +43,15 @@ Parasitic Wall Hugger	Chosen Undead		Slain by the Chosen Undead
 Pinwheel	Chosen Undead		Slain by the Chosen Undead	
 Priscilla	Chosen Undead		Slain by the Chosen Undead	
 Quelaag	Chosen Undead		Slain by the Chosen Undead	
-Reah	Petrus		Slain by Petrus	dependent
+Reah	Petrus		Slain by Petrus	VAR, dependent on player choice
 Ricard	Chosen Undead		Slain by the Chosen Undead	
 Sanctuary Guardian	Chosen Undead		Slain by the Chosen Undead	
 Seath	Chosen Undead		Slain by the Chosen Undead	
-Siegmeyer			Fatally wounded by Chaos Eaters	dependent
-Siegmeyer	Sieglinde		Slain by Sieglinde	dependent
+Siegmeyer			Fatally wounded by Chaos Eaters	VAR, dependent on player choice
+Siegmeyer	Sieglinde		Slain by Sieglinde	VAR, dependent on player choice
 Sif	Chosen Undead		Slain by the Chosen Undead	
 Smough	Chosen Undead		Slain by the Chosen Undead	
-Solaire	Chosen Undead		Slain by the Chosen Undead	dependent
+Solaire	Chosen Undead		Slain by the Chosen Undead	VAR, dependent on player choice
 Stray Demon	Chosen Undead		Slain by the Chosen Undead	
 Tarkus			Perished in Anor Londo	
 Taurus Demon	Chosen Undead		Slain by the Chosen Undead	

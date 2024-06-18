@@ -1,7 +1,7 @@
 victim	direct culprit(s)	indirect culprit(s)	description	notes
 Broken Vessel	The Knight		Slain by the Knight	
 Brooding Mawlek	The Knight		Slain by the Knight	
-Cloth	Traitor Lord		Impaled by the Traitor Lord	dependent
+Cloth	Traitor Lord		Impaled by the Traitor Lord	VAR, dependent on player choice
 Crystal Guardian	The Knight		Slain by the Knight	
 Dryaa			Slain by the Mantis Traitors	
 Elder Hu			Slain by the Mantis tribe	
@@ -9,11 +9,11 @@ False Knight	The Knight		Slain by the Knight
 Flukemarm	The Knight		Slain by the Knight	
 Galien			Slain by the creatures of Deepnest	
 Gorgeous Husk	The Knight		Slain by the Knight	
-Grimm	The Knight		Slain in his dreams by the Knight	dependent
+Grimm	The Knight		Slain in his dreams by the Knight	VAR, dependent on player choice
 Gruz Mother	The Knight		Slain by the Knight	
 Herrah	The Knight		Slain in her dreams by the Knight	
 Hive Knight	The Knight		Slain by the Knight	
-Hollow Knight	The Knight		Slain by the Knight	dependent
+Hollow Knight	The Knight		Slain by the Knight	VAR, dependent on player choice
 Leg Eater	Divine		Devoured by Divine	
 Lurien	The Knight		Slain in his dreams by the Knight	
 Markoth			Slain by the creatures of Kingdom's Edge	
@@ -21,8 +21,8 @@ Marmu			Died from unknown causes
 Menderbug	The Knight		Slain by the Knight	
 Monomon	The Knight		Slain in her dreams by the Knight	
 Moss Prophet	The Radiance		Overtaken by the Infection caused by the Radiance	
-Myla	The Knight		Slain by the Knight	dependent
-Nailsmith	The Knight		Slain by the Knight	dependent
+Myla	The Knight		Slain by the Knight	VAR, dependent on player choice
+Nailsmith	The Knight		Slain by the Knight	VAR, dependent on player choice
 No Eyes	No Eyes		Ripped her own eyes out	
 Nosk	The Knight		Slain by the Knight	
 Oblobbles	The Knight		Slain by the Knight	
@@ -32,11 +32,11 @@ Quirrel			Died after removing his mask
 Soul Master	The Knight		Slain by the Knight	
 Soul Warrior	The Knight		Slain by the Knight	
 The Collector	The Knight		Slain by the Knight	
-The Knight	The Knight		Broke their own shell to defeat the Radiance	dependent
-The Radiance	The Knight		Slain by the Knight's shade	dependent
-The Radiance	The Knight		Slain by the Knight's shade fused with the Void	dependent
+The Knight	The Knight		Broke their own shell to defeat the Radiance	VAR, dependent on player choice
+The Radiance	The Knight		Slain by the Knight's shade	VAR, dependent on player choice
+The Radiance	The Knight		Slain by the Knight's shade fused with the Void	VAR, dependent on player choice
 Tiso	Brooding Mawlek		Crushed by the Brooding Mawlek	
-Traitor Lord	Cloth		Bashed on the head by Cloth	dependent
+Traitor Lord	Cloth		Bashed on the head by Cloth	VAR, dependent on player choice
 Traitor Lord	The Knight		Slain by the Knight	
 Tuk	The Radiance		Overtaken by the Infection caused by the Radiance	
 Uumuu	Knight		Slain by the Knight	
@@ -44,4 +44,4 @@ Vengefly King	The Knight		Slain by the Knight
 Watcher Knights	The Knight		Slain by the Knight	
 Winged Nosk	The Knight		Slain by the Knight	
 Xero		Pale King	Executed after being sentenced by the Pale King	
-Zote	Vengefly King		Eaten by the Vengefly King	dependent
+Zote	Vengefly King		Eaten by the Vengefly King	VAR, dependent on player choice
