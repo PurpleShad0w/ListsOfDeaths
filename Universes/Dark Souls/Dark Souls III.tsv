@@ -1,24 +1,24 @@
 victim	direct culprit(s)	indirect culprit(s)	description	notes
-Abyss Watchers	Abyss Watchers		Burned themselves in the First Flame	DNC, revived
+Abyss Watchers	Abyss Watchers		Burned themselves in the First Flame	temporary, revived
 Abyss Watchers	Ashen One		Slain by the Ashen One	
 Albert	Ashen One		Slain by the Ashen One	
-Aldrich	Aldrich		Burned himself in the First Flame	DNC, revived
+Aldrich	Aldrich		Burned himself in the First Flame	temporary, revived
 Aldrich	Anri, Ashen One		Slain by Anri or the Ashen One	
 Aldrich	Ashen One		Slain by the Ashen One	
 Alva	Ashen One		Slain by the Ashen One	
-Alva	Ashen One		Slain by the Ashen One	DNC, revived
+Alva	Ashen One		Slain by the Ashen One	temporary, revived
 Ancient Wyvern	Ashen One		Slain by the Ashen One	
 Anri	Ashen One		Slain by the Ashen One	
-Anri	Horace		Slain by Horace	VAR, dependent on player choice
-Anri	Old Woman of Londor	Yuria	Assassinated by Old Woman of Londor on orders from Yuria	VAR, dependent on player choice
+Anri	Horace		Slain by Horace	variable, dependent on player choice
+Anri	Old Woman of Londor	Yuria	Assassinated by Old Woman of Londor on orders from Yuria	variable, dependent on player choice
 Ariandel	Ashen One		Slain by the Ashen One	
-Ashen One	Ashen One		Burned themself in the First Flame	DNC, revived
+Ashen One	Ashen One		Burned themself in the First Flame	temporary, revived
 Brigand	Ashen One		Slain by the Ashen One	
 Carthus Sand Worm	Ashen One		Slain by the Ashen One	
 Champion's Gravetender	Ashen One		Slain by the Ashen One	
 Court Sorcerer	Ashen One		Slain by the Ashen One	
 Creighton	Ashen One		Slain by the Ashen One	
-Creighton	Sirris, Ashen One		Slain by Sirris or the Ashen One	DNC, revived
+Creighton	Sirris, Ashen One		Slain by Sirris or the Ashen One	temporary, revived
 Crystal Sage	Ashen One		Slain by the Ashen One	
 Cuculus			Passed away after helping the Ashen One	
 Curse-rotted Greatwood	Ashen One		Slain by the Ashen One	
@@ -29,15 +29,15 @@ Demon from Below	Ashen One		Slain by the Ashen One
 Demon in Pain	Ashen One		Slain by the Ashen One	
 Dorhys	Ashen One		Slain by the Ashen One	
 Dragonslayer Armour	Ashen One		Slain by the Ashen One	
-Dragonslayer Armour	Ashen One		Slain by the Ashen One	DNC, revived
+Dragonslayer Armour	Ashen One		Slain by the Ashen One	temporary, revived
 Drang Knights	Ashen One		Slain by the Ashen One	
 Dunnel	Ashen One		Slain by the Ashen One	
 Emma			Passed away after the Ashen One defeated the first three Lords of Cinder	
 Exile Watchdogs	Ashen One		Slain by the Ashen One	
 Eygon			Passed away after the Ashen One defeated the Dragonslayer Armour	
-Eygon	Ashen One		Slain by the Ashen One	VAR, dependent on player choice
+Eygon	Ashen One		Slain by the Ashen One	variable, dependent on player choice
 Fallen Knight	Ashen One		Slain by the Ashen One	
-Fire Keeper	Ashen One		Slain by the Ashen One	VAR, dependent on player choice
+Fire Keeper	Ashen One		Slain by the Ashen One	variable, dependent on player choice
 Flame of Chaos		Ashen One	Eventually extinguished after the last Demon Prince was slain by the Ashen One	
 Friede	Ashen One		Slain by the Ashen One	
 Gael	Ashen One		Slain by the Ashen One	
@@ -50,46 +50,46 @@ Halflight	Ashen One		Slain by the Ashen One
 Havel	Ashen One		Slain by the Ashen One	
 Hawkwood	Ashen One		Slain by the Ashen One	
 Heysel	Ashen One		Slain by the Ashen One	
-Heysel	Ashen One		Slain by the Ashen One	DNC, revived
-Hodrick	Ashen One		Slain by the Ashen One	DNC, revived
+Heysel	Ashen One		Slain by the Ashen One	temporary, revived
+Hodrick	Ashen One		Slain by the Ashen One	temporary, revived
 Hodrick	Sirris, Ashen One		Slain by Sirris or the Ashen One	
 Horace	Ashen One		Slain by the Ashen One	
 Kamui	Ashen One		Slain by the Ashen One	
 King of the Storm	Ashen One		Slain by the Ashen One	
 Kirk	Ashen One		Slain by the Ashen One	
 Kriemhild	Ashen One		Slain by the Ashen One	
-Kriemhild	Ashen One		Slain by the Ashen One	DNC, revived
+Kriemhild	Ashen One		Slain by the Ashen One	temporary, revived
 Ledo	Ashen One		Slain by the Ashen One	
 Leonhard	Ashen One		Slain by the Ashen One	
 Londor Pale Shade	Ashen One		Slain by the Ashen One	
-Londor Pale Shade	Ashen One		Slain by the Ashen One	DNC, revived
+Londor Pale Shade	Ashen One		Slain by the Ashen One	temporary, revived
 Lorian	Ashen One		Slain by the Ashen One	
 Lothric	Ashen One		Slain by the Ashen One	
 Ludleth			Burned to ashes when the Ashen One placed the Cinders of the Lords in Firelink Shrine	
-Ludleth	Ludleth		Burned himself in the First Flame	DNC, revived
+Ludleth	Ludleth		Burned himself in the First Flame	temporary, revived
 Midir	Ashen One		Slain by the Ashen One	
 Moaning Knight	Ashen One		Slain by the Ashen One	
 Nameless King	Ashen One		Slain by the Ashen One	
 Oceiros	Ashen One		Slain by the Ashen One	
 Old Demon King	Ashen One		Slain by the Ashen One	
 Old Woman of Londor			Passed away after helping the Ashen One	
-Old Woman of Londor	Ashen One		Slain by the Ashen One	VAR, dependent on player choice
+Old Woman of Londor	Ashen One		Slain by the Ashen One	variable, dependent on player choice
 Orbeck			Passed away after the Ashen One defeated the Twin Princes	
 Pygmy King	Gael		Throat slashed by Gael	
-Rosaria	Leonhard		Slain by Leonhard	DNC, revived
+Rosaria	Leonhard		Slain by Leonhard	temporary, revived
 Royce	Ashen One		Slain by the Ashen One	
-Shira	Ashen One		Slain by the Ashen One	VAR, dependent on player choice
+Shira	Ashen One		Slain by the Ashen One	variable, dependent on player choice
 Sirris			Passed away after the Ashen One defeated the Twin Princes	
-Sirris	Ashen One		Slain by the Ashen One	VAR, dependent on player choice
+Sirris	Ashen One		Slain by the Ashen One	variable, dependent on player choice
 Soul of Cinder	Ashen One		Slain by the Ashen One	
 Stray Demon (Dark Souls III)	Ashen One		Slain by the Ashen One	
 Sulyvahn	Ashen One		Slain by the Ashen One	
 Sword Master	Ashen One		Slain by the Ashen One	
 Tsorig	Ashen One		Slain by the Ashen One	
-Tsorig	Ashen One		Slain by the Ashen One	DNC, revived
+Tsorig	Ashen One		Slain by the Ashen One	temporary, revived
 Vilhelm	Ashen One		Slain by the Ashen One	
 Vordt	Ashen One		Slain by the Ashen One	
 Wolnir	Ashen One		Slain by the Ashen One	
 Yhorm	Ashen One		Slain by the Ashen One	
-Yhorm	Yhorm		Burned himself in the First Flame	DNC, revived
+Yhorm	Yhorm		Burned himself in the First Flame	temporary, revived
 Yoel			Passed away after the Ashen One reaches the Catacombs of Carthus	
