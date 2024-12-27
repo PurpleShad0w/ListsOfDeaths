@@ -1,34 +1,34 @@
 character	killer	responsible party	description	type
-Amanecida of the Bejeweled Arrow		High Wills	Succumbed from an unknown curse caused by the High Wills	temporary, resurrected by the High Wills
+Amanecida of the Bejeweled Arrow		High Wills	Succumbed from an unknown curse caused by the High Wills (resurrected by the High Wills)	temporary
 Amanecida of the Bejeweled Arrow	Penitent One		Slain by the Penitent One	
-Amanecida of the Chiselled Steel		High Wills	Succumbed from an unknown curse caused by the High Wills	temporary, resurrected by the High Wills
+Amanecida of the Chiselled Steel		High Wills	Succumbed from an unknown curse caused by the High Wills (resurrected by the High Wills)	temporary
 Amanecida of the Chiselled Steel	Penitent One		Slain by the Penitent One	
-Amanecida of the Golden Blades		High Wills	Succumbed from an unknown curse caused by the High Wills	temporary, resurrected by the High Wills
+Amanecida of the Golden Blades		High Wills	Succumbed from an unknown curse caused by the High Wills (resurrected by the High Wills)	temporary
 Amanecida of the Golden Blades	Penitent One		Slain by the Penitent One	
-Amanecida of the Molten Thorn		High Wills	Succumbed from an unknown curse caused by the High Wills	temporary, resurrected by the High Wills
+Amanecida of the Molten Thorn		High Wills	Succumbed from an unknown curse caused by the High Wills (resurrected by the High Wills)	temporary
 Amanecida of the Molten Thorn	Penitent One		Slain by the Penitent One	
-Cleofás	Cleofás		Jumped from a roof	variable, dependent on player choice
-Escribar	High Wills		Burned to ashes by the High Wills	temporary, resurrected by the High Wills
+Cleofás	Cleofás		Jumped from a roof (dependent on player choice)	variable
+Escribar	High Wills		Burned to ashes by the High Wills (resurrected by the High Wills)	temporary
 Escribar	Penitent One		Slain by the Penitent One	
-Esdras	Penitent One		Slain by the Penitent One	variable, dependent on player choice
+Esdras	Penitent One		Slain by the Penitent One (dependent on player choice)	variable
 Expósito	Penitent One		Slain by the Penitent One	
-Gémino			Entombed within a tree	variable, dependent on player choice
+Gémino			Entombed within a tree (dependent on player choice)	variable
 High Wills	Penitent One, Crisanta		Head bisected by the Penitent One and Crisanta	
 Isidora	Penitent One		Slain by the Penitent One	
-Laudes		High Wills	Succumbed from an unknown curse caused by the High Wills	temporary, resurrected by the High Wills
+Laudes		High Wills	Succumbed from an unknown curse caused by the High Wills (resurrected by the High Wills)	temporary
 Laudes	Penitent One		Slain by the Penitent One	
 Melquíades	Penitent One		Slain by the Penitent One	
 Nacimiento	Ancient One		Chest burst open by the Ancient One	
 Our Lady of the Charred Visage	Penitent One		Slain by the Penitent One	
-Penitent One			Died after ending the Miracle	temporary, resurrected by the High Wills
-Penitent One			Swallowed by the mountain of ash	variable, dependent on player choice
-Penitent One	Penitent One		Stabbed himself in the heart with Mea Culpa	variable, dependent on player choice
+Penitent One			Died after ending the Miracle (resurrected by the High Wills)	temporary
+Penitent One			Swallowed by the mountain of ash (dependent on player choice)	variable
+Penitent One	Penitent One		Stabbed himself in the heart with Mea Culpa (dependent on player choice)	variable
 Quirce	Penitent One		Slain by the Penitent One	
 Redento			Passed on after completing his pilgrimage	
 Sierpes	Penitent One		Slain by the Penitent One	
-Socorro	Penitent One		Slain by the Penitent One	variable, dependent on player choice
+Socorro	Penitent One		Slain by the Penitent One (dependent on player choice)	variable
 Ten Piedad	Penitent One		Slain by the Penitent One	
 Tres Angustias	Penitent One		Slain by the Penitent One	
 Twisted One		High Wills	Succumbed from an affliction caused by the High Wills	
-Viridiana			Died of old age	variable, dependent on player choice
+Viridiana			Died of old age (dependent on player choice)	variable
 Warden of the Silent Sorrow	Penitent One		Slain by the Penitent One	
