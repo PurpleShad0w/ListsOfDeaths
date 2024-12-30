@@ -1,5 +1,6 @@
 character	killer	responsible party	description	type
-Arnold	Yoshikage Kira		Throat slashed by Yoshikage Kira	
+Arnold			Passed on after Yoshikage Kira's death	
+Arnold	Yoshikage Kira		Throat slashed by Yoshikage Kira (remained as a Ghost)	physical
 Aya Tsuji	Yoshikage Kira		Exploded by Yoshikage Kira	
 Bug-Eaten	Josuke Higashikata		Shot by Josuke Higashikata	
 Cheap Trick		Rohan Kishibe	Tricked into being spirited away by Rohan Kishibe	
@@ -12,13 +13,14 @@ Masazo Kinoto	Cheap Trick		Back torn open by Cheap Trick
 Minako Okura	Yoshikage Kira		Exploded by Yoshikage Kira	
 Mukade Shopkeeper	Yoshikage Kira		Caught in Sheer Heart Attack's explosion caused by Yoshikage Kira	
 Not Bug-Eaten	Josuke Higashikata		Shot by Josuke Higashikata	
-Reimi Sugimoto	Yoshikage Kira		Stabbed in the back by Yoshikage Kira	
+Reimi Sugimoto			Passed on after Yoshikage Kira's death	
+Reimi Sugimoto	Yoshikage Kira		Stabbed in the back by Yoshikage Kira (remained as a Ghost)	physical
 Ryohei Higashikata	Anjuro Katagiri		Fatally wounded after drinking Anjuro Katagiri's Stand	
 Satoru Nakae	Yoshikage Kira		Exploded by Yoshikage Kira	
 Shigekiyo Yangu	Yoshikage Kira		Exploded via Yoshikage Kira's Stand	
 Takashi Sugimoto	Yoshikage Kira		Murdered by Yoshikage Kira	
 Tama	Shinobu Kawajiri		Accidently impaled on broken glass by Shinobu Kawajiri (reborn as Stray Cat)	temporary
 Yamashita	Anjuro Katagiri		Stabbed in the neck with a fork by Anjuro Katagiri (live-action only)	
-Yoshihiro Kira			Died of cancer	
+Yoshihiro Kira			Died of cancer (remained as a Ghost)	physical
 Yoshihiro Kira	Yoshikage Kira	Josuke Higashikata	Incinerated by Yoshikage Kira's bomb while being manipulated by Josuke Higashikata	
-Yoshikage Kira			Head crushed by an ambulance	
+Yoshikage Kira			Head crushed by an ambulance (remained as a Ghost)	physical
