@@ -3,7 +3,7 @@ Agatha	Clare		Sliced to pieces by Clare
 Alexandra	Teresa		Slain by Teresa	
 Alice	Alexandra		Slain by Alexandra	
 Alicia	Priscilla		Head ripped off by Priscilla	
-Armadillo Being	Clare, Flora		Sliced into pieces by Clare and Flora	
+Armadillo Being	Clare | Flora		Sliced into pieces by Clare and Flora	
 Beth	Priscilla		Mangled by Priscilla	
 Cassandra		Roxanne	Sliced into pieces by Claymores after being incapacitated by Roxanne (revived by Dae)	temporary
 Cassandra	Priscilla		Ripped apart and devoured by Priscilla (revived)	temporary
@@ -30,10 +30,10 @@ Four-Armed Awakened Being	Dietrich		Slain by Dietrich
 Hilda	Miria		Decapitated by Miria	
 Human being of Northern Campaign	Miria		Beheaded by Miria	
 Hysteria	Rosemary	Teresa	Slain by Rosemary after being critically injured by Teresa (revived by Dae)	temporary
-Hysteria	Roxanne, Cassandra		Fatally wounded by Roxanne and Cassandra	
-Insectoid Being	Veronica, Cynthia		Slain by Veronica and Cynthia	
+Hysteria	Roxanne | Cassandra		Fatally wounded by Roxanne and Cassandra	
+Insectoid Being	Veronica | Cynthia		Slain by Veronica and Cynthia	
 Isley			Devoured by Abyss Feeders	
-Jean	Jean	Rigardo, Isley	Perished when synchronizing herself with Clare, after being fatally wounded by Rigardo on orders from Isley	
+Jean	Jean	Rigardo | Isley	Perished when synchronizing herself with Clare, after being fatally wounded by Rigardo on orders from Isley	
 Juliana		Isley	Slain during the Northern Campaign by Isley's army	
 Karla		Isley	Slain during the Northern Campaign by Isley's army	
 Kate			Slain by an Awakened Being	
@@ -46,7 +46,7 @@ Lucia			Slain by an Awakened Being
 Luciela	Priscilla		Stomped on by Priscilla	
 Luciela	Rafaela		Back broken by Rafaela (revived as The Destroyer)	temporary
 Lutecia			Died from unknown causes	
-Mantis Being	Clare, Miria		Slain by Clare and Miria	
+Mantis Being	Clare | Miria		Slain by Clare and Miria	
 Matilda		Isley	Slain during the Northern Campaign by Isley's army	
 Natalie		Isley	Slain during the Northern Campaign by Isley's army	
 Neideen		Roxanne	Slain by an Awakened Being, orchestrated by Roxanne	
@@ -68,7 +68,7 @@ Rosemary	Teresa		Sliced into pieces by Teresa
 Roxanne			Died from unknown causes (revived by Dae)	temporary
 Roxanne	Cassandra		Devoured by Cassandra	
 Sistina			Died from unknown causes	
-Six-Legged Being	Clare, Cynthia, Yuma		Slain by Clare, Cynthia and Yuma	
+Six-Legged Being	Clare | Cynthia | Yuma		Slain by Clare, Cynthia and Yuma	
 Sophia	Priscilla		Impaled by Priscilla	
 Tabitha	Priscilla		Limbs severed by Priscilla	
 Teresa	Priscilla		Decapitated by Priscilla (revived within Clare)	temporary

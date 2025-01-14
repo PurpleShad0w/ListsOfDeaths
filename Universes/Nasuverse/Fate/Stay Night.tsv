@@ -2,7 +2,7 @@ character	killer	responsible party	description	type
 Artoria Pendragon		Artoria Pendragon	Died after destroying the Holy Grail (Fate)	variable
 Artoria Pendragon		Artoria Pendragon	Died after destroying the Holy Grail (UBW)	variable
 Artoria Pendragon	Shirou Emiya		Stabbed by Shirou Emiya (HF)	variable
-Atrum Galliasta	Medea		Immolated by Medea (UBW Anime)	
+Atrum Galliasta	Medea		Immolated by Medea (UBW Anime)	variable
 Atrum Galliasta	Medea		Stabbed by Medea	
 Cú Chulainn	Cú Chulainn	Kirei Kotomine	Impaled himself on orders from Kirei Kotomine (UBW)	variable
 Cú Chulainn	Gilgamesh		Slain by Gilgamesh (Fate)	variable
@@ -24,7 +24,7 @@ Kirei Kotomine	Cú Chulainn		Impaled by Cú Chulainn (UBW)	variable
 Kirei Kotomine	Sakura Matou		Heart destroyed by Sakura Matou (HF)	variable
 Kirei Kotomine	Shirou Emiya		Stabbed by Shirou Emiya (Fate)	variable
 Leysritt			Died after becoming the Dress of Heaven (HF)	variable
-Leysritt	Gilgamesh		Impaled with multiple swords by Gilgamesh (UBW Anime)	
+Leysritt	Gilgamesh		Impaled with multiple swords by Gilgamesh (UBW Anime)	variable
 Medea	Artoria Pendragon		Slain by Artoria Pendragon (HF)	variable
 Medea	EMIYA		Struck down by EMIYA (UBW)	variable
 Medea	Gilgamesh		Struck down by Gilgamesh (Deen)	variable
@@ -47,4 +47,4 @@ Souichirou Kuzuki	Gilgamesh		Slain by Gilgamesh (UBW)	variable
 Souichirou Kuzuki	Gilgamesh		Struck down by Gilgamesh (Deen)	variable
 Souichirou Kuzuki	Hassan of the Cursed Arm		Stabbed in the head by Hassan of the Cursed Arm (HF Movies)	variable
 Souichirou Kuzuki	Medea		Stabbed by Medea (HF)	variable
-Zouken Matou	Kirei Kotomine, Sakura Matou		Body exorcised by Kirei Kotomine and heart remnant destroyed by Sakura Matou (HF)	variable
+Zouken Matou	Kirei Kotomine | Sakura Matou		Body exorcised by Kirei Kotomine and heart remnant destroyed by Sakura Matou (HF)	variable
