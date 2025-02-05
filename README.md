@@ -41,6 +41,9 @@
 | Nasuverse                | Fate Zero                                        |       27 |
 | Ozark                    | Ozark                                            |       39 |
 | Project Moon             | Library of Ruina                                 |      133 |
+| The Evil Within          | The Evil Within                                  |       26 |
+| The Evil Within          | The Evil Within 2                                |       23 |
+| The Evil Within          | The Evil Within Comics                           |        6 |
 | The Golden Idol          | The Case of the Golden Idol                      |       29 |
 | Tokyo Ghoul              | Tokyo Ghoul                                      |      124 |
 | Tokyo Ghoul              | Tokyo Ghoul Days                                 |        4 |
