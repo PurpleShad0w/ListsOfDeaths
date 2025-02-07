@@ -50,7 +50,7 @@
 | Tokyo Ghoul              | Tokyo Ghoul Jack                                 |        4 |
 | Tokyo Ghoul              | Tokyo Ghoul Past                                 |        3 |
 | Tokyo Ghoul              | Tokyo Ghoul Void                                 |        5 |
-| Watch Dogs               | Watch Dogs                                       |       27 |
+| Watch Dogs               | Watch Dogs                                       |       30 |
 | Watch Dogs               | Watch Dogs 2                                     |        7 |
 | Watch Dogs               | Watch Dogs Dark Clouds                           |        4 |
 | Zero Escape              | Nine Hours, Nine Persons, Nine Doors             |       23 |

@@ -2,49 +2,49 @@ character	killer	responsible party	description	type
 Artoria Pendragon		Artoria Pendragon	Died after destroying the Holy Grail (Fate)	variable
 Artoria Pendragon		Artoria Pendragon	Died after destroying the Holy Grail (UBW)	variable
 Artoria Pendragon	Shirou Emiya		Stabbed by Shirou Emiya (HF)	variable
-Atrum Galliasta	Medea		Immolated by Medea (UBW Anime)	variable
-Atrum Galliasta	Medea		Stabbed by Medea	
-Cú Chulainn	Cú Chulainn	Kirei Kotomine	Impaled himself on orders from Kirei Kotomine (UBW)	variable
-Cú Chulainn	Gilgamesh		Slain by Gilgamesh (Fate)	variable
-Cú Chulainn	Gilgamesh		Stabbed by Gilgamesh (Deen)	variable
-Cú Chulainn	Hassan of the Cursed Arm		Heart consumed by Hassan of the Cursed Arm (HF)	variable
-EMIYA		Sakura Matou	Fatally wounded by the Shadow of Sakura Matou (HF)	variable
-EMIYA	Gilgamesh		Fatally wounded by Gilgamesh (UBW)	variable
-EMIYA	Heracles		Slain by Heracles (Fate)	variable
-Gilgamesh	Artoria Pendragon		Slain by Artoria Pendragon (Fate)	variable
-Gilgamesh	EMIYA		Shot with an arrow by EMIYA (UBW)	variable
-Gilgamesh	Sakura Matou		Devoured by Sakura Matou (HF)	variable
-Hassan of the Cursed Arm	Sakura Matou		Consumed by Sakura Matou (HF)	variable
-Heracles	Artoria Pendragon		Slain by Artoria Pendragon (Fate)	variable
-Heracles	Gilgamesh		Stabbed in the heart by Gilgamesh (UBW)	variable
-Heracles	Shirou Emiya		Slain by Shirou Emiya (HF)	variable
+Atrum Galliasta	Medea		Immolated by Medea (UBW Anime)	variable | unavoidable
+Atrum Galliasta	Medea		Stabbed by Medea	variable | unavoidable
+Cú Chulainn	Cú Chulainn	Kirei Kotomine	Impaled himself on orders from Kirei Kotomine (UBW)	variable | unavoidable
+Cú Chulainn	Gilgamesh		Slain by Gilgamesh (Fate)	variable | unavoidable
+Cú Chulainn	Gilgamesh		Stabbed by Gilgamesh (Deen)	variable | unavoidable
+Cú Chulainn	Hassan of the Cursed Arm		Heart consumed by Hassan of the Cursed Arm (HF)	variable | unavoidable
+EMIYA		Sakura Matou	Fatally wounded by the Shadow of Sakura Matou (HF)	variable | unavoidable
+EMIYA	Gilgamesh		Fatally wounded by Gilgamesh (UBW)	variable | unavoidable
+EMIYA	Heracles		Slain by Heracles (Fate)	variable | unavoidable
+Gilgamesh	Artoria Pendragon		Slain by Artoria Pendragon (Fate)	variable | unavoidable
+Gilgamesh	EMIYA		Shot with an arrow by EMIYA (UBW)	variable | unavoidable
+Gilgamesh	Sakura Matou		Devoured by Sakura Matou (HF)	variable | unavoidable
+Hassan of the Cursed Arm	Sakura Matou		Consumed by Sakura Matou (HF)	variable | unavoidable
+Heracles	Artoria Pendragon		Slain by Artoria Pendragon (Fate)	variable | unavoidable
+Heracles	Gilgamesh		Stabbed in the heart by Gilgamesh (UBW)	variable | unavoidable
+Heracles	Shirou Emiya		Slain by Shirou Emiya (HF)	variable | unavoidable
 Illyasviel von Einzbern	Gilgamesh		Heart ripped out by Gilgamesh (UBW)	variable
 Illyasviel von Einzbern	Illyasviel von Einzbern		Died after entering the Grail (HF)	variable
-Kirei Kotomine	Cú Chulainn		Impaled by Cú Chulainn (UBW)	variable
-Kirei Kotomine	Sakura Matou		Heart destroyed by Sakura Matou (HF)	variable
-Kirei Kotomine	Shirou Emiya		Stabbed by Shirou Emiya (Fate)	variable
-Leysritt			Died after becoming the Dress of Heaven (HF)	variable
-Leysritt	Gilgamesh		Impaled with multiple swords by Gilgamesh (UBW Anime)	variable
-Medea	Artoria Pendragon		Slain by Artoria Pendragon (HF)	variable
-Medea	EMIYA		Struck down by EMIYA (UBW)	variable
-Medea	Gilgamesh		Struck down by Gilgamesh (Deen)	variable
-Medea	Gilgamesh		Torn apart by Gilgamesh (Fate)	variable
-Medea	Gilgamesh		Torn apart by Gilgamesh (Manga)	variable
-Medea	Hassan of the Cursed Arm		Throat slit by Hassan of the Cursed Arm (HF Movies)	variable
+Kirei Kotomine	Cú Chulainn		Impaled by Cú Chulainn (UBW)	variable | unavoidable
+Kirei Kotomine	Sakura Matou		Heart destroyed by Sakura Matou (HF)	variable | unavoidable
+Kirei Kotomine	Shirou Emiya		Stabbed by Shirou Emiya (Fate)	variable | unavoidable
+Leysritt			Died after becoming the Dress of Heaven (HF)	variable | unavoidable
+Leysritt	Gilgamesh		Impaled with multiple swords by Gilgamesh (UBW Anime)	variable | unavoidable
+Medea	Artoria Pendragon		Slain by Artoria Pendragon (HF)	variable | unavoidable
+Medea	EMIYA		Struck down by EMIYA (UBW)	variable | unavoidable
+Medea	Gilgamesh		Struck down by Gilgamesh (Deen)	variable | unavoidable
+Medea	Gilgamesh		Torn apart by Gilgamesh (Fate)	variable | unavoidable
+Medea	Gilgamesh		Torn apart by Gilgamesh (Manga)	variable | unavoidable
+Medea	Hassan of the Cursed Arm		Throat slit by Hassan of the Cursed Arm (HF Movies)	variable | unavoidable
 Medusa	Artoria Pendragon		Slain by Artoria Pendragon (Fate)	variable
 Medusa	Souichirou Kuzuki		Slain by Souichirou Kuzuki (UBW)	variable
 Sakura Matou			Died of old age (HF Normal)	variable
-Sasaki Kojirou		Sakura Matou	Absorbed by the Shadow of Sakura Matou (HF Movies)	variable
-Sasaki Kojirou		Sakura Matou	Slain by the Shadow of Sakura Matou (HF)	variable
-Sasaki Kojirou	Artoria Pendragon		Slain by Artoria Pendragon (UBW)	variable
-Sasaki Kojirou	Gilgamesh		Slain by Gilgamesh (Fate)	variable
-Sella	Gilgamesh		Decapitated by Gilgamesh (UBW Anime)	variable
+Sasaki Kojirou		Sakura Matou	Absorbed by the Shadow of Sakura Matou (HF Movies)	variable | unavoidable
+Sasaki Kojirou		Sakura Matou	Slain by the Shadow of Sakura Matou (HF)	variable | unavoidable
+Sasaki Kojirou	Artoria Pendragon		Slain by Artoria Pendragon (UBW)	variable | unavoidable
+Sasaki Kojirou	Gilgamesh		Slain by Gilgamesh (Fate)	variable | unavoidable
+Sella	Gilgamesh		Decapitated by Gilgamesh (UBW Anime)	variable | unavoidable
 Shinji Matou	Heracles	Illyasviel von Einzbern	Slain by Heracles on orders from Illyasviel von Einzbern (Fate)	variable
 Shinji Matou	Sakura Matou		Slain by Sakura Matou (HF)	variable
 Shirou Emiya		Shirou Emiya	Died after destroying the Greater Grail (HF Normal)	variable
-Souichirou Kuzuki	Gilgamesh		Slain by Gilgamesh (Fate)	variable
-Souichirou Kuzuki	Gilgamesh		Slain by Gilgamesh (UBW)	variable
-Souichirou Kuzuki	Gilgamesh		Struck down by Gilgamesh (Deen)	variable
-Souichirou Kuzuki	Hassan of the Cursed Arm		Stabbed in the head by Hassan of the Cursed Arm (HF Movies)	variable
-Souichirou Kuzuki	Medea		Stabbed by Medea (HF)	variable
+Souichirou Kuzuki	Gilgamesh		Slain by Gilgamesh (Fate)	variable | unavoidable
+Souichirou Kuzuki	Gilgamesh		Slain by Gilgamesh (UBW)	variable | unavoidable
+Souichirou Kuzuki	Gilgamesh		Struck down by Gilgamesh (Deen)	variable | unavoidable
+Souichirou Kuzuki	Hassan of the Cursed Arm		Stabbed in the head by Hassan of the Cursed Arm (HF Movies)	variable | unavoidable
+Souichirou Kuzuki	Medea		Stabbed by Medea (HF)	variable | unavoidable
 Zouken Matou	Kirei Kotomine | Sakura Matou		Body exorcised by Kirei Kotomine and heart remnant destroyed by Sakura Matou (HF)	variable
