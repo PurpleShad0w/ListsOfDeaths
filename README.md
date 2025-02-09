@@ -27,6 +27,12 @@
 | Hunter × Hunter          | Hunter × Hunter Phantom Rouge                    |        2 |
 | Hunter × Hunter          | Hunter × Hunter The Last Mission                 |        4 |
 | Hunter × Hunter          | Kurapika's Memories                              |        6 |
+| Infamous                 | Infamous                                         |       10 |
+| Infamous                 | Infamous 2                                       |       13 |
+| Infamous                 | Infamous Comics                                  |        4 |
+| Infamous                 | Infamous Festival of Blood                       |        4 |
+| Infamous                 | Infamous First Light                             |        3 |
+| Infamous                 | Infamous Second Son                              |        5 |
 | Jojo's Bizarre Adventure | Battle Tendency                                  |       13 |
 | Jojo's Bizarre Adventure | Diamond is Unbreakable                           |       25 |
 | Jojo's Bizarre Adventure | Phantom Blood                                    |       24 |
@@ -50,7 +56,7 @@
 | Tokyo Ghoul              | Tokyo Ghoul Jack                                 |        4 |
 | Tokyo Ghoul              | Tokyo Ghoul Past                                 |        3 |
 | Tokyo Ghoul              | Tokyo Ghoul Void                                 |        5 |
-| Watch Dogs               | Watch Dogs                                       |       30 |
+| Watch Dogs               | Watch Dogs                                       |       44 |
 | Watch Dogs               | Watch Dogs 2                                     |        7 |
 | Watch Dogs               | Watch Dogs Dark Clouds                           |        4 |
 | Zero Escape              | Nine Hours, Nine Persons, Nine Doors             |       23 |
