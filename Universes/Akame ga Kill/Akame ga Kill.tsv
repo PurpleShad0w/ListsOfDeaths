@@ -1,7 +1,7 @@
 character	killer	responsible party	description	type
 Air	Air	Suka	Committed suicide by drinking poison due to having been tortured by Suka	
 Amuria	Tsukushi		Shot by Tsukushi	
-Apeman			Died from unknown causes (resurrected by Kurome)	temporary
+Apeman			Died from unknown causes (corpse reanimated by Kurome)	undead
 Apeman	Tatsumi		Destroyed by Tatsumi	
 Arathi	Kurome		Stabbed in the back by Kurome	
 Aria	Tatsumi		Slashed by Tatsumi	
@@ -25,12 +25,12 @@ Daidara	Bulat		Cut in half by Bulat
 Dangan	Akame		Struck down by Akame	
 Daniel	Tsukushi		Shot in the head by Tsukushi	
 Dark Squad Supervisor	Esdeath		Decapitated via kicking by Esdeath	
-Death Tagool			Died from unknown causes (resurrected by Kurome)	temporary
+Death Tagool			Died from unknown causes (corpse reanimated by Kurome)	undead
 Death Tagool	Susanoo		Destroyed by Susanoo	
 Dorothea	Leone		Crushed with a boulder by Leone	
 Dousen	Leone		Beaten by Leone	
 Doya	Akame		Cut down by Akame	
-Doya	Kurome		Murdered by Kurome (resurrected by Kurome)	temporary
+Doya	Kurome		Murdered by Kurome (corpse reanimated by Kurome)	undead
 Enji	Zuou		Boiled alive by Zuou	
 Enshin	Akame		Slashed by Akame	
 Esdeath	Akame		Stabbed by Akame	
@@ -49,7 +49,7 @@ Green	Mashiro		Neck broken by Mashiro
 Guy	Weneg		Murdered by Weneg	
 Hana	Stylish		Devoured by Stylish	
 Hekatonkheires	Seryu Ubiquitous		Caught in the explosion triggered by Seryu Ubiquitous	
-Henter	Kurome		Murdered by Kurome (resurrected by Kurome)	temporary
+Henter	Kurome		Murdered by Kurome (corpse reanimated by Kurome)	undead
 Henter	Tatsumi	Chelsea	Sliced in half by Tatsumi after having his skull punctured by Chelsea	
 Hinowa	Yomihime		Sliced by Yomihime	
 Hisame	Zuou		Beheaded by Zuou	
@@ -61,7 +61,7 @@ Ieyasu	Aria | Aria's Father | Aria's Mother		Fatally wounded after having been t
 Iokal	Mine		Shot in the head by Mine	
 Izou	Akame		Poisoned by Akame's Murasame	
 Jamo	Gin		Murdered by Gin	
-Kaiser Frog			Died from unknown causes (resurrected by Kurome)	temporary
+Kaiser Frog			Died from unknown causes (corpse reanimated by Kurome)	undead
 Kaiser Frog	Mine		Blasted from within by Mine	
 Kaku	Mine		Disintegrated when blasted by Mine	
 Kanbutsu	Akame		Decapitated by Akame	
@@ -94,7 +94,7 @@ Moegi	Akame		Struck down by Akame
 Mudi	Akame		Neck slashed by Akame	
 Muho	Akame		Poisoned after being stabbed with Murasame by Akame	
 Natala	Akame		Cut down by Akame	
-Natala	Kurome		Stabbed by Kurome after being fatally injured by a soldier (resurrected by Kurome)	temporary
+Natala	Kurome		Stabbed by Kurome after being fatally injured by a soldier (corpse reanimated by Kurome)	undead
 Natalia	Akame		Struck down by Akame	
 Nouken	Akame		Neck slashed by Akame	
 Nuge	Esdeath		Mowed down with icicles by Esdeath	
@@ -108,9 +108,9 @@ Ragu	Guy		Skull crushed by Guy
 Remus	Gozuki		Euthanized by Gozuki	
 Roger	Lubbock		Neck broken by Lubbock	
 Rokugou	Death Tagool	Najenda	Disintegrated by Death Tagool's laser when thrown in it by Najenda	
-Rokugou	Kurome		Assassinated by Kurome (resurrected by Kurome)	temporary
+Rokugou	Kurome		Assassinated by Kurome (corpse reanimated by Kurome)	undead
 Run	Akame		Struck down by Akame when shielding Kurome	
-Run	Kurome	Champ	Stabbed by Kurome after being fatally wounded by Champ (resurrected by Kurome)	temporary
+Run	Kurome	Champ	Stabbed by Kurome after being fatally wounded by Champ (corpse reanimated by Kurome)	undead
 Sabatini	Najasho		Stabbed in the chest by Najasho	
 Saikyuu	Akame		Stabbed by Akame	
 Sakuza	Hinowa		Sliced by Hinowa	
@@ -141,7 +141,7 @@ Trooma	Leone		Beaten by Leone
 Tsukushi	Akame		Struck down by Akame	
 Umber	Poney		Head kicked off by Poney	
 Wall	Bols		Incinerated by Bols	
-Wall	Kurome		Murdered by Kurome (resurrected by Kurome)	temporary
+Wall	Kurome		Murdered by Kurome (corpse reanimated by Kurome)	undead
 Warumo	Akame		Throat slit by Akame	
 Weneg	Akame		Slain by Akame	
 Womyn			Bisected with an axe by a soldier	
