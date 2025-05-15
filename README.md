@@ -2,6 +2,9 @@
 |--------------------------|--------------------------------------------------|----------|
 | Ace Attorney             | The Great Ace Attorney Chronicles                |       15 |
 | Akame ga Kill            | Akame ga Kill                                    |      148 |
+| Alice in Borderland      | Alice in Borderland                              |       44 |
+| Alice in Borderland      | Alice in Borderland Retry                        |        3 |
+| Alice in Borderland      | Alice on Border Road                             |        9 |
 | Attack on Titan          | Attack on Titan                                  |      138 |
 | Blasphemous              | Blasphemous                                      |       33 |
 | Blasphemous              | Blasphemous The Kneeling                         |        1 |
@@ -17,7 +20,7 @@
 | Danganronpa              | Danganronpa Zero                                 |       11 |
 | Dark Souls               | Dark Souls                                       |       58 |
 | Dark Souls               | Dark Souls II                                    |      103 |
-| Dark Souls               | Dark Souls III                                   |       94 |
+| Dark Souls               | Dark Souls III                                   |       95 |
 | Dr. Stone                | Dr. Stone                                        |       13 |
 | Dragon's Dogma           | Dragon's Dogma Dark Arisen                       |       45 |
 | Golden Kamuy             | Golden Kamuy                                     |       77 |
@@ -34,11 +37,13 @@
 | Infamous                 | Infamous First Light                             |        3 |
 | Infamous                 | Infamous Second Son                              |        5 |
 | Jojo's Bizarre Adventure | Battle Tendency                                  |       13 |
-| Jojo's Bizarre Adventure | Diamond is Unbreakable                           |       25 |
+| Jojo's Bizarre Adventure | Diamond is Unbreakable                           |       32 |
 | Jojo's Bizarre Adventure | Phantom Blood                                    |       24 |
 | Jojo's Bizarre Adventure | Stardust Crusaders                               |       21 |
 | Jojo's Bizarre Adventure | Stone Ocean                                      |       22 |
 | Jojo's Bizarre Adventure | Vento Aureo                                      |       28 |
+| Jujutsu Kaisen           | Jujutsu Kaisen                                   |       82 |
+| Jujutsu Kaisen           | Jujutsu Kaisen 0                                 |        3 |
 | Just Cause               | Just Cause 3                                     |       15 |
 | Just Cause               | Just Cause 4                                     |       13 |
 | Mobile Suit Gundam       | Mobile Suit Gundam Iron-Blooded Orphans          |       37 |
@@ -47,6 +52,7 @@
 | Nasuverse                | Fate Zero                                        |       27 |
 | Ozark                    | Ozark                                            |       39 |
 | Project Moon             | Library of Ruina                                 |      133 |
+| Project Moon             | Lobotomy Corporation                             |       12 |
 | The Evil Within          | The Evil Within                                  |       26 |
 | The Evil Within          | The Evil Within 2                                |       23 |
 | The Evil Within          | The Evil Within Comics                           |        6 |
@@ -56,7 +62,9 @@
 | Tokyo Ghoul              | Tokyo Ghoul Jack                                 |        4 |
 | Tokyo Ghoul              | Tokyo Ghoul Past                                 |        3 |
 | Tokyo Ghoul              | Tokyo Ghoul Void                                 |        5 |
-| Watch Dogs               | Watch Dogs                                       |       44 |
+| Tomb Raider              | Tomb Raider (2013)                               |       19 |
+| Watch Dogs               | Watch Dogs                                       |       46 |
 | Watch Dogs               | Watch Dogs 2                                     |        7 |
 | Watch Dogs               | Watch Dogs Dark Clouds                           |        4 |
+| Watch Dogs               | Watch Dogs Legion                                |       20 |
 | Zero Escape              | Nine Hours, Nine Persons, Nine Doors             |       23 |
