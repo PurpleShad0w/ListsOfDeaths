@@ -23,6 +23,7 @@
 | Dark Souls               | Dark Souls III                                   |       95 |
 | Dr. Stone                | Dr. Stone                                        |       13 |
 | Dragon's Dogma           | Dragon's Dogma Dark Arisen                       |       45 |
+| Future Diary             | Future Diary                                     |       44 |
 | Golden Kamuy             | Golden Kamuy                                     |       77 |
 | Hollow Knight            | Hollow Knight                                    |       46 |
 | Hunter × Hunter          | Hisoka's Past                                    |        1 |
