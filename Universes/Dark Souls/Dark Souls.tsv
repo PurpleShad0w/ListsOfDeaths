@@ -2,33 +2,33 @@ character	killer	responsible party	description	type
 Anastacia of Astora	Knight Lautrec of Carim		Slain by Knight Lautrec of Carim (revived, dependent on player choice)	temporary, variable
 Asylum Demon	Chosen Undead		Slain by the Chosen Undead	
 Bed of Chaos	Chosen Undead		Slain by the Chosen Undead	
-Bell Gargoyles	Chosen Undead		Slain by the Chosen Undead	
+Bell Gargoyles	Chosen Undead | Knight Lautrec of Carim | Solaire of Astora			Slain by the Chosen Undead, assisted by Knight Lautrec of Carim or Solaire of Astora	
 Big Hat Logan	Chosen Undead		Slain by the Chosen Undead	
 Black Dragon Kalameet	Chosen Undead		Slain by the Chosen Undead	
 Black Iron Tarkus			Perished in Anor Londo	
 Capra Demon	Chosen Undead		Slain by the Chosen Undead	
 Ceaseless Discharge	Chosen Undead		Slain by the Chosen Undead	
-Centipede Demon	Chosen Undead		Slain by the Chosen Undead	
-Chaos Witch Quelaag	Chosen Undead		Slain by the Chosen Undead	
+Centipede Demon	Chosen Undead | Solaire of Astora		Slain by the Chosen Undead, assisted by Solaire of Astora	
+Chaos Witch Quelaag	Chosen Undead | Maneater Mildred		Slain by the Chosen Undead, assisted by Maneater Mildred	
 Chosen Undead	Chosen Undead		Burned themself in the First Flame (dependent on player choice)	variable
 Chosen Undead	Seath the Scaleless		Cursed by Seath the Scaleless (revived)	temporary
 Crestfallen Warrior	Chosen Undead		Slain by the Chosen Undead	
 Crossbreed Priscilla	Chosen Undead		Slain by the Chosen Undead	
 Dark Sun Gwyndolin	Chosen Undead		Slain by the Chosen Undead	
 Demon Firesage	Chosen Undead		Slain by the Chosen Undead	
-Dragon Slayer Ornstein	Chosen Undead		Slain by the Chosen Undead	
-Executioner Smough	Chosen Undead		Slain by the Chosen Undead	
-Four Kings	Chosen Undead		Slain by the Chosen Undead	
-Gaping Dragon	Chosen Undead		Slain by the Chosen Undead	
+Dragon Slayer Ornstein	Chosen Undead | Solaire of Astora | Executioner Smough		Slain by the Chosen Undead, assisted by Solaire of Astora, and if defeated first crushed by Executioner Smough with his hammer	
+Executioner Smough	Chosen Undead | Solaire of Astora		Slain by the Chosen Undead, assisted by Solaire of Astora	
+Four Kings	Chosen Undead | Witch Beatrice		Slain by the Chosen Undead, assisted by Witch Beatrice	
+Gaping Dragon	Chosen Undead | Knight Lautrec of Carim | Solaire of Astora		Slain by the Chosen Undead, assisted by Knight Lautrec of Carim or Solaire of Astora	
 Giant Undead Rat	Chosen Undead		Slain by the Chosen Undead	
 Gravelord Nito	Chosen Undead		Slain by the Chosen Undead	
 Great Grey Wolf Sif	Chosen Undead		Slain by the Chosen Undead	
 Griggs of Vinheim	Chosen Undead		Slain by the Chosen Undead	
-Gwyn, Lord of Cinder	Chosen Undead		Slain by the Chosen Undead	
+Gwyn, Lord of Cinder	Chosen Undead | Solaire of Astora		Slain by the Chosen Undead, assisted by Solaire of Astora	
 Gwyn, Lord of Cinder	Gwyn, Lord of Cinder		Burned himself in the First Flame (revived)	temporary
 Havel the Rock	Chosen Undead		Slain by the Chosen Undead	
 Hellkite Drake	Chosen Undead		Slain by the Chosen Undead	
-Iron Golem	Chosen Undead		Slain by the Chosen Undead	
+Iron Golem	Chosen Undead | Black Iron Tarkus		Slain by the Chosen Undead, assisted by Black Iron Tarkus	
 Kirk, Knight of Thorns	Chosen Undead		Slain by the Chosen Undead	
 Kirk, Knight of Thorns	Chosen Undead		Slain by the Chosen Undead (revived)	temporary
 Kirk, Knight of Thorns	Chosen Undead		Slain by the Chosen Undead (revived)	temporary
@@ -36,14 +36,14 @@ Knight Artorias	Chosen Undead		Slain by the Chosen Undead
 Knight Lautrec of Carim	Chosen Undead		Slain by the Chosen Undead	
 Laurentius of the Great Swamp	Chosen Undead		Slain by the Chosen Undead (dependent on player choice)	variable
 Maneater Mildred	Chosen Undead		Slain by the Chosen Undead (revived)	temporary
-Manus, Father of the Abyss	Chosen Undead		Slain by the Chosen Undead	
+Manus, Father of the Abyss	Chosen Undead | Great Grey Wolf Sif		Slain by the Chosen Undead, assisted by Great Grey Wolf Sif	
 Marvelous Chester	Chosen Undead		Slain by the Chosen Undead (revived)	temporary
-Moonlight Butterfly	Chosen Undead		Slain by the Chosen Undead	
+Moonlight Butterfly	Chosen Undead | Witch Beatrice		Slain by the Chosen Undead, assisted by Witch Beatrice	
 Nico of Thorolund	Chosen Undead		Slain by the Chosen Undead	
 Oscar, Knight of Astora	Chosen Undead		Slain by the Chosen Undead	
 Paladin Leeroy	Chosen Undead		Slain by the Chosen Undead	
 Parasitic Wall Hugger	Chosen Undead		Slain by the Chosen Undead	
-Pinwheel	Chosen Undead		Slain by the Chosen Undead	
+Pinwheel	Chosen Undead | Paladin Leeroy		Slain by the Chosen Undead, assisted by Paladin Leeroy	
 Reah of Thorolund	Petrus of Thorolund		Slain by Petrus of Thorolund (dependent on player choice)	variable
 Sanctuary Guardian	Chosen Undead		Slain by the Chosen Undead	
 Seath the Scaleless	Chosen Undead		Slain by the Chosen Undead	
