@@ -1,4 +1,5 @@
 character	killer	responsible party	description	type
+Absolute Radiance	The Knight		Slain by the Knight's shade fused with the Void (dependent on player choice)	variable
 Broken Vessel	The Knight		Slain by the Knight	
 Brooding Mawlek	The Knight		Slain by the Knight	
 Cloth	Traitor Lord		Impaled by the Traitor Lord (dependent on player choice)	variable
@@ -9,7 +10,6 @@ False Knight	The Knight		Slain by the Knight
 Flukemarm	The Knight		Slain by the Knight	
 Galien			Slain by the creatures of Deepnest	
 Gorgeous Husk	The Knight		Slain by the Knight	
-Grimm	The Knight		Slain in his dreams by the Knight (dependent on player choice)	variable
 Gruz Mother	The Knight		Slain by the Knight	
 Herrah	The Knight		Slain in her dreams by the Knight	
 Hive Knight	The Knight		Slain by the Knight	
@@ -34,10 +34,10 @@ Soul Warrior	The Knight		Slain by the Knight
 The Collector	The Knight		Slain by the Knight	
 The Knight	The Knight		Broke their own shell to defeat the Radiance (dependent on player choice)	variable
 The Radiance	The Knight		Slain by the Knight's shade (dependent on player choice)	variable
-The Radiance	The Knight		Slain by the Knight's shade fused with the Void (dependent on player choice)	variable
 Tiso	Brooding Mawlek		Crushed by the Brooding Mawlek	
 Traitor Lord	Cloth		Bashed on the head by Cloth (dependent on player choice)	variable
 Traitor Lord	The Knight		Slain by the Knight	
+Troupe Master Grimm	The Knight		Slain in his dreams by the Knight (dependent on player choice)	variable
 Tuk	The Radiance		Overtaken by the Infection caused by the Radiance	
 Uumuu	Knight		Slain by the Knight	
 Vengefly King	The Knight		Slain by the Knight	
