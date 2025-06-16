@@ -52,8 +52,9 @@
 | Nasuverse                | Fate Stay Night                                  |       49 |
 | Nasuverse                | Fate Zero                                        |       27 |
 | Ozark                    | Ozark                                            |       39 |
-| Project Moon             | Library of Ruina                                 |      133 |
+| Project Moon             | Library of Ruina                                 |      132 |
 | Project Moon             | Lobotomy Corporation                             |       12 |
+| Star Wars                | Star Wars Jedi Fallen Order                      |       56 |
 | The Evil Within          | The Evil Within                                  |       26 |
 | The Evil Within          | The Evil Within 2                                |       23 |
 | The Evil Within          | The Evil Within Comics                           |        6 |
