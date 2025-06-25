@@ -24,6 +24,7 @@
 | Dr. Stone                | Dr. Stone                                        |       13 |
 | Dragon's Dogma           | Dragon's Dogma Dark Arisen                       |       45 |
 | Future Diary             | Future Diary                                     |       44 |
+| Gantz                    | Gantz                                            |      131 |
 | Golden Kamuy             | Golden Kamuy                                     |       77 |
 | Hollow Knight            | Hollow Knight                                    |       46 |
 | Hunter × Hunter          | Hisoka's Past                                    |        1 |
@@ -52,7 +53,7 @@
 | Nasuverse                | Fate Stay Night                                  |       49 |
 | Nasuverse                | Fate Zero                                        |       27 |
 | Ozark                    | Ozark                                            |       39 |
-| Project Moon             | Library of Ruina                                 |      132 |
+| Project Moon             | Library of Ruina                                 |      135 |
 | Project Moon             | Lobotomy Corporation                             |       12 |
 | Star Wars                | Star Wars Jedi Fallen Order                      |       56 |
 | The Evil Within          | The Evil Within                                  |       26 |
