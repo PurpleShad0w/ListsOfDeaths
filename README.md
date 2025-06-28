@@ -1,6 +1,6 @@
 | universe                 | entry                                            |   deaths |
 |--------------------------|--------------------------------------------------|----------|
-| Ace Attorney             | The Great Ace Attorney Chronicles                |       15 |
+| Ace Attorney             | The Great Ace Attorney Chronicles                |       19 |
 | Akame ga Kill            | Akame ga Kill                                    |      148 |
 | Alice in Borderland      | Alice in Borderland                              |       44 |
 | Alice in Borderland      | Alice in Borderland Retry                        |        3 |
@@ -11,6 +11,7 @@
 | Bloodstained             | Bloodstained Ritual of the Night                 |       22 |
 | Claymore                 | Claymore                                         |       80 |
 | Code Geass               | Code Geass Lelouch of the Rebellion              |       47 |
+| Code Vein                | Code Vein                                        |       46 |
 | Danganronpa              | Danganronpa 2 Goodbye Despair                    |       15 |
 | Danganronpa              | Danganronpa 3 The End of Hope's Peak High School |       27 |
 | Danganronpa              | Danganronpa Another Episode Ultra Despair Girls  |        4 |
