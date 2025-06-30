@@ -7,7 +7,7 @@ Arathi	Kurome		Stabbed in the back by Kurome
 Aria	Tatsumi		Slashed by Tatsumi	
 Aria's Father	Leone		Neck broken by Leone	
 Aria's Mother	Sheele		Bisected by Sheele	
-Babara Oarburgh	Babara Oarburgh	Gozuki	Detonated herself after being fatally wounded by Gozuki	
+Babara Oarburgh	Babara Oarburgh | Gozuki		Detonated herself after being fatally wounded by Gozuki	
 Bach	Akame		Cut down by Akame	
 Balluck	Arathi		Murdered by Arathi	
 Bill	Akame		Assassinated by Akame	
@@ -16,7 +16,7 @@ Bols	Chelsea		Stabbed in the spinal column by Chelsea
 Budo	Mine		Blasted by Mine	
 Bulat	Liver		Poisoned by Liver	
 Cassandra	Mez		Fatally wounded by Mez	
-Champ	Champ	Run	Incinerated by his own Flame Orb reflected by Run	
+Champ	Champ | Run		Incinerated by his own Flame Orb reflected by Run	
 Chelsea	Natala		Decapitated by Natala	
 Chouri	Liver		Beheaded by Liver	
 Cornelia	Taeko		Stabbed in the throat by Taeko	
@@ -50,7 +50,7 @@ Guy	Weneg		Murdered by Weneg
 Hana	Stylish		Devoured by Stylish	
 Hekatonkheires	Seryu Ubiquitous		Caught in the explosion triggered by Seryu Ubiquitous	
 Henter	Kurome		Murdered by Kurome (corpse reanimated by Kurome)	undead
-Henter	Tatsumi	Chelsea	Sliced in half by Tatsumi after having his skull punctured by Chelsea	
+Henter	Tatsumi | Chelsea		Sliced in half by Tatsumi after having his skull punctured by Chelsea	
 Hinowa	Yomihime		Sliced by Yomihime	
 Hisame	Zuou		Beheaded by Zuou	
 Holimaca	Akame		Poisoned by Akame's Murasame	
@@ -84,7 +84,7 @@ Martha	Akame		Beheaded by Akame
 Maruge	Shinogi		Stabbed and beheaded by Shinogi	
 Mashiro	Akame		Stabbed by Akame	
 Me	Stylish		Devoured by Stylish	
-Meela	Meela	Kurome	Detonated a hidden explosive inside her after having been fatally wounded by Kurome	
+Meela	Meela | Kurome		Detonated a hidden explosive inside her after having been fatally wounded by Kurome	
 Merraid Oarburgh	Akame		Struck down by Akame	
 Mez	Lubbock		Stabbed in the back by Lubbock	
 Mimi	Stylish		Devoured by Stylish	
@@ -107,15 +107,15 @@ Ragiri	Tsukushi		Shot in the forehead by Tsukushi
 Ragu	Guy		Skull crushed by Guy	
 Remus	Gozuki		Euthanized by Gozuki	
 Roger	Lubbock		Neck broken by Lubbock	
-Rokugou	Death Tagool	Najenda	Disintegrated by Death Tagool's laser when thrown in it by Najenda	
+Rokugou	Death Tagool | Najenda		Disintegrated by Death Tagool's laser when thrown in it by Najenda	
 Rokugou	Kurome		Assassinated by Kurome (corpse reanimated by Kurome)	undead
 Run	Akame		Struck down by Akame when shielding Kurome	
-Run	Kurome	Champ	Stabbed by Kurome after being fatally wounded by Champ (corpse reanimated by Kurome)	undead
+Run	Kurome | Champ		Stabbed by Kurome after being fatally wounded by Champ (corpse reanimated by Kurome)	undead
 Sabatini	Najasho		Stabbed in the chest by Najasho	
 Saikyuu	Akame		Stabbed by Akame	
 Sakuza	Hinowa		Sliced by Hinowa	
 Sayo	Aria | Aria's Father | Aria's Mother		Tortured by Aria's family	
-Seryu Ubiquitous	Seryu Ubiquitous	Mine	Detonated a bomb within her after being bifurcated by Mine	
+Seryu Ubiquitous	Seryu Ubiquitous | Mine		Detonated a bomb within her after being bifurcated by Mine	
 Sheele	Hekatonkheires	Seryu Ubiquitous	Devoured by Hekatonkheires on orders from Seryu Ubiquitous	
 Shihandai	Mine		Blasted by Mine	
 Shion	Waniba		Stabbed by Waniba	
