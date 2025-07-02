@@ -1,5 +1,6 @@
 | universe                 | entry                                            |   deaths |
 |--------------------------|--------------------------------------------------|----------|
+| Ace Attorney             | Phoenix Wright Ace Attorney Trilogy              |       31 |
 | Ace Attorney             | The Great Ace Attorney Chronicles                |       19 |
 | Akame ga Kill            | Akame ga Kill                                    |      148 |
 | Alice in Borderland      | Alice in Borderland                              |       44 |
