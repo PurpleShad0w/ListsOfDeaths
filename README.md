@@ -22,7 +22,7 @@
 | Danganronpa              | Danganronpa Zero                                 |       11 |
 | Dark Souls               | Dark Souls                                       |       58 |
 | Dark Souls               | Dark Souls II                                    |      103 |
-| Dark Souls               | Dark Souls III                                   |       95 |
+| Dark Souls               | Dark Souls III                                   |       96 |
 | Dr. Stone                | Dr. Stone                                        |       13 |
 | Dragon's Dogma           | Dragon's Dogma Dark Arisen                       |       45 |
 | Future Diary             | Future Diary                                     |       44 |
@@ -50,6 +50,7 @@
 | Jujutsu Kaisen           | Jujutsu Kaisen 0                                 |        3 |
 | Just Cause               | Just Cause 3                                     |       15 |
 | Just Cause               | Just Cause 4                                     |       13 |
+| Lords of the Fallen      | Lords of the Fallen (2023)                       |       87 |
 | Mobile Suit Gundam       | Mobile Suit Gundam Iron-Blooded Orphans          |       37 |
 | Nasuverse                | Fate Apocrypha                                   |       24 |
 | Nasuverse                | Fate Stay Night                                  |       49 |

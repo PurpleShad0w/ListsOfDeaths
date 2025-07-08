@@ -11,6 +11,7 @@ Anri of Astora	Ashen One		Slain by the Ashen One
 Anri of Astora	Horace the Hushed		Slain by Horace the Hushed (dependent on player choice)	variable
 Anri of Astora	Old Woman of Londor	Yuria of Londor	Assassinated by Old Woman of Londor on orders from Yuria of Londor (dependent on player choice)	variable
 Archdeacon Royce	Ashen One | Anri of Astora | Horace the Hushed | Sirris of the Sunless Realms		Slain by the Ashen One, assisted by Anri of Astora, Horace the Hushed or Sirris of the Sunless Realms	
+Ashen One	Ashen One		Burned themself in the First Flame (dependent on player choice)	variable
 Ashen One	Ashen One		Burned themself in the First Flame (revived)	temporary
 Black Hand Gotthard			Passed away after the Ashen One defeated the first three Lords of Cinder	
 Black Hand Kamui	Ashen One		Slain by the Ashen One	
@@ -42,7 +43,7 @@ Eygon of Carim			Passed away after the Ashen One defeated the Dragonslayer Armou
 Eygon of Carim	Ashen One		Slain by the Ashen One (dependent on player choice)	variable
 Fallen Knight	Ashen One		Slain by the Ashen One	
 Father Ariandel	Ashen One | Slave Knight Gael		Slain by the Ashen One, assisted by Slave Knight Gael	
-Fire Keeper	Ashen One		Slain by the Ashen One (dependent on player choice)	variable
+Fire Keeper	Ashen One		Struck down by the Ashen One (dependent on player choice)	variable
 Flame of Chaos		Ashen One	Eventually extinguished after the last Demon Prince was slain by the Ashen One	
 Gravetender Greatwolf	Ashen One		Slain by the Ashen One	
 Great Swamp Cuculus			Passed away after helping the Ashen One	
