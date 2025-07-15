@@ -50,6 +50,11 @@
 | Jujutsu Kaisen           | Jujutsu Kaisen 0                                 |        3 |
 | Just Cause               | Just Cause 3                                     |       15 |
 | Just Cause               | Just Cause 4                                     |       13 |
+| Little Nightmares        | Little Nightmares                                |        5 |
+| Little Nightmares        | Little Nightmares Comics                         |        3 |
+| Little Nightmares        | Little Nightmares II                             |        5 |
+| Little Nightmares        | The Sounds of Nightmares                         |        1 |
+| Little Nightmares        | Very Little Nightmares                           |        3 |
 | Lords of the Fallen      | Lords of the Fallen (2023)                       |       87 |
 | Mobile Suit Gundam       | Mobile Suit Gundam Iron-Blooded Orphans          |       37 |
 | Nasuverse                | Fate Apocrypha                                   |       24 |
