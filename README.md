@@ -67,7 +67,7 @@
 | The Evil Within          | The Evil Within                                  |       26 |
 | The Evil Within          | The Evil Within 2                                |       23 |
 | The Evil Within          | The Evil Within Comics                           |        6 |
-| The Golden Idol          | The Case of the Golden Idol                      |       29 |
+| The Golden Idol          | The Case of the Golden Idol                      |       32 |
 | Tokyo Ghoul              | Tokyo Ghoul                                      |      124 |
 | Tokyo Ghoul              | Tokyo Ghoul Days                                 |        4 |
 | Tokyo Ghoul              | Tokyo Ghoul Jack                                 |        4 |

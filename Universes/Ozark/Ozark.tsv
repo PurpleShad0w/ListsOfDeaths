@@ -1,7 +1,7 @@
 character	killed by	caused by	death	type
 Amos	Nelson	Helen Pierce	Suffocated by Nelson on orders from Helen Pierce	
 Anita Knarlson	Carl Knarlson		Hit her head after being pushed by Carl Knarlson	
-Arturo Cabrera	Nelson	Martin "Marty" Byrde	Shot by Nelson on orders from Martin "Marty" Byrde	
+Arturo Cabrera	Nelson	Marty Byrde	Shot by Nelson on orders from Marty Byrde	
 Ash	Jacob Snell		Stabbed with a fire poker by Jacob Snell	
 Benjamin Jude Davis	Nelson	Helen Pierce | Wendy Marie Byrde	Shot by Nelson on orders from Helen Pierce and Wendy Marie Byrde	
 Bobby Dean	Darlene Snell		Poisoned by Darlene Snell	
@@ -11,22 +11,22 @@ Bruce Liddell	Camino Del Rio		Shot by Camino Del Rio
 Buddy Dieker			Died of natural causes	
 Cade Langmore	Nelson	Wendy Marie Byrde	Shot multiple times by Nelson on orders from Wendy Marie Byrde	
 Camino Del Rio	Darlene Snell		Shot in the head by Darlene Snell	
-Darlene Snell	Javier Emilio "Javi" Elizonndro Navarro		Shot in the chest by Javier Emilio "Javi" Elizonndro Navarro	
+Darlene Snell	Javier Elizonndro		Shot in the chest by Javier Elizonndro	
 Eugenia Dermody			Hit by a truck	
 Frank Cosgrove	Darlene Snell		Shot in the chest by Darlene Snell	
 Garcia	Buddy Dieker		Shot in the chest by Buddy Dieker	
-Gary "Sugarwood" Silverberg	Camino Del Rio		Pushed off a balcony by Camino Del Rio	
+Gary Silverberg	Camino Del Rio		Pushed off a balcony by Camino Del Rio	
 Grace Young	Darlene Snell	Jacob Snell	Murdered by Darlene Snell on orders from Jacob Snell	
 Hanson Jr.	Camino Del Rio		Shot by Camino Del Rio	
 Hanson Sr.		Camino Del Rio	Shot by one of Camino Del Rio's subordinates	
 Helen Pierce	Nelson	Omar Navarro	Shot by Nelson on orders from Omar Navarro	
 Jacob Snell	Darlene Snell		Poisoned by Darlene Snell	
-Javier Emilio "Javi" Elizonndro Navarro	Ruth Langmore		Shot three times in the chest by Ruth Langmore	
-John Nix	Javier Emilio "Javi" Elizonndro Navarro		Shot in the chest and head by Javier Emilio "Javi" Elizonndro Navarro	
+Javier Elizonndro	Ruth Langmore		Shot three times in the chest by Ruth Langmore	
+John Nix	Javier Elizonndro		Shot in the chest and head by Javier Elizonndro	
 Juan			Throat slit by Lagunas Cartel hitmen	
 Liz	Camino Del Rio		Shot by Camino Del Rio	
 Louis Zehner	Garcia	Camino Del Rio	Suffocated by Garcia on orders from Camino Del Rio	
-Mason Young	Martin "Marty" Byrde		Shot in the neck by Martin "Marty" Byrde	
+Mason Young	Marty Byrde		Shot in the neck by Marty Byrde	
 Melvin Sattem	Jonah Byrde		Shot by Jonah Byrde	
 Nelson	Rachel Garrison		Shot by Rachel Garrison	
 Omar Navarro	Silva	Camila Elizonndro Navarro	Shot by Silva on orders from Camila Elizonndro Navarro	
@@ -37,4 +37,4 @@ Sue Shelby	Nelson	Helen Pierce	Murdered by Nelson on orders from Helen Pierce
 Tim Blake	Tim Blake		Shot himself in the head	
 Tommy Walsh			Shot by Lagunas Cartel hitmen	
 Tony	Nelson	Helen Pierce	Shot in the stomach and head by Nelson on orders from Helen Pierce	
-Wyatt Langmore	Javier Emilio "Javi" Elizonndro Navarro		Shot in the head by Javier Emilio "Javi" Elizonndro Navarro	
+Wyatt Langmore	Javier Elizonndro		Shot in the head by Javier Elizonndro	
