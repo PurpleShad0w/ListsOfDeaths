@@ -7,6 +7,7 @@ Aldrich, Devourer of Gods	Ashen One		Slain by the Ashen One
 Alva, Seeker of the Spurned	Ashen One		Slain by the Ashen One	
 Alva, Seeker of the Spurned	Ashen One		Slain by the Ashen One (revived)	temporary
 Ancient Wyvern	Ashen One		Slain by the Ashen One	
+Angels	Ashen One		Slain by the Ashen One	
 Anri of Astora	Ashen One		Slain by the Ashen One	
 Anri of Astora	Horace the Hushed		Slain by Horace the Hushed (dependent on player choice)	variable
 Anri of Astora	Old Woman of Londor	Yuria of Londor	Assassinated by Old Woman of Londor on orders from Yuria of Londor (dependent on player choice)	variable
@@ -15,6 +16,9 @@ Ashen One	Ashen One		Burned themself in the First Flame (dependent on player cho
 Ashen One	Ashen One		Burned themself in the First Flame (revived)	temporary
 Black Hand Gotthard			Passed away after the Ashen One defeated the first three Lords of Cinder	
 Black Hand Kamui	Ashen One		Slain by the Ashen One	
+Boreal Outrider Knight (Grand Archives)	Ashen One		Slain by the Ashen One	
+Boreal Outrider Knight (Lothric Castle)	Ashen One		Slain by the Ashen One	
+Boreal Outrider Knight (Undead Settlement)	Ashen One		Slain by the Ashen One	
 Brigand	Ashen One		Slain by the Ashen One	
 Carthus Sand Worm	Ashen One		Slain by the Ashen One	
 Champion Gundyr	Ashen One		Slain by the Ashen One	
@@ -22,6 +26,20 @@ Champion's Gravetender	Ashen One		Slain by the Ashen One
 Court Sorcerer	Ashen One		Slain by the Ashen One	
 Creighton the Wanderer	Ashen One		Slain by the Ashen One	
 Creighton the Wanderer	Sirris of the Sunless Realms | Ashen One		Slain by Sirris of the Sunless Realms, assisted by the Ashen One (revived)	temporary
+Crystal Lizard (Archdragon Peak)	Ashen One		Slain by the Ashen One	
+Crystal Lizard (Cemetery of Ash)	Ashen One		Slain by the Ashen One	
+Crystal Lizard (High Wall of Lothric)	Ashen One		Slain by the Ashen One	
+Crystal Lizard (Lothric Castle)	Ashen One		Slain by the Ashen One	
+Crystal Lizards (Catacombs of Carthus)	Ashen One		Slain by the Ashen One	
+Crystal Lizards (Cathedral of the Deep)	Ashen One		Slain by the Ashen One	
+Crystal Lizards (Farron Keep)	Ashen One		Slain by the Ashen One	
+Crystal Lizards (Grand Archives)	Ashen One		Slain by the Ashen One	
+Crystal Lizards (Irithyll Dungeon)	Ashen One		Slain by the Ashen One	
+Crystal Lizards (Irithyll of the Boreal Valley)	Ashen One		Slain by the Ashen One	
+Crystal Lizards (Profaned Capital)	Ashen One		Slain by the Ashen One	
+Crystal Lizards (Road of Sacrifices)	Ashen One		Slain by the Ashen One	
+Crystal Lizards (Smouldering Lake)	Ashen One		Slain by the Ashen One	
+Crystal Lizards (Undead Settlement)	Ashen One		Slain by the Ashen One	
 Crystal Sage	Ashen One | Eygon of Carim		Slain by the Ashen One, assisted by Eygon of Carim	
 Curse-rotted Greatwood	Ashen One		Slain by the Ashen One	
 Dancer of the Boreal Valley	Ashen One | Sword Master		Slain by the Ashen One, assisted by Sword Master	
@@ -30,6 +48,10 @@ Darkeater Midir	Ashen One | Shira, Knight of Filianore		Slain by the Ashen One, 
 Daughter of Crystal Kriemhild	Ashen One		Slain by the Ashen One	
 Daughter of Crystal Kriemhild	Ashen One		Slain by the Ashen One (revived)	temporary
 Deacons of the Deep	Ashen One | Anri of Astora | Horace the Hushed | Sirris of the Sunless Realms		Slain by the Ashen One, assisted by Anri of Astora, Horace the Hushed or Sirris of the Sunless Realms	
+Deep Accursed (Anor Londo)	Ashen One		Slain by the Ashen One	
+Deep Accursed (Cathedral of the Deep)	Ashen One		Slain by the Ashen One	
+Demon (Catacombs of Carthus)	Ashen One		Slain by the Ashen One	
+Demon (Undead Settlement)	Ashen One		Slain by the Ashen One	
 Demon Prince	Lorian, Elder Prince		Slain by Lorian, Elder Prince	
 Demon from Below	Ashen One | Slave Knight Gael | Unbreakable Patches		Slain by the Ashen One, assisted by Slave Knight Gael or Unbreakable Patches	
 Demon in Pain	Ashen One | Slave Knight Gael | Unbreakable Patches		Slain by the Ashen One, assisted by Slave Knight Gael or Unbreakable Patches	
@@ -37,7 +59,8 @@ Dorhys	Ashen One		Slain by the Ashen One
 Dragonslayer Armour	Ashen One | Eygon of Carim | Sirris of the Sunless Realms		Slain by the Ashen One, assisted by Eygon of Carim or Sirris of the Sunless Realms (revived)	temporary
 Drang Knights	Ashen One		Slain by the Ashen One	
 Emma, High Priestess of Lothric Castle			Passed away after the Ashen One defeated the first three Lords of Cinder	
-Exile Watchdogs	Ashen One		Slain by the Ashen One	
+Exile Watchdog (Great Hammer)	Ashen One		Slain by the Ashen One	
+Exile Watchdog (Greatsword)	Ashen One		Slain by the Ashen One	
 Eygon of Carim			Passed away after the Ashen One defeated the Dragonslayer Armour	
 Eygon of Carim	Ashen One		Slain by the Ashen One (dependent on player choice)	variable
 Fallen Knight	Ashen One		Slain by the Ashen One	
@@ -68,6 +91,14 @@ Lorian, Elder Prince	Ashen One | Orbeck of Vinheim | Sirris of the Sunless Realm
 Lothric, Younger Prince	Ashen One | Orbeck of Vinheim | Sirris of the Sunless Realms		Slain by the Ashen One, assisted by Orbeck of Vinheim or Sirris of the Sunless Realms	
 Ludleth of Courland			Burned to ashes when the Ashen One placed the Cinders of the Lords in Firelink Shrine	
 Ludleth of Courland	Ludleth of Courland		Burned himself in the First Flame (revived)	temporary
+Mimic (Catacombs of Carthus)	Ashen One		Slain by the Ashen One	
+Mimic (Cathedral of the Deep)	Ashen One		Slain by the Ashen One	
+Mimic (High Wall of Lothric)	Ashen One		Slain by the Ashen One	
+Mimic (Irithyll of the Boreal Valley)	Ashen One		Slain by the Ashen One	
+Mimic (The Ringed City)	Ashen One		Slain by the Ashen One	
+Mimics (Irithyll Dungeon)	Ashen One		Slain by the Ashen One	
+Mimics (Lothric Castle)	Ashen One		Slain by the Ashen One	
+Mimics (Profaned Capital)	Ashen One		Slain by the Ashen One	
 Moaning Knight	Ashen One		Slain by the Ashen One	
 Nameless King	Ashen One		Slain by the Ashen One	
 Oceiros, the Consumed King	Ashen One | Hawkwood the Deserter		Slain by the Ashen One, assisted by Hawkwood the Deserter	
@@ -77,6 +108,10 @@ Old Woman of Londor	Ashen One		Slain by the Ashen One (dependent on player choic
 Orbeck of Vinheim			Passed away after the Ashen One defeated the Twin Princes	
 Pontiff Sulyvahn	Ashen One | Black Hand Gotthard | Londor Pale Shade | Anri of Astora		Slain by the Ashen One, assisted by Black Hand Gotthard, Londor Pale Shade or Anri of Astora	
 Pygmy King	Slave Knight Gael		Throat slashed by Slave Knight Gael	
+Ravenous Crystal Lizard (Cathedral of the Deep)	Ashen One		Slain by the Ashen One	
+Ravenous Crystal Lizard (Cemetery of Ash)	Ashen One		Slain by the Ashen One	
+Ravenous Crystal Lizard (Farron Keep)	Ashen One		Slain by the Ashen One	
+Ravenous Crystal Lizards (Untended Graves)	Ashen One		Slain by the Ashen One	
 Ringfinger Leonhard	Ashen One		Slain by the Ashen One	
 Rosaria, Mother of Rebirth	Ringfinger Leonhard		Slain by Ringfinger Leonhard (revived)	temporary
 Shira, Knight of Filianore	Ashen One		Slain by the Ashen One (dependent on player choice)	variable
@@ -88,6 +123,8 @@ Sister Friede	Ashen One | Slave Knight Gael		Slain by the Ashen One, assisted by
 Slave Knight Gael	Ashen One		Slain by the Ashen One	
 Soul of Cinder	Ashen One | Yuria of Londor | Londor Pale Shade		Slain by the Ashen One, assisted by Yuria of Londor or Londor Pale Shade	
 Stray Demon (Dark Souls III)	Ashen One		Slain by the Ashen One	
+Sulyvahn's Beast (Irithyll of the Boreal Valley)	Ashen One		Slain by the Ashen One	
+Sulyvahn's Beasts (Water Reserve)	Ashen One		Slain by the Ashen One	
 Sword Master	Ashen One		Slain by the Ashen One	
 Vordt of the Boreal Valley	Ashen One | Lion Knight Albert | Sword Master		Slain by the Ashen One, assisted by Lion Knight Albert or Sword Master	
 Yellowfinger Heysel	Ashen One		Slain by the Ashen One	
