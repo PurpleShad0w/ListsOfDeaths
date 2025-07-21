@@ -1,6 +1,6 @@
 | universe                     | entry                                            | deaths   |
 |------------------------------|--------------------------------------------------|----------|
-| **\***                       | **\***                                           | **2610** |
+| **\***                       | **\***                                           | **3160** |
 | **Ace Attorney**             | **\***                                           | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney Trilogy              | 31       |
 | Ace Attorney                 | The Great Ace Attorney Chronicles                | 19       |
@@ -31,14 +31,16 @@
 | Danganronpa                  | Danganronpa Trigger Happy Havoc                  | 20       |
 | Danganronpa                  | Danganronpa V3 Killing Harmony                   | 25       |
 | Danganronpa                  | Danganronpa Zero                                 | 11       |
-| **Dark Souls**               | **\***                                           | **257**  |
-| Dark Souls                   | Dark Souls                                       | 58       |
-| Dark Souls                   | Dark Souls II                                    | 103      |
-| Dark Souls                   | Dark Souls III                                   | 96       |
+| **Dark Souls**               | **\***                                           | **376**  |
+| Dark Souls                   | Dark Souls                                       | 113      |
+| Dark Souls                   | Dark Souls II                                    | 130      |
+| Dark Souls                   | Dark Souls III                                   | 133      |
 | **Dr. Stone**                | **\***                                           | **13**   |
 | Dr. Stone                    | Dr. Stone                                        | 13       |
 | **Dragon's Dogma**           | **\***                                           | **45**   |
 | Dragon's Dogma               | Dragon's Dogma Dark Arisen                       | 45       |
+| **Elden Ring**               | **\***                                           | **431**  |
+| Elden Ring                   | Elden Ring                                       | 431      |
 | **Future Diary**             | **\***                                           | **44**   |
 | Future Diary                 | Future Diary                                     | 44       |
 | **Gantz**                    | **\***                                           | **131**  |
