@@ -1,0 +1,8 @@
+character	killed by	caused by	death	type
+Lieutenant			Died of old age (revived by his skill)	temporary
+Lieutenant			Shot numerous times while at war (revived by his skill every time)	temporary
+Lieutenant	Investigator		Bled out after being shot in each leg by the Investigator (revived by his skill)	temporary
+Lieutenant	Investigator		Neck sliced open by the Investigator (revived by his skill)	temporary
+Lieutenant	Investigator		Shot in the head by the Investigator (revived by his skill)	temporary
+Lieutenant	Nurse		Poisoned numerous times by the Nurse through his IV (revived by his skill every time)	temporary
+Lieutenant	Nurse | Investigator		Succumbed to the Nurse's poison faster due to being wounded by the Investigator (revived by his skill)	temporary
