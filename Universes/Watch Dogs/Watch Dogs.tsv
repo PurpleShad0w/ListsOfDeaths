@@ -1,5 +1,6 @@
 character	killed by	caused by	death	type
 2XTheTap	Aiden Pearce		Murdered by Aiden Pearce	
+Ahmed Nawazi		Raymond Eugene Kenney	Drowned during the blackout caused by Raymond Eugene Kenney	
 Angelo Bryan	Aiden Pearce		Murdered by Aiden Pearce	
 Angelo Tucci	Aiden Pearce		Murdered by Aiden Pearce	
 Angus Shostack	Aiden Pearce		Murdered by Aiden Pearce (dependent on player choice)	variable
@@ -11,23 +12,30 @@ Clara Lille	Angelo Bryan	Dermot Quinn | Damien Brenks	Assassinated by Angelo Bry
 Claudette Rousseau	Edgar Noone		Murdered by Edgar Noone	
 Damien Brenks	Aiden Pearce		Shot in the head by Aiden Pearce	
 Danny SoSueMe	Aiden Pearce		Murdered by Aiden Pearce (dependent on player choice)	variable
+Dave04	Rogue Dave		Murdered by the Rogue Dave	
+DaveZB	Rogue Dave		Murdered by the Rogue Dave	
 DeAndre Coleman	Aiden Pearce		Murdered by Aiden Pearce	
 Debora Ingram	Edgar Noone		Murdered by Edgar Noone	
-Defalt's brother	Defalt's brother	Raymond Eugene Kenney	Hanged himself during a blackout caused by Raymond Eugene Kenney	
+Defalt's brother	Defalt's brother	Raymond Eugene Kenney	Hanged himself during the blackout caused by Raymond Eugene Kenney	
 Defalt's impostor	Aiden Pearce		Murdered by Aiden Pearce	
 Delford Wade	Aiden Pearce		Gunned down by Aiden Pearce	
 Dermot Quinn	Aiden Pearce		Heart attack caused by Aiden Pearce hacking his pacemaker	
 Donovan Rushmore			Died from unknown causes	
 Douglas	Jordi Chin		Shot with a sniper rifle by Jordi Chin	
 Edgar Noone	Aiden Pearce		Murdered by Aiden Pearce (dependent on player choice)	variable
+Elias Dorn	Elias Dorn	Raymond Eugene Kenney	Accidentally stabbed himself in the neck during the blackout caused by Raymond Eugene Kenney	
 Gary Diggs		Tyrone Hayes	Shot by the Black Viceroys on orders from Tyrone Hayes (dependent on player choice)	variable
-Hugo		Niall Quinn	Shot by his own men on orders from Niall Quinn	
+Gene Queshire		Raymond Eugene Kenney	Incinerated after her house caught on fire due to a gas leak during the blackout caused by Raymond Eugene Kenney	
 Ivan Patterson	Aiden Pearce		Murdered by Aiden Pearce	
 JB Markowicz	Raymond Eugene Kenney		Gassed by Raymond Eugene Kenney	
 Jack Finely	Raymond Eugene Kenney		Murdered by Raymond Eugene Kenney	
+Jeremy Conners		Raymond Eugene Kenney	Electrocuted during the blackout caused by Raymond Eugene Kenney	
+Jose Abano		Raymond Eugene Kenney	Pacemaker failure during the blackout caused by Raymond Eugene Kenney	
 Joseph DeMarco	Aiden Pearce		Murdered by Aiden Pearce	
 Kate Quigley	Edgar Noone		Murdered by Edgar Noone	
 Lena Pearce	Maurice Vega	Delford Wade | Dermot Quinn	Died in a car crash caused by Maurice Vega, hired by Delford Wade on orders from Dermot Quinn	
+Lindsay Garcia		Raymond Eugene Kenney	Stabbed in the chest by a mugger during the blackout caused by Raymond Eugene Kenney	
+Mary Langston		Raymond Eugene Kenney	Poisoned with carbon monoxide during the blackout caused by Raymond Eugene Kenney	
 Maurice Vega	Aiden Pearce		Shot in the head by Aiden Pearce (dependent on player choice)	variable
 Michelle Strauss	Edgar Noone		Murdered by Edgar Noone	
 Neil Corrado	Dermot Quinn		Stabbed in the throat by Dermot Quinn and shot by his henchman	
@@ -36,5 +44,8 @@ Ollie Goodwin	Raymond Eugene Kenney		Murdered by Raymond Eugene Kenney (dependen
 Robert Racine	Aiden Pearce		Murdered by Aiden Pearce	
 Rose Washington	Donovan Rushmore		Shoved into the edge of a table and suffocated with a pillow by Donovan Rushmore	
 Ross Horitz	Aiden Pearce		Murdered by Aiden Pearce (dependent on player choice)	variable
+Russell Blackburn		Raymond Eugene Kenney	Crushed in a falling elevator during the blackout caused by Raymond Eugene Kenney	
+Sam Jennings		Raymond Eugene Kenney	Heatstroke after being left unattended under heat lamps during the blackout caused by Raymond Eugene Kenney	
 Sandford Amos	Candy Amos		Murdered by Candy Amos	
+Ugo		Niall Quinn	Shot by his own men on orders from Niall Quinn	
 Vigilante		Charlotte Gardner	Murdered by Blume Fixers hired by Charlotte Gardner	

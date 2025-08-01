@@ -1,6 +1,6 @@
 | universe                     | entry                                                 | deaths   |
 |------------------------------|-------------------------------------------------------|----------|
-| **\***                       | **\***                                                | **3179** |
+| **\***                       | **\***                                                | **3343** |
 | **Ace Attorney**             | **\***                                                | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                           | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All         | 8        |
@@ -15,6 +15,13 @@
 | Alice in Borderland          | Alice in Borderland                                   | 44       |
 | Alice in Borderland          | Alice in Borderland Retry                             | 3        |
 | Alice in Borderland          | Alice on Border Road                                  | 9        |
+| **Assassin's Creed**         | **\***                                                | **90**   |
+| Assassin's Creed             | Assassin's Creed                                      | 13       |
+| Assassin's Creed             | Assassin's Creed Brotherhood                          | 23       |
+| Assassin's Creed             | Assassin's Creed Embers                               | 1        |
+| Assassin's Creed             | Assassin's Creed II                                   | 27       |
+| Assassin's Creed             | Assassin's Creed Novelizations                        | 6        |
+| Assassin's Creed             | Assassin's Creed Revelations                          | 20       |
 | **Attack on Titan**          | **\***                                                | **138**  |
 | Attack on Titan              | Attack on Titan                                       | 138      |
 | **Attorney of the Arcane**   | **\***                                                | **14**   |
@@ -106,8 +113,8 @@
 | Staffer Series               | Staffer Reborn                                        | 7        |
 | **Star Wars**                | **\***                                                | **56**   |
 | Star Wars                    | Star Wars Jedi Fallen Order                           | 56       |
-| **The Evil Within**          | **\***                                                | **55**   |
-| The Evil Within              | The Evil Within                                       | 26       |
+| **The Evil Within**          | **\***                                                | **57**   |
+| The Evil Within              | The Evil Within                                       | 28       |
 | The Evil Within              | The Evil Within 2                                     | 23       |
 | The Evil Within              | The Evil Within Comics                                | 6        |
 | **The Golden Idol**          | **\***                                                | **32**   |
@@ -120,10 +127,11 @@
 | Tokyo Ghoul                  | Tokyo Ghoul Void                                      | 5        |
 | **Tomb Raider**              | **\***                                                | **19**   |
 | Tomb Raider                  | Tomb Raider (2013)                                    | 19       |
-| **Watch Dogs**               | **\***                                                | **67**   |
-| Watch Dogs                   | Watch Dogs                                            | 36       |
-| Watch Dogs                   | Watch Dogs 2                                          | 7        |
+| **Watch Dogs**               | **\***                                                | **88**   |
+| Watch Dogs                   | Watch Dogs                                            | 50       |
+| Watch Dogs                   | Watch Dogs 2                                          | 8        |
 | Watch Dogs                   | Watch Dogs Dark Clouds                                | 4        |
-| Watch Dogs                   | Watch Dogs Legion                                     | 20       |
-| **Zero Escape**              | **\***                                                | **23**   |
-| Zero Escape                  | Nine Hours, Nine Persons, Nine Doors                  | 23       |
+| Watch Dogs                   | Watch Dogs Legion                                     | 26       |
+| **Zero Escape**              | **\***                                                | **74**   |
+| Zero Escape                  | Zero Escape Nine Hours, Nine Persons, Nine Doors      | 24       |
+| Zero Escape                  | Zero Escape Virtue's Last Reward                      | 50       |

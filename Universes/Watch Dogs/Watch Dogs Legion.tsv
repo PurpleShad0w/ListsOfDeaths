@@ -1,11 +1,17 @@
 character	killed by	caused by	death	type
 Ada	DedSec Operatives		Deactivated by the DedSec Operatives	
 Ada	Skye Larsen		Murdered by Skye Larsen (uploaded into a Spiderbot by Skye Larsen)	physical
+Albert	Skye Larsen		Murdered by Skye Larsen (uploaded as an AI by Skye Larsen)	physical
+Cab AI Prime	DedSec Operatives		Deleted by the DedSec Operatives	
+Cab AI Prime	Skye Larsen		Presumably murdered by Skye Larsen (uploaded as an AI by Skye Larsen)	physical
+Carcani Medical AI	DedSec Operatives	Carcani Medical AI	Deleted by the DedSec Operatives after asking them to	
+Carcani Medical AI	Skye Larsen		Presumably murdered by Skye Larsen (uploaded as an AI by Skye Larsen)	physical
 Claire Waters		Nigel Cass	Murdered on orders from Nigel Cass	
 Dalton Wolfe	Sabine Brandt		Shot by a drone controlled by Sabine Brandt	
 Emily Child	Richard Malik		Caught in an explosion triggered by Richard Malik	
 Gareth Cass			Murdered by gang members	
 Graham Westerly	Darcy Clarkson		Assassinated by Darcy Clarkson	
+Guardian Protocol AI	DedSec Operatives		Deleted by the DedSec Operatives	
 Heath Bolton			Tortured by a SIRS officer	
 James Brackton	Rudolph Peck		Shot twice by Rudolph Peck	
 Lucas Clarkson	Graham Westerly		Tortured by Graham Westerly	
