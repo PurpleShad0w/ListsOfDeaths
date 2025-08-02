@@ -1,6 +1,6 @@
 | universe                     | entry                                                 | deaths   |
 |------------------------------|-------------------------------------------------------|----------|
-| **\***                       | **\***                                                | **3343** |
+| **\***                       | **\***                                                | **3475** |
 | **Ace Attorney**             | **\***                                                | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                           | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All         | 8        |
@@ -132,6 +132,7 @@
 | Watch Dogs                   | Watch Dogs 2                                          | 8        |
 | Watch Dogs                   | Watch Dogs Dark Clouds                                | 4        |
 | Watch Dogs                   | Watch Dogs Legion                                     | 26       |
-| **Zero Escape**              | **\***                                                | **74**   |
+| **Zero Escape**              | **\***                                                | **206**  |
 | Zero Escape                  | Zero Escape Nine Hours, Nine Persons, Nine Doors      | 24       |
-| Zero Escape                  | Zero Escape Virtue's Last Reward                      | 50       |
+| Zero Escape                  | Zero Escape Virtue's Last Reward                      | 51       |
+| Zero Escape                  | Zero Escape Zero Time Dilemma                         | 131      |
