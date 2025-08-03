@@ -1,6 +1,6 @@
 | universe                     | entry                                                 | deaths   |
 |------------------------------|-------------------------------------------------------|----------|
-| **\***                       | **\***                                                | **3475** |
+| **\***                       | **\***                                                | **3629** |
 | **Ace Attorney**             | **\***                                                | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                           | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All         | 8        |
@@ -61,8 +61,8 @@
 | Gantz                        | Gantz                                                 | 131      |
 | **Golden Kamuy**             | **\***                                                | **77**   |
 | Golden Kamuy                 | Golden Kamuy                                          | 77       |
-| **Hollow Knight**            | **\***                                                | **46**   |
-| Hollow Knight                | Hollow Knight                                         | 46       |
+| **Hollow Knight**            | **\***                                                | **128**  |
+| Hollow Knight                | Hollow Knight                                         | 128      |
 | **Hunter × Hunter**          | **\***                                                | **143**  |
 | Hunter × Hunter              | Hisoka's Past                                         | 1        |
 | Hunter × Hunter              | Hunter × Hunter                                       | 130      |
@@ -99,10 +99,10 @@
 | Lords of the Fallen          | Lords of the Fallen (2023)                            | 87       |
 | **Mobile Suit Gundam**       | **\***                                                | **37**   |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans               | 37       |
-| **Nasuverse**                | **\***                                                | **100**  |
+| **Nasuverse**                | **\***                                                | **172**  |
 | Nasuverse                    | Fate Apocrypha                                        | 24       |
-| Nasuverse                    | Fate Stay Night                                       | 49       |
-| Nasuverse                    | Fate Zero                                             | 27       |
+| Nasuverse                    | Fate Stay Night                                       | 122      |
+| Nasuverse                    | Fate Zero                                             | 26       |
 | **Ozark**                    | **\***                                                | **39**   |
 | Ozark                        | Ozark                                                 | 39       |
 | **Project Moon**             | **\***                                                | **147**  |
