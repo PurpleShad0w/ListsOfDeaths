@@ -1,39 +1,112 @@
 character	killed by	caused by	death	type
-Absolute Radiance	The Knight		Slain by the Knight's shade fused with the Void (dependent on player choice)	variable
-Broken Vessel	The Knight		Slain by the Knight	
+Absolute Radiance	The Knight | Void Entity		Slain by the Knight's shade fused with the Void Entity (Delicate Flower Ending)	variable
+Absolute Radiance	The Knight | Void Entity		Slain by the Knight's shade fused with the Void Entity (Embrace the Void Ending)	variable
+Atra			Died from unknown causes (spirit remained)	physical
+Atra	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Blue Child Joni			Died from unknown causes (spirit remained)	physical
+Blue Child Joni	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Boss			Died from unknown causes (spirit remained)	physical
+Boss	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Broken Vessel	The Knight		Slain by the Knight (spirit remained as Lost Kin)	physical
 Brooding Mawlek	The Knight		Slain by the Knight	
-Cloth	Traitor Lord		Impaled by the Traitor Lord (dependent on player choice)	variable
+Caelif Orthop			Died from unknown causes (spirit remained)	physical
+Caelif Orthop	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Caspian			Died from unknown causes (spirit remained)	physical
+Caspian	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Cloth			Passed on after speaking to the Knight	
+Cloth	Traitor Lord		Impaled by the Traitor Lord (dependent on player choice, spirit lingered)	variable | physical
 Crystal Guardian	The Knight		Slain by the Knight	
+Dr Chagax			Died from unknown causes (spirit remained)	physical
+Dr Chagax	The Knight		Absorbed by the Knight (dependent on player choice)	variable
 Dryaa			Slain by the Mantis Traitors	
-Elder Hu			Slain by the Mantis tribe	
-False Knight	The Knight		Slain by the Knight	
+Elder Hu			Slain by the Mantis tribe (spirit remained)	physical
+Elder Hu	The Knight		Absorbed by the Knight	
+Failed Champion	The Knight		Absorbed by the Knight	
+False Knight	The Knight		Slain by the Knight (spirit remained as Failed Champion)	physical
+Fera Orthop			Died from unknown causes (spirit remained)	physical
+Fera Orthop	The Knight		Absorbed by the Knight (dependent on player choice)	variable
 Flukemarm	The Knight		Slain by the Knight	
-Galien			Slain by the creatures of Deepnest	
+Galien			Slain by the creatures of Deepnest (spirit remained)	physical
+Galien	The Knight		Absorbed by the Knight	
+Garro			Died from unknown causes (spirit remained)	physical
+Garro	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+God Tamer (Beast)	The Knight		Slain by the Knight	
+Gods of Rain			Died from unknown causes	
+Gods of Thunder			Died from unknown causes	
+Godseeker			Disintegrated by the Delicate Flower (Delicate Flower Ending)	variable
+Godseeker	Void Entity		Overtaken by the Void Entity (Embrace the Void Ending)	variable
+Gorb			Died from unknown causes (spirit remained)	physical
+Gorb	The Knight		Absorbed by the Knight	
 Gorgeous Husk	The Knight		Slain by the Knight	
+Gravedigger			Died from unknown causes (spirit remained)	physical
+Gravedigger	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Grohac			Died from unknown causes (spirit remained)	physical
+Grohac	The Knight		Absorbed by the Knight (dependent on player choice)	variable
 Gruz Mother	The Knight		Slain by the Knight	
-Herrah	The Knight		Slain in her dreams by the Knight	
+Herrah the Beast	The Knight		Slain in her dreams by the Knight	
+Hex			Died from unknown causes (spirit remained)	physical
+Hex	The Knight		Absorbed by the Knight (dependent on player choice)	variable
 Hive Knight	The Knight		Slain by the Knight	
-Hollow Knight	The Knight		Slain by the Knight (dependent on player choice)	variable
+Hive Queen Vespa	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Hive Queen Vespa	The Radiance		Died from the Infection caused by the Radiance (spirit remained)	physical
+Hundred Nail Warrior			Died from unknown causes (spirit remained)	physical
+Hundred Nail Warrior	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Isma			Died from unknown causes	
+Karina			Died from unknown causes (spirit remained)	physical
+Karina	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Kcin			Died from unknown causes (spirit remained)	physical
+Kcin	The Knight		Absorbed by the Knight (dependent on player choice)	variable
 Leg Eater	Divine		Devoured by Divine	
-Lurien	The Knight		Slain in his dreams by the Knight	
-Markoth			Slain by the creatures of Kingdom's Edge	
-Marmu			Died from unknown causes	
+Lost Kin	The Knight		Absorbed by the Knight	
+Lurien the Watcher	The Knight		Slain in his dreams by the Knight	
+Magnus Strong			Died from unknown causes (spirit remained)	physical
+Magnus Strong	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Marissa			Died from unknown causes (spirit remained)	physical
+Marissa	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Markoth			Slain by the creatures of Kingdom's Edge (spirit remained)	physical
+Markoth	The Knight		Absorbed by the Knight	
+Marmu			Died from unknown causes (spirit remained)	physical
+Marmu	The Knight		Absorbed by the Knight	
 Menderbug	The Knight		Slain by the Knight	
-Monomon	The Knight		Slain in her dreams by the Knight	
+Millybug			Died from unknown causes (spirit remained)	physical
+Millybug	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Molten			Died from unknown causes (spirit remained)	physical
+Molten	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Monomon the Teacher	The Knight		Slain in her dreams by the Knight	
 Moss Prophet	The Radiance		Overtaken by the Infection caused by the Radiance	
 Myla	The Knight		Slain by the Knight (dependent on player choice)	variable
 Nailsmith	The Knight		Slain by the Knight (dependent on player choice)	variable
-No Eyes	No Eyes		Ripped her own eyes out	
+Nightmare King Grimm	The Knight		Slain by the Knight	
+No Eyes	No Eyes		Ripped her own eyes out (spirit remained)	physical
+No Eyes	The Knight		Absorbed by the Knight	
+Nola			Died from unknown causes	
 Nosk	The Knight		Slain by the Knight	
 Oblobbles	The Knight		Slain by the Knight	
-Pale King			Died from unknown causes	
 Pale Lurker	The Knight		Slain by the Knight	
-Quirrel			Died after removing his mask	
-Soul Master	The Knight		Slain by the Knight	
+Perpetos Noo			Died from unknown causes (spirit remained)	physical
+Perpetos Noo	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Poggy Thorax			Died from unknown causes (spirit remained)	physical
+Poggy Thorax	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Pure Vessel	The Knight		Slain by the Knight	
+Quirrel	Quirrel		Died after removing his mask	
+Revek			Died from unknown causes (spirit remained)	physical
+Revek	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Soul Master	The Knight		Slain by the Knight (spirit remained as Soul Tyrant)	physical
+Soul Tyrant	The Knight		Absorbed by the Knight	
 Soul Warrior	The Knight		Slain by the Knight	
 The Collector	The Knight		Slain by the Knight	
-The Knight	The Knight		Broke their own shell to defeat the Radiance (dependent on player choice)	variable
-The Radiance	The Knight		Slain by the Knight's shade (dependent on player choice)	variable
+The Hollow Knight	The Knight		Slain by the Knight (Dream No More Ending)	variable
+The Hollow Knight	The Knight		Slain by the Knight (Sealed Siblings Ending)	variable
+The Hollow Knight	The Knight		Slain by the Knight (The Hollow Knight Ending)	variable
+The Knight	The Knight		Broke their own shell to defeat the Absolute Radiance (Delicate Flower Ending)	variable
+The Knight	The Knight		Broke their own shell to defeat the Absolute Radiance (Embrace the Void Ending)	variable
+The Knight	The Knight		Broke their own shell to defeat the Radiance (Dream No More Ending)	variable
+The Pale King			Died from unknown causes	
+The Pale Wyrm			Died from unknown causes (reborn as the Pale King)	temporary
+The Radiance	The Knight		Slain by the Knight's shade (Dream No More Ending)	variable
+The Traitors' Child			Died from unknown causes (spirit remained)	physical
+Thistlewind			Died from unknown causes (spirit remained)	physical
+Thistlewind	The Knight		Absorbed by the Knight (dependent on player choice)	variable
 Tiso	Brooding Mawlek		Crushed by the Brooding Mawlek	
 Traitor Lord	Cloth		Bashed on the head by Cloth (dependent on player choice)	variable
 Traitor Lord	The Knight		Slain by the Knight	
@@ -41,7 +114,16 @@ Troupe Master Grimm	The Knight		Slain in his dreams by the Knight (dependent on 
 Tuk	The Radiance		Overtaken by the Infection caused by the Radiance	
 Uumuu	Knight		Slain by the Knight	
 Vengefly King	The Knight		Slain by the Knight	
+Void Entity			Disintegrated by the Delicate Flower (Delicate Flower Ending)	variable
+Waldie			Died from unknown causes (spirit remained)	physical
+Waldie	The Knight		Absorbed by the Knight (dependent on player choice)	variable
 Watcher Knights	The Knight		Slain by the Knight	
+Wayner			Died from unknown causes (spirit remained)	physical
+Wayner	The Knight		Absorbed by the Knight (dependent on player choice)	variable
 Winged Nosk	The Knight		Slain by the Knight	
-Xero		Pale King	Executed after being sentenced by the Pale King	
+Wyatt			Died from unknown causes (spirit remained)	physical
+Wyatt	The Knight		Absorbed by the Knight (dependent on player choice)	variable
+Xero		Pale King	Executed after being sentenced by the Pale King (spirit remained)	physical
+Xero	The Knight		Absorbed by the Knight	
+Ze'mer			Passed on after the Knight delivers a flower to the grave of her lover	
 Zote	Vengefly King		Eaten by the Vengefly King (dependent on player choice)	variable
