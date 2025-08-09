@@ -100,9 +100,9 @@
 | **Mobile Suit Gundam**       | **\***                                                | **37**   |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans               | 37       |
 | **Nasuverse**                | **\***                                                | **172**  |
-| Nasuverse                    | Fate Apocrypha                                        | 24       |
-| Nasuverse                    | Fate Stay Night                                       | 122      |
-| Nasuverse                    | Fate Zero                                             | 26       |
+| Nasuverse                    | Fate / Apocrypha                                      | 24       |
+| Nasuverse                    | Fate / Stay Night                                     | 122      |
+| Nasuverse                    | Fate / Zero                                           | 26       |
 | **Ozark**                    | **\***                                                | **39**   |
 | Ozark                        | Ozark                                                 | 39       |
 | **Project Moon**             | **\***                                                | **147**  |
