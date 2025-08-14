@@ -1,25 +1,25 @@
 character	killed by	caused by	death	type
-Artoria Pendragon (Saber)		Artoria Pendragon (Saber)	Died after destroying the Holy Grail (Fate Route) (soul returned to the Throne of Heroes)	variable | physical
-Artoria Pendragon (Saber)		Artoria Pendragon (Saber)	Died after destroying the Holy Grail (Unlimited Blade Works Route) (soul returned to the Throne of Heroes)	variable | physical
-Artoria Pendragon (Saber)	Heracles (Berserker)	Illyasviel von Einzbern	Slain by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route - Bad Ending - Night Without Dawn) (soul returned to the Throne of Heroes)	non-canon | physical
-Artoria Pendragon (Saber)	Heracles (Berserker)	Illyasviel von Einzbern	Slain by Heracles (Berserker) on orders from Illyasviel von Einzbern (Unlimited Blade Works Route - Bad Ending - Third Death) (soul returned to the Throne of Heroes)	non-canon | physical
-Artoria Pendragon (Saber)	Shirou Emiya		Stabbed by Shirou Emiya (Heaven's Feel Route) (soul returned to the Throne of Heroes)	variable | physical
+Artoria Pendragon (Saber)		Artoria Pendragon (Saber)	Died after destroying the Holy Grail (Fate Route)	variable
+Artoria Pendragon (Saber)		Artoria Pendragon (Saber)	Died after destroying the Holy Grail (Unlimited Blade Works Route)	variable
+Artoria Pendragon (Saber)	Heracles (Berserker)	Illyasviel von Einzbern	Slain by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route - Bad Ending - Night Without Dawn)	non-canon
+Artoria Pendragon (Saber)	Heracles (Berserker)	Illyasviel von Einzbern	Slain by Heracles (Berserker) on orders from Illyasviel von Einzbern (Unlimited Blade Works Route - Bad Ending - Third Death)	non-canon
+Artoria Pendragon (Saber)	Shirou Emiya		Stabbed by Shirou Emiya (Heaven's Feel Route)	variable
 Atrum Galliasta	Medea		Immolated by Medea (Unlimited Blade Works Anime)	variable | unavoidable
 Atrum Galliasta	Medea		Stabbed by Medea	variable | unavoidable
-Cú Chulainn (Lancer)	Cú Chulainn (Lancer)	Kirei Kotomine	Impaled himself on orders from Kirei Kotomine (Unlimited Blade Works Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Cú Chulainn (Lancer)	Gilgamesh		Slain by Gilgamesh (Fate Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Cú Chulainn (Lancer)	Gilgamesh		Stabbed by Gilgamesh (Fate Deen Anime) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Cú Chulainn (Lancer)	Hassan of the Cursed Arm	Zouken Matou	Heart consumed by Hassan of the Cursed Arm on orders from Zouken Matou (Heaven's Feel Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-EMIYA (Archer)	Gilgamesh		Fatally wounded by Gilgamesh (Unlimited Blade Works Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-EMIYA (Archer)	Heracles (Berserker)	Illyasviel von Einzbern	Slain by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-EMIYA (Archer)	Sakura Matou		Devoured by the Shadow of Sakura Matou (Heaven's Feel Route - Bad Ending - World Purge, Meltdown) (soul returned to the Throne of Heroes)	non-canon | physical
-EMIYA (Archer)	Sakura Matou		Fatally wounded by the Shadow of Sakura Matou (Heaven's Feel Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Gilgamesh			Consumed by the Holy Grail (Unlimited Blade Works Route - Bad Ending - Heavens Fall) (soul returned to the Throne of Heroes)	non-canon | physical
-Gilgamesh	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Fate Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Gilgamesh	EMIYA (Archer)		Shot with an arrow by EMIYA (Archer) (Unlimited Blade Works Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Gilgamesh	Sakura Matou		Devoured by Sakura Matou (Heaven's Feel Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Hassan of the Cursed Arm	Sakura Matou		Consumed by Sakura Matou (Heaven's Feel Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Heracles (Berserker)	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) with a burst of light (Fate Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
+Cú Chulainn (Lancer)	Cú Chulainn (Lancer)	Kirei Kotomine	Impaled himself on orders from Kirei Kotomine (Unlimited Blade Works Route)	variable | unavoidable
+Cú Chulainn (Lancer)	Gilgamesh		Slain by Gilgamesh (Fate Route)	variable | unavoidable
+Cú Chulainn (Lancer)	Gilgamesh		Stabbed by Gilgamesh (Fate Deen Anime)	variable | unavoidable
+Cú Chulainn (Lancer)	Hassan of the Cursed Arm	Zouken Matou	Heart consumed by Hassan of the Cursed Arm on orders from Zouken Matou (Heaven's Feel Route)	variable | unavoidable
+EMIYA (Archer)	Gilgamesh		Fatally wounded by Gilgamesh (Unlimited Blade Works Route)	variable | unavoidable
+EMIYA (Archer)	Heracles (Berserker)	Illyasviel von Einzbern	Slain by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route)	variable | unavoidable
+EMIYA (Archer)	Sakura Matou		Devoured by the Shadow of Sakura Matou (Heaven's Feel Route - Bad Ending - World Purge, Meltdown)	non-canon
+EMIYA (Archer)	Sakura Matou		Fatally wounded by the Shadow of Sakura Matou (Heaven's Feel Route)	variable | unavoidable
+Gilgamesh			Consumed by the Holy Grail (Unlimited Blade Works Route - Bad Ending - Heavens Fall)	non-canon
+Gilgamesh	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Fate Route)	variable | unavoidable
+Gilgamesh	EMIYA (Archer)		Shot with an arrow by EMIYA (Archer) (Unlimited Blade Works Route)	variable | unavoidable
+Gilgamesh	Sakura Matou		Devoured by Sakura Matou (Heaven's Feel Route)	variable | unavoidable
+Hassan of the Cursed Arm	Sakura Matou		Consumed by Sakura Matou (Heaven's Feel Route)	variable | unavoidable
+Heracles (Berserker)	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) with a burst of light (Fate Route)	variable | unavoidable
 Heracles (Berserker)	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) with a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
 Heracles (Berserker)	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) with a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
 Heracles (Berserker)	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) with a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
@@ -43,9 +43,9 @@ Heracles (Berserker)	Gilgamesh		Impaled using the Gate of Babylon by Gilgamesh (
 Heracles (Berserker)	Gilgamesh		Impaled using the Gate of Babylon by Gilgamesh (resurrected via God Hand) (Unlimited Blade Works Route)	variable | temporary
 Heracles (Berserker)	Gilgamesh		Impaled using the Gate of Babylon by Gilgamesh (resurrected via God Hand) (Unlimited Blade Works Route)	variable | temporary
 Heracles (Berserker)	Gilgamesh		Impaled with multiple weapons by Gilgamesh (resurrected via God Hand) (Unlimited Blade Works Route)	variable | temporary
-Heracles (Berserker)	Gilgamesh		Stabbed in the heart by Gilgamesh (Unlimited Blade Works Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
+Heracles (Berserker)	Gilgamesh		Stabbed in the heart by Gilgamesh (Unlimited Blade Works Route)	variable | unavoidable
 Heracles (Berserker)	Rin Tohsaka		Head destroyed by Rin Tohsaka with jewels (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	Shirou Emiya		Slain by Shirou Emiya (Heaven's Feel Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
+Heracles (Berserker)	Shirou Emiya		Slain by Shirou Emiya (Heaven's Feel Route)	variable | unavoidable
 Illyasviel von Einzbern	Gilgamesh		Heart ripped out by Gilgamesh (Unlimited Blade Works Route)	variable
 Illyasviel von Einzbern	Illyasviel von Einzbern		Died after entering the Grail (Heaven's Feel Route)	variable
 Illyasviel von Einzbern	Sakura Matou		Devoured by the Shadow of Sakura Matou (Heaven's Feel Route - Bad Ending - World Purge, Meltdown)	non-canon
@@ -56,14 +56,14 @@ Kirei Kotomine	Sakura Matou		Heart destroyed by Sakura Matou (Heaven's Feel Rout
 Kirei Kotomine	Shirou Emiya		Stabbed by Shirou Emiya (Fate Route)	variable | unavoidable
 Leysritt			Died after becoming the Dress of Heaven (Heaven's Feel Route)	variable | unavoidable
 Leysritt	Gilgamesh		Impaled with multiple swords by Gilgamesh (Unlimited Blade Works Anime)	variable | unavoidable
-Medea	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Heaven's Feel Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Medea	EMIYA (Archer)		Struck down by EMIYA (Archer) (Unlimited Blade Works Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Medea	Gilgamesh		Struck down by Gilgamesh (Fate Deen Anime) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Medea	Gilgamesh		Torn apart by Gilgamesh (Fate Manga) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Medea	Gilgamesh		Torn apart by Gilgamesh (Fate Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Medea	Hassan of the Cursed Arm	Zouken Matou	Throat slit by Hassan of the Cursed Arm on orders from Zouken Matou (Heaven's Feel Movies) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Medusa (Rider)	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Fate Route) (soul returned to the Throne of Heroes)	variable | physical
-Medusa (Rider)	Souichirou Kuzuki		Slain by Souichirou Kuzuki (Unlimited Blade Works Route) (soul returned to the Throne of Heroes)	variable | physical
+Medea	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Heaven's Feel Route)	variable | unavoidable
+Medea	EMIYA (Archer)		Struck down by EMIYA (Archer) (Unlimited Blade Works Route)	variable | unavoidable
+Medea	Gilgamesh		Struck down by Gilgamesh (Fate Deen Anime)	variable | unavoidable
+Medea	Gilgamesh		Torn apart by Gilgamesh (Fate Manga)	variable | unavoidable
+Medea	Gilgamesh		Torn apart by Gilgamesh (Fate Route)	variable | unavoidable
+Medea	Hassan of the Cursed Arm	Zouken Matou	Throat slit by Hassan of the Cursed Arm on orders from Zouken Matou (Heaven's Feel Movies)	variable | unavoidable
+Medusa (Rider)	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Fate Route)	variable
+Medusa (Rider)	Souichirou Kuzuki		Slain by Souichirou Kuzuki (Unlimited Blade Works Route)	variable
 Rin Tohsaka	Artoria Pendragon (Saber) | Medea		Murdered by Artoria Pendragon (Saber), controlled by Medea, and Medea herself (Unlimited Blade Works Route - Bad Ending - Sword and Magic)	non-canon
 Rin Tohsaka	Heracles (Berserker)	Illyasviel von Einzbern	Crushed by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route - Bad Ending - Night Without Dawn)	non-canon
 Rin Tohsaka	Heracles (Berserker)	Illyasviel von Einzbern	Fatally wounded by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route - Bad Ending - Girl Rhapsody)	non-canon
@@ -74,10 +74,10 @@ Rin Tohsaka	Souichirou Kuzuki		Beaten to death by Souichirou Kuzuki (Unlimited B
 Sakura Matou			Died of old age (Heaven's Feel - Normal Ending)	variable
 Sakura Matou	Rin Tohsaka		Murdered by Rin Tohsaka (Heaven's Feel Route - Bad Ending - Geas)	non-canon
 Sakura Matou	Rin Tohsaka		Murdered by Rin Tohsaka (Heaven's Feel Route - Bad Ending - Superhero)	non-canon
-Sasaki Kojirou	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Unlimited Blade Works Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Sasaki Kojirou	Gilgamesh		Slain by Gilgamesh (Fate Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Sasaki Kojirou	Sakura Matou		Absorbed by the Shadow of Sakura Matou (Heaven's Feel Movies) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
-Sasaki Kojirou	Sakura Matou		Slain by the Shadow of Sakura Matou (Heaven's Feel Route) (soul returned to the Throne of Heroes)	variable | unavoidable | physical
+Sasaki Kojirou	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Unlimited Blade Works Route)	variable | unavoidable
+Sasaki Kojirou	Gilgamesh		Slain by Gilgamesh (Fate Route)	variable | unavoidable
+Sasaki Kojirou	Sakura Matou		Absorbed by the Shadow of Sakura Matou (Heaven's Feel Movies)	variable | unavoidable
+Sasaki Kojirou	Sakura Matou		Slain by the Shadow of Sakura Matou (Heaven's Feel Route)	variable | unavoidable
 Sella	Gilgamesh		Decapitated by Gilgamesh (Unlimited Blade Works Anime)	variable | unavoidable
 Shinji Matou	Heracles (Berserker)	Illyasviel von Einzbern	Slain by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route)	variable
 Shinji Matou	Sakura Matou		Slain by Sakura Matou (Heaven's Feel Route)	variable
