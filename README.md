@@ -1,6 +1,6 @@
 | universe                     | entry                                                      | deaths   |
 |------------------------------|------------------------------------------------------------|----------|
-| **\***                       | **\***                                                     | **3736** |
+| **\***                       | **\***                                                     | **3760** |
 | **Ace Attorney**             | **\***                                                     | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                                | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All              | 8        |
@@ -99,19 +99,21 @@
 | Lords of the Fallen          | Lords of the Fallen (2023)                                 | 87       |
 | **Mobile Suit Gundam**       | **\***                                                     | **37**   |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans                    | 37       |
-| **Nasuverse**                | **\***                                                     | **206**  |
+| **Nasuverse**                | **\***                                                     | **221**  |
 | Nasuverse                    | Fate / Apocrypha                                           | 24       |
 | Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Fuyuki  | 13       |
 | Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Orleans | 21       |
+| Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Septem  | 15       |
 | Nasuverse                    | Fate / Stay Night                                          | 122      |
 | Nasuverse                    | Fate / Zero                                                | 26       |
 | **Ozark**                    | **\***                                                     | **39**   |
 | Ozark                        | Ozark                                                      | 39       |
-| **Project Moon**             | **\***                                                     | **217**  |
+| **Project Moon**             | **\***                                                     | **226**  |
 | Project Moon                 | Library of Ruina                                           | 134      |
 | Project Moon                 | Limbus Company / Canto I The Outcast                       | 21       |
 | Project Moon                 | Limbus Company / Canto II The Unloving                     | 3        |
 | Project Moon                 | Limbus Company / Canto III The Unconfronting               | 35       |
+| Project Moon                 | Limbus Company / Canto IV The Unchanging                   | 9        |
 | Project Moon                 | Limbus Company / Prologue Selva Oscura                     | 12       |
 | Project Moon                 | Lobotomy Corporation                                       | 12       |
 | **Staffer Series**           | **\***                                                     | **15**   |
