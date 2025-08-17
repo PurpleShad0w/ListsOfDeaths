@@ -1,6 +1,6 @@
 | universe                     | entry                                                      | deaths   |
 |------------------------------|------------------------------------------------------------|----------|
-| **\***                       | **\***                                                     | **3760** |
+| **\***                       | **\***                                                     | **3803** |
 | **Ace Attorney**             | **\***                                                     | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                                | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All              | 8        |
@@ -108,13 +108,17 @@
 | Nasuverse                    | Fate / Zero                                                | 26       |
 | **Ozark**                    | **\***                                                     | **39**   |
 | Ozark                        | Ozark                                                      | 39       |
-| **Project Moon**             | **\***                                                     | **226**  |
+| **Project Moon**             | **\***                                                     | **269**  |
 | Project Moon                 | Library of Ruina                                           | 134      |
-| Project Moon                 | Limbus Company / Canto I The Outcast                       | 21       |
-| Project Moon                 | Limbus Company / Canto II The Unloving                     | 3        |
-| Project Moon                 | Limbus Company / Canto III The Unconfronting               | 35       |
-| Project Moon                 | Limbus Company / Canto IV The Unchanging                   | 9        |
-| Project Moon                 | Limbus Company / Prologue Selva Oscura                     | 12       |
+| Project Moon                 | Limbus Company / Inferno / Miracle in District 20          | 4        |
+| Project Moon                 | Limbus Company / Inferno / S.E.A.                          | 1        |
+| Project Moon                 | Limbus Company / Inferno / Selva Oscura                    | 12       |
+| Project Moon                 | Limbus Company / Inferno / The Evil Defining               | 23       |
+| Project Moon                 | Limbus Company / Inferno / The Heartbreaking               | 14       |
+| Project Moon                 | Limbus Company / Inferno / The Outcast                     | 21       |
+| Project Moon                 | Limbus Company / Inferno / The Unchanging                  | 10       |
+| Project Moon                 | Limbus Company / Inferno / The Unconfronting               | 35       |
+| Project Moon                 | Limbus Company / Inferno / The Unloving                    | 3        |
 | Project Moon                 | Lobotomy Corporation                                       | 12       |
 | **Staffer Series**           | **\***                                                     | **15**   |
 | Staffer Series               | Staffer Case                                               | 8        |
