@@ -1,6 +1,6 @@
 | universe                     | entry                                                      | deaths   |
 |------------------------------|------------------------------------------------------------|----------|
-| **\***                       | **\***                                                     | **3803** |
+| **\***                       | **\***                                                     | **3824** |
 | **Ace Attorney**             | **\***                                                     | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                                | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All              | 8        |
@@ -99,11 +99,12 @@
 | Lords of the Fallen          | Lords of the Fallen (2023)                                 | 87       |
 | **Mobile Suit Gundam**       | **\***                                                     | **37**   |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans                    | 37       |
-| **Nasuverse**                | **\***                                                     | **221**  |
+| **Nasuverse**                | **\***                                                     | **242**  |
 | Nasuverse                    | Fate / Apocrypha                                           | 24       |
-| Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Fuyuki  | 13       |
+| Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Fuyuki  | 14       |
+| Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Okeanos | 18       |
 | Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Orleans | 21       |
-| Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Septem  | 15       |
+| Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Septem  | 17       |
 | Nasuverse                    | Fate / Stay Night                                          | 122      |
 | Nasuverse                    | Fate / Zero                                                | 26       |
 | **Ozark**                    | **\***                                                     | **39**   |
