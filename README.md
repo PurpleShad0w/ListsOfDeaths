@@ -1,6 +1,6 @@
 | universe                     | entry                                                      | deaths   |
 |------------------------------|------------------------------------------------------------|----------|
-| **\***                       | **\***                                                     | **3865** |
+| **\***                       | **\***                                                     | **3844** |
 | **Ace Attorney**             | **\***                                                     | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                                | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All              | 8        |
@@ -61,8 +61,8 @@
 | Gantz                        | Gantz                                                      | 131      |
 | **Golden Kamuy**             | **\***                                                     | **77**   |
 | Golden Kamuy                 | Golden Kamuy                                               | 77       |
-| **Hollow Knight**            | **\***                                                     | **128**  |
-| Hollow Knight                | Hollow Knight                                              | 128      |
+| **Hollow Knight**            | **\***                                                     | **107**  |
+| Hollow Knight                | Hollow Knight                                              | 107      |
 | **Hunter × Hunter**          | **\***                                                     | **143**  |
 | Hunter × Hunter              | Hisoka's Past                                              | 1        |
 | Hunter × Hunter              | Hunter × Hunter                                            | 130      |
