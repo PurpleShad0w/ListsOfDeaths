@@ -2,22 +2,44 @@ character	killed by	caused by	death	type
 Abyssal Guardian	Miriam		Slain by Miriam	
 Alfred	Dominique Baldwin		Fatally wounded by Dominique Baldwin	
 Andrealphus	Miriam		Slain by Miriam	
-Bael	Miriam		Slain by Miriam	
-Bathin	Miriam		Slain by Miriam	
+Bael	Dominique Baldwin		Slain by Dominique Baldwin (Bad Ending)	variable | unavoidable
+Bael	Dominique Baldwin		Slain by Dominique Baldwin (Bitter Ending)	variable | unavoidable
+Bael	Dominique Baldwin		Slain by Dominique Baldwin (True Ending)	variable | unavoidable
+Bael	Miriam		Slain by Miriam (later revived in Limbo)	temporary
+Bathin	Dominique Baldwin		Slain by Dominique Baldwin	
+Bathin	Miriam		Slain by Miriam (later revived in Limbo)	temporary
 Bloodless	Miriam		Slain by Miriam	
 Breeder	Miriam		Slain by Miriam	
 Craftwork	Miriam		Slain by Miriam	
+Dominique Baldwin			Succumbed to the Crystal Curse (Bitter Ending)	variable
+Dominique Baldwin	Miriam		Slain by Miriam (Classic Mode)	non-canon
 Doppelganger	Miriam		Slain by Miriam	
+Doppelganger (Miriam)	Miriam		Slain by Miriam (Classic Mode)	
+Doppelganger (Zangetsu)	Miriam		Slain by Miriam (Classic Mode)	
 Eight Bit Overlord	Miriam		Slain by Miriam	
-Gebel			Succumbed to the Crystal Curse	
-Gebel	Miriam		Slain by Miriam (dependent on player choice)	variable
+Focalor	Dominique Baldwin		Slain by Dominique Baldwin	
+Gebel			Succumbed to the Crystal Curse (Dethroned Ending)	variable | unavoidable
+Gebel	Miriam		Slain by Miriam (Classic Mode)	non-canon
+Gebel	Miriam		Slain by Miriam (Just a Flicker Ending)	variable | unavoidable
+Gebel	Miriam		Slain by Miriam (Usurper Ending)	variable | unavoidable
+Giant Bat	Miriam		Slain by Miriam (Classic Mode)	
+Giant Dullahammer Head	Miriam		Slain by Miriam (Classic Mode)	
 Glutton Train	Miriam | Zangetsu		Slain by Miriam and Zangetsu	
-Gremory	Miriam		Slain by Miriam	
+Gremory	Dominique Baldwin		Slain by Dominique Baldwin	
+Gremory	Miriam		Slain by Miriam (Classic Mode)	non-canon
 Guardian	Miriam		Slain by Miriam	
-Master Carpenter	Miriam		Slain by Miriam	
+Hunter Barber	Dominique Baldwin		Slain by Dominique Baldwin (revived at Notoria)	temporary
+IGA	Miriam		Slain by Miriam	
+Master Carpenter	Dominique Baldwin		Slain by Dominique Baldwin (revived at Theurgia)	temporary
+Master Carpenter	Miriam		Slain by Miriam (later revived in Limbo)	temporary
 Millionaire's Bane	Miriam		Slain by Miriam	
 Orobas	Miriam		Slain by Miriam	
-Revenant	Miriam		Slain by Miriam	
+Revenant	Dominique Baldwin		Slain by Dominique Baldwin (revived at Paulina)	temporary
+Revenant	Miriam		Slain by Miriam (later revived in Limbo)	temporary
+Silver Wolfman	Dominique Baldwin		Slain by Dominique Baldwin (revived at Almadel)	temporary
+Simian	Miriam		Slain by Miriam (Classic Mode)	
 Valac	Miriam		Slain by Miriam	
-Valefar	Miriam		Slain by Miriam	
+Valefar	Dominique Baldwin		Slain by Dominique Baldwin	
+Valefar	Miriam		Slain by Miriam (later revived in Limbo)	temporary
 Vepar	Miriam		Slain by Miriam	
+Wolfman	Miriam		Slain by Miriam (Classic Mode)	

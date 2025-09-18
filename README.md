@@ -1,6 +1,6 @@
 | universe                     | entry                                                      | deaths   |
 |------------------------------|------------------------------------------------------------|----------|
-| **\***                       | **\***                                                     | **3873** |
+| **\***                       | **\***                                                     | **3905** |
 | **Ace Attorney**             | **\***                                                     | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                                | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All              | 8        |
@@ -29,8 +29,8 @@
 | **Blasphemous**              | **\***                                                     | **34**   |
 | Blasphemous                  | Blasphemous                                                | 33       |
 | Blasphemous                  | Blasphemous The Kneeling                                   | 1        |
-| **Bloodstained**             | **\***                                                     | **22**   |
-| Bloodstained                 | Bloodstained Ritual of the Night                           | 22       |
+| **Bloodstained**             | **\***                                                     | **44**   |
+| Bloodstained                 | Bloodstained Ritual of the Night                           | 44       |
 | **Claymore**                 | **\***                                                     | **80**   |
 | Claymore                     | Claymore                                                   | 80       |
 | **Code Geass**               | **\***                                                     | **47**   |
@@ -99,18 +99,18 @@
 | Lords of the Fallen          | Lords of the Fallen (2023)                                 | 87       |
 | **Mobile Suit Gundam**       | **\***                                                     | **37**   |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans                    | 37       |
-| **Nasuverse**                | **\***                                                     | **272**  |
+| **Nasuverse**                | **\***                                                     | **281**  |
 | Nasuverse                    | Fate / Apocrypha                                           | 25       |
 | Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Fuyuki  | 14       |
 | Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Okeanos | 18       |
 | Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Orleans | 21       |
 | Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Septem  | 17       |
-| Nasuverse                    | Fate / Stay Night                                          | 130      |
+| Nasuverse                    | Fate / Stay Night                                          | 139      |
 | Nasuverse                    | Fate / Zero                                                | 26       |
-| Nasuverse                    | Heroic Spirit Lore                                         | 21       |
+| Nasuverse                    | Servants History                                           | 21       |
 | **Ozark**                    | **\***                                                     | **39**   |
 | Ozark                        | Ozark                                                      | 39       |
-| **Project Moon**             | **\***                                                     | **309**  |
+| **Project Moon**             | **\***                                                     | **310**  |
 | Project Moon                 | Library of Ruina                                           | 134      |
 | Project Moon                 | Limbus Company / Identity Stories                          | 1        |
 | Project Moon                 | Limbus Company / Inferno / LCB Regular Check-up            | 1        |
@@ -119,6 +119,7 @@
 | Project Moon                 | Limbus Company / Inferno / Nocturnal Sweeping              | 2        |
 | Project Moon                 | Limbus Company / Inferno / S.E.A.                          | 1        |
 | Project Moon                 | Limbus Company / Inferno / Selva Oscura                    | 12       |
+| Project Moon                 | Limbus Company / Inferno / Spring Cultivation              | 1        |
 | Project Moon                 | Limbus Company / Inferno / The Dream Ending                | 21       |
 | Project Moon                 | Limbus Company / Inferno / The Evil Defining               | 23       |
 | Project Moon                 | Limbus Company / Inferno / The Heartbreaking               | 14       |

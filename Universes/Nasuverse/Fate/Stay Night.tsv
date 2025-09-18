@@ -1,39 +1,44 @@
 character	killed by	caused by	death	type
-Artoria Pendragon (Saber)		Artoria Pendragon (Saber) | Rin Tohsaka	Died after destroying the Holy Grail on orders from Rin Tohsaka (Unlimited Blade Works Route)	variable
+Angra Mainyu (Avenger) (Holy Grail)	Artoria Pendragon (Saber)	Rin Tohsaka	Destroyed by Artoria Pendragon (Saber) on orders from Rin Tohsaka (Unlimited Blade Works Route)	variable | unavoidable
+Angra Mainyu (Avenger) (Holy Grail)	Artoria Pendragon (Saber)	Shirou Emiya	Destroyed by Artoria Pendragon (Saber) on orders from Shirou Emiya (Fate Route)	variable | unavoidable
+Angra Mainyu (Avenger) (Holy Grail)	Illyasviel von Einzbern		Destroyed by Illyasviel von Einzbern using the Dress of Heaven (Heaven's Feel Route - True Ending)	variable | unavoidable
+Angra Mainyu (Avenger) (Holy Grail)	Shirou Emiya		Destroyed by Shirou Emiya with Excalibur (Heaven's Feel Route - Normal Ending)	variable | unavoidable
+Artoria Pendragon (Saber)		Artoria Pendragon (Saber) | Rin Tohsaka	Died after destroying the Holy Grail on orders from Rin Tohsaka (Unlimited Blade Works Route - Good Ending)	variable
 Artoria Pendragon (Saber)		Artoria Pendragon (Saber) | Shirou Emiya	Died after destroying the Holy Grail on orders from Shirou Emiya (Fate Route)	variable
-Artoria Pendragon (Saber)	Heracles (Berserker)	Illyasviel von Einzbern	Slain by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route - Bad Ending - Night Without Dawn)	non-canon
-Artoria Pendragon (Saber)	Heracles (Berserker)	Illyasviel von Einzbern	Slain by Heracles (Berserker) on orders from Illyasviel von Einzbern (Unlimited Blade Works Route - Bad Ending - Third Death)	non-canon
+Artoria Pendragon (Saber)	Heracles (Berserker)	Illyasviel von Einzbern	Crushed with his axe-sword by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route - Bad Ending - Night Without Dawn)	non-canon
+Artoria Pendragon (Saber)	Heracles (Berserker)	Illyasviel von Einzbern	Crushed with his axe-sword by Heracles (Berserker) on orders from Illyasviel von Einzbern (Heaven's Feel Route - Bad Ending - Battle of the Holy Grail)	non-canon
+Artoria Pendragon (Saber)	Heracles (Berserker)	Illyasviel von Einzbern	Crushed with his axe-sword by Heracles (Berserker) on orders from Illyasviel von Einzbern (Unlimited Blade Works Route - Bad Ending - Third Death)	non-canon
 Artoria Pendragon (Saber)	Shirou Emiya		Stabbed by Shirou Emiya (Heaven's Feel Route)	variable
 Atrum Galliasta	Medea (Caster)		Immolated by Medea (Caster) (Unlimited Blade Works Anime)	variable | unavoidable
-Atrum Galliasta	Medea (Caster)		Stabbed by Medea (Caster)	variable | unavoidable
+Atrum Galliasta	Medea (Caster)		Stabbed with Rule Breaker by Medea (Caster)	variable | unavoidable
 Byakuya Matou			Died from unknown causes	
 Cú Chulainn (Lancer)	Cú Chulainn (Lancer)	Kirei Kotomine	Impaled himself on orders from Kirei Kotomine (Unlimited Blade Works Route)	variable | unavoidable
-Cú Chulainn (Lancer)	Gilgamesh (Archer)		Slain by Gilgamesh (Archer) (Fate Route)	variable | unavoidable
+Cú Chulainn (Lancer)	Gilgamesh (Archer)		Impaled with his Noble Phantasms by Gilgamesh (Archer) (Fate Route)	variable | unavoidable
 Cú Chulainn (Lancer)	Gilgamesh (Archer)		Stabbed by Gilgamesh (Archer) (Fate Deen Anime)	variable | unavoidable
 Cú Chulainn (Lancer)	Hassan of the Cursed Arm (Assassin)	Zouken Matou	Heart consumed by Hassan of the Cursed Arm (Assassin) on orders from Zouken Matou (Heaven's Feel Route)	variable | unavoidable
 EMIYA (Archer)	Artoria Pendragon (Saber) | Medea (Caster)	Souichirou Kuzuki	Murdered by Artoria Pendragon (Saber), controlled by Medea (Caster), and Medea (Caster) herself, on orders from Souichirou Kuzuki (Unlimited Blade Works Route - Bad Ending - Sword and Magic)	non-canon
 EMIYA (Archer)	Gilgamesh (Archer)		Fatally wounded by Gilgamesh (Archer) (Unlimited Blade Works Route)	variable | unavoidable
-EMIYA (Archer)	Heracles (Berserker)	Illyasviel von Einzbern | Rin Tohsaka	Slain by Heracles (Berserker) on orders from Illyasviel von Einzbern, after being ordered to stay behind by Rin Tohsaka (Fate Route)	variable | unavoidable
+EMIYA (Archer)	Heracles (Berserker)	Illyasviel von Einzbern | Rin Tohsaka	Fatally wounded by Heracles (Berserker) on orders from Illyasviel von Einzbern, after being ordered to stay behind by Rin Tohsaka (Fate Route)	variable | unavoidable
 EMIYA (Archer)	Sakura Matou		Devoured by the Shadow of Sakura Matou (Heaven's Feel Route - Bad Ending - World Purge, Meltdown)	non-canon
 EMIYA (Archer)	Sakura Matou		Fatally wounded by the Shadow of Sakura Matou (Heaven's Feel Route)	variable | unavoidable
-Gilgamesh (Archer)			Consumed by the Holy Grail (Unlimited Blade Works Route - Bad Ending - Heavens Fall)	non-canon
-Gilgamesh (Archer)	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Fate Route)	variable | unavoidable
-Gilgamesh (Archer)	EMIYA (Archer)		Shot with an arrow by EMIYA (Archer) (Unlimited Blade Works Route)	variable | unavoidable
+Gilgamesh (Archer)	Angra Mainyu (Avenger) (Holy Grail) | Shirou Emiya		Absorbed by Angra Mainyu (Avenger) (Holy Grail) after being thrown in his black hole by Shirou Emiya (Unlimited Blade Works Route - Bad Ending - Heavens Fall)	non-canon
+Gilgamesh (Archer)	Artoria Pendragon (Saber)		Sliced with Excalibur by Artoria Pendragon (Saber) (Fate Route)	variable | unavoidable
+Gilgamesh (Archer)	EMIYA (Archer) | Angra Mainyu (Avenger) (Holy Grail)		Shot with an arrow in the head by EMIYA (Archer) and absorbed by Angra Mainyu (Avenger) (Holy Grail) (Unlimited Blade Works Route)	variable | unavoidable
 Gilgamesh (Archer)	Sakura Matou		Devoured by Sakura Matou (Heaven's Feel Route)	variable | unavoidable
 Hassan of the Cursed Arm (Assassin)	Sakura Matou		Consumed by Sakura Matou (Heaven's Feel Route)	variable | unavoidable
-Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Slain by Artoria Pendragon (Saber) and Shirou Emiya with a burst of light (Fate Route)	variable | unavoidable
-Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Slain by Artoria Pendragon (Saber) and Shirou Emiya with a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Slain by Artoria Pendragon (Saber) and Shirou Emiya with a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Slain by Artoria Pendragon (Saber) and Shirou Emiya with a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Slain by Artoria Pendragon (Saber) and Shirou Emiya with a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Slain by Artoria Pendragon (Saber) and Shirou Emiya with a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Slain by Artoria Pendragon (Saber) and Shirou Emiya with a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Slain by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Slain by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Slain by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Slain by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Slain by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Slain by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Impaled by Artoria Pendragon (Saber) and Shirou Emiya with Caliburn and destroyed via a burst of light (Fate Route)	variable | unavoidable
+Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Impaled by Artoria Pendragon (Saber) and Shirou Emiya with Caliburn and destroyed via a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Impaled by Artoria Pendragon (Saber) and Shirou Emiya with Caliburn and destroyed via a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Impaled by Artoria Pendragon (Saber) and Shirou Emiya with Caliburn and destroyed via a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Impaled by Artoria Pendragon (Saber) and Shirou Emiya with Caliburn and destroyed via a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Impaled by Artoria Pendragon (Saber) and Shirou Emiya with Caliburn and destroyed via a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	Artoria Pendragon (Saber) | Shirou Emiya		Impaled by Artoria Pendragon (Saber) and Shirou Emiya with Caliburn and destroyed via a burst of light (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Stabbed and slashed by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Stabbed and slashed by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Stabbed and slashed by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Stabbed and slashed by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Stabbed and slashed by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
+Heracles (Berserker)	EMIYA (Archer)	Rin Tohsaka	Stabbed and slashed by EMIYA (Archer) on orders from Rin Tohsaka (resurrected via God Hand) (Fate Route)	variable | temporary
 Heracles (Berserker)	Gilgamesh (Archer)		Impaled using the Gate of Babylon by Gilgamesh (Archer) (resurrected via God Hand) (Unlimited Blade Works Route)	variable | temporary
 Heracles (Berserker)	Gilgamesh (Archer)		Impaled using the Gate of Babylon by Gilgamesh (Archer) (resurrected via God Hand) (Unlimited Blade Works Route)	variable | temporary
 Heracles (Berserker)	Gilgamesh (Archer)		Impaled using the Gate of Babylon by Gilgamesh (Archer) (resurrected via God Hand) (Unlimited Blade Works Route)	variable | temporary
@@ -47,9 +52,9 @@ Heracles (Berserker)	Gilgamesh (Archer)		Impaled using the Gate of Babylon by Gi
 Heracles (Berserker)	Gilgamesh (Archer)		Impaled with multiple weapons by Gilgamesh (Archer) (resurrected via God Hand) (Unlimited Blade Works Route)	variable | temporary
 Heracles (Berserker)	Gilgamesh (Archer)		Stabbed in the heart by Gilgamesh (Archer) (Unlimited Blade Works Route)	variable | unavoidable
 Heracles (Berserker)	Rin Tohsaka		Head destroyed by Rin Tohsaka with jewels (resurrected via God Hand) (Fate Route)	variable | temporary
-Heracles (Berserker)	Shirou Emiya		Slain by Shirou Emiya (Heaven's Feel Route)	variable | unavoidable
+Heracles (Berserker)	Shirou Emiya		Destroyed by Shirou Emiya using Nine Lives Blade Works (Heaven's Feel Route)	variable | unavoidable
 Illyasviel von Einzbern	Gilgamesh (Archer)		Heart ripped out by Gilgamesh (Archer) (Unlimited Blade Works Route)	variable
-Illyasviel von Einzbern	Illyasviel von Einzbern		Died after entering the Grail (Heaven's Feel Route)	variable
+Illyasviel von Einzbern	Illyasviel von Einzbern		Died after entering the Grail and closing the Gates of Heaven (Heaven's Feel Route - True Ending)	variable
 Illyasviel von Einzbern	Sakura Matou		Devoured by the Shadow of Sakura Matou (Heaven's Feel Route - Bad Ending - World Purge, Meltdown)	non-canon
 Illyasviel von Einzbern	Shirou Emiya		Murdered by Shirou Emiya to destroy the Holy Grail at any cost (Heaven's Feel Route - Bad Ending - Superhero)	non-canon
 Issei Ryuudou	Issei Ryuudou	Medea (Caster)	Stabbed himself in the neck while under Medea (Caster)'s control (Unlimited Blade Works Route - Bad Ending - Hypnos)	non-canon
@@ -58,34 +63,36 @@ Kirei Kotomine	Sakura Matou		Heart destroyed by Sakura Matou (Heaven's Feel Rout
 Kirei Kotomine	Shirou Emiya		Stabbed by Shirou Emiya (Fate Route)	variable | unavoidable
 Leysritt			Died after becoming the Dress of Heaven (Heaven's Feel Route)	variable | unavoidable
 Leysritt	Gilgamesh (Archer)		Impaled with multiple swords by Gilgamesh (Archer) (Unlimited Blade Works Anime)	variable | unavoidable
-Medea (Caster)	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Heaven's Feel Route)	variable | unavoidable
+Medea (Caster)	Artoria Pendragon (Saber)		Slashed with Excalibur by Artoria Pendragon (Saber) (Heaven's Feel Route)	variable | unavoidable
 Medea (Caster)	EMIYA (Archer)		Struck down by EMIYA (Archer) (Unlimited Blade Works Route)	variable | unavoidable
 Medea (Caster)	Gilgamesh (Archer)		Struck down by Gilgamesh (Archer) (Fate Deen Anime)	variable | unavoidable
 Medea (Caster)	Gilgamesh (Archer)		Torn apart by Gilgamesh (Archer) (Fate Manga)	variable | unavoidable
 Medea (Caster)	Gilgamesh (Archer)		Torn apart by Gilgamesh (Archer) (Fate Route)	variable | unavoidable
 Medea (Caster)	Hassan of the Cursed Arm (Assassin)	Zouken Matou	Throat slit by Hassan of the Cursed Arm (Assassin) on orders from Zouken Matou (Heaven's Feel Movies)	variable | unavoidable
-Medusa (Rider)	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Fate Route)	variable
-Medusa (Rider)	Souichirou Kuzuki		Slain by Souichirou Kuzuki (Unlimited Blade Works Route)	variable
+Medusa (Rider)	Artoria Pendragon (Saber)		Bisected with Excalibur by Artoria Pendragon (Saber) (Fate Route - Bad Ending - Nutcracker Doll)	non-canon
+Medusa (Rider)	Artoria Pendragon (Saber)		Bisected with Excalibur by Artoria Pendragon (Saber) (Fate Route)	variable
+Medusa (Rider)	Souichirou Kuzuki	Medea (Caster)	Beaten to death by Souichirou Kuzuki after being magically reinforced by Medea (Caster) (Unlimited Blade Works Route)	variable
 Rin Tohsaka	Artoria Pendragon (Saber) | Medea (Caster)	Souichirou Kuzuki	Murdered by Artoria Pendragon (Saber), controlled by Medea (Caster), and Medea (Caster) herself, on orders from Souichirou Kuzuki (Unlimited Blade Works Route - Bad Ending - Sword and Magic)	non-canon
 Rin Tohsaka	Heracles (Berserker)	Illyasviel von Einzbern	Crushed by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route - Bad Ending - Night Without Dawn)	non-canon
 Rin Tohsaka	Heracles (Berserker)	Illyasviel von Einzbern	Fatally wounded by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route - Bad Ending - Girl Rhapsody)	non-canon
+Rin Tohsaka	Medea (Caster)		Immolated by Medea (Caster) (Unlimited Blade Works Route - Bad Ending - One Conclusion)	non-canon
 Rin Tohsaka	Sakura Matou		Absorbed by the Shadow of Sakura Matou (Heaven's Feel Route - Bad Ending - Femme Fatale)	non-canon
 Rin Tohsaka	Sakura Matou		Devoured by the Shadow of Sakura Matou (Heaven's Feel Route - Bad Ending - World Purge, Meltdown)	non-canon
 Rin Tohsaka	Shirou Emiya		Murdered by Shirou Emiya to destroy the Holy Grail at any cost (Heaven's Feel Route - Bad Ending - Superhero)	non-canon
 Rin Tohsaka	Souichirou Kuzuki		Beaten to death by Souichirou Kuzuki (Unlimited Blade Works Route - Bad Ending - Killer)	non-canon
 Sakura Matou			Died of old age (Heaven's Feel - Normal Ending)	variable
 Sakura Matou	Rin Tohsaka		Murdered by Rin Tohsaka (Heaven's Feel Route - Bad Ending - Geas)	non-canon
-Sakura Matou	Rin Tohsaka		Murdered by Rin Tohsaka (Heaven's Feel Route - Bad Ending - Superhero)	non-canon
-Sasaki Kojirou (Assassin)	Artoria Pendragon (Saber)		Slain by Artoria Pendragon (Saber) (Unlimited Blade Works Route)	variable | unavoidable
-Sasaki Kojirou (Assassin)	Gilgamesh (Archer)		Slain by Gilgamesh (Archer) (Fate Route)	variable | unavoidable
+Sakura Matou	Rin Tohsaka	Shirou Emiya	Murdered by Rin Tohsaka, allowed to do so by Shirou Emiya (Heaven's Feel Route - Bad Ending - Superhero)	non-canon
+Sasaki Kojirou (Assassin)	Artoria Pendragon (Saber)		Sliced with Excalibur by Artoria Pendragon (Saber) (Unlimited Blade Works Route)	variable | unavoidable
+Sasaki Kojirou (Assassin)	Gilgamesh (Archer)		Impaled with his Noble Phantasms by Gilgamesh (Archer) (Fate Route)	variable | unavoidable
 Sasaki Kojirou (Assassin)	Sakura Matou		Absorbed by the Shadow of Sakura Matou (Heaven's Feel Movies)	variable | unavoidable
-Sasaki Kojirou (Assassin)	Sakura Matou		Slain by the Shadow of Sakura Matou (Heaven's Feel Route)	variable | unavoidable
+Sasaki Kojirou (Assassin)	Sakura Matou		Fatally wounded by the Shadow of Sakura Matou (Heaven's Feel Route)	variable | unavoidable
 Sella	Gilgamesh (Archer)		Decapitated by Gilgamesh (Archer) (Unlimited Blade Works Anime)	variable | unavoidable
-Shinji Matou	Heracles (Berserker)	Illyasviel von Einzbern	Slain by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route)	variable
-Shinji Matou	Sakura Matou		Slain by Sakura Matou (Heaven's Feel Route)	variable
+Shinji Matou	Heracles (Berserker)	Illyasviel von Einzbern	Crushed with his axe-sword by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route - Bad Ending - Nutcracker Doll)	non-canon
+Shinji Matou	Heracles (Berserker)	Illyasviel von Einzbern	Crushed with his axe-sword by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route)	variable
+Shinji Matou	Sakura Matou	Zouken Matou	Throat slit by Sakura Matou, orchestrated by Zouken Matou (Heaven's Feel Route)	variable
 Shinji Matou's mother	Zouken Matou		Devoured by Zouken Matou's worms	
-Shirou Emiya			Consumed by the Holy Grail (Unlimited Blade Works Route - Bad Ending - Heavens Fall)	non-canon
-Shirou Emiya		Shirou Emiya	Died after destroying the Greater Grail (Heaven's Feel - Normal Ending)	variable
+Shirou Emiya	Angra Mainyu (Avenger) (Holy Grail) | Shirou Emiya	Gilgamesh (Archer)	Absorbed by Angra Mainyu (Avenger) (Holy Grail) after throwing himself in his black hole to kill Gilgamesh (Archer) who had Shirou chained to him (Unlimited Blade Works Route - Bad Ending - Heavens Fall)	non-canon
 Shirou Emiya	Artoria Pendragon (Saber)	Kirei Kotomine	Struck down by Artoria Pendragon (Saber) via manipulation by Kirei Kotomine (Fate Route - Bad Ending - That Which Cannot Be Changed)	non-canon
 Shirou Emiya	Artoria Pendragon (Saber)	Medea (Caster)	Struck down by Artoria Pendragon (Saber) while under Medea (Caster)'s control (Fate Route - Bad Ending - Walpurgis Night)	non-canon
 Shirou Emiya	Artoria Pendragon (Saber)	Medea (Caster)	Struck down by Artoria Pendragon (Saber) while under Medea (Caster)'s control (Fate Route - Bad Ending - Witch's Mark)	non-canon
@@ -93,8 +100,8 @@ Shirou Emiya	Artoria Pendragon (Saber)	Sakura Matou	Struck down by Artoria Pendr
 Shirou Emiya	Artoria Pendragon (Saber) | Medea (Caster)	Souichirou Kuzuki	Murdered by Artoria Pendragon (Saber), controlled by Medea (Caster), and Medea (Caster) herself, on orders from Souichirou Kuzuki (Unlimited Blade Works Route - Bad Ending - Sword and Magic)	non-canon
 Shirou Emiya	Cú Chulainn (Lancer)	Kirei Kotomine	Impaled through the back by Cú Chulainn (Lancer) on orders from Kirei Kotomine (Fate Route - Bad Ending - Time Limit)	non-canon
 Shirou Emiya	Cú Chulainn (Lancer)	Kirei Kotomine	Stabbed in the heart by Cú Chulainn (Lancer) on orders from Kirei Kotomine (Unlimited Blade Works Route - Bad Ending - Third Death)	non-canon
-Shirou Emiya	EMIYA (Archer)		Murdered by EMIYA (Archer) (Unlimited Blade Works Route - Bad Ending - One Conclusion)	non-canon
-Shirou Emiya	Gilgamesh (Archer)		Fatally wounded by Gilgamesh (Archer) (Fate Route - Bad Ending - One End)	non-canon
+Shirou Emiya	EMIYA (Archer)		Stabbed by EMIYA (Archer) (Unlimited Blade Works Route - Bad Ending - One Conclusion)	non-canon
+Shirou Emiya	Gilgamesh (Archer)	Shirou Emiya	Gave up and let himself die after being fatally wounded by Gilgamesh (Archer) (Fate Route - Bad Ending - One End)	non-canon
 Shirou Emiya	Hassan of the Cursed Arm (Assassin)	Zouken Matou	Murdered by Hassan of the Cursed Arm (Assassin) on orders from Zouken Matou (Heaven's Feel Route - Bad Ending - Death Penalty)	non-canon
 Shirou Emiya	Heracles (Berserker)	Illyasviel von Einzbern	Bled out after having his legs cut off by Heracles (Berserker) on orders from Illyasviel von Einzbern (Fate Route - Bad Ending - Night Without Dawn)	non-canon
 Shirou Emiya	Heracles (Berserker) | Illyasviel von Einzbern		Fatally wounded by Heracles (Berserker) and tortured to death by Illyasviel von Einzbern (Fate Route - Bad Ending - Girl Rhapsody)	non-canon
@@ -103,7 +110,7 @@ Shirou Emiya	Illyasviel von Einzbern		Body destroyed by Illyasviel von Einzbern,
 Shirou Emiya	Illyasviel von Einzbern		Mind forcibly transferred in an object by Illyasviel von Einzbern (Fate Route - Bad Ending - Nutcracker Doll)	non-canon | physical
 Shirou Emiya	Illyasviel von Einzbern | Sella | Leysritt		Mind forcibly transferred in an object by Illyasviel von Einzbern, Sella and Leysritt (Fate Route - Bad Ending - Dress of Heaven)	non-canon | physical
 Shirou Emiya	Issei Ryuudou	Medea (Caster)	Stomach slashed by Issei Ryuudou while under Medea (Caster)'s control (Unlimited Blade Works Route - Bad Ending - Hypnos)	non-canon
-Shirou Emiya	Kirei Kotomine		Consumed by the Holy Grail's mud controlled by Kirei Kotomine (Fate Route - Bad Ending - Holy Grail Completed)	non-canon
+Shirou Emiya	Kirei Kotomine | Angra Mainyu (Avenger) (Holy Grail)		Consumed by Angra Mainyu (Avenger) (Holy Grail)'s mud controlled by Kirei Kotomine (Fate Route - Bad Ending - Holy Grail Completed)	non-canon
 Shirou Emiya	Medea (Caster)		Bled out after having his left arm cut off by Medea (Caster) (Fate Route - Bad Ending - Missing Ariadne)	non-canon
 Shirou Emiya	Medea (Caster)		Transformed into an Artificial Noble Phantasm by Medea (Caster) (Unlimited Blade Works Route - Bad Ending - Artificial Noble Phantasm)	non-canon
 Shirou Emiya	Medusa (Rider)		Slashed by Medusa (Rider) (Heaven's Feel Route - Bad Ending - Happy End)	non-canon
@@ -118,14 +125,16 @@ Shirou Emiya	Sakura Matou		Absorbed by the Shadow of Sakura Matou (Heaven's Feel
 Shirou Emiya	Sakura Matou		Devoured by the Shadow of Sakura Matou (Heaven's Feel Route - Bad Ending - Cursed Boundary Layer Womb Realm Mandala)	non-canon
 Shirou Emiya	Sakura Matou		Devoured by the Shadow of Sakura Matou (Heaven's Feel Route - Bad Ending - World Purge, Meltdown)	non-canon
 Shirou Emiya	Sakura Matou		Stabbed by the Shadow of Sakura Matou's tentacle (Heaven's Feel Route - Bad Ending - Horror Show)	non-canon
+Shirou Emiya	Shirou Emiya		Destroyed his own mind after projecting Excalibur (Heaven's Feel - Normal Ending)	variable
+Shirou Emiya	Shirou Emiya		Destroyed his own mind after projecting too many times (Heaven's Feel Route - Bad Ending - Sparks Liner High)	non-canon
 Shirou Emiya	Souichirou Kuzuki		Beaten to death by Souichirou Kuzuki (Unlimited Blade Works Route - Bad Ending - Killer)	non-canon
 Shirou Emiya	Zouken Matou		Devoured by the bugs controlled by Zouken Matou (Heaven's Feel Route - Bad Ending - Die Together)	non-canon
-Shirou Emiya's father	Kirei Kotomine		Incinerated during the great fire wished for by Kirei Kotomine	
-Shirou Emiya's mother	Kirei Kotomine		Incinerated during the great fire wished for by Kirei Kotomine	
-Souichirou Kuzuki	Gilgamesh (Archer)		Slain by Gilgamesh (Archer) (Fate Route)	variable | unavoidable
-Souichirou Kuzuki	Gilgamesh (Archer)		Slain by Gilgamesh (Archer) (Unlimited Blade Works Route)	variable | unavoidable
+Shirou Emiya's father	Artoria Pendragon (Saber)	Kiritsugu Emiya	Incinerated during the great fire caused by the destruction of the Holy Grail by Artoria Pendragon (Saber) on orders from Kiritsugu Emiya	
+Shirou Emiya's mother	Artoria Pendragon (Saber)	Kiritsugu Emiya	Incinerated during the great fire caused by the destruction of the Holy Grail by Artoria Pendragon (Saber) on orders from Kiritsugu Emiya	
+Souichirou Kuzuki	EMIYA (Archer)		Slashed by EMIYA (Archer) (Unlimited Blade Works Route)	variable | unavoidable
+Souichirou Kuzuki	Gilgamesh (Archer)		Impaled with his Noble Phantasms by Gilgamesh (Archer) (Fate Route)	variable | unavoidable
 Souichirou Kuzuki	Gilgamesh (Archer)		Struck down by Gilgamesh (Archer) (Fate Deen Anime)	variable | unavoidable
 Souichirou Kuzuki	Hassan of the Cursed Arm (Assassin)	Zouken Matou	Stabbed in the head by Hassan of the Cursed Arm (Assassin) on orders from Zouken Matou (Heaven's Feel Movies)	variable | unavoidable
-Souichirou Kuzuki	Medea (Caster)		Stabbed by Medea (Caster) (Heaven's Feel Route)	variable | unavoidable
+Souichirou Kuzuki	Medea (Caster)		Stabbed with Rule Breaker by Medea (Caster) (Heaven's Feel Route)	variable | unavoidable
 Zouken Matou	Kirei Kotomine | Sakura Matou		Body exorcised by Kirei Kotomine and heart remnant destroyed by Sakura Matou (Heaven's Feel Route)	variable
 Zouken Matou	Shirou Emiya		Murdered by Shirou Emiya to destroy the Holy Grail at any cost (Heaven's Feel Route - Bad Ending - Superhero)	non-canon
