@@ -1,6 +1,6 @@
 | universe                     | entry                                                      | deaths   |
 |------------------------------|------------------------------------------------------------|----------|
-| **\***                       | **\***                                                     | **3917** |
+| **\***                       | **\***                                                     | **3963** |
 | **Ace Attorney**             | **\***                                                     | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                                | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All              | 8        |
@@ -33,8 +33,9 @@
 | Bloodstained                 | Bloodstained Ritual of the Night                           | 44       |
 | **Claymore**                 | **\***                                                     | **80**   |
 | Claymore                     | Claymore                                                   | 80       |
-| **Code Geass**               | **\***                                                     | **47**   |
-| Code Geass                   | Code Geass Lelouch of the Rebellion                        | 47       |
+| **Code Geass**               | **\***                                                     | **58**   |
+| Code Geass                   | Code Geass Lelouch of the Rebellion                        | 50       |
+| Code Geass                   | Code Geass Lelouch of the Resurrection                     | 8        |
 | **Code Vein**                | **\***                                                     | **46**   |
 | Code Vein                    | Code Vein                                                  | 46       |
 | **Danganronpa**              | **\***                                                     | **112**  |
@@ -99,15 +100,15 @@
 | Lords of the Fallen          | Lords of the Fallen (2023)                                 | 87       |
 | **Mobile Suit Gundam**       | **\***                                                     | **37**   |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans                    | 37       |
-| **Nasuverse**                | **\***                                                     | **293**  |
-| Nasuverse                    | Fate / Apocrypha                                           | 25       |
+| **Nasuverse**                | **\***                                                     | **328**  |
+| Nasuverse                    | Fate / Apocrypha                                           | 31       |
 | Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Fuyuki  | 14       |
 | Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Okeanos | 18       |
 | Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Orleans | 21       |
 | Nasuverse                    | Fate / Grand Order / Observer on Timeless Temple / Septem  | 17       |
 | Nasuverse                    | Fate / Stay Night                                          | 142      |
 | Nasuverse                    | Fate / Zero                                                | 26       |
-| Nasuverse                    | Servants History                                           | 30       |
+| Nasuverse                    | Servants History                                           | 59       |
 | **Ozark**                    | **\***                                                     | **39**   |
 | Ozark                        | Ozark                                                      | 39       |
 | **Project Moon**             | **\***                                                     | **310**  |
