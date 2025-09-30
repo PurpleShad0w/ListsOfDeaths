@@ -1,6 +1,6 @@
 | universe                     | entry                                                      | deaths   |
 |------------------------------|------------------------------------------------------------|----------|
-| **\***                       | **\***                                                     | **3963** |
+| **\***                       | **\***                                                     | **3994** |
 | **Ace Attorney**             | **\***                                                     | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                                | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All              | 8        |
@@ -11,8 +11,8 @@
 | Akame ga Kill!               | Akame ga Kill!                                             | 102      |
 | Akame ga Kill!               | Akame ga Kill! Zero                                        | 36       |
 | Akame ga Kill!               | Hinowa ga Crush!                                           | 10       |
-| **Alice in Borderland**      | **\***                                                     | **56**   |
-| Alice in Borderland          | Alice in Borderland                                        | 44       |
+| **Alice in Borderland**      | **\***                                                     | **57**   |
+| Alice in Borderland          | Alice in Borderland                                        | 45       |
 | Alice in Borderland          | Alice in Borderland Retry                                  | 3        |
 | Alice in Borderland          | Alice on Border Road                                       | 9        |
 | **Assassin's Creed**         | **\***                                                     | **90**   |
@@ -62,8 +62,8 @@
 | Gantz                        | Gantz                                                      | 131      |
 | **Golden Kamuy**             | **\***                                                     | **77**   |
 | Golden Kamuy                 | Golden Kamuy                                               | 77       |
-| **Hollow Knight**            | **\***                                                     | **107**  |
-| Hollow Knight                | Hollow Knight                                              | 107      |
+| **Hollow Knight**            | **\***                                                     | **108**  |
+| Hollow Knight                | Hollow Knight                                              | 108      |
 | **Hunter × Hunter**          | **\***                                                     | **143**  |
 | Hunter × Hunter              | Hisoka's Past                                              | 1        |
 | Hunter × Hunter              | Hunter × Hunter                                            | 130      |
@@ -77,13 +77,13 @@
 | Infamous                     | Infamous Festival of Blood                                 | 4        |
 | Infamous                     | Infamous First Light                                       | 3        |
 | Infamous                     | Infamous Second Son                                        | 5        |
-| **Jojo's Bizarre Adventure** | **\***                                                     | **140**  |
+| **Jojo's Bizarre Adventure** | **\***                                                     | **142**  |
 | Jojo's Bizarre Adventure     | Battle Tendency                                            | 13       |
 | Jojo's Bizarre Adventure     | Diamond is Unbreakable                                     | 32       |
 | Jojo's Bizarre Adventure     | Phantom Blood                                              | 24       |
 | Jojo's Bizarre Adventure     | Stardust Crusaders                                         | 21       |
 | Jojo's Bizarre Adventure     | Stone Ocean                                                | 22       |
-| Jojo's Bizarre Adventure     | Vento Aureo                                                | 28       |
+| Jojo's Bizarre Adventure     | Vento Aureo                                                | 30       |
 | **Jujutsu Kaisen**           | **\***                                                     | **85**   |
 | Jujutsu Kaisen               | Jujutsu Kaisen                                             | 82       |
 | Jujutsu Kaisen               | Jujutsu Kaisen 0                                           | 3        |
@@ -131,6 +131,8 @@
 | Project Moon                 | Limbus Company / Inferno / The Unloving                    | 3        |
 | Project Moon                 | Limbus Company / Inferno / Timekilling Time                | 1        |
 | Project Moon                 | Lobotomy Corporation                                       | 12       |
+| **Science Adventure**        | **\***                                                     | **27**   |
+| Science Adventure            | Steins;Gate                                                | 27       |
 | **Staffer Series**           | **\***                                                     | **15**   |
 | Staffer Series               | Staffer Case                                               | 8        |
 | Staffer Series               | Staffer Reborn                                             | 7        |
