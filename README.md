@@ -1,6 +1,6 @@
 | universe                     | entry                                                      | deaths   |
 |------------------------------|------------------------------------------------------------|----------|
-| **\***                       | **\***                                                     | **3994** |
+| **\***                       | **\***                                                     | **4088** |
 | **Ace Attorney**             | **\***                                                     | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                                | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All              | 8        |
@@ -26,9 +26,10 @@
 | Attack on Titan              | Attack on Titan                                            | 138      |
 | **Attorney of the Arcane**   | **\***                                                     | **14**   |
 | Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                     | 14       |
-| **Blasphemous**              | **\***                                                     | **34**   |
-| Blasphemous                  | Blasphemous                                                | 33       |
-| Blasphemous                  | Blasphemous The Kneeling                                   | 1        |
+| **Blasphemous**              | **\***                                                     | **62**   |
+| Blasphemous                  | Blasphemous                                                | 39       |
+| Blasphemous                  | Blasphemous 2                                              | 21       |
+| Blasphemous                  | Blasphemous The Kneeling                                   | 2        |
 | **Bloodstained**             | **\***                                                     | **44**   |
 | Bloodstained                 | Bloodstained Ritual of the Night                           | 44       |
 | **Claymore**                 | **\***                                                     | **80**   |
@@ -62,8 +63,9 @@
 | Gantz                        | Gantz                                                      | 131      |
 | **Golden Kamuy**             | **\***                                                     | **77**   |
 | Golden Kamuy                 | Golden Kamuy                                               | 77       |
-| **Hollow Knight**            | **\***                                                     | **108**  |
+| **Hollow Knight**            | **\***                                                     | **174**  |
 | Hollow Knight                | Hollow Knight                                              | 108      |
+| Hollow Knight                | Hollow Knight Silksong                                     | 66       |
 | **Hunter × Hunter**          | **\***                                                     | **143**  |
 | Hunter × Hunter              | Hisoka's Past                                              | 1        |
 | Hunter × Hunter              | Hunter × Hunter                                            | 130      |
