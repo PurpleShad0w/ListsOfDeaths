@@ -36,7 +36,7 @@ Delta	Eric	Delta	Shot with a shotgun by Eric after Mind Hacking him to do so (CQ
 Delta	Eric	Delta	Shot with a shotgun by Eric, during the Decision Game he was overseeing (Q Team - Bad Ending - Eric's Confusion)	non-canon
 Delta	Mira	Delta	Shot by Mira, during the Decision Game he was overseeing (Q Team - Bad Ending - Shoot Mira)	non-canon
 Delta	Phi	Delta	Blown up by the bomb set up by Phi, put himself to sleep nearby (D Team - Bad Ending - Don't Run)	non-canon
-Delta	Phi	Delta	Blown up by the bomb set up by Phi, put himself to sleep nearby (D Team - End - Circle of Fate)	variable
+Delta	Phi	Delta	Blown up by the bomb set up by Phi, put himself to sleep nearby (D Team - End - Circle of Fate)	determinant
 Delta	Sean	Delta	Shot with an arrow by Sean, during the Decision Game he was overseeing (Q Team - End - Perceptive End)	non-canon
 Diana	Carlos	Delta	Doused in hydrofluoric acid after Carlos pressed the button, during the Decision Game overseen by Delta (C Team - Acid Rain)	non-canon
 Diana	Delta		Blown up alongside the shelter by Delta (CQD - Bad Ending)	non-canon
@@ -58,7 +58,7 @@ Eric	Eric	Delta	Shot himself with a shotgun, during the Decision Game overseen b
 Eric	Mira		Sliced open by Mira (Q Team - Bad Ending - Don't Shoot)	non-canon
 Eric	Mira	Delta	Stabbed by Mira, during the Decision Game overseen by Delta (Q Team - Inject)	non-canon
 Eric	Phi	Delta	Blown up by the bomb set up by Phi, Q Team put to sleep nearby by Delta (D Team - Bad Ending - Don't Run)	non-canon
-Eric	Phi	Delta	Blown up by the bomb set up by Phi, Q Team put to sleep nearby by Delta (D Team - End - Circle of Fate)	variable
+Eric	Phi	Delta	Blown up by the bomb set up by Phi, Q Team put to sleep nearby by Delta (D Team - End - Circle of Fate)	determinant
 Eric	Sean	Delta | Eric	Shot in the heart with an arrow by Sean when he jumped in front of Mira to protect her, during the Decision Game overseen by Delta (Q Team - Bad Ending - Shoot Mira)	non-canon
 Eric	Sean | Mira	Delta	Shot with an arrow by Sean and then shot with a gun by Mira, during the Decision Game overseen by Delta (Q Team - End - Shoot Eric)	non-canon
 Eric's father			Died of an illness	
@@ -87,7 +87,7 @@ Mira	Delta	Carlos | Diana	Executed with an exploding bomb collar by Delta after 
 Mira	Diana	Delta	Blown up alongside the shelter after Diana pressed the button, during the Decision Game overseen by Delta (D Team - Bad Ending - Press the Button)	non-canon
 Mira	Diana	Delta	Doused in hydrofluoric acid after Diana pressed the button, during the Decision Game overseen by Delta (D Team - Bad Ending - Acid Rain)	non-canon
 Mira	Phi	Delta	Blown up by the bomb set up by Phi, Q Team put to sleep nearby by Delta (D Team - Bad Ending - Don't Run)	non-canon
-Mira	Phi	Delta	Fatally wounded by the bomb set up by Phi, Q Team put to sleep nearby by Delta (D Team - End - Circle of Fate)	variable
+Mira	Phi	Delta	Fatally wounded by the bomb set up by Phi, Q Team put to sleep nearby by Delta (D Team - End - Circle of Fate)	determinant
 Mr. Kurashiki			Executed after being falsely accused of murdering Eric's mother	
 Mrs. Kurashiki	Mrs. Kurashiki		Took her own life after her husband's execution	
 Phi	Carlos	Delta	Doused in hydrofluoric acid after Carlos pressed the button, during the Decision Game overseen by Delta (C Team - Acid Rain)	non-canon
@@ -113,9 +113,9 @@ Sean	Eric	Delta	Shot with a shotgun by Eric, during the Decision Game overseen b
 Sean	Eric	Delta	Shot with a shotgun by Eric, during the Decision Game overseen by Delta (Q Team - Bad Ending - Eric's Rage)	non-canon
 Sean	Eric	Delta	Shot with a shotgun by Eric, during the Decision Game overseen by Delta (Q Team - Bad Ending - Incorrect Helmet Code)	non-canon
 Sean	Mira	Delta	Shot by Mira, during the Decision Game overseen by Delta (Q Team - Bad Ending - Shoot Mira)	non-canon
-Sean	Mira	Delta	Stabbed by Mira, during the Decision Game overseen by Delta (later revived by Delta) (Q Team - Inject)	temporary | non-canon
+Sean	Mira	Delta	Stabbed by Mira, during the Decision Game overseen by Delta (later revived by Delta) (Q Team - Inject)	revived | non-canon
 Sean	Phi	Delta	Blown up by the bomb set up by Phi, Q Team put to sleep nearby by Delta (D Team - Bad Ending - Don't Run)	non-canon
-Sean	Phi	Delta	Blown up by the bomb set up by Phi, Q Team put to sleep nearby by Delta (D Team - End - Circle of Fate)	variable
+Sean	Phi	Delta	Blown up by the bomb set up by Phi, Q Team put to sleep nearby by Delta (D Team - End - Circle of Fate)	determinant
 Sean (Boy)			Died of an illness	
 Sigma Klim	Carlos	Delta	Doused in hydrofluoric acid after Carlos pressed the button, during the Decision Game overseen by Delta (C Team - Acid Rain)	non-canon
 Sigma Klim	Delta		Blown up alongside the shelter by Delta (CQD - Bad Ending)	non-canon

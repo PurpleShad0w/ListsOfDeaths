@@ -1,5 +1,5 @@
 character	killed by	caused by	death	type
-Anastacia of Astora	Knight Lautrec of Carim		Slain by Knight Lautrec of Carim (revived, dependent on player choice)	temporary | variable
+Anastacia of Astora	Knight Lautrec of Carim		Slain by Knight Lautrec of Carim (revived, dependent on player choice)	revived | determinant
 Asylum Demon	Chosen Undead		Slain by the Chosen Undead	
 Bed of Chaos	Chosen Undead		Slain by the Chosen Undead	
 Bell Gargoyles	Chosen Undead | Knight Lautrec of Carim | Solaire of Astora		Slain by the Chosen Undead, assisted by Knight Lautrec of Carim or Solaire of Astora	
@@ -25,8 +25,8 @@ Channeler (Depths)	Chosen Undead		Slain by the Chosen Undead
 Channeler (Undead Parish)	Chosen Undead		Slain by the Chosen Undead	
 Chaos Eaters	Chosen Undead		Slain by the Chosen Undead	
 Chaos Witch Quelaag	Chosen Undead | Maneater Mildred		Slain by the Chosen Undead, assisted by Maneater Mildred	
-Chosen Undead	Chosen Undead		Burned themself in the First Flame (dependent on player choice)	variable
-Chosen Undead	Seath the Scaleless		Cursed by Seath the Scaleless (revived)	temporary
+Chosen Undead	Chosen Undead		Burned themself in the First Flame (dependent on player choice)	determinant
+Chosen Undead	Seath the Scaleless		Cursed by Seath the Scaleless (revived)	revived
 Crestfallen Warrior	Chosen Undead		Slain by the Chosen Undead	
 Crossbreed Priscilla	Chosen Undead		Slain by the Chosen Undead	
 Crystal Knight	Chosen Undead		Slain by the Chosen Undead	
@@ -65,21 +65,21 @@ Great Felines	Chosen Undead		Slain by the Chosen Undead
 Great Grey Wolf Sif	Chosen Undead		Slain by the Chosen Undead	
 Griggs of Vinheim	Chosen Undead		Slain by the Chosen Undead	
 Gwyn, Lord of Cinder	Chosen Undead | Solaire of Astora		Slain by the Chosen Undead, assisted by Solaire of Astora	
-Gwyn, Lord of Cinder	Gwyn, Lord of Cinder		Burned himself in the First Flame (revived)	temporary
+Gwyn, Lord of Cinder	Gwyn, Lord of Cinder		Burned himself in the First Flame (revived)	revived
 Havel the Rock	Chosen Undead		Slain by the Chosen Undead	
 Hellkite Drake	Chosen Undead		Slain by the Chosen Undead	
 Hydra (Ash Lake)	Chosen Undead		Slain by the Chosen Undead	
 Hydra (Darkroot Basin)	Chosen Undead		Slain by the Chosen Undead	
 Iron Golem	Chosen Undead | Black Iron Tarkus		Slain by the Chosen Undead, assisted by Black Iron Tarkus	
 Kirk, Knight of Thorns	Chosen Undead		Slain by the Chosen Undead	
-Kirk, Knight of Thorns	Chosen Undead		Slain by the Chosen Undead (revived)	temporary
-Kirk, Knight of Thorns	Chosen Undead		Slain by the Chosen Undead (revived)	temporary
+Kirk, Knight of Thorns	Chosen Undead		Slain by the Chosen Undead (revived)	revived
+Kirk, Knight of Thorns	Chosen Undead		Slain by the Chosen Undead (revived)	revived
 Knight Artorias	Chosen Undead		Slain by the Chosen Undead	
 Knight Lautrec of Carim	Chosen Undead		Slain by the Chosen Undead	
-Laurentius of the Great Swamp	Chosen Undead		Slain by the Chosen Undead (dependent on player choice)	variable
-Maneater Mildred	Chosen Undead		Slain by the Chosen Undead (revived)	temporary
+Laurentius of the Great Swamp	Chosen Undead		Slain by the Chosen Undead (dependent on player choice)	determinant
+Maneater Mildred	Chosen Undead		Slain by the Chosen Undead (revived)	revived
 Manus, Father of the Abyss	Chosen Undead | Great Grey Wolf Sif		Slain by the Chosen Undead, assisted by Great Grey Wolf Sif	
-Marvelous Chester	Chosen Undead		Slain by the Chosen Undead (revived)	temporary
+Marvelous Chester	Chosen Undead		Slain by the Chosen Undead (revived)	revived
 Masses of Souls	Chosen Undead		Slain by the Chosen Undead	
 Mimic (Sen's Fortress)	Chosen Undead		Slain by the Chosen Undead	
 Mimics (Anor Londo)	Chosen Undead		Slain by the Chosen Undead	
@@ -93,12 +93,12 @@ Paladin Leeroy	Chosen Undead		Slain by the Chosen Undead
 Parasitic Wall Hugger	Chosen Undead		Slain by the Chosen Undead	
 Pinwheel	Chosen Undead | Paladin Leeroy		Slain by the Chosen Undead, assisted by Paladin Leeroy	
 Possessed Trees	Chosen Undead		Slain by the Chosen Undead	
-Reah of Thorolund	Petrus of Thorolund		Slain by Petrus of Thorolund (dependent on player choice)	variable
+Reah of Thorolund	Petrus of Thorolund		Slain by Petrus of Thorolund (dependent on player choice)	determinant
 Sanctuary Guardian	Chosen Undead		Slain by the Chosen Undead	
 Seath the Scaleless	Chosen Undead		Slain by the Chosen Undead	
-Siegmeyer of Catarina	Chaos Eaters		Fatally wounded by Chaos Eaters (dependent on player choice)	variable
-Siegmeyer of Catarina	Sieglinde of Catarina		Slain by Sieglinde of Catarina (dependent on player choice)	variable
-Solaire of Astora	Chosen Undead		Slain by the Chosen Undead (dependent on player choice)	variable
+Siegmeyer of Catarina	Chaos Eaters		Fatally wounded by Chaos Eaters (dependent on player choice)	determinant
+Siegmeyer of Catarina	Sieglinde of Catarina		Slain by Sieglinde of Catarina (dependent on player choice)	determinant
+Solaire of Astora	Chosen Undead		Slain by the Chosen Undead (dependent on player choice)	determinant
 Stray Demon	Chosen Undead		Slain by the Chosen Undead	
 Taurus Demon	Chosen Undead		Slain by the Chosen Undead	
 Titanite Demon (Anor Londo)	Chosen Undead		Slain by the Chosen Undead	

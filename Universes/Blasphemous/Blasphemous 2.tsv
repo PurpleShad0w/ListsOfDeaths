@@ -9,14 +9,14 @@ Eviterno, First of the Penitents	Penitent One		Stabbed through the heart by the 
 Faceless One, Chisel of Oblivion	Penitent One		Slain by the Penitent One	
 Great Preceptor Radamés	Penitent One | Yerma		Slain by the Penitent One, assisted by Yerma	
 Incarnate Devotion	Crisanta of the Wrapped Agony		Stabbed through the head with Mea Culpa by Crisanta of the Wrapped Agony (Ending C)	
-Incarnate Devotion	Penitent One		Slain by the Penitent One (Ending A)	variable
+Incarnate Devotion	Penitent One		Slain by the Penitent One (Ending A)	determinant
 Infanta	Penitent One		Slain by the Penitent One	
 Lesmes, Incorrupt Sacristan	Penitent One		Slain by the Penitent One	
 Odón of the Confraternity of Salt	Penitent One		Slain by the Penitent One	
 Orospina, Lady Embroiderer	Penitent One		Slain by the Penitent One	
-Penitent One		Penitent One	Ascended to heaven after completing his penance (Ending A)	variable
-Penitent One	Brother Asterion		Impaled through the back by Brother Asterion (revived by the Miracle)	temporary
+Penitent One		Penitent One	Ascended to heaven after completing his penance (Ending A)	determinant
+Penitent One	Brother Asterion		Impaled through the back by Brother Asterion (revived by the Miracle)	revived
 Sor Cautiva Del Silencio	Penitent One		Slain by the Penitent One	
 Svsona, Fermosa Fembra	Penitent One | Yerma		Slain by the Penitent One, assisted by Yerma	
 Sínodo, Hymn of the Thousand Voices	Penitent One | Yerma		Slain by the Penitent One, assisted by Yerma	
-Yerma	Svsona, Fermosa Fembra		Slain by Svsona, Fermosa Fembra (dependent on player choice)	variable
+Yerma	Svsona, Fermosa Fembra		Slain by Svsona, Fermosa Fembra (dependent on player choice)	determinant

@@ -1,13 +1,13 @@
 character	killed by	caused by	death	type
-Don Quixote	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (revived by Dante)	temporary
-Faust	Panther		Impaled through the heart by Panther (revived by Dante)	temporary
-Gregor	Panther		Impaled through the back by Panther (revived by Dante)	temporary
-Heathcliff	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (revived by Dante)	temporary
-Hong Lu	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (revived by Dante)	temporary
-Ishmael	Wolf		Bisected by Wolf (revived by Dante)	temporary
-Meursault	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (revived by Dante)	temporary
-Outis	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (revived by Dante)	temporary
-Rodion	Lion		Head smashed by Lion (revived by Dante)	temporary
-Ryōshū	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (revived by Dante)	temporary
-Sinclair	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (revived by Dante)	temporary
-Yi Sang	Wolf		Bisected by Wolf (revived by Dante)	temporary
+Don Quixote	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (undone by Dante)	undone
+Faust	Panther		Impaled through the heart by Panther (undone by Dante)	undone
+Gregor	Panther		Impaled through the back by Panther (undone by Dante)	undone
+Heathcliff	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (undone by Dante)	undone
+Hong Lu	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (undone by Dante)	undone
+Ishmael	Wolf		Bisected by Wolf (undone by Dante)	undone
+Meursault	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (undone by Dante)	undone
+Outis	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (undone by Dante)	undone
+Rodion	Lion		Head smashed by Lion (undone by Dante)	undone
+Ryōshū	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (undone by Dante)	undone
+Sinclair	Lion | Wolf | Panther		Murdered by Lion, Wolf or Panther (undone by Dante)	undone
+Yi Sang	Wolf		Bisected by Wolf (undone by Dante)	undone

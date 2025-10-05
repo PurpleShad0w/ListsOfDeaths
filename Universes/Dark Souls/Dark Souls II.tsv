@@ -4,24 +4,24 @@ Afflicted Graverobber	Bearer of the Curse | Rapacious Andrei | Ruined Aflis		Sla
 Ancient Dragon	Bearer of the Curse | Vengarl of Forossa | Melinda the Butcher | Bashful Ray		Slain by the Bearer of the Curse, assisted by Vengarl of Forossa, Melinda the Butcher or Bashful Ray	
 Ancient Soldier Varg	Bearer of the Curse | Rapacious Andrei | Ruined Aflis		Slain by the Bearer of the Curse, assisted by Rapacious Andrei or Ruined Aflis	
 Armorer Dennis	Bearer of the Curse		Slain by the Bearer of the Curse	
-Armorer Dennis	Bearer of the Curse		Slain by the Bearer of the Curse (revived)	temporary
+Armorer Dennis	Bearer of the Curse		Slain by the Bearer of the Curse (revived)	revived
 Aslatiel of Mirrah	Bearer of the Curse		Slain by the Bearer of the Curse	
 Aurous Knight Dark Spirit	Bearer of the Curse		Slain by the Bearer of the Curse	
 Bastard Sword Dark Spirit	Bearer of the Curse		Slain by the Bearer of the Curse	
 Belfry Gargoyles	Bearer of the Curse | Masterless Glencour		Slain by the Bearer of the Curse, assisted by Masterless Glencour	
 Bell Keeper (Dark Spirit)	Bearer of the Curse		Slain by the Bearer of the Curse	
-Bell Keeper (Dark Spirit)	Bearer of the Curse		Slain by the Bearer of the Curse (revived)	temporary
+Bell Keeper (Dark Spirit)	Bearer of the Curse		Slain by the Bearer of the Curse (revived)	revived
 Blue Sentinel Dark Spirit	Bearer of the Curse		Slain by the Bearer of the Curse	
 Blue-eyed Durgo	Bearer of the Curse		Slain by the Bearer of the Curse	
 Bowman Guthry	Bearer of the Curse		Slain by the Bearer of the Curse	
-Bowman Guthry	Bearer of the Curse		Slain by the Bearer of the Curse (revived)	temporary
+Bowman Guthry	Bearer of the Curse		Slain by the Bearer of the Curse (revived)	revived
 Burnt Ivory King	Bearer of the Curse | Lucatiel of Mirrah | Twiggy Shei		Slain by the Bearer of the Curse, assisted by Lucatiel of Mirrah or Twiggy Shei	
 Captain Drummond			Slain by the Giants	
 Castaway Witch Donna	Bearer of the Curse		Slain by the Bearer of the Curse	
 Catarina Knight Dark Spirit	Bearer of the Curse		Slain by the Bearer of the Curse	
 Cerah the Old Explorer	Bearer of the Curse | Rapacious Andrei | Ruined Aflis		Slain by the Bearer of the Curse, assisted by Rapacious Andrei or Ruined Aflis	
 Covetous Demon	Bearer of the Curse		Slain by the Bearer of the Curse	
-Creighton the Wanderer	Bearer of the Curse | Mild-Mannered Pate		Slain by the Bearer of the Curse or Mild-Mannered Pate (dependent on player choice)	variable
+Creighton the Wanderer	Bearer of the Curse | Mild-Mannered Pate		Slain by the Bearer of the Curse or Mild-Mannered Pate (dependent on player choice)	determinant
 Crystal Lizard (Brume Tower)	Bearer of the Curse		Slain by the Bearer of the Curse	
 Crystal Lizard (Doors of Pharros)	Bearer of the Curse		Slain by the Bearer of the Curse	
 Crystal Lizard (Drangleic Castle)	Bearer of the Curse		Slain by the Bearer of the Curse	
@@ -48,7 +48,7 @@ Elana, the Squalid Queen	Bearer of the Curse | Steelheart Ellie | Benhart of Jug
 Executioner Dark Spirit	Bearer of the Curse		Slain by the Bearer of the Curse	
 Executioner's Chariot	Bearer of the Curse | Creighton the Wanderer | Bashful Ray		Slain by the Bearer of the Curse, assisted by Creighton the Wanderer or Bashful Ray	
 Fencer Sharron	Bearer of the Curse		Slain by the Bearer of the Curse	
-Fencer Sharron	Bearer of the Curse		Slain by the Bearer of the Curse (revived)	temporary
+Fencer Sharron	Bearer of the Curse		Slain by the Bearer of the Curse (revived)	revived
 Flexile Sentry	Bearer of the Curse | Lucatiel of Mirrah | Bradley of the Old Guard		Slain by the Bearer of the Curse, assisted by Lucatiel of Mirrah or Bradley of the Old Guard	
 Full Moon Sickle Phantom	Bearer of the Curse		Slain by the Bearer of the Curse	
 Fume Knight	Bearer of the Curse | Steelheart Ellie | Carhillion of the Fold		Slain by the Bearer of the Curse, assisted by Steelheart Ellie or Carhillion of the Fold	
@@ -70,7 +70,7 @@ Mad Warrior	Bearer of the Curse		Slain by the Bearer of the Curse
 Maldron the Assassin	Bearer of the Curse		Slain by the Bearer of the Curse	
 Melinda the Butcher	Bearer of the Curse		Slain by the Bearer of the Curse	
 Merciless Roenna	Bearer of the Curse		Slain by the Bearer of the Curse	
-Mild-Mannered Pate	Bearer of the Curse | Creighton the Wanderer		Slain by the Bearer of the Curse or Creighton the Wanderer (dependent on player choice)	variable
+Mild-Mannered Pate	Bearer of the Curse | Creighton the Wanderer		Slain by the Bearer of the Curse or Creighton the Wanderer (dependent on player choice)	determinant
 Mimic (Brightstone Cove Tseldora)	Bearer of the Curse		Slain by the Bearer of the Curse	
 Mimic (Doors of Pharros)	Bearer of the Curse		Slain by the Bearer of the Curse	
 Mimic (Dragon Shrine)	Bearer of the Curse		Slain by the Bearer of the Curse	
@@ -84,11 +84,11 @@ Mimics (Iron Keep)	Bearer of the Curse		Slain by the Bearer of the Curse
 Mytha, the Baneful Queen	Bearer of the Curse | Jester Thomas | Devotee Scarlett | Bashful Ray		Slain by the Bearer of the Curse, assisted by Jester Thomas, Devotee Scarlett or Bashful Ray	
 Nadalia, Bride of Ash	Bearer of the Curse		Soul hosts destroyed by the Bearer of the Curse	
 Nameless Usurper	Bearer of the Curse		Slain by the Bearer of the Curse	
-Nameless Usurper	Bearer of the Curse		Slain by the Bearer of the Curse (revived)	temporary
+Nameless Usurper	Bearer of the Curse		Slain by the Bearer of the Curse (revived)	revived
 Nashandra	Bearer of the Curse | Vengarl of Forossa | Benhart of Jugo | Bradley of the Old Guard		Slain by the Bearer of the Curse, assisted by Vengarl of Forossa, Benhart of Jugo or Bradley of the Old Guard	
 Old Dragonslayer	Bearer of the Curse | Masterless Glencour | Devotee Scarlett		Slain by the Bearer of the Curse, assisted by Masterless Glencour or Devotee Scarlett	
 Old Iron King	Bearer of the Curse | Manhunter O'Harrah		Slain by the Bearer of the Curse, assisted by Manhunter O'Harrah	
-Old Iron King	Smelter Demon		Slain by the Smelter Demon (revived)	temporary
+Old Iron King	Smelter Demon		Slain by the Smelter Demon (revived)	revived
 Oliver the Collector	Bearer of the Curse		Slain by the Bearer of the Curse	
 Painting Protector	Bearer of the Curse		Slain by the Bearer of the Curse	
 Peculiar Kindalur	Bearer of the Curse		Slain by the Bearer of the Curse	
@@ -100,12 +100,12 @@ Rhoy the Explorer	Bearer of the Curse		Slain by the Bearer of the Curse
 Rockshield Baldyr	Bearer of the Curse		Slain by the Bearer of the Curse	
 Royal Rat Authority	Bearer of the Curse		Slain by the Bearer of the Curse	
 Royal Rat Vanguard	Bearer of the Curse		Slain by the Bearer of the Curse	
-Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (dependent on player choice)	variable
-Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (revived, dependent on player choice)	temporary | variable
-Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (revived, dependent on player choice)	temporary | variable
-Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (revived, dependent on player choice)	temporary | variable
-Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (revived, dependent on player choice)	temporary | variable
-Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (revived, dependent on player choice)	temporary | variable
+Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (dependent on player choice)	determinant
+Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (revived, dependent on player choice)	revived | determinant
+Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (revived, dependent on player choice)	revived | determinant
+Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (revived, dependent on player choice)	revived | determinant
+Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (revived, dependent on player choice)	revived | determinant
+Royal Sorcerer Navlaan	Bearer of the Curse		Slain by the Bearer of the Curse (revived, dependent on player choice)	revived | determinant
 Ruin Sentinels	Bearer of the Curse | Pilgrim Bellclaire | Felicia the Brave		Slain by the Bearer of the Curse, assisted by Pilgrim Bellclaire or Felicia the Brave	
 Scorpioness Najka	Bearer of the Curse | Manscorpion Tark | Bradley of the Old Guard		Slain by the Bearer of the Curse, assisted by Manscorpion Tark or Bradley of the Old Guard	
 Sinh, the Slumbering Dragon	Bearer of the Curse | Transcendent Edde | Abbess Feeva		Slain by the Bearer of the Curse, assisted by Transcendent Edde or Abbess Feeva	

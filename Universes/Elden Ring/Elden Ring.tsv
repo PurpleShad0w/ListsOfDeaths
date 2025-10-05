@@ -5,17 +5,17 @@ Adan, Thief of Fire	The Tarnished		Slain by the Tarnished
 Aging Untouchables	The Tarnished		Slain by the Tarnished	
 Alecto, Black Knife Ringleader	The Tarnished		Slain by the Tarnished	
 Alexander, Warrior Jar	The Tarnished		Destroyed in a duel against the Tarnished	
-Amy, Third Sister	The Tarnished | Millicent the Rotting		Slain by the Tarnished, assisted by Millicent the Rotting (dependent on player choice)	variable
+Amy, Third Sister	The Tarnished | Millicent the Rotting		Slain by the Tarnished, assisted by Millicent the Rotting (dependent on player choice)	determinant
 Anastasia, Tarnished-Eater	The Tarnished		Slain by the Tarnished	
-Anastasia, Tarnished-Eater	The Tarnished		Slain by the Tarnished (revived)	temporary
-Anastasia, Tarnished-Eater	The Tarnished		Slain by the Tarnished (revived)	temporary
+Anastasia, Tarnished-Eater	The Tarnished		Slain by the Tarnished (revived)	revived
+Anastasia, Tarnished-Eater	The Tarnished		Slain by the Tarnished (revived)	revived
 Ancestor Spirit			Died from unknown causes (returned as a spirit)	physical
 Ancient Dragon Gransax			Died during his assault on Leyndell	
 Ancient Dragon Knight Kristoff			Died from unknown causes (returned as a spirit)	physical
 Ancient Dragon Lansseax	The Tarnished		Slain by the Tarnished	
 Ancient Dragon Senessax	The Tarnished		Slain by the Tarnished	
 Ancient Dragon-Man	The Tarnished		Slain by the Tarnished	
-Ancient Dragon-Man	The Tarnished		Slain by the Tarnished (revived)	temporary
+Ancient Dragon-Man	The Tarnished		Slain by the Tarnished (revived)	revived
 Ancient Hero of Zamor (Giant-Conquering Hero's Grave)	The Tarnished		Slain by the Tarnished	
 Ancient Hero of Zamor (Sainted Hero's Grave)	The Tarnished		Slain by the Tarnished	
 Ancient Hero of Zamor (Weeping Evergaol)	The Tarnished		Slain by the Tarnished	
@@ -33,10 +33,10 @@ Bayle the Dread	The Tarnished | Drake Warrior Igon		Slain by the Tarnished, assi
 Beastman of Farum Azula	The Tarnished		Slain by the Tarnished	
 Beastman of Farum Azula (Cleaver)	The Tarnished		Slain by the Tarnished	
 Beastman of Farum Azula (Throwing Knife)	The Tarnished		Slain by the Tarnished	
-Bell Bearing Hunter	The Tarnished		Slain by the Tarnished (revived)	temporary
-Bell Bearing Hunter	The Tarnished		Slain by the Tarnished (revived)	temporary
-Bell Bearing Hunter	The Tarnished		Slain by the Tarnished (revived)	temporary
-Bell Bearing Hunter	The Tarnished		Slain by the Tarnished (revived)	temporary
+Bell Bearing Hunter	The Tarnished		Slain by the Tarnished (revived)	revived
+Bell Bearing Hunter	The Tarnished		Slain by the Tarnished (revived)	revived
+Bell Bearing Hunter	The Tarnished		Slain by the Tarnished (revived)	revived
+Bell Bearing Hunter	The Tarnished		Slain by the Tarnished (revived)	revived
 Birac	Birac		Severed his own head	
 Black Blade Kindred (Bestial Sanctum)	The Tarnished		Slain by the Tarnished	
 Black Blade Kindred (Forbidden Lands)	The Tarnished | Millicent the Rotting		Slain by the Tarnished, assisted by Millicent the Rotting	
@@ -59,11 +59,11 @@ Bloody Finger Hunter Yura	Eleonora, Violet Bloody Finger		Fatally wounded by Ele
 Bloody Finger Nerijus	The Tarnished | Bloody Finger Hunter Yura		Slain by the Tarnished, assisted by Bloody Finger Hunter Yura	
 Bloody Finger Okina	The Tarnished		Slain by the Tarnished	
 Bloody Finger Ravenmount Assassin	The Tarnished | Bloody Finger Hunter Yura		Slain by the Tarnished, assisted by Bloody Finger Hunter Yura	
-Boc the Seamster	Rennala, Queen of the Full Moon		Reborn as a human by Rennala, Queen of the Full Moon, perishes shortly thereafter (dependent on player choice)	variable
+Boc the Seamster	Rennala, Queen of the Full Moon		Reborn as a human by Rennala, Queen of the Full Moon, perishes shortly thereafter (dependent on player choice)	determinant
 Boc's Mother			Died from unknown causes	
 Bols, Carian Knight	The Tarnished		Slain by the Tarnished	
 Borealis the Freezing Fog	The Tarnished		Slain by the Tarnished	
-Brother Corhyn	Brother Corhyn		Committed suicide (dependent on player choice)	variable
+Brother Corhyn	Brother Corhyn		Committed suicide (dependent on player choice)	determinant
 Cemetery Shade (Black Knife Catacombs)	The Tarnished		Slain by the Tarnished	
 Cemetery Shade (Caelid Catacombs)	The Tarnished		Slain by the Tarnished	
 Cemetery Shade (Tombsward Catacombs)	The Tarnished		Slain by the Tarnished	
@@ -129,18 +129,18 @@ Divine Bird Warrior Ornis			Died from unknown causes (returned as a spirit)	phys
 Dolores the Sleeping Arrow	Preceptor Seluvis		Turned into a puppet by Preceptor Seluvis	physical
 Draconic Tree Sentinel (Capital Outskirts)	The Tarnished | Great Horned Tragoth | Millicent the Rotting		Slain by the Tarnished, assisted by Great Horned Tragoth or Millicent the Rotting	
 Draconic Tree Sentinel (Farum Azula)	The Tarnished		Slain by the Tarnished	
-Dragon Communion Priestess	Dragon Communion Priestess		Ripped her own heart out after Bayle's defeat (dependent on player choice)	variable
-Dragon Communion Priestess	Dragon Communion Priestess		Willingly lets herself turn into a spirit (dependent on player choice)	variable | physical
+Dragon Communion Priestess	Dragon Communion Priestess		Ripped her own heart out after Bayle's defeat (dependent on player choice)	determinant
+Dragon Communion Priestess	Dragon Communion Priestess		Willingly lets herself turn into a spirit (dependent on player choice)	determinant | physical
 Dragonkin Soldier (Lake of Rot)	The Tarnished		Slain by the Tarnished	
 Dragonkin Soldier (Siofra River)	The Tarnished		Slain by the Tarnished	
 Dragonkin Soldier of Nokstella	The Tarnished		Slain by the Tarnished	
 Dragonlord Placidusax	The Tarnished		Slain by the Tarnished	
 Drake Warrior Igon			Died after the defeat of Bayle the Dread	
-Dryleaf Dane	The Tarnished		Slain by the Tarnished (revived)	temporary
+Dryleaf Dane	The Tarnished		Slain by the Tarnished (revived)	revived
 Dryleaf Dane	The Tarnished | Sanguine Noble Nataan | Sir Ansbach | Sir Thiollier		Slain by the Tarnished, assisted by Sanguine Noble Nataan, Sir Ansbach or Sir Thiollier	
-Dung Eater	The Tarnished		Slain by the Tarnished (revived)	temporary
-Dung Eater	The Tarnished	Dung Eater	Defiled by the Tarnished using the Seedbed Curse, on his own orders (dependent on player choice)	variable
-Dung Eater	The Tarnished	Preceptor Seluvis	Turned into a puppet by the Tarnished using Preceptor Seluvis' potion (dependent on player choice)	variable | physical
+Dung Eater	The Tarnished		Slain by the Tarnished (revived)	revived
+Dung Eater	The Tarnished	Dung Eater	Defiled by the Tarnished using the Seedbed Curse, on his own orders (dependent on player choice)	determinant
+Dung Eater	The Tarnished	Preceptor Seluvis	Turned into a puppet by the Tarnished using Preceptor Seluvis' potion (dependent on player choice)	determinant | physical
 Edgar the Revenger	The Tarnished		Slain by the Tarnished	
 Elden Beast	The Tarnished		Slain by the Tarnished	
 Elder Dragon Greyoll	The Tarnished		Slain by the Tarnished	
@@ -173,7 +173,7 @@ Fallingstar Beast (Finger Ruins of Dheo)	The Tarnished		Slain by the Tarnished
 Fallingstar Beast (Sellia Crystal Tunnel)	The Tarnished		Slain by the Tarnished	
 Fell Twin (Axe)	The Tarnished		Slain by the Tarnished	
 Fell Twin (Cleaver)	The Tarnished		Slain by the Tarnished	
-Festering Fingerprint Vyke	The Tarnished		Slain by the Tarnished (revived)	temporary
+Festering Fingerprint Vyke	The Tarnished		Slain by the Tarnished (revived)	revived
 Fia's First Champion			Died from unknown causes (returned as a spirit)	physical
 Fia's Second Champion			Died from unknown causes (returned as a spirit)	physical
 Fia's Third Champion			Died from unknown causes (returned as a spirit)	physical
@@ -183,7 +183,7 @@ Fire Giant	The Tarnished | Alexander, Warrior Jar		Slain by the Tarnished, assis
 Fire Knight Hilde			Died from unknown causes (returned as a spirit)	physical
 Fire Knight Kood	The Tarnished		Slain by the Tarnished	
 Fire Knight Queelign	The Tarnished		Slain by the Tarnished (potentially turned into a spirit)	physical
-Fire Knight Queelign	The Tarnished		Slain by the Tarnished (revived)	temporary
+Fire Knight Queelign	The Tarnished		Slain by the Tarnished (revived)	revived
 Fire Knight Salza	The Tarnished		Slain by the Tarnished	
 Fire Knight Wego	The Tarnished		Slain by the Tarnished	
 Flying Dragon Agheel	The Tarnished | Bloody Finger Hunter Yura		Slain by the Tarnished, assisted by Bloody Finger Hunter Yura	
@@ -217,7 +217,7 @@ Godskin Noble (Divine Tower of Liurnia)	The Tarnished		Slain by the Tarnished
 Godskin Noble (Godskin Duo)	The Tarnished | Knight Bernahl		Slain by the Tarnished, assisted by Knight Bernahl	
 Godskin Noble (Spiritcaller Cave)			Died from unknown causes (returned as a spirit)	physical
 Godskin Noble (Volcano Manor)	The Tarnished		Slain by the Tarnished	
-Godwyn the Golden	Black Knife Assassins	Lunar Princess Ranni	Soul destroyed by the Black Knife Assassins, orchestrated by Lunar Princess Ranni	braindead
+Godwyn the Golden	Black Knife Assassins	Lunar Princess Ranni	Soul destroyed by the Black Knife Assassins, orchestrated by Lunar Princess Ranni	brain-dead
 Golden Hippopotamus	The Tarnished | Hornsent | Redmane Freyja		Slain by the Tarnished, assisted by Hornsent or Redmane Freyja	
 Golden Hippopotamus (Ancient Ruins of Rauh)	The Tarnished		Slain by the Tarnished	
 Golden Hippopotamus (Charo's Hidden Grave)	The Tarnished		Slain by the Tarnished	
@@ -234,9 +234,9 @@ Grave Warden Duelist (Murkwater Catacombs)	The Tarnished		Slain by the Tarnished
 Great Horned Tragoth	The Tarnished	Patches the Untethered | Tanith, Volcano Manor Proprietress	Slain by the Tarnished on orders from Patches the Untethered and Tanith, Volcano Manor Proprietress	
 Great Wyrm Theodorix	The Tarnished		Slain by the Tarnished	
 Guardian Golem	The Tarnished		Slain by the Tarnished	
-Hornsent	The Tarnished		Slain by the Tarnished (dependent on player choice)	variable | unavoidable
-Hornsent	The Tarnished | Needle Knight Leda		Slain by the Tarnished, assisted by Needle Knight Leda (dependent on player choice)	variable | unavoidable
-Hornsent	The Tarnished | Sanguine Noble Nataan | Sir Ansbach | Sir Thiollier		Slain by the Tarnished, assisted by Sanguine Noble Nataan, Sir Ansbach or Sir Thiollier (dependent on player choice)	variable | unavoidable
+Hornsent	The Tarnished		Slain by the Tarnished (dependent on player choice)	determinant | unavoidable
+Hornsent	The Tarnished | Needle Knight Leda		Slain by the Tarnished, assisted by Needle Knight Leda (dependent on player choice)	determinant | unavoidable
+Hornsent	The Tarnished | Sanguine Noble Nataan | Sir Ansbach | Sir Thiollier		Slain by the Tarnished, assisted by Sanguine Noble Nataan, Sir Ansbach or Sir Thiollier (dependent on player choice)	determinant | unavoidable
 Inaba, Disciple of Okina			Died from unknown causes (returned as spirits)	physical
 Incantation Scarabs	The Tarnished		Slain by the Tarnished	
 Inquisitor Ghiza	The Tarnished		Slain by the Tarnished	
@@ -281,14 +281,14 @@ Malformed Star (Ainsel River Main)	The Tarnished		Slain by the Tarnished
 Malformed Star (Perfumer's Grotto)	The Tarnished		Slain by the Tarnished	
 Malformed Star (Uhl Palace Ruins)	The Tarnished		Slain by the Tarnished	
 Maliketh, the Black Blade	The Tarnished		Slain by the Tarnished	
-Mary, Eldest Sister	The Tarnished | Millicent the Rotting		Slain by the Tarnished, assisted by Millicent the Rotting (dependent on player choice)	variable
-Maureen, Second Sister	The Tarnished | Millicent the Rotting		Slain by the Tarnished, assisted by Millicent the Rotting (dependent on player choice)	variable
-Melina	Melina		Burns herself with the Flame of Ruin (dependent on player choice)	variable
+Mary, Eldest Sister	The Tarnished | Millicent the Rotting		Slain by the Tarnished, assisted by Millicent the Rotting (dependent on player choice)	determinant
+Maureen, Second Sister	The Tarnished | Millicent the Rotting		Slain by the Tarnished, assisted by Millicent the Rotting (dependent on player choice)	determinant
+Melina	Melina		Burns herself with the Flame of Ruin (dependent on player choice)	determinant
 Messmer the Impaler	The Tarnished | Hornsent | Jolán, Swordhand of Night		Slain by the Tarnished, assisted by Hornsent or Jolán, Swordhand of Night	
 Metyr, Mother of Fingers	The Tarnished		Slain by the Tarnished	
 Midra, Lord of Frenzied Flame	The Tarnished		Slain by the Tarnished	
-Millicent the Rotting	The Tarnished		Slain by the Tarnished (revived)	temporary
-Millicent the Rotting	The Tarnished | Millicent's Sisters		Slain by the Tarnished, assisted by Millicent's Sisters (dependent on player choice)	variable
+Millicent the Rotting	The Tarnished		Slain by the Tarnished (revived)	revived
+Millicent the Rotting	The Tarnished | Millicent's Sisters		Slain by the Tarnished, assisted by Millicent's Sisters (dependent on player choice)	determinant
 Milos			Died from unknown causes	
 Mimic Tear	The Tarnished		Slain by the Tarnished	
 Miquella the Kind		The Tarnished	Perished after the defeat of Promised Consort Radahn at the Tarnished's hands	
@@ -305,10 +305,10 @@ Morgott, the Omen King	The Tarnished | Dung Eater | Melina		Slain by the Tarnish
 Nameless White Masks	The Tarnished		Slain by the Tarnished	
 Nanaya			Died from unknown causes	
 Necromancer Garris	The Tarnished		Slain by the Tarnished	
-Needle Knight Leda	The Tarnished | Hornsent		Slain by the Tarnished, assisted by Hornsent (revived, dependent on player choice)	temporary | variable
+Needle Knight Leda	The Tarnished | Hornsent		Slain by the Tarnished, assisted by Hornsent (revived, dependent on player choice)	revived | determinant
 Needle Knight Leda	The Tarnished | Sanguine Noble Nataan | Sir Ansbach | Sir Thiollier		Slain by the Tarnished, assisted by Sanguine Noble Nataan, Sir Ansbach or Sir Thiollier	
-Nepheli Loux	The Tarnished	Preceptor Seluvis	Turned into a puppet by the Tarnished using Preceptor Seluvis' potion (dependent on player choice)	variable | physical
-Nepheli Loux, Warrior	The Tarnished	Preceptor Seluvis	Turned into a puppet by the Tarnished using Preceptor Seluvis' potion (dependent on player choice)	variable | physical
+Nepheli Loux	The Tarnished	Preceptor Seluvis	Turned into a puppet by the Tarnished using Preceptor Seluvis' potion (dependent on player choice)	determinant | physical
+Nepheli Loux, Warrior	The Tarnished	Preceptor Seluvis	Turned into a puppet by the Tarnished using Preceptor Seluvis' potion (dependent on player choice)	determinant | physical
 Night's Cavalry (Altus Plateau)	The Tarnished		Slain by the Tarnished	
 Night's Cavalry (Caelid North)	The Tarnished		Slain by the Tarnished	
 Night's Cavalry (Caelid South)	The Tarnished		Slain by the Tarnished	
@@ -331,9 +331,9 @@ Onyx Lord (Royal Grave Evergaol)	The Tarnished		Slain by the Tarnished
 Onyx Lord (Sealed Tunnel)	The Tarnished		Slain by the Tarnished	
 Perfumer Tricia	The Tarnished		Slain by the Tarnished (turned into a spirit)	physical
 Pidia, Carian Servant			Murdered by his own Raya Lucaria Soldier puppets	
-Polyanna, Youngest Sister	The Tarnished | Millicent the Rotting		Slain by the Tarnished, assisted by Millicent the Rotting (dependent on player choice)	variable
+Polyanna, Youngest Sister	The Tarnished | Millicent the Rotting		Slain by the Tarnished, assisted by Millicent the Rotting (dependent on player choice)	determinant
 Preceptor Miriam	The Tarnished		Slain by the Tarnished	
-Preceptor Miriam	The Tarnished		Slain by the Tarnished (revived)	temporary
+Preceptor Miriam	The Tarnished		Slain by the Tarnished (revived)	revived
 Preceptor Seluvis	Ranni the Witch		Turned into a puppet by Ranni the Witch	physical
 Promised Consort Radahn	The Tarnished | Sir Ansbach | Sir Thiollier		Slain by the Tarnished, assisted by Sir Ansbach or Sir Thiollier	
 Putrescent Knight	The Tarnished		Slain by the Tarnished	
@@ -348,7 +348,7 @@ Putrid Grave Warden Duelist	The Tarnished		Slain by the Tarnished
 Putrid Tree Spirit (Elphael, Brace of the Haligtree)	The Tarnished		Slain by the Tarnished	
 Putrid Tree Spirit (Grand Cloister)	The Tarnished		Slain by the Tarnished	
 Putrid Tree Spirit (War-Dead Catacombs)	The Tarnished		Slain by the Tarnished	
-Radagon of the Golden Order	The Tarnished		Slain by the Tarnished (potentially revived dependent on player choice)	variable
+Radagon of the Golden Order	The Tarnished		Slain by the Tarnished (potentially revived dependent on player choice)	determinant
 Rakshasa			Died from unknown causes (returned as a spirit)	physical
 Ralva the Great Red Bear	The Tarnished		Slain by the Tarnished	
 Recusant Henricus	The Tarnished		Slain by the Tarnished	
@@ -365,30 +365,30 @@ Roundtable Knight Vyke	The Tarnished		Slain by the Tarnished
 Royal Revenant	The Tarnished		Slain by the Tarnished	
 Rugalea the Great Red Bear	The Tarnished | Redmane Freyja		Slain by the Tarnished, assisted by Redmane Freyja	
 Runebear	The Tarnished		Slain by the Tarnished	
-Rya the Scout	The Tarnished	Rya the Scout	Slain by the Tarnished on her own orders (dependent on player choice)	variable
+Rya the Scout	The Tarnished	Rya the Scout	Slain by the Tarnished on her own orders (dependent on player choice)	determinant
 Rykard, Lord of Blasphemy	The Tarnished		Slain by the Tarnished	
-Sage Gowry			Died after Millicent's death (dependent on player choice)	variable
+Sage Gowry			Died after Millicent's death (dependent on player choice)	determinant
 Sanguine Noble	The Tarnished		Slain by the Tarnished	
 Sanguine Noble (Invader)	The Tarnished		Slain by the Tarnished	
 Scadutree Avatar	The Tarnished		Slain by the Tarnished	
 Scaly Misbegotten	The Tarnished		Slain by the Tarnished	
 Serosh, the Beast Regent	Godfrey, First Elden Lord		Murdered by Godfrey, First Elden Lord during his fight with the Tarnished	
-Sir Ansbach			Died after the defeat of Promised Consort Radahn (dependent on player choice)	variable | unavoidable
-Sir Ansbach	The Tarnished | Needle Knight Leda		Slain by the Tarnished, assisted by Needle Knight Leda (dependent on player choice)	variable | unavoidable
+Sir Ansbach			Died after the defeat of Promised Consort Radahn (dependent on player choice)	determinant | unavoidable
+Sir Ansbach	The Tarnished | Needle Knight Leda		Slain by the Tarnished, assisted by Needle Knight Leda (dependent on player choice)	determinant | unavoidable
 Sir Gideon Ofnir, the All-Knowing	The Tarnished		Slain by the Tarnished	
-Sir Moore			Fell into despair and let himself die (dependent on player choice)	variable | unavoidable
-Sir Moore	The Tarnished | Sanguine Noble Nataan | Sir Ansbach | Sir Thiollier		Slain by the Tarnished, assisted by Sanguine Noble Nataan, Sir Ansbach or Sir Thiollier (dependent on player choice)	variable | unavoidable
+Sir Moore			Fell into despair and let himself die (dependent on player choice)	determinant | unavoidable
+Sir Moore	The Tarnished | Sanguine Noble Nataan | Sir Ansbach | Sir Thiollier		Slain by the Tarnished, assisted by Sanguine Noble Nataan, Sir Ansbach or Sir Thiollier (dependent on player choice)	determinant | unavoidable
 Sir Thiollier			Died after the defeat of Promised Consort Radahn	
-Sir Thiollier	The Tarnished		Slain by the Tarnished (revived)	temporary
+Sir Thiollier	The Tarnished		Slain by the Tarnished (revived)	revived
 Soldier of Godrick	The Tarnished		Slain by the Tarnished	
 Somber Scarabs	The Tarnished		Slain by the Tarnished	
 Sorcerer Rogier			Succombed to a Deathroot infection (returned as a spirit)	physical
 Sorcerer Thops			Passed away after creating Thops's Barrier	
-Sorceress Sellen	The Tarnished | Witch-Hunter Jerren		Slain by the Tarnished, assisted by Witch-Hunter Jerren (dependent on player choice)	variable
+Sorceress Sellen	The Tarnished | Witch-Hunter Jerren		Slain by the Tarnished, assisted by Witch-Hunter Jerren (dependent on player choice)	determinant
 Spellmachinist Rabbath			Died from unknown causes	
 Spiritcaller Snail (Road's End Catacombs)	The Tarnished		Slain by the Tarnished	
 Spiritcaller Snail (Spiritcaller Cave)	The Tarnished		Slain by the Tarnished	
-Starscourge Radahn	The Tarnished | Alexander, Warrior Jar | Blaidd the Half-Wolf | Finger Maiden Therolina | Great Horned Tragoth | Lionel the Lionhearted | Bloody Finger Okina | Patches the Untethered | Witch-Hunter Jerren		Slain by the Tarnished, assisted by Alexander, Blaidd, Therolina, Tragoth, Lionel, Okina, Patches or Jerren (revived by Miquella the Kind)	temporary
+Starscourge Radahn	The Tarnished | Alexander, Warrior Jar | Blaidd the Half-Wolf | Finger Maiden Therolina | Great Horned Tragoth | Lionel the Lionhearted | Bloody Finger Okina | Patches the Untethered | Witch-Hunter Jerren		Slain by the Tarnished, assisted by Alexander, Blaidd, Therolina, Tragoth, Lionel, Okina, Patches or Jerren (revived by Miquella the Kind)	revived
 Stonedigger Troll (Limgrave Tunnels)	The Tarnished		Slain by the Tarnished	
 Stonedigger Troll (Old Altus Tunnel)	The Tarnished		Slain by the Tarnished	
 Stormhawk Deenh			Died from unknown causes (returned as a spirit)	physical
@@ -400,7 +400,7 @@ Tanith, Volcano Manor Proprietress	The Tarnished		Slain by the Tarnished
 Taylew the Golem Smith			Died from unknown causes (returned as a spirit)	physical
 The Revenger	Godfrey, First Elden Lord		Slain by Godfrey, First Elden Lord	
 The Stormhawk King			Died from unknown causes (returned as a spirit)	physical
-The Tarnished	Ranni the Witch		Murdered by Ranni the Witch (revived, dependent on player choice)	temporary | variable
+The Tarnished	Ranni the Witch		Murdered by Ranni the Witch (revived, dependent on player choice)	revived | determinant
 Tibia Mariner (Charo's Hidden Grave)	The Tarnished		Slain by the Tarnished	
 Tibia Mariner (Liurnia)	The Tarnished		Slain by the Tarnished	
 Tibia Mariner (Mountaintops)	The Tarnished		Slain by the Tarnished	
@@ -429,7 +429,7 @@ Volcano Manor Apparition			Died from unknown causes (returned as a spirit)	physi
 Vyke's Finger Maiden			Died from unknown causes	
 War Counselor Iji			Murdered by several Black Knife Assassins	
 White Mask Varré	The Tarnished		Slain by the Tarnished	
-Witch-Hunter Jerren	The Tarnished | Sorceress Sellen		Slain by the Tarnished, assisted by Sorceress Sellen (dependent on player choice)	variable
+Witch-Hunter Jerren	The Tarnished | Sorceress Sellen		Slain by the Tarnished, assisted by Sorceress Sellen (dependent on player choice)	determinant
 Wormface	The Tarnished		Slain by the Tarnished	
 Ymir, Mother of Fingers	The Tarnished		Slain by the Tarnished	
 Yuri			Died young from unknown causes	

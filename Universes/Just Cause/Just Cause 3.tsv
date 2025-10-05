@@ -8,8 +8,8 @@ Dushku	De Luca	Sebastiano Di Ravello	Stabbed in the neck and head by De Luca on 
 Eden	Rico Rodriguez		Hard drive ripped off and thrown into the sea by Rico Rodriguez	
 Eden Callaghan	Eden		Frozen by Eden	
 Moreau			Perished during an electrical incident	
-Sebastiano Di Ravello	Rico Rodriguez		Shot by Rico Rodriguez (dependent on player choice)	variable | unavoidable
-Sebastiano Di Ravello	Sebastiano Di Ravello		Threw himself into lava (dependent on player choice)	variable | unavoidable
+Sebastiano Di Ravello	Rico Rodriguez		Shot by Rico Rodriguez (dependent on player choice)	determinant | unavoidable
+Sebastiano Di Ravello	Sebastiano Di Ravello		Threw himself into lava (dependent on player choice)	determinant | unavoidable
 Simone Corso	Eden		Frozen by Eden	
 Theresa Vidal	Eden		Frozen by Eden	
 Zach Schlappi	Eden		Frozen by Eden	

@@ -16,21 +16,21 @@ Disgraced Chef Lugoli	Hornet		Stabbed by Hornet with her Needle
 Eva	Hornet	Eva	Bound via silk by Hornet on her own request	
 Father of the Flame	Hornet		Stabbed by Hornet with her Needle	
 Fearful Pilgrim			Died from unknown causes in the Marrow	
-First Sinner			Crushed to death within her cell in the Slab (reanimated when Hornet entered her cell)	temporary
+First Sinner			Crushed to death within her cell in the Slab (reanimated when Hornet entered her cell)	revived
 First Sinner	Hornet		Bound via silk by Hornet	
 Forebrother Gron	Hornet		Stabbed by Hornet with her Needle	
 Forebrother Signis	Hornet		Stabbed by Hornet with her Needle	
 Fourth Chorus	Hornet		Stabbed by Hornet with her Needle	
-Grand Mother Silk			Consumed by the Void (Sister of the Void Ending)	variable | unavoidable
-Grand Mother Silk	Hornet		Bound via silk by Hornet (Weaver Queen Ending)	variable | unavoidable
-Grand Mother Silk	Hornet | Twisted Bud	Greyroot	Defeated by Hornet, then ensnared and turned into wood by the Twisted Bud due to Greyroot's Rite of Rebirth (Twisted Child Ending)	variable | unavoidable
+Grand Mother Silk			Consumed by the Void (Sister of the Void Ending)	determinant | unavoidable
+Grand Mother Silk	Hornet		Bound via silk by Hornet (Weaver Queen Ending)	determinant | unavoidable
+Grand Mother Silk	Hornet | Twisted Bud	Greyroot	Defeated by Hornet, then ensnared and turned into wood by the Twisted Bud due to Greyroot's Rite of Rebirth (Twisted Child Ending)	determinant | unavoidable
 Great Conchfly	Hornet		Stabbed by Hornet with her Needle	
 Green Prince	Hornet		Memory destroyed by Hornet to acquire the Conjoined Heart	
 Greyroot	Greyroot		Petrified themself to perform the Rite of Rebirth on Hornet	
 Groal the Great	Hornet		Stabbed by Hornet with her Needle	
 Gurr the Outcast	Hornet		Stabbed by Hornet with her Needle	
-Hornet	Twisted Bud	Greyroot	Ensnared and turned into wood by the Twisted Bud due to Greyroot's Rite of Rebirth (Twisted Child Ending)	variable
-Huntress			Devoured by her brood (dependent on player choice)	variable
+Hornet	Twisted Bud	Greyroot	Ensnared and turned into wood by the Twisted Bud due to Greyroot's Rite of Rebirth (Twisted Child Ending)	determinant
+Huntress			Devoured by her brood (dependent on player choice)	determinant
 Last Judge	Hornet		Stabbed by Hornet with her Needle	
 Loam			Crushed under debris during Act 3	
 Lost Garmond	Hornet		Stabbed by Hornet with her Needle	
@@ -46,7 +46,7 @@ Nyleth	Hornet		Memory destroyed by Hornet to acquire the Pollen Heart
 Palestag	Hornet		Stabbed by Hornet with her Needle	
 Pebb	Hornet		Stabbed by Hornet with her Needle	
 Phantom	Hornet		Stabbed by Hornet with her Needle	
-Pilby	Skull Tyrant (Bone Bottom)		Crushed by the Skull Tyrant (Bone Bottom) (dependent on player choice)	variable
+Pilby	Skull Tyrant (Bone Bottom)		Crushed by the Skull Tyrant (Bone Bottom) (dependent on player choice)	determinant
 Plasmified Zango	Hornet		Stabbed by Hornet with her Needle	
 Raging Conchfly	Hornet		Stabbed by Hornet with her Needle	
 Savage Beastfly	Hornet		Stabbed by Hornet with her Needle	
