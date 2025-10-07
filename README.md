@@ -1,3 +1,22 @@
+### Terminology for Character Statuses
+
+- **deceased** - the character stayed dead.
+- **alive** - the character did not die or did not stay dead.
+- - **revived**      - this death was nullified when the character was brought back from the dead.
+- - **reincarnated** - this death was nullified when the character was reborn with their memories.
+- - **undone**       - this death was nullified via time travel.
+- - **non-canon**    - this death happened, but is not considered canon when it comes to the character's status.
+- **dependent** - the character may or may not be deceased depending on certain factors.
+- - **determinant** - this death happening depends upon a player's choice.
+- - **continuant**  - this death exists but not in every adaptation of a story, and the character's canonical status is unspecified.
+- - **unavoidable** - this death happens differently depending upon a choice but always happens nonetheless.
+- **extant** - the character is arguably deceased yet still remains due to specific circumstances.
+- - **physical**   - this death concerns only a character's body, leaving their mind or soul alive.
+- - **brain-dead** - this death left the character only physically alive, with no brain activity possible.
+- - **undead**     - this death turned the character into an undead being such as a zombie or a ghost.
+- **variants** - the 'character' refers here to a cumulative summary of all different versions of a character.
+
+
 ### Status of Incomplete Entries
 
 - Dr. Stone - missing characters revived via petrification
@@ -5,14 +24,14 @@
 - Gantz - up to and including the **Dinosaur Alien Mission Arc**
 - Hunter × Hunter - up to and including the **13th Hunter Chairman Election Arc**
 - Limbus Company - up to and including **Intervallo VI: Spring Cultivation**
-- Re:Zero - up to and including **Arc 2 - The Turbulent Week**
+- Re:Zero - up to and including **Arc 3 - Return to the Royal Capital**
 
 
 ### Summary of Universes and Entries
 
 | universe                     | entry                                                 | deaths   |
 |------------------------------|-------------------------------------------------------|----------|
-| **\***                       | **\***                                                | **4101** |
+| **\***                       | **\***                                                | **4125** |
 | **Ace Attorney**             | **\***                                                | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                           | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All         | 8        |
@@ -127,8 +146,8 @@
 | Project Moon                 | Library of Ruina                                      | 134      |
 | Project Moon                 | Limbus Company                                        | 164      |
 | Project Moon                 | Lobotomy Corporation                                  | 12       |
-| **Re Zero**                  | **\***                                                | **12**   |
-| Re Zero                      | Re Zero -Starting Life in Another World-              | 12       |
+| **Re Zero**                  | **\***                                                | **36**   |
+| Re Zero                      | Re Zero -Starting Life in Another World-              | 36       |
 | **Science Adventure**        | **\***                                                | **27**   |
 | Science Adventure            | Steins;Gate                                           | 27       |
 | **Staffer Series**           | **\***                                                | **15**   |
