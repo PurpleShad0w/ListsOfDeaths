@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths   |
 |------------------------------|-------------------------------------------------------|----------|
-| **\***                       | **\***                                                | **4125** |
+| **\***                       | **\***                                                | **4247** |
 | **Ace Attorney**             | **\***                                                | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                           | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All         | 8        |
@@ -89,6 +89,8 @@
 | Dragon's Dogma               | Dragon's Dogma Dark Arisen                            | 45       |
 | **Elden Ring**               | **\***                                                | **434**  |
 | Elden Ring                   | Elden Ring                                            | 434      |
+| **Final Fantasy**            | **\***                                                | **122**  |
+| Final Fantasy                | Final Fantasy XIII                                    | 122      |
 | **Future Diary**             | **\***                                                | **44**   |
 | Future Diary                 | Future Diary                                          | 44       |
 | **Gantz**                    | **\***                                                | **131**  |
