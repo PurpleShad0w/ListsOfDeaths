@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths   |
 |------------------------------|-------------------------------------------------------|----------|
-| **\***                       | **\***                                                | **4247** |
+| **\***                       | **\***                                                | **4264** |
 | **Ace Attorney**             | **\***                                                | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                           | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All         | 8        |
@@ -136,10 +136,11 @@
 | Lords of the Fallen          | Lords of the Fallen (2023)                            | 87       |
 | **Mobile Suit Gundam**       | **\***                                                | **37**   |
 | Mobile Suit Gundam           | Mobile Suit Gundam Iron-Blooded Orphans               | 37       |
-| **Nasuverse**                | **\***                                                | **329**  |
+| **Nasuverse**                | **\***                                                | **346**  |
 | Nasuverse                    | Fate Apocrypha                                        | 31       |
 | Nasuverse                    | Fate Grand Order                                      | 70       |
-| Nasuverse                    | Fate Stay Night                                       | 142      |
+| Nasuverse                    | Fate Prototype Fragments of Sky Silver                | 16       |
+| Nasuverse                    | Fate Stay Night                                       | 143      |
 | Nasuverse                    | Fate Zero                                             | 26       |
 | Nasuverse                    | Servants History                                      | 60       |
 | **Ozark**                    | **\***                                                | **39**   |
