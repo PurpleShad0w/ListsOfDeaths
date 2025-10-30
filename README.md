@@ -31,7 +31,10 @@
 
 | universe                     | entry                                                 | deaths   |
 |------------------------------|-------------------------------------------------------|----------|
-| **\***                       | **\***                                                | **4264** |
+| **\***                       | **\***                                                | **4293** |
+| **AI The Somnium Files**     | **\***                                                | **29**   |
+| AI The Somnium Files         | AI The Somnium Files                                  | 21       |
+| AI The Somnium Files         | AI The Somnium Files - nirvanA Initative              | 8        |
 | **Ace Attorney**             | **\***                                                | **50**   |
 | Ace Attorney                 | Phoenix Wright Ace Attorney                           | 15       |
 | Ace Attorney                 | Phoenix Wright Ace Attorney - Justice for All         | 8        |
@@ -67,8 +70,8 @@
 | **Claymore**                 | **\***                                                | **80**   |
 | Claymore                     | Claymore                                              | 80       |
 | **Code Geass**               | **\***                                                | **58**   |
+| Code Geass                   | Code Geass Lelouch of the Re;surrection               | 8        |
 | Code Geass                   | Code Geass Lelouch of the Rebellion                   | 50       |
-| Code Geass                   | Code Geass Lelouch of the Resurrection                | 8        |
 | **Code Vein**                | **\***                                                | **46**   |
 | Code Vein                    | Code Vein                                             | 46       |
 | **Danganronpa**              | **\***                                                | **112**  |
@@ -109,10 +112,10 @@
 | **Infamous**                 | **\***                                                | **39**   |
 | Infamous                     | Infamous                                              | 10       |
 | Infamous                     | Infamous 2                                            | 13       |
-| Infamous                     | Infamous Comics                                       | 4        |
 | Infamous                     | Infamous Festival of Blood                            | 4        |
 | Infamous                     | Infamous First Light                                  | 3        |
 | Infamous                     | Infamous Second Son                                   | 5        |
+| Infamous                     | _comics                                               | 4        |
 | **Jojo's Bizarre Adventure** | **\***                                                | **142**  |
 | Jojo's Bizarre Adventure     | Battle Tendency                                       | 13       |
 | Jojo's Bizarre Adventure     | Diamond is Unbreakable                                | 32       |
@@ -128,10 +131,10 @@
 | Just Cause                   | Just Cause 4                                          | 13       |
 | **Little Nightmares**        | **\***                                                | **17**   |
 | Little Nightmares            | Little Nightmares                                     | 5        |
-| Little Nightmares            | Little Nightmares Comics                              | 3        |
 | Little Nightmares            | Little Nightmares II                                  | 5        |
 | Little Nightmares            | The Sounds of Nightmares                              | 1        |
 | Little Nightmares            | Very Little Nightmares                                | 3        |
+| Little Nightmares            | _comics                                               | 3        |
 | **Lords of the Fallen**      | **\***                                                | **87**   |
 | Lords of the Fallen          | Lords of the Fallen (2023)                            | 87       |
 | **Mobile Suit Gundam**       | **\***                                                | **37**   |
@@ -140,9 +143,9 @@
 | Nasuverse                    | Fate Apocrypha                                        | 31       |
 | Nasuverse                    | Fate Grand Order                                      | 70       |
 | Nasuverse                    | Fate Prototype Fragments of Sky Silver                | 16       |
-| Nasuverse                    | Fate Stay Night                                       | 143      |
 | Nasuverse                    | Fate Zero                                             | 26       |
-| Nasuverse                    | Servants History                                      | 60       |
+| Nasuverse                    | Fate stay night                                       | 143      |
+| Nasuverse                    | _servants lore                                        | 60       |
 | **Ozark**                    | **\***                                                | **39**   |
 | Ozark                        | Ozark                                                 | 39       |
 | **Project Moon**             | **\***                                                | **310**  |
@@ -161,7 +164,7 @@
 | **The Evil Within**          | **\***                                                | **57**   |
 | The Evil Within              | The Evil Within                                       | 28       |
 | The Evil Within              | The Evil Within 2                                     | 23       |
-| The Evil Within              | The Evil Within Comics                                | 6        |
+| The Evil Within              | _comics                                               | 6        |
 | **The Golden Idol**          | **\***                                                | **32**   |
 | The Golden Idol              | The Case of the Golden Idol                           | 32       |
 | **Tokyo Ghoul**              | **\***                                                | **140**  |
