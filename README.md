@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths   |
 |------------------------------|-------------------------------------------------------|----------|
-| **\***                       | **\***                                                | **4293** |
+| **\***                       | **\***                                                | **4333** |
 | **AI The Somnium Files**     | **\***                                                | **29**   |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21       |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8        |
@@ -74,11 +74,12 @@
 | Code Geass                   | Code Geass Lelouch of the Rebellion                   | 50       |
 | **Code Vein**                | **\***                                                | **46**   |
 | Code Vein                    | Code Vein                                             | 46       |
-| **Danganronpa**              | **\***                                                | **112**  |
+| **Danganronpa**              | **\***                                                | **152**  |
 | Danganronpa                  | Danganronpa 2 Goodbye Despair                         | 15       |
 | Danganronpa                  | Danganronpa 3 The End of Hope's Peak High School      | 27       |
 | Danganronpa                  | Danganronpa Another Episode Ultra Despair Girls       | 4        |
 | Danganronpa                  | Danganronpa Gaiden Killer Killer                      | 10       |
+| Danganronpa                  | Danganronpa Kirigiri                                  | 40       |
 | Danganronpa                  | Danganronpa Trigger Happy Havoc                       | 20       |
 | Danganronpa                  | Danganronpa V3 Killing Harmony                        | 25       |
 | Danganronpa                  | Danganronpa Zero                                      | 11       |
