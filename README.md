@@ -31,7 +31,7 @@
 
 | universe                     | entry                                                 | deaths   |
 |------------------------------|-------------------------------------------------------|----------|
-| **\***                       | **\***                                                | **4333** |
+| **\***                       | **\***                                                | **4380** |
 | **AI The Somnium Files**     | **\***                                                | **29**   |
 | AI The Somnium Files         | AI The Somnium Files                                  | 21       |
 | AI The Somnium Files         | AI The Somnium Files - nirvanA Initiative             | 8        |
@@ -61,6 +61,8 @@
 | Attack on Titan              | Lost in the Cruel World                               | 4        |
 | **Attorney of the Arcane**   | **\***                                                | **14**   |
 | Attorney of the Arcane       | Tyrion Cuthbert Attorney of the Arcane                | 14       |
+| **Barry**                    | **\***                                                | **47**   |
+| Barry                        | Barry                                                 | 47       |
 | **Blasphemous**              | **\***                                                | **62**   |
 | Blasphemous                  | Blasphemous                                           | 39       |
 | Blasphemous                  | Blasphemous 2                                         | 21       |
