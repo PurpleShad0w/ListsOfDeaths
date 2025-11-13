@@ -1,81 +1,81 @@
-character	killed by	caused by	death	type
-Agatha	Clare		Sliced to pieces by Clare	
-Alexandra	Teresa		Slain by Teresa	
-Alice	Alexandra		Slain by Alexandra	
-Alicia	Priscilla		Head ripped off by Priscilla	
-Armadillo Being	Clare | Flora		Sliced into pieces by Clare and Flora	
-Beth	Priscilla		Mangled by Priscilla	
-Cassandra		Roxanne	Sliced into pieces by Claymores after being incapacitated by Roxanne (revived by Dae)	revived
-Cassandra	Priscilla		Ripped apart and devoured by Priscilla (revived)	revived
-Cassandra	Teresa		Slashed by Teresa	
-Cassandra's Friend		Roxanne	Mutilated by an Awakened Being, orchestrated by Roxanne	
-Chloe			Died from unknown causes	
-Christine	Hysteria		Slain by Hysteria	
-Chronos	Priscilla		Slain and assimilated by Priscilla	
-Clarice	Clarice		Disintegrated after synchronizing her Yoki with Miata's	
-Claudia		Isley	Slain during the Northern Campaign by Isley's army	
-Claymore of Jean's team	Dauf	Riful	Fatally wounded by Dauf on orders from Riful	
-Dae	Priscilla		Ripped in half by Priscilla	
-Dauf	Priscilla		Slain by Priscilla	
-Diana		Isley	Slain during the Northern Campaign by Isley's army	
-Elena	Clare		Slashed by Clare	
-Eliza		Isley	Slain during the Northern Campaign by Isley's army	
-Elizabeth		Roxanne	Slain by an Awakened Being, orchestrated by Roxanne	
-Emelia		Isley	Slain during the Northern Campaign by Isley's army	
-Europa	Miata		Sliced into pieces by Miata	
-Eva			Slain by an Awakened Being	
-Flora	Rigardo	Isley	Sliced in half by Rigardo on orders from Isley	
-Former Single-digit	Ophelia		Decapitated by Ophelia	
-Four-Armed Awakened Being	Dietrich		Slain by Dietrich	
-Hilda	Miria		Decapitated by Miria	
-Human being of Northern Campaign	Miria		Beheaded by Miria	
-Hysteria	Rosemary	Teresa	Slain by Rosemary after being critically injured by Teresa (revived by Dae)	revived
-Hysteria	Roxanne | Cassandra		Fatally wounded by Roxanne and Cassandra	
-Insectoid Being	Veronica | Cynthia		Slain by Veronica and Cynthia	
-Isley			Devoured by Abyss Feeders	
-Jean	Jean | Rigardo	Isley	Perished when synchronizing herself with Clare, after being fatally wounded by Rigardo on orders from Isley	
-Juliana		Isley	Slain during the Northern Campaign by Isley's army	
-Karla		Isley	Slain during the Northern Campaign by Isley's army	
-Kate			Slain by an Awakened Being	
-Katea	Dauf	Riful	Crushed by Dauf on orders from Riful	
-Kenneth			Murdered by a Yoma	
-Lars	Cassandra		Ripped in half by Cassandra	
-Licht			Died from unknown causes	
-Lily		Isley	Slain during the Northern Campaign by Isley's army	
-Lucia			Slain by an Awakened Being	
-Luciela	Priscilla		Stomped on by Priscilla	
-Luciela	Rafaela		Back broken by Rafaela (revived as The Destroyer)	revived
-Lutecia			Died from unknown causes	
-Mantis Being	Clare | Miria		Slain by Clare and Miria	
-Matilda		Isley	Slain during the Northern Campaign by Isley's army	
-Natalie		Isley	Slain during the Northern Campaign by Isley's army	
-Neideen		Roxanne	Slain by an Awakened Being, orchestrated by Roxanne	
-Noel	Priscilla		Impaled by Priscilla	
-Octavia	Priscilla		Devoured by Priscilla	
-Ophelia	Clare		Slain by Clare	
-Pamela		Isley	Slain during the Northern Campaign by Isley's army	
-Priscilla	Teresa		Disintegrated after being fatally wounded by Teresa	
-Queenie		Isley	Slain during the Northern Campaign by Isley's army	
-Rafaela	Priscilla		Stomped on by Priscilla	
-Rafaela	Rafaela		Injected her own life force into Luciela (revived as The Destroyer)	revived
-Raquel	Dauf	Riful	Fatally wounded by Dauf on orders from Riful	
-Riful	Priscilla		Stabbed with spikes from within herself by Priscilla	
-Riful-Like Being	Priscilla		Cut to pieces by Priscilla	
-Rig	Teresa		Murdered by Teresa	
-Rigardo	Clare		Sliced into pieces by Clare	
-Rimuto	Miria		Beheaded by Miria	
-Rosemary	Teresa		Sliced into pieces by Teresa	
-Roxanne			Died from unknown causes (revived by Dae)	revived
-Roxanne	Cassandra		Devoured by Cassandra	
-Sistina			Died from unknown causes	
-Six-Legged Being	Clare | Cynthia | Yuma		Slain by Clare, Cynthia and Yuma	
-Sophia	Priscilla		Impaled by Priscilla	
-Tabitha	Priscilla		Limbs severed by Priscilla	
-Teresa	Priscilla		Decapitated by Priscilla (preserved within Clare)	physical
-Undine	Rigardo	Isley	Slain by Rigardo on orders from Isley	
-Undine's Friend			Died from unknown causes	
-Uranus		Roxanne	Slain by an Awakened Being, orchestrated by Roxanne	
-Veronica	Rigardo	Isley	Slain by Rigardo on orders from Isley	
-Wendy		Isley	Slain during the Northern Campaign by Isley's army	
-Zaki	Clare		Cut in half vertically by Clare	
-Zelda		Isley	Slain during the Northern Campaign by Isley's army	
+character	killed by	death	type
+Agatha	Clare	Sliced to pieces by Clare	
+Alexandra	Teresa	Slain by Teresa	
+Alice	Alexandra	Slain by Alexandra	
+Alicia	Priscilla	Head ripped off by Priscilla	
+Armadillo Being	Clare | Flora	Sliced into pieces by Clare and Flora	
+Beth	Priscilla	Mangled by Priscilla	
+Cassandra	Roxanne	Sliced into pieces by Claymores after being incapacitated by Roxanne (revived by Dae)	revived
+Cassandra	Priscilla	Ripped apart and devoured by Priscilla (revived)	revived
+Cassandra	Teresa	Slashed by Teresa	
+Cassandra's Friend	Roxanne	Mutilated by an Awakened Being, orchestrated by Roxanne	
+Chloe		Died from unknown causes	
+Christine	Hysteria	Slain by Hysteria	
+Chronos	Priscilla	Slain and assimilated by Priscilla	
+Clarice	Clarice	Disintegrated after synchronizing her Yoki with Miata's	
+Claudia	Isley	Slain during the Northern Campaign by Isley's army	
+Claymore of Jean's team	Dauf | Riful	Fatally wounded by Dauf on orders from Riful	
+Dae	Priscilla	Ripped in half by Priscilla	
+Dauf	Priscilla	Slain by Priscilla	
+Diana	Isley	Slain during the Northern Campaign by Isley's army	
+Elena	Clare	Slashed by Clare	
+Eliza	Isley	Slain during the Northern Campaign by Isley's army	
+Elizabeth	Roxanne	Slain by an Awakened Being, orchestrated by Roxanne	
+Emelia	Isley	Slain during the Northern Campaign by Isley's army	
+Europa	Miata	Sliced into pieces by Miata	
+Eva		Slain by an Awakened Being	
+Flora	Rigardo | Isley	Sliced in half by Rigardo on orders from Isley	
+Former Single-digit	Ophelia	Decapitated by Ophelia	
+Four-Armed Awakened Being	Dietrich	Slain by Dietrich	
+Hilda	Miria	Decapitated by Miria	
+Human being of Northern Campaign	Miria	Beheaded by Miria	
+Hysteria	Rosemary | Teresa	Slain by Rosemary after being critically injured by Teresa (revived by Dae)	revived
+Hysteria	Roxanne | Cassandra	Fatally wounded by Roxanne and Cassandra	
+Insectoid Being	Veronica | Cynthia	Slain by Veronica and Cynthia	
+Isley		Devoured by Abyss Feeders	
+Jean	Jean | Rigardo | Isley	Perished when synchronizing herself with Clare, after being fatally wounded by Rigardo on orders from Isley	
+Juliana	Isley	Slain during the Northern Campaign by Isley's army	
+Karla	Isley	Slain during the Northern Campaign by Isley's army	
+Kate		Slain by an Awakened Being	
+Katea	Dauf | Riful	Crushed by Dauf on orders from Riful	
+Kenneth		Murdered by a Yoma	
+Lars	Cassandra	Ripped in half by Cassandra	
+Licht		Died from unknown causes	
+Lily	Isley	Slain during the Northern Campaign by Isley's army	
+Lucia		Slain by an Awakened Being	
+Luciela	Priscilla	Stomped on by Priscilla	
+Luciela	Rafaela	Back broken by Rafaela (revived as The Destroyer)	revived
+Lutecia		Died from unknown causes	
+Mantis Being	Clare | Miria	Slain by Clare and Miria	
+Matilda	Isley	Slain during the Northern Campaign by Isley's army	
+Natalie	Isley	Slain during the Northern Campaign by Isley's army	
+Neideen	Roxanne	Slain by an Awakened Being, orchestrated by Roxanne	
+Noel	Priscilla	Impaled by Priscilla	
+Octavia	Priscilla	Devoured by Priscilla	
+Ophelia	Clare	Slain by Clare	
+Pamela	Isley	Slain during the Northern Campaign by Isley's army	
+Priscilla	Teresa	Disintegrated after being fatally wounded by Teresa	
+Queenie	Isley	Slain during the Northern Campaign by Isley's army	
+Rafaela	Priscilla	Stomped on by Priscilla	
+Rafaela	Rafaela	Injected her own life force into Luciela (revived as The Destroyer)	revived
+Raquel	Dauf | Riful	Fatally wounded by Dauf on orders from Riful	
+Riful	Priscilla	Stabbed with spikes from within herself by Priscilla	
+Riful-Like Being	Priscilla	Cut to pieces by Priscilla	
+Rig	Teresa	Murdered by Teresa	
+Rigardo	Clare	Sliced into pieces by Clare	
+Rimuto	Miria	Beheaded by Miria	
+Rosemary	Teresa	Sliced into pieces by Teresa	
+Roxanne		Died from unknown causes (revived by Dae)	revived
+Roxanne	Cassandra	Devoured by Cassandra	
+Sistina		Died from unknown causes	
+Six-Legged Being	Clare | Cynthia | Yuma	Slain by Clare, Cynthia and Yuma	
+Sophia	Priscilla	Impaled by Priscilla	
+Tabitha	Priscilla	Limbs severed by Priscilla	
+Teresa	Priscilla	Decapitated by Priscilla (preserved within Clare)	physical
+Undine	Rigardo | Isley	Slain by Rigardo on orders from Isley	
+Undine's Friend		Died from unknown causes	
+Uranus	Roxanne	Slain by an Awakened Being, orchestrated by Roxanne	
+Veronica	Rigardo | Isley	Slain by Rigardo on orders from Isley	
+Wendy	Isley	Slain during the Northern Campaign by Isley's army	
+Zaki	Clare	Cut in half vertically by Clare	
+Zelda	Isley	Slain during the Northern Campaign by Isley's army	

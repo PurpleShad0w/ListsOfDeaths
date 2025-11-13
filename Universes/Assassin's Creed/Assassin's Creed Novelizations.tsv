@@ -1,7 +1,7 @@
-character	killed by	caused by	death	type
-Annetta			Died from natural causes	
-Leonardo di ser Piero da Vinci			Passed away from natural causes	
-Malik Al-Sayf	Swami	Abbas Sofian	Beheaded by Swami on orders from Abbas Sofian	
-Maria Auditore da Firenze			Succumbed to an illness	
-Micheletto Corella	Cesare Borgia		Shot in the head by Cesare Borgia	
-Rauf	Swami	Abbas Sofian	Murdered by Swami on orders from Abbas Sofian	
+character	killed by	death	type
+Annetta		Died from natural causes	
+Leonardo di ser Piero da Vinci		Passed away from natural causes	
+Malik Al-Sayf	Swami | Abbas Sofian	Beheaded by Swami on orders from Abbas Sofian	
+Maria Auditore da Firenze		Succumbed to an illness	
+Micheletto Corella	Cesare Borgia	Shot in the head by Cesare Borgia	
+Rauf	Swami | Abbas Sofian	Murdered by Swami on orders from Abbas Sofian	

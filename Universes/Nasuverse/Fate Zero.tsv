@@ -1,27 +1,27 @@
-character	killed by	caused by	death	type
-Aoi Tohsaka	Kariya Matou	Kirei Kotomine	Passed away due to complications after being strangled by Kariya Matou, orchestrated by Kirei Kotomine	
-Artoria Pendragon (Saber)		Artoria Pendragon (Saber) | Kiritsugu Emiya	Died after destroying the Holy Grail on orders from Kiritsugu Emiya (later summoned by Shirou Emiya)	revived
-Black Iri (Avenger)	Kiritsugu Emiya		Strangled to death by Kiritsugu Emiya	
-Bucephalus (Servant)	Gilgamesh (Archer)		Impaled with multiple Noble Phantasms by Gilgamesh (Archer)	
-Diarmuid Ua Duibhne (Lancer)	Diarmuid Ua Duibhne (Lancer)	Kayneth El-Melloi Archibald | Kiritsugu Emiya	Drove his own lance in his chest on orders from Kayneth El-Melloi Archibald, coerced by Kiritsugu Emiya	
-Gilles de Rais (Caster)	Artoria Pendragon (Saber)		Incinerated by Artoria Pendragon (Saber)	
-Hassan of the Hundred Faces (Assassin)	Gilgamesh (Archer) | Iskandar (Rider)	Tokiomi Tohsaka | Kirei Kotomine	One is impaled by Gilgamesh (Archer) as orchestrated by Tokiomi Tohsaka and Kirei Kotomine, the rest is massacred by Iskandar (Rider)	
-Irisviel von Einzbern	Kirei Kotomine		Neck broken by Kirei Kotomine	
-Iskandar (Rider)	Gilgamesh (Archer)		Stabbed in the chest by Gilgamesh (Archer)	
-Kariya Matou	Lancelot (Berserker)		Mana exhaustion caused by Lancelot (Berserker)	
-Kayneth El-Melloi Archibald	Artoria Pendragon (Saber) | Maiya Hisau	Kiritsugu Emiya	Beheaded by Artoria Pendragon (Saber) after being fatally shot by Maiya Hisau on orders from Kiritsugu Emiya	
-Kirei Kotomine	Kiritsugu Emiya		Shot in the heart by Kiritsugu Emiya (resurrected by the Holy Grail's water)	revived
-Kiritsugu Emiya	Black Iri (Avenger)		Passed away after being cursed by Black Iri (Avenger)	
-Kobayashi	Gilles de Rais (Caster)		Absorbed by Gilles de Rais (Caster)	
-Lancelot (Berserker)	Artoria Pendragon (Saber)		Stabbed in the chest by Artoria Pendragon (Saber)	
-Maiya Hisau	Lancelot (Berserker)		Fatally injured by Lancelot (Berserker)	
-Natalia Kaminski	Kiritsugu Emiya		Plane shot down by Kiritsugu Emiya	
-Norikata Emiya	Kiritsugu Emiya		Shot by Kiritsugu Emiya	
-Odd Borzak	Natalia Kaminski		Murdered by Natalia Kaminski	
-Ougi	Lancelot (Berserker)		Organs burst via intense g-forces during jet hijacking by Lancelot (Berserker)	
-Risei Kotomine	Kayneth El-Melloi Archibald		Shot by Kayneth El-Melloi Archibald	
-Ryuunosuke Uryuu	Kiritsugu Emiya		Shot in the head by Kiritsugu Emiya	
-Shirley			Put down by the Mage Association's Executors	
-Simon	Natalia Kaminski		Put down by Natalia Kaminski	
-Sola-Ui Nuada-Re Sophia-Ri	Maiya Hisau	Kiritsugu Emiya	Shot by Maiya Hisau on orders from Kiritsugu Emiya	
-Tokiomi Tohsaka	Kirei Kotomine		Stabbed in the back by Kirei Kotomine	
+character	killed by	death	type
+Aoi Tohsaka	Kariya Matou | Kirei Kotomine	Passed away due to complications after being strangled by Kariya Matou, orchestrated by Kirei Kotomine	
+Artoria Pendragon (Saber)	Artoria Pendragon (Saber) | Kiritsugu Emiya	Died after destroying the Holy Grail on orders from Kiritsugu Emiya (later summoned by Shirou Emiya)	revived
+Black Iri (Avenger)	Kiritsugu Emiya	Strangled to death by Kiritsugu Emiya	
+Bucephalus (Servant)	Gilgamesh (Archer)	Impaled with multiple Noble Phantasms by Gilgamesh (Archer)	
+Diarmuid Ua Duibhne (Lancer)	Diarmuid Ua Duibhne (Lancer) | Kayneth El-Melloi Archibald | Kiritsugu Emiya	Drove his own lance in his chest on orders from Kayneth El-Melloi Archibald, coerced by Kiritsugu Emiya	
+Gilles de Rais (Caster)	Artoria Pendragon (Saber)	Incinerated by Artoria Pendragon (Saber)	
+Hassan of the Hundred Faces (Assassin)	Gilgamesh (Archer) | Iskandar (Rider) | Tokiomi Tohsaka | Kirei Kotomine	One is impaled by Gilgamesh (Archer) as orchestrated by Tokiomi Tohsaka and Kirei Kotomine, the rest is massacred by Iskandar (Rider)	
+Irisviel von Einzbern	Kirei Kotomine	Neck broken by Kirei Kotomine	
+Iskandar (Rider)	Gilgamesh (Archer)	Stabbed in the chest by Gilgamesh (Archer)	
+Kariya Matou	Lancelot (Berserker)	Mana exhaustion caused by Lancelot (Berserker)	
+Kayneth El-Melloi Archibald	Artoria Pendragon (Saber) | Maiya Hisau | Kiritsugu Emiya	Beheaded by Artoria Pendragon (Saber) after being fatally shot by Maiya Hisau on orders from Kiritsugu Emiya	
+Kirei Kotomine	Kiritsugu Emiya	Shot in the heart by Kiritsugu Emiya (resurrected by the Holy Grail's water)	revived
+Kiritsugu Emiya	Black Iri (Avenger)	Passed away after being cursed by Black Iri (Avenger)	
+Kobayashi	Gilles de Rais (Caster)	Absorbed by Gilles de Rais (Caster)	
+Lancelot (Berserker)	Artoria Pendragon (Saber)	Stabbed in the chest by Artoria Pendragon (Saber)	
+Maiya Hisau	Lancelot (Berserker)	Fatally injured by Lancelot (Berserker)	
+Natalia Kaminski	Kiritsugu Emiya	Plane shot down by Kiritsugu Emiya	
+Norikata Emiya	Kiritsugu Emiya	Shot by Kiritsugu Emiya	
+Odd Borzak	Natalia Kaminski	Murdered by Natalia Kaminski	
+Ougi	Lancelot (Berserker)	Organs burst via intense g-forces during jet hijacking by Lancelot (Berserker)	
+Risei Kotomine	Kayneth El-Melloi Archibald	Shot by Kayneth El-Melloi Archibald	
+Ryuunosuke Uryuu	Kiritsugu Emiya	Shot in the head by Kiritsugu Emiya	
+Shirley		Put down by the Mage Association's Executors	
+Simon	Natalia Kaminski	Put down by Natalia Kaminski	
+Sola-Ui Nuada-Re Sophia-Ri	Maiya Hisau | Kiritsugu Emiya	Shot by Maiya Hisau on orders from Kiritsugu Emiya	
+Tokiomi Tohsaka	Kirei Kotomine	Stabbed in the back by Kirei Kotomine	

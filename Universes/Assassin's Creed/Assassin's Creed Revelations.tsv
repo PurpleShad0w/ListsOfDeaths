@@ -1,21 +1,21 @@
-character	killed by	caused by	death	type
-Abbas Sofian	Altaïr Ibn-La'Ahad		Shot by Altaïr Ibn-La'Ahad using his hidden gun	
-Ahmet	Selim I		Thrown off a cliff by Selim I	
-Altaïr Ibn-La'Ahad			Passed away from old age	
-Clay Kaczmarek			Deleted by the Animus	
-Clay Kaczmarek	Clay Kaczmarek		Bled out after slitting his own wrists (artificial construct remained within the Animus)	physical
-Cyril of Rhodes	Ezio Auditore da Firenze		Assassinated by Ezio Auditore da Firenze	
-Damat Ali Pasha		Ezio Auditore da Firenze	Assassinated by one of Ezio Auditore da Firenze's recruits	
-Georgios Kostas		Ezio Auditore da Firenze	Assassinated by one of Ezio Auditore da Firenze's recruits	
-Haras	Altaïr Ibn-La'Ahad		Assassinated by Altaïr Ibn-La'Ahad	
-Leandros	Ezio Auditore da Firenze		Murdered by Ezio Auditore da Firenze	
-Lysistrata	Ezio Auditore da Firenze		Assassinated by Ezio Auditore da Firenze	
-Manuel Palaiologos	Ezio Auditore da Firenze		Murdered by Ezio Auditore da Firenze	
-Maria Thorpe	Swami		Stabbed by Swami with his hidden blade	
-Mirela Djuric	Ezio Auditore da Firenze		Poisoned by Ezio Auditore da Firenze	
-Odai Dunqas		Ezio Auditore da Firenze	Assassinated by one of Ezio Auditore da Firenze's recruits	
-Shahkulu	Ezio Auditore da Firenze		Murdered by Ezio Auditore da Firenze	
-Swami	Altaïr Ibn-La'Ahad		Stabbed in the neck with his hidden blade by Altaïr Ibn-La'Ahad	
-Tarik Barleti	Ezio Auditore da Firenze	Suleiman I	Assassinated by Ezio Auditore da Firenze on orders from Suleiman I	
-Vali cel Tradat		Ezio Auditore da Firenze	Assassinated by one of Ezio Auditore da Firenze's recruits	
-Yusuf Tazim		Ahmet	Stabbed with a dagger during a raid by the Byzantine Templars ordered by Ahmet	
+character	killed by	death	type
+Abbas Sofian	Altaïr Ibn-La'Ahad	Shot by Altaïr Ibn-La'Ahad using his hidden gun	
+Ahmet	Selim I	Thrown off a cliff by Selim I	
+Altaïr Ibn-La'Ahad		Passed away from old age	
+Clay Kaczmarek		Deleted by the Animus	
+Clay Kaczmarek	Clay Kaczmarek	Bled out after slitting his own wrists (artificial construct remained within the Animus)	physical
+Cyril of Rhodes	Ezio Auditore da Firenze	Assassinated by Ezio Auditore da Firenze	
+Damat Ali Pasha	Ezio Auditore da Firenze	Assassinated by one of Ezio Auditore da Firenze's recruits	
+Georgios Kostas	Ezio Auditore da Firenze	Assassinated by one of Ezio Auditore da Firenze's recruits	
+Haras	Altaïr Ibn-La'Ahad	Assassinated by Altaïr Ibn-La'Ahad	
+Leandros	Ezio Auditore da Firenze	Murdered by Ezio Auditore da Firenze	
+Lysistrata	Ezio Auditore da Firenze	Assassinated by Ezio Auditore da Firenze	
+Manuel Palaiologos	Ezio Auditore da Firenze	Murdered by Ezio Auditore da Firenze	
+Maria Thorpe	Swami	Stabbed by Swami with his hidden blade	
+Mirela Djuric	Ezio Auditore da Firenze	Poisoned by Ezio Auditore da Firenze	
+Odai Dunqas	Ezio Auditore da Firenze	Assassinated by one of Ezio Auditore da Firenze's recruits	
+Shahkulu	Ezio Auditore da Firenze	Murdered by Ezio Auditore da Firenze	
+Swami	Altaïr Ibn-La'Ahad	Stabbed in the neck with his hidden blade by Altaïr Ibn-La'Ahad	
+Tarik Barleti	Ezio Auditore da Firenze | Suleiman I	Assassinated by Ezio Auditore da Firenze on orders from Suleiman I	
+Vali cel Tradat	Ezio Auditore da Firenze	Assassinated by one of Ezio Auditore da Firenze's recruits	
+Yusuf Tazim	Ahmet	Stabbed with a dagger during a raid by the Byzantine Templars ordered by Ahmet	

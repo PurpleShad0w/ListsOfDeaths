@@ -1,20 +1,20 @@
-character	killed by	caused by	death	type
-Alex Weiss	Alex Weiss		Shot a gas line and caught in the ensuing explosion	
-Angus Grimaldi		Mathias	Dragged off a cliff during a fight against the Solarii Brotherhood, who were ordered to capture him by Mathias	
-Boris	Lara Croft		Stabbed in the head by Lara Croft	
-Conrad Roth	Mathias		Struck in the back with a hatchet thrown by Mathias	
-Dmitri	Lara Croft		Shot with an arrow in the back by Lara Croft	
-Himiko	Hoshi		Trapped in an undead decaying body when Hoshi purposefully interrupted the ritual	undead
-Himiko	Lara Croft		Stabbed in the heart with a flaming torch by Lara Croft (soul latched on to Samantha)	physical
-Hoshi	Hoshi		Stabbed herself in order to corrupt Himiko's ritual	
-James Whitman		Mathias	Slaughtered by the Oni via manipulation by Mathias	
-Jessop	Mathias		Caught in an explosion set up by Mathias and the Solarii Brotherhood	
-Liam		Vladimir | Mathias	Shot by the Solarii on orders from Vladimir, led by Mathias	
-Mathias	Lara Croft		Fell in a chasm after being shot multiple times by Lara Croft	
-Nikolai	Lara Croft		Blew up with a grenade launcher by Lara Croft	
-Scavenger			Crushed by a fallen rock	
-Stephanie	Scavenger		Hung up by the Scavenger	
-Stormguard General	Stormguard General	Hoshi	Committed Seppuku after Hoshi stole his dagger and killed herself with it	
-Stormguard Stalker	Lara Croft		Struck in the head with a climbing axe by Lara Croft	
-Victor		Mathias	Murdered by the Solarii Brotherhood led by Mathias	
-Vladimir	Lara Croft		Shot in the head by Lara Croft	
+character	killed by	death	type
+Alex Weiss	Alex Weiss	Shot a gas line and caught in the ensuing explosion	
+Angus Grimaldi	Mathias	Dragged off a cliff during a fight against the Solarii Brotherhood, who were ordered to capture him by Mathias	
+Boris	Lara Croft	Stabbed in the head by Lara Croft	
+Conrad Roth	Mathias	Struck in the back with a hatchet thrown by Mathias	
+Dmitri	Lara Croft	Shot with an arrow in the back by Lara Croft	
+Himiko	Hoshi	Trapped in an undead decaying body when Hoshi purposefully interrupted the ritual	undead
+Himiko	Lara Croft	Stabbed in the heart with a flaming torch by Lara Croft (soul latched on to Samantha)	physical
+Hoshi	Hoshi	Stabbed herself in order to corrupt Himiko's ritual	
+James Whitman	Mathias	Slaughtered by the Oni via manipulation by Mathias	
+Jessop	Mathias	Caught in an explosion set up by Mathias and the Solarii Brotherhood	
+Liam	Vladimir | Mathias	Shot by the Solarii on orders from Vladimir, led by Mathias	
+Mathias	Lara Croft	Fell in a chasm after being shot multiple times by Lara Croft	
+Nikolai	Lara Croft	Blew up with a grenade launcher by Lara Croft	
+Scavenger		Crushed by a fallen rock	
+Stephanie	Scavenger	Hung up by the Scavenger	
+Stormguard General	Stormguard General | Hoshi	Committed Seppuku after Hoshi stole his dagger and killed herself with it	
+Stormguard Stalker	Lara Croft	Struck in the head with a climbing axe by Lara Croft	
+Victor	Mathias	Murdered by the Solarii Brotherhood led by Mathias	
+Vladimir	Lara Croft	Shot in the head by Lara Croft	

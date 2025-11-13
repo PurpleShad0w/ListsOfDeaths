@@ -1,29 +1,29 @@
-character	killed by	caused by	death	type
-Amalgam	Sebastian Castellanos		Destroyed when shot with a Rocket Launcher by Sebastian Castellanos	
-Amalgam Alpha	Pedro Martin		Destroyed by Pedro Martin	
-Amalgam Alpha	Sebastian Castellanos		Destroyed by Sebastian Castellanos	
-Arnold Brown	Ruvik		Lobotomized when murdered by Ruvik in the STEM	
-Beatriz Victoriano	Ruvik		Murdered by Ruvik	
-Ernesto Victoriano	Ruvik		Murdered by Ruvik	
-Heresy	Juli Kidman		Tricked into smashing against solid concrete by Juli Kidman	
-Ivan Diaz		The Administrator	Mind perished when he was trapped in the STEM by MOBIUS	
-Juanita Flores	Esmeralda Torres		Perished in a house fire caused by Esmeralda Torres	
-Laura (Creature)	Sebastian Castellanos		Incinerated by Sebastian Castellanos	
-Laura Victoriano			Fatally wounded during a barn fire	
-Leslie Withers	Ruvik		Mind overwritten by Ruvik	
-Marcelo Jimenez	Amalgam Alpha	Ruvik	Body perished when crushed by the Amalgam Alpha in the STEM on orders from Ruvik	
-Neun	Sebastian Castellanos		Destroyed by Sebastian Castellanos	
-Oscar Connelly	Sebastian Castellanos	Ruvik	Body perished when shot by Sebastian Castellanos in the STEM after being turned into a Haunted by Ruvik	
-Quell	Sebastian Castellanos		Destroyed by Sebastian Castellanos	
-RPG Sadist	Pedro Martin		Destroyed by Pedro Martin	
-Ruvik	Sebastian Castellanos		Brain stomped on by Sebastian Castellanos (mind survived through Leslie)	physical
-Sadist	Pedro Martin		Destroyed by Pedro Martin	
-Sadist	Sebastian Castellanos		Destroyed by Sebastian Castellanos	
-Sentinel	Sebastian Castellanos		Destroyed by Sebastian Castellanos (dependent on player choice)	determinant
-Shade	Juli Kidman		Light shot and stomped by Juli Kidman	
-The Dark Keeper	Pedro Martin		Destroyed by Pedro Martin	
-The Keeper	Sebastian Castellanos		Destroyed by Sebastian Castellanos	
-Valerio Jimenez	Sebastian Castellanos	Ruvik	Perished when shot by Sebastian Castellanos in the STEM after being turned into a Haunted by Ruvik	
-Victoriano Mystery Man	Ruvik		Lobotomized when murdered by Ruvik in the STEM	
-Zehn	Pedro Martin		Destroyed by Pedro Martin	
-Zehn	Sebastian Castellanos		Destroyed by Sebastian Castellanos	
+character	killed by	death	type
+Amalgam	Sebastian Castellanos	Destroyed when shot with a Rocket Launcher by Sebastian Castellanos	
+Amalgam Alpha	Pedro Martin	Destroyed by Pedro Martin	
+Amalgam Alpha	Sebastian Castellanos	Destroyed by Sebastian Castellanos	
+Arnold Brown	Ruvik	Lobotomized when murdered by Ruvik in the STEM	
+Beatriz Victoriano	Ruvik	Murdered by Ruvik	
+Ernesto Victoriano	Ruvik	Murdered by Ruvik	
+Heresy	Juli Kidman	Tricked into smashing against solid concrete by Juli Kidman	
+Ivan Diaz	The Administrator	Mind perished when he was trapped in the STEM by MOBIUS	
+Juanita Flores	Esmeralda Torres	Perished in a house fire caused by Esmeralda Torres	
+Laura (Creature)	Sebastian Castellanos	Incinerated by Sebastian Castellanos	
+Laura Victoriano		Fatally wounded during a barn fire	
+Leslie Withers	Ruvik	Mind overwritten by Ruvik	
+Marcelo Jimenez	Amalgam Alpha | Ruvik	Body perished when crushed by the Amalgam Alpha in the STEM on orders from Ruvik	
+Neun	Sebastian Castellanos	Destroyed by Sebastian Castellanos	
+Oscar Connelly	Sebastian Castellanos | Ruvik	Body perished when shot by Sebastian Castellanos in the STEM after being turned into a Haunted by Ruvik	
+Quell	Sebastian Castellanos	Destroyed by Sebastian Castellanos	
+RPG Sadist	Pedro Martin	Destroyed by Pedro Martin	
+Ruvik	Sebastian Castellanos	Brain stomped on by Sebastian Castellanos (mind survived through Leslie)	physical
+Sadist	Pedro Martin	Destroyed by Pedro Martin	
+Sadist	Sebastian Castellanos	Destroyed by Sebastian Castellanos	
+Sentinel	Sebastian Castellanos	Destroyed by Sebastian Castellanos (dependent on player choice)	determinant
+Shade	Juli Kidman	Light shot and stomped by Juli Kidman	
+The Dark Keeper	Pedro Martin	Destroyed by Pedro Martin	
+The Keeper	Sebastian Castellanos	Destroyed by Sebastian Castellanos	
+Valerio Jimenez	Sebastian Castellanos | Ruvik	Perished when shot by Sebastian Castellanos in the STEM after being turned into a Haunted by Ruvik	
+Victoriano Mystery Man	Ruvik	Lobotomized when murdered by Ruvik in the STEM	
+Zehn	Pedro Martin	Destroyed by Pedro Martin	
+Zehn	Sebastian Castellanos	Destroyed by Sebastian Castellanos	

@@ -1,48 +1,48 @@
-character	killed by	caused by	death	type
-Akhmal			Mauled by a panther, setup by the Bolivian mafia	
-Barry Berkman	Gene Cousineau		Shot in the chest and head by Gene Cousineau	
-Billy Zorillo	Nick Saint Angelo		Murdered by Nick Saint Angelo	
-Bong	NoHo Hank	Andrei	Suffocated inside a silo full of sand via a trap setup by NoHo Hank on orders from Andrei	
-Cal Taylor			Accidentally ran over by an unknown person	
-Charles	Barry Berkman		Shot in the head by Barry Berkman	
-Chris Lucado	Barry Berkman		Shot in the head by Barry Berkman	
-Chuy Flores	Barry Berkman		Shot by Barry Berkman	
-Cristobal Sifuentes	Val		Shot in the head by Val	
-Damien	Val		Blown up with a grenade by Val	
-Don Fuches	Don Fuches		Hanged himself	
-Elena Sifuentes	NoHo Hank		Shot in the head by NoHo Hank	
-Esther	Barry Berkman		Shot in the head by Barry Berkman	
-Fernando Sagredo	Barry Berkman	NoHo Hank	Caught in an explosion detonated by Barry Berkman on orders from NoHo Hank	
-Francisco Boya	Monroe Fuches		Decapitated by Monroe Fuches	
-George Klempf	George Klempf		Shot himself in the head	
-Goran Pazar	Barry Berkman		Shot by Barry Berkman	
-Gustavo	NoHo Hank		Shot by NoHo Hank	
-Harris	Chuy Flores	Cristobal Sifuentes | El Toro | NoHo Hank	Shot in the head by Chuy Flores on orders from Cristobal Sifuentes, El Toro and NoHo Hank	
-Isaiah Ransone	Monroe Fuches		Decapitated by Monroe Fuches	
-James Curtis	Chuy Flores	Cristobal Sifuentes | El Toro | NoHo Hank	Shot in the head by Chuy Flores on orders from Cristobal Sifuentes, El Toro and NoHo Hank	
-Janice Moss	Barry Berkman		Shot in the chest by Barry Berkman	
-Jeff	Barry Berkman		Shot in the head by Barry Berkman	
-John Loach	Ronny Proxin		Neck broken with a kick by Ronny Proxin	
-Jorge	NoHo Hank	Andrei	Suffocated inside a silo full of sand via a trap setup by NoHo Hank on orders from Andrei	
-Khazam	Mayrbek		Shot in the head by Mayrbek	
-Konstantine Persky	Monroe Fuches		Decapitated by Monroe Fuches	
-Lucky	Barry Berkman		Shot multiple times by Barry Berkman	
-Manny	NoHo Hank	Andrei	Suffocated inside a silo full of sand via a trap setup by NoHo Hank on orders from Andrei	
-Mayrbek	Barry Berkman		Shot in the head by Barry Berkman	
-NoHo Hank	Monroe Fuches		Shot in the chest by Monroe Fuches	
-Noah			Accidentally hit with a baseball in the head by an unknown person	
-Paco Zambrana	Barry Berkman	Goran Pazar	Strangled by Barry Berkman on orders from Goran Pazar	
-Phil	Barry Berkman	Monroe Fuches	Shot in the head by Barry Berkman on orders from Monroe Fuches	
-Ronny Proxin	John Loach		Gunned down by the L.A. police after having been shot in the cheek by John Loach	
-Ruslan	Barry Berkman		Shot by Barry Berkman	
-Ryan Madison	Lucky	Goran Pazar	Shot in the head by Lucky on orders from Goran Pazar	
-Shane Taylor	Sally Reed		Stabbed in the head and beaten to death with a baseball bat by Sally Reed	
-Stovka	Stovka		Shot himself in the head	
-Taylor Garrett		Cristobal Sifuentes	Shot by the Bolivian mafia on orders from Cristobal Sifuentes	
-Todd			Broke his neck after accidentally running into a chain link fence	
-Todd Geer	Monroe Fuches		Decapitated by Monroe Fuches	
-Traci Taylor	Kleintop		Shot twice by Kleintop	
-Vacha	Janice Moss		Shot during a shootout with Janice Moss	
-Val		Monroe Fuches	Shot by Monroe Fuches' men	
-Vaughn		Cristobal Sifuentes	Shot by the Bolivian mafia on orders from Cristobal Sifuentes	
-Yandar			Mauled by a panther, setup by the Bolivian mafia	
+character	killed by	death	type
+Akhmal		Mauled by a panther, setup by the Bolivian mafia	
+Barry Berkman	Gene Cousineau	Shot in the chest and head by Gene Cousineau	
+Billy Zorillo	Nick Saint Angelo	Murdered by Nick Saint Angelo	
+Bong	NoHo Hank | Andrei	Suffocated inside a silo full of sand via a trap setup by NoHo Hank on orders from Andrei	
+Cal Taylor		Accidentally ran over by an unknown person	
+Charles	Barry Berkman	Shot in the head by Barry Berkman	
+Chris Lucado	Barry Berkman	Shot in the head by Barry Berkman	
+Chuy Flores	Barry Berkman	Shot by Barry Berkman	
+Cristobal Sifuentes	Val	Shot in the head by Val	
+Damien	Val	Blown up with a grenade by Val	
+Don Fuches	Don Fuches	Hanged himself	
+Elena Sifuentes	NoHo Hank	Shot in the head by NoHo Hank	
+Esther	Barry Berkman	Shot in the head by Barry Berkman	
+Fernando Sagredo	Barry Berkman | NoHo Hank	Caught in an explosion detonated by Barry Berkman on orders from NoHo Hank	
+Francisco Boya	Monroe Fuches	Decapitated by Monroe Fuches	
+George Klempf	George Klempf	Shot himself in the head	
+Goran Pazar	Barry Berkman	Shot by Barry Berkman	
+Gustavo	NoHo Hank	Shot by NoHo Hank	
+Harris	Chuy Flores | Cristobal Sifuentes | El Toro | NoHo Hank	Shot in the head by Chuy Flores on orders from Cristobal Sifuentes, El Toro and NoHo Hank	
+Isaiah Ransone	Monroe Fuches	Decapitated by Monroe Fuches	
+James Curtis	Chuy Flores | Cristobal Sifuentes | El Toro | NoHo Hank	Shot in the head by Chuy Flores on orders from Cristobal Sifuentes, El Toro and NoHo Hank	
+Janice Moss	Barry Berkman	Shot in the chest by Barry Berkman	
+Jeff	Barry Berkman	Shot in the head by Barry Berkman	
+John Loach	Ronny Proxin	Neck broken with a kick by Ronny Proxin	
+Jorge	NoHo Hank | Andrei	Suffocated inside a silo full of sand via a trap setup by NoHo Hank on orders from Andrei	
+Khazam	Mayrbek	Shot in the head by Mayrbek	
+Konstantine Persky	Monroe Fuches	Decapitated by Monroe Fuches	
+Lucky	Barry Berkman	Shot multiple times by Barry Berkman	
+Manny	NoHo Hank | Andrei	Suffocated inside a silo full of sand via a trap setup by NoHo Hank on orders from Andrei	
+Mayrbek	Barry Berkman	Shot in the head by Barry Berkman	
+NoHo Hank	Monroe Fuches	Shot in the chest by Monroe Fuches	
+Noah		Accidentally hit with a baseball in the head by an unknown person	
+Paco Zambrana	Barry Berkman | Goran Pazar	Strangled by Barry Berkman on orders from Goran Pazar	
+Phil	Barry Berkman | Monroe Fuches	Shot in the head by Barry Berkman on orders from Monroe Fuches	
+Ronny Proxin	John Loach	Gunned down by the L.A. police after having been shot in the cheek by John Loach	
+Ruslan	Barry Berkman	Shot by Barry Berkman	
+Ryan Madison	Lucky | Goran Pazar	Shot in the head by Lucky on orders from Goran Pazar	
+Shane Taylor	Sally Reed	Stabbed in the head and beaten to death with a baseball bat by Sally Reed	
+Stovka	Stovka	Shot himself in the head	
+Taylor Garrett	Cristobal Sifuentes	Shot by the Bolivian mafia on orders from Cristobal Sifuentes	
+Todd		Broke his neck after accidentally running into a chain link fence	
+Todd Geer	Monroe Fuches	Decapitated by Monroe Fuches	
+Traci Taylor	Kleintop	Shot twice by Kleintop	
+Vacha	Janice Moss	Shot during a shootout with Janice Moss	
+Val	Monroe Fuches	Shot by Monroe Fuches' men	
+Vaughn	Cristobal Sifuentes	Shot by the Bolivian mafia on orders from Cristobal Sifuentes	
+Yandar		Mauled by a panther, setup by the Bolivian mafia	

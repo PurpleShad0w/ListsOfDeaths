@@ -1,16 +1,16 @@
-character	killed by	caused by	death	type
-Bonnet	Sebastiano Di Ravello		Shot in the neck by Sebastiano Di Ravello	
-Dante		Dushku | De Luca | Sebastiano Di Ravello	Murdered by Dushku and De Luca's rebels via manipulation by Sebastiano Di Ravello	
-David Hoang	Eden		Frozen by Eden	
-De Luca	Sebastiano Di Ravello		Shot by Sebastiano Di Ravello	
-Dimah Ali Umar al-Masri	Dimah Ali Umar al-Masri		Purposefully launched missiles at the tower she saw standing in	
-Dushku	De Luca	Sebastiano Di Ravello	Stabbed in the neck and head by De Luca on orders from Sebastiano Di Ravello	
-Eden	Rico Rodriguez		Hard drive ripped off and thrown into the sea by Rico Rodriguez	
-Eden Callaghan	Eden		Frozen by Eden	
-Moreau			Perished during an electrical incident	
-Sebastiano Di Ravello	Rico Rodriguez		Shot by Rico Rodriguez (dependent on player choice)	determinant | unavoidable
-Sebastiano Di Ravello	Sebastiano Di Ravello		Threw himself into lava (dependent on player choice)	determinant | unavoidable
-Simone Corso	Eden		Frozen by Eden	
-Theresa Vidal	Eden		Frozen by Eden	
-Zach Schlappi	Eden		Frozen by Eden	
-Zeno Antithikara	Rico Rodriguez		Helicopter shot down by Rico Rodriguez	
+character	killed by	death	type
+Bonnet	Sebastiano Di Ravello	Shot in the neck by Sebastiano Di Ravello	
+Dante	Dushku | De Luca | Sebastiano Di Ravello	Murdered by Dushku and De Luca's rebels via manipulation by Sebastiano Di Ravello	
+David Hoang	Eden	Frozen by Eden	
+De Luca	Sebastiano Di Ravello	Shot by Sebastiano Di Ravello	
+Dimah Ali Umar al-Masri	Dimah Ali Umar al-Masri	Purposefully launched missiles at the tower she saw standing in	
+Dushku	De Luca | Sebastiano Di Ravello	Stabbed in the neck and head by De Luca on orders from Sebastiano Di Ravello	
+Eden	Rico Rodriguez	Hard drive ripped off and thrown into the sea by Rico Rodriguez	
+Eden Callaghan	Eden	Frozen by Eden	
+Moreau		Perished during an electrical incident	
+Sebastiano Di Ravello	Rico Rodriguez	Shot by Rico Rodriguez (dependent on player choice)	determinant | unavoidable
+Sebastiano Di Ravello	Sebastiano Di Ravello	Threw himself into lava (dependent on player choice)	determinant | unavoidable
+Simone Corso	Eden	Frozen by Eden	
+Theresa Vidal	Eden	Frozen by Eden	
+Zach Schlappi	Eden	Frozen by Eden	
+Zeno Antithikara	Rico Rodriguez	Helicopter shot down by Rico Rodriguez	

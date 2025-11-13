@@ -1,9 +1,9 @@
-character	killed by	caused by	death	type
-Dahlia Hawthorne			Hanged after being sentenced to death for murder	
-Doug Swallow	Dahlia Hawthorne		Electrocuted with a snapped power line by Dahlia Hawthorne	
-Glen Elg	Furio Tigre		Poisoned with potassium cyanide by Furio Tigre	
-Kane Bullard	Luke Atmey		Hit on the head by Luke Atmey	
-Manfred von Karma			Died from unknown causes during his incarceration	
-Misty Fey	Godot		Stabbed in the back with her sword cane by Godot	
-Terry Fawles	Terry Fawles	Dahlia Hawthorne	Drank from a vial of poison on orders from Dahlia Hawthorne	
-Valerie Hawthorne	Dahlia Hawthorne		Stabbed in the back by Dahlia Hawthorne	
+character	killed by	death	type
+Dahlia Hawthorne		Hanged after being sentenced to death for murder	
+Doug Swallow	Dahlia Hawthorne	Electrocuted with a snapped power line by Dahlia Hawthorne	
+Glen Elg	Furio Tigre	Poisoned with potassium cyanide by Furio Tigre	
+Kane Bullard	Luke Atmey	Hit on the head by Luke Atmey	
+Manfred von Karma		Died from unknown causes during his incarceration	
+Misty Fey	Godot	Stabbed in the back with her sword cane by Godot	
+Terry Fawles	Terry Fawles | Dahlia Hawthorne	Drank from a vial of poison on orders from Dahlia Hawthorne	
+Valerie Hawthorne	Dahlia Hawthorne	Stabbed in the back by Dahlia Hawthorne	

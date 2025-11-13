@@ -1,46 +1,46 @@
-character	killed by	caused by	death	type
-Aelinore	Edmun Dragonsbane		Strangled to death by Edmun Dragonsbane (dependent on player choice)	determinant
-Alejo	The Dragon		Fatally wounded by the Dragon (dependent on player choice)	determinant
-Ashe	The Arisen		Slain by the Arisen	
-Balsac	The Arisen		Slain by the Arisen	
-Condor	The Arisen		Slain by the Arisen	
-Cortese	The Dragon		Immolated by the Dragon	
-Darkness	The Arisen		Slain by the Arisen	
-Death	The Arisen		Slain by the Arisen	
-Elysion	The Dragon		Slain by the Dragon	
-Ema	The Dragon		Fatally wounded by the Dragon (dependent on player choice)	determinant
-Emme	The Dragon		Died during the destruction of Gran Soren caused by the Dragon	
-Ghost	The Arisen		Slain by the Arisen	
-Hawk	The Arisen		Slain by the Arisen	
-Janielle	The Dragon		Fatally wounded by the Dragon (dependent on player choice)	determinant
-Jean			Slain by a Cyclops	
-Julien	The Arisen		Slain by the Arisen (dependent on player choice)	determinant
-Kent	The Arisen		Slain by the Arisen	
-Lazoro	The Dragon		Fatally wounded by the Dragon (dependent on player choice)	determinant
-Lowane	The Arisen		Slain by the Arisen	
-Marcelo	Mason		Slain by Mason (dependent on player choice)	determinant
-Marcelo	The Arisen		Slain by the Arisen (dependent on player choice)	determinant
-Noir	The Arisen		Slain by the Arisen	
-Olra	Grette		Slain by Grette	
-Phantom	The Arisen		Slain by the Arisen	
-Ramon	The Dragon		Fatally wounded by the Dragon (dependent on player choice)	determinant
-Raven	The Arisen		Slain by the Arisen	
-Reynard			Slain by Goblins (dependent on player choice)	determinant
-Rouge	The Arisen		Slain by the Arisen	
-Salomet	The Arisen		Pushed off the Bluemoon Tower by the Arisen	
-Sentena	The Dragon		Fatally wounded by the Dragon (dependent on player choice)	determinant
-Ser Palotti			Devoured by a Chimera	
-Ser Raffe	The Dragon		Died during the destruction of Gran Soren caused by the Dragon	
-Ser Tolth			Petrified by a Cockatrice	
-Ser Westley			Pecked by the Griffin (dependent on player choice)	determinant
-Soul	The Arisen		Slain by the Arisen	
-Spirits	The Arisen		Slain by the Arisen	
-The Arisen	The Arisen		Stabbed themself in the heart with Godsbane	
-The Dark Bishop	The Arisen		Slain by the Arisen	
-The Dragon	The Arisen		Slain by the Arisen	
-The Dragonforged		The Arisen	Crumbled to dust after the defeat of the Dragon at the hands of the Arisen	
-The Gazer	The Arisen		Slain by the Arisen	
-The Seneschal	The Arisen		Stabbed with Godsbane by the Arisen	
-The Ur-Dragon	The Arisen		Slain by the Arisen	
-Wilhem			Succumbed to an illness	
-Zero	The Arisen		Slain by the Arisen	
+character	killed by	death	type
+Aelinore	Edmun Dragonsbane	Strangled to death by Edmun Dragonsbane (dependent on player choice)	determinant
+Alejo	The Dragon	Fatally wounded by the Dragon (dependent on player choice)	determinant
+Ashe	The Arisen	Slain by the Arisen	
+Balsac	The Arisen	Slain by the Arisen	
+Condor	The Arisen	Slain by the Arisen	
+Cortese	The Dragon	Immolated by the Dragon	
+Darkness	The Arisen	Slain by the Arisen	
+Death	The Arisen	Slain by the Arisen	
+Elysion	The Dragon	Slain by the Dragon	
+Ema	The Dragon	Fatally wounded by the Dragon (dependent on player choice)	determinant
+Emme	The Dragon	Died during the destruction of Gran Soren caused by the Dragon	
+Ghost	The Arisen	Slain by the Arisen	
+Hawk	The Arisen	Slain by the Arisen	
+Janielle	The Dragon	Fatally wounded by the Dragon (dependent on player choice)	determinant
+Jean		Slain by a Cyclops	
+Julien	The Arisen	Slain by the Arisen (dependent on player choice)	determinant
+Kent	The Arisen	Slain by the Arisen	
+Lazoro	The Dragon	Fatally wounded by the Dragon (dependent on player choice)	determinant
+Lowane	The Arisen	Slain by the Arisen	
+Marcelo	Mason	Slain by Mason (dependent on player choice)	determinant
+Marcelo	The Arisen	Slain by the Arisen (dependent on player choice)	determinant
+Noir	The Arisen	Slain by the Arisen	
+Olra	Grette	Slain by Grette	
+Phantom	The Arisen	Slain by the Arisen	
+Ramon	The Dragon	Fatally wounded by the Dragon (dependent on player choice)	determinant
+Raven	The Arisen	Slain by the Arisen	
+Reynard		Slain by Goblins (dependent on player choice)	determinant
+Rouge	The Arisen	Slain by the Arisen	
+Salomet	The Arisen	Pushed off the Bluemoon Tower by the Arisen	
+Sentena	The Dragon	Fatally wounded by the Dragon (dependent on player choice)	determinant
+Ser Palotti		Devoured by a Chimera	
+Ser Raffe	The Dragon	Died during the destruction of Gran Soren caused by the Dragon	
+Ser Tolth		Petrified by a Cockatrice	
+Ser Westley		Pecked by the Griffin (dependent on player choice)	determinant
+Soul	The Arisen	Slain by the Arisen	
+Spirits	The Arisen	Slain by the Arisen	
+The Arisen	The Arisen	Stabbed themself in the heart with Godsbane	
+The Dark Bishop	The Arisen	Slain by the Arisen	
+The Dragon	The Arisen	Slain by the Arisen	
+The Dragonforged	The Arisen	Crumbled to dust after the defeat of the Dragon at the hands of the Arisen	
+The Gazer	The Arisen	Slain by the Arisen	
+The Seneschal	The Arisen	Stabbed with Godsbane by the Arisen	
+The Ur-Dragon	The Arisen	Slain by the Arisen	
+Wilhem		Succumbed to an illness	
+Zero	The Arisen	Slain by the Arisen	

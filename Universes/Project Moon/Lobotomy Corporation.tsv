@@ -1,13 +1,13 @@
-character	killed by	caused by	death	type
-Ayin	Ayin	Angela	Willingly dissolved within the Seed of Light as per Angela's plan	
-Benjamin	Angela	Benjamin | Ayin	Murdered by Angela and remains turned into a Sephirah according to the script he wrote and Ayin gave to Angela	physical
-Carmen	Carmen	Lisa	Slit her wrists in a bathtub after being told to die by Lisa, nervous system preserved by Ayin, eventually turned into the Light	physical
-Daniel	Garion	Michelle	Murdered by Garion, acting on information from Michelle, remains turned into a Sephirah	physical
-Elijah	Elijah		Injected herself with Cogito and bled out after losing her nails and teeth, remains turned into a Sephirah	physical
-Enoch	Ayin	Enoch	Perished in a failed experiment led by Ayin he willingly participated in, remains turned into a Sephirah	physical
-Gabriel	Gabriel		Committed suicide by clawing his own throat, remains turned into a Sephirah	physical
-Garion	Ayin | Kali		Fatally wounded after being impaled against a wall by Kali, brain extracted to be turned into a Sephirah by Ayin	physical
-Giovanni	Ayin	Giovanni	Willingly let himself be injected with Cogito by Ayin, slowly destroying his body, remains turned into a Sephirah	physical
-Kali	Garion	Michelle	Fatally wounded by Garion, acting on information from Michelle, remains turned into a Sephirah	physical
-Michelle	Michelle		Committed suicide after betraying L Corp, remains turned into a Sephirah	physical
-Tiphereth B	X	Tiphereth	Permanently decommissioned by X on orders from Tiphereth	
+character	killed by	death	type
+Ayin	Ayin | Angela	Willingly dissolved within the Seed of Light as per Angela's plan	
+Benjamin	Angela | Benjamin | Ayin	Murdered by Angela and remains turned into a Sephirah according to the script he wrote and Ayin gave to Angela	physical
+Carmen	Carmen | Lisa	Slit her wrists in a bathtub after being told to die by Lisa, nervous system preserved by Ayin, eventually turned into the Light	physical
+Daniel	Garion | Michelle	Murdered by Garion, acting on information from Michelle, remains turned into a Sephirah	physical
+Elijah	Elijah	Injected herself with Cogito and bled out after losing her nails and teeth, remains turned into a Sephirah	physical
+Enoch	Ayin | Enoch	Perished in a failed experiment led by Ayin he willingly participated in, remains turned into a Sephirah	physical
+Gabriel	Gabriel	Committed suicide by clawing his own throat, remains turned into a Sephirah	physical
+Garion	Ayin | Kali	Fatally wounded after being impaled against a wall by Kali, brain extracted to be turned into a Sephirah by Ayin	physical
+Giovanni	Ayin | Giovanni	Willingly let himself be injected with Cogito by Ayin, slowly destroying his body, remains turned into a Sephirah	physical
+Kali	Garion | Michelle	Fatally wounded by Garion, acting on information from Michelle, remains turned into a Sephirah	physical
+Michelle	Michelle	Committed suicide after betraying L Corp, remains turned into a Sephirah	physical
+Tiphereth B	X | Tiphereth	Permanently decommissioned by X on orders from Tiphereth	
